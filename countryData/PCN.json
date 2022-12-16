@@ -1,0 +1,57 @@
+{
+ "Alpha-3 code":"PCN",
+ "Country or Area":"Pitcairn",
+ "Latitude (average)":-24.7,
+ "Longitude (average)":-127.4,
+ "Group 1":"Oceania",
+ "Group 2":"Polynesia",
+ "LDC":false,
+ "LLDC":false,
+ "SIDS":false,
+ "Income group":"",
+ "indicators":[
+  {
+   "indicator":"Cumulative Number of COVID-19 Cases",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":4.0
+    }
+   ]
+  },
+  {
+   "indicator":"Cumulative Number of COVID-19 Deaths",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"COVID-19 Fatality Rate",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":0.0
+    }
+   ]
+  }
+ ]
+}
