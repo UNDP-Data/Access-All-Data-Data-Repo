@@ -997,7 +997,7 @@
     },
     {
      "year":2022,
-     "value":18.72
+     "value":18.7
     }
    ]
   },
@@ -1014,7 +1014,7 @@
     },
     {
      "year":2022,
-     "value":2437237.0
+     "value":2438130.0
     }
    ]
   },
@@ -1031,7 +1031,7 @@
     },
     {
      "year":2022,
-     "value":17479.0
+     "value":17480.0
     }
    ]
   },
@@ -5744,7 +5744,25 @@
    ]
   },
   {
-   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%)",
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Female",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":49.2
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Male",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":89.4
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
    "yearlyData":[
     {
      "year":2010,

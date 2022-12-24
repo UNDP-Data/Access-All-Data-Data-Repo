@@ -1175,7 +1175,7 @@
     },
     {
      "year":2022,
-     "value":24.84
+     "value":24.8
     }
    ]
   },
@@ -7336,7 +7336,33 @@
    ]
   },
   {
-   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%)",
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Female",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":43.5
+    },
+    {
+     "year":2014,
+     "value":44.5
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Male",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":93.9
+    },
+    {
+     "year":2014,
+     "value":95.5
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
    "yearlyData":[
     {
      "year":2013,
