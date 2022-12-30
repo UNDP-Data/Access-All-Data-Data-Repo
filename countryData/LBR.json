@@ -2762,7 +2762,7 @@
    ]
   },
   {
-   "indicator":"Government Debt, baseline",
+   "indicator":"Government Debt",
    "yearlyData":[
     {
      "year":2000,
@@ -2875,6 +2875,15 @@
     {
      "year":2027,
      "value":53.39
+    }
+   ]
+  },
+  {
+   "indicator":"Government Debt, baseline",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":40.92
     }
    ]
   },
@@ -3340,7 +3349,7 @@
     },
     {
      "year":2021,
-     "value":31710000.0
+     "value":113390000.0
     }
    ]
   },
