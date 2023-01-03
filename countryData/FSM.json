@@ -509,7 +509,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -648,6 +648,15 @@
     {
      "year":2019,
      "value":0.23
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":9.6
     }
    ]
   },
@@ -1923,6 +1932,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":44.9
+    },
+    {
+     "year":2005,
+     "value":44.6
+    },
+    {
+     "year":2010,
+     "value":44.6
+    },
+    {
+     "year":2015,
+     "value":45.6
+    },
+    {
+     "year":2019,
+     "value":46.3
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":38.5
+    },
+    {
+     "year":2005,
+     "value":38.5
+    },
+    {
+     "year":2010,
+     "value":38.6
+    },
+    {
+     "year":2015,
+     "value":39.5
+    },
+    {
+     "year":2019,
+     "value":39.9
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":50.8
+    },
+    {
+     "year":2005,
+     "value":50.5
+    },
+    {
+     "year":2010,
+     "value":50.1
+    },
+    {
+     "year":2015,
+     "value":51.1
+    },
+    {
+     "year":2019,
+     "value":52.1
+    }
+   ]
+  },
+  {
    "indicator":"Entry rate",
    "yearlyData":[
     {
@@ -2093,6 +2177,24 @@
      "year":2019,
      "value":100.0
     },
+    {
+     "year":2020,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
     {
      "year":2020,
      "value":100.0
@@ -2970,6 +3072,39 @@
     {
      "year":2022,
      "value":4.4
+    }
+   ]
+  },
+  {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":10.0
+    },
+    {
+     "year":2014,
+     "value":10.0
+    },
+    {
+     "year":2015,
+     "value":10.0
+    },
+    {
+     "year":2016,
+     "value":10.0
+    },
+    {
+     "year":2017,
+     "value":10.0
+    },
+    {
+     "year":2018,
+     "value":10.0
+    },
+    {
+     "year":2019,
+     "value":10.0
     }
    ]
   },

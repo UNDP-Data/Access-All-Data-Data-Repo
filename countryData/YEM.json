@@ -960,7 +960,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":31.51
+     "value":33.42
     },
     {
      "year":2021,
@@ -968,7 +968,7 @@
     },
     {
      "year":2022,
-     "value":16.34
+     "value":16.37
     }
    ]
   },
@@ -1143,7 +1143,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2102,6 +2102,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":9.4
     }
    ]
   },
@@ -4481,6 +4490,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":31.0
+    },
+    {
+     "year":2005,
+     "value":29.1
+    },
+    {
+     "year":2010,
+     "value":27.4
+    },
+    {
+     "year":2015,
+     "value":26.6
+    },
+    {
+     "year":2019,
+     "value":27.6
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":27.2
+    },
+    {
+     "year":2005,
+     "value":25.6
+    },
+    {
+     "year":2010,
+     "value":24.4
+    },
+    {
+     "year":2015,
+     "value":23.8
+    },
+    {
+     "year":2019,
+     "value":24.8
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":34.8
+    },
+    {
+     "year":2005,
+     "value":32.5
+    },
+    {
+     "year":2010,
+     "value":30.5
+    },
+    {
+     "year":2015,
+     "value":29.5
+    },
+    {
+     "year":2019,
+     "value":30.6
+    }
+   ]
+  },
+  {
    "indicator":"Natural capital",
    "yearlyData":[
     {
@@ -4810,6 +4894,43 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":3.0
+    },
+    {
+     "year":2014,
+     "value":4.0
+    },
+    {
+     "year":2015,
+     "value":5.0
+    },
+    {
+     "year":2016,
+     "value":5.0
+    },
+    {
+     "year":2017,
+     "value":5.0
+    },
+    {
+     "year":2018,
+     "value":5.0
+    },
+    {
+     "year":2019,
+     "value":5.0
+    },
+    {
+     "year":2020,
+     "value":5.0
+    }
+   ]
+  },
+  {
    "indicator":"Population ages 65 and above (% of total population)",
    "yearlyData":[
     {
@@ -5126,6 +5247,184 @@
     {
      "year":2020,
      "value":60.66
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":29.25
+    },
+    {
+     "year":2001,
+     "value":29.25
+    },
+    {
+     "year":2002,
+     "value":29.25
+    },
+    {
+     "year":2003,
+     "value":30.56
+    },
+    {
+     "year":2004,
+     "value":31.8
+    },
+    {
+     "year":2005,
+     "value":33.03
+    },
+    {
+     "year":2006,
+     "value":34.25
+    },
+    {
+     "year":2007,
+     "value":35.46
+    },
+    {
+     "year":2008,
+     "value":36.67
+    },
+    {
+     "year":2009,
+     "value":37.88
+    },
+    {
+     "year":2010,
+     "value":39.07
+    },
+    {
+     "year":2011,
+     "value":40.26
+    },
+    {
+     "year":2012,
+     "value":41.45
+    },
+    {
+     "year":2013,
+     "value":42.62
+    },
+    {
+     "year":2014,
+     "value":43.79
+    },
+    {
+     "year":2015,
+     "value":44.96
+    },
+    {
+     "year":2016,
+     "value":46.12
+    },
+    {
+     "year":2017,
+     "value":47.27
+    },
+    {
+     "year":2018,
+     "value":48.41
+    },
+    {
+     "year":2019,
+     "value":49.55
+    },
+    {
+     "year":2020,
+     "value":50.68
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":73.53
+    },
+    {
+     "year":2001,
+     "value":73.53
+    },
+    {
+     "year":2002,
+     "value":73.53
+    },
+    {
+     "year":2003,
+     "value":73.78
+    },
+    {
+     "year":2004,
+     "value":73.97
+    },
+    {
+     "year":2005,
+     "value":74.16
+    },
+    {
+     "year":2006,
+     "value":74.35
+    },
+    {
+     "year":2007,
+     "value":74.55
+    },
+    {
+     "year":2008,
+     "value":74.74
+    },
+    {
+     "year":2009,
+     "value":74.93
+    },
+    {
+     "year":2010,
+     "value":75.12
+    },
+    {
+     "year":2011,
+     "value":75.31
+    },
+    {
+     "year":2012,
+     "value":75.5
+    },
+    {
+     "year":2013,
+     "value":75.69
+    },
+    {
+     "year":2014,
+     "value":75.88
+    },
+    {
+     "year":2015,
+     "value":76.07
+    },
+    {
+     "year":2016,
+     "value":76.26
+    },
+    {
+     "year":2017,
+     "value":76.45
+    },
+    {
+     "year":2018,
+     "value":76.64
+    },
+    {
+     "year":2019,
+     "value":76.83
+    },
+    {
+     "year":2020,
+     "value":77.01
     }
    ]
   },
@@ -6814,6 +7113,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":0.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA structural policies cluster average (1=low to 6=high)",
    "yearlyData":[
     {
@@ -7787,6 +8119,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":"civil\/public servants, agricultural workers, domestic workers"
     }
    ]
   }

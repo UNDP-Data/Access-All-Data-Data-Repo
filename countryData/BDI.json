@@ -992,7 +992,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":11.84
+     "value":12.56
     },
     {
      "year":2021,
@@ -1200,7 +1200,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2240,6 +2240,15 @@
     {
      "year":2022,
      "value":1.97
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":7.9
     }
    ]
   },
@@ -4809,6 +4818,56 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":35.5
+    },
+    {
+     "year":2005,
+     "value":30.6
+    },
+    {
+     "year":2010,
+     "value":26.4
+    },
+    {
+     "year":2015,
+     "value":24.3
+    },
+    {
+     "year":2019,
+     "value":23.2
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":38.5
+    },
+    {
+     "year":2005,
+     "value":33.1
+    },
+    {
+     "year":2010,
+     "value":29.8
+    },
+    {
+     "year":2015,
+     "value":27.6
+    },
+    {
+     "year":2019,
+     "value":26.9
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, MSMEs",
    "yearlyData":[
     {
@@ -5131,6 +5190,47 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":4.0
+    },
+    {
+     "year":2014,
+     "value":3.0
+    },
+    {
+     "year":2015,
+     "value":4.0
+    },
+    {
+     "year":2016,
+     "value":4.0
+    },
+    {
+     "year":2017,
+     "value":4.0
+    },
+    {
+     "year":2018,
+     "value":4.0
+    },
+    {
+     "year":2019,
+     "value":4.0
+    },
+    {
+     "year":2020,
+     "value":5.0
+    },
+    {
+     "year":2021,
+     "value":4.0
+    }
+   ]
+  },
+  {
    "indicator":"Population ages 65 and above (% of total population)",
    "yearlyData":[
     {
@@ -5442,6 +5542,184 @@
     {
      "year":2020,
      "value":62.21
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":47.84
+    },
+    {
+     "year":2001,
+     "value":48.34
+    },
+    {
+     "year":2002,
+     "value":48.85
+    },
+    {
+     "year":2003,
+     "value":49.35
+    },
+    {
+     "year":2004,
+     "value":49.86
+    },
+    {
+     "year":2005,
+     "value":50.37
+    },
+    {
+     "year":2006,
+     "value":50.88
+    },
+    {
+     "year":2007,
+     "value":51.39
+    },
+    {
+     "year":2008,
+     "value":51.91
+    },
+    {
+     "year":2009,
+     "value":52.42
+    },
+    {
+     "year":2010,
+     "value":52.94
+    },
+    {
+     "year":2011,
+     "value":53.46
+    },
+    {
+     "year":2012,
+     "value":53.98
+    },
+    {
+     "year":2013,
+     "value":54.51
+    },
+    {
+     "year":2014,
+     "value":55.03
+    },
+    {
+     "year":2015,
+     "value":55.56
+    },
+    {
+     "year":2016,
+     "value":56.09
+    },
+    {
+     "year":2017,
+     "value":56.62
+    },
+    {
+     "year":2018,
+     "value":57.15
+    },
+    {
+     "year":2019,
+     "value":57.69
+    },
+    {
+     "year":2020,
+     "value":57.69
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":82.05
+    },
+    {
+     "year":2001,
+     "value":82.51
+    },
+    {
+     "year":2002,
+     "value":82.96
+    },
+    {
+     "year":2003,
+     "value":83.42
+    },
+    {
+     "year":2004,
+     "value":83.88
+    },
+    {
+     "year":2005,
+     "value":84.33
+    },
+    {
+     "year":2006,
+     "value":84.79
+    },
+    {
+     "year":2007,
+     "value":85.24
+    },
+    {
+     "year":2008,
+     "value":85.7
+    },
+    {
+     "year":2009,
+     "value":86.15
+    },
+    {
+     "year":2010,
+     "value":86.61
+    },
+    {
+     "year":2011,
+     "value":87.06
+    },
+    {
+     "year":2012,
+     "value":87.51
+    },
+    {
+     "year":2013,
+     "value":87.97
+    },
+    {
+     "year":2014,
+     "value":88.42
+    },
+    {
+     "year":2015,
+     "value":88.87
+    },
+    {
+     "year":2016,
+     "value":89.32
+    },
+    {
+     "year":2017,
+     "value":89.77
+    },
+    {
+     "year":2018,
+     "value":90.22
+    },
+    {
+     "year":2019,
+     "value":90.67
+    },
+    {
+     "year":2020,
+     "value":90.67
     }
    ]
   },
@@ -7240,6 +7518,39 @@
     {
      "year":2022,
      "value":9.4
+    }
+   ]
+  },
+  {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":2.0
+    },
+    {
+     "year":2014,
+     "value":2.0
+    },
+    {
+     "year":2015,
+     "value":2.0
+    },
+    {
+     "year":2016,
+     "value":2.0
+    },
+    {
+     "year":2017,
+     "value":2.0
+    },
+    {
+     "year":2018,
+     "value":2.0
+    },
+    {
+     "year":2019,
+     "value":2.0
     }
    ]
   },

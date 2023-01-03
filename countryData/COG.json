@@ -1088,7 +1088,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":52.01
+     "value":55.18
     },
     {
      "year":2021,
@@ -4609,6 +4609,56 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":34.6
+    },
+    {
+     "year":2005,
+     "value":30.6
+    },
+    {
+     "year":2010,
+     "value":28.8
+    },
+    {
+     "year":2015,
+     "value":25.4
+    },
+    {
+     "year":2019,
+     "value":22.3
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":37.1
+    },
+    {
+     "year":2005,
+     "value":28.9
+    },
+    {
+     "year":2010,
+     "value":26.3
+    },
+    {
+     "year":2015,
+     "value":23.7
+    },
+    {
+     "year":2019,
+     "value":23.0
+    }
+   ]
+  },
+  {
    "indicator":"Multidimensional Poverty Index",
    "yearlyData":[
     {
@@ -5197,6 +5247,184 @@
     {
      "year":2020,
      "value":73.78
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":18.01
+    },
+    {
+     "year":2001,
+     "value":18.01
+    },
+    {
+     "year":2002,
+     "value":18.24
+    },
+    {
+     "year":2003,
+     "value":18.47
+    },
+    {
+     "year":2004,
+     "value":20.18
+    },
+    {
+     "year":2005,
+     "value":21.93
+    },
+    {
+     "year":2006,
+     "value":23.71
+    },
+    {
+     "year":2007,
+     "value":25.53
+    },
+    {
+     "year":2008,
+     "value":27.38
+    },
+    {
+     "year":2009,
+     "value":29.27
+    },
+    {
+     "year":2010,
+     "value":31.2
+    },
+    {
+     "year":2011,
+     "value":33.17
+    },
+    {
+     "year":2012,
+     "value":35.17
+    },
+    {
+     "year":2013,
+     "value":37.21
+    },
+    {
+     "year":2014,
+     "value":39.28
+    },
+    {
+     "year":2015,
+     "value":41.39
+    },
+    {
+     "year":2016,
+     "value":43.54
+    },
+    {
+     "year":2017,
+     "value":45.72
+    },
+    {
+     "year":2018,
+     "value":45.72
+    },
+    {
+     "year":2019,
+     "value":45.72
+    },
+    {
+     "year":2020,
+     "value":45.72
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":84.7
+    },
+    {
+     "year":2001,
+     "value":84.7
+    },
+    {
+     "year":2002,
+     "value":84.85
+    },
+    {
+     "year":2003,
+     "value":85.0
+    },
+    {
+     "year":2004,
+     "value":85.15
+    },
+    {
+     "year":2005,
+     "value":85.3
+    },
+    {
+     "year":2006,
+     "value":85.45
+    },
+    {
+     "year":2007,
+     "value":85.6
+    },
+    {
+     "year":2008,
+     "value":85.75
+    },
+    {
+     "year":2009,
+     "value":85.9
+    },
+    {
+     "year":2010,
+     "value":86.05
+    },
+    {
+     "year":2011,
+     "value":86.2
+    },
+    {
+     "year":2012,
+     "value":86.34
+    },
+    {
+     "year":2013,
+     "value":86.49
+    },
+    {
+     "year":2014,
+     "value":86.64
+    },
+    {
+     "year":2015,
+     "value":86.79
+    },
+    {
+     "year":2016,
+     "value":86.94
+    },
+    {
+     "year":2017,
+     "value":87.09
+    },
+    {
+     "year":2018,
+     "value":87.09
+    },
+    {
+     "year":2019,
+     "value":87.09
+    },
+    {
+     "year":2020,
+     "value":87.09
     }
    ]
   },
@@ -6913,6 +7141,39 @@
     {
      "year":2022,
      "value":2.65
+    }
+   ]
+  },
+  {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":6.0
+    },
+    {
+     "year":2014,
+     "value":6.0
+    },
+    {
+     "year":2015,
+     "value":6.0
+    },
+    {
+     "year":2016,
+     "value":6.0
+    },
+    {
+     "year":2017,
+     "value":6.0
+    },
+    {
+     "year":2018,
+     "value":6.0
+    },
+    {
+     "year":2019,
+     "value":6.0
     }
    ]
   },

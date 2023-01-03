@@ -1154,7 +1154,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":56.48
+     "value":59.92
     },
     {
      "year":2021,
@@ -1362,7 +1362,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2394,6 +2394,15 @@
     {
      "year":2022,
      "value":1.97
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":8.4
     }
    ]
   },
@@ -5039,6 +5048,56 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":27.1
+    },
+    {
+     "year":2005,
+     "value":23.0
+    },
+    {
+     "year":2010,
+     "value":19.1
+    },
+    {
+     "year":2015,
+     "value":17.3
+    },
+    {
+     "year":2019,
+     "value":16.9
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":27.4
+    },
+    {
+     "year":2005,
+     "value":23.2
+    },
+    {
+     "year":2010,
+     "value":20.1
+    },
+    {
+     "year":2015,
+     "value":18.1
+    },
+    {
+     "year":2019,
+     "value":17.4
+    }
+   ]
+  },
+  {
    "indicator":"Multidimensional Poverty Index",
    "yearlyData":[
     {
@@ -5304,6 +5363,24 @@
    ]
   },
   {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":3.5
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":4.3
+    }
+   ]
+  },
+  {
    "indicator":"Persons with severe disabilities collecting disability social protection benefits",
    "yearlyData":[
     {
@@ -5359,6 +5436,47 @@
     {
      "year":2022,
      "value":4.12
+    }
+   ]
+  },
+  {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":3.0
+    },
+    {
+     "year":2014,
+     "value":4.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":4.0
+    },
+    {
+     "year":2017,
+     "value":5.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    },
+    {
+     "year":2020,
+     "value":4.0
+    },
+    {
+     "year":2021,
+     "value":5.0
     }
    ]
   },
@@ -5695,6 +5813,184 @@
     {
      "year":2020,
      "value":49.62
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":8.21
+    },
+    {
+     "year":2001,
+     "value":9.89
+    },
+    {
+     "year":2002,
+     "value":11.57
+    },
+    {
+     "year":2003,
+     "value":13.24
+    },
+    {
+     "year":2004,
+     "value":14.89
+    },
+    {
+     "year":2005,
+     "value":16.54
+    },
+    {
+     "year":2006,
+     "value":18.18
+    },
+    {
+     "year":2007,
+     "value":19.8
+    },
+    {
+     "year":2008,
+     "value":21.42
+    },
+    {
+     "year":2009,
+     "value":23.03
+    },
+    {
+     "year":2010,
+     "value":24.62
+    },
+    {
+     "year":2011,
+     "value":26.21
+    },
+    {
+     "year":2012,
+     "value":27.78
+    },
+    {
+     "year":2013,
+     "value":29.35
+    },
+    {
+     "year":2014,
+     "value":30.91
+    },
+    {
+     "year":2015,
+     "value":32.45
+    },
+    {
+     "year":2016,
+     "value":33.99
+    },
+    {
+     "year":2017,
+     "value":35.51
+    },
+    {
+     "year":2018,
+     "value":37.03
+    },
+    {
+     "year":2019,
+     "value":38.53
+    },
+    {
+     "year":2020,
+     "value":40.03
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":75.23
+    },
+    {
+     "year":2001,
+     "value":75.67
+    },
+    {
+     "year":2002,
+     "value":76.12
+    },
+    {
+     "year":2003,
+     "value":76.57
+    },
+    {
+     "year":2004,
+     "value":77.02
+    },
+    {
+     "year":2005,
+     "value":77.47
+    },
+    {
+     "year":2006,
+     "value":77.91
+    },
+    {
+     "year":2007,
+     "value":78.36
+    },
+    {
+     "year":2008,
+     "value":78.81
+    },
+    {
+     "year":2009,
+     "value":79.26
+    },
+    {
+     "year":2010,
+     "value":79.71
+    },
+    {
+     "year":2011,
+     "value":80.16
+    },
+    {
+     "year":2012,
+     "value":80.61
+    },
+    {
+     "year":2013,
+     "value":81.06
+    },
+    {
+     "year":2014,
+     "value":81.51
+    },
+    {
+     "year":2015,
+     "value":81.96
+    },
+    {
+     "year":2016,
+     "value":82.41
+    },
+    {
+     "year":2017,
+     "value":82.86
+    },
+    {
+     "year":2018,
+     "value":83.31
+    },
+    {
+     "year":2019,
+     "value":83.76
+    },
+    {
+     "year":2020,
+     "value":84.21
     }
    ]
   },
@@ -7582,6 +7878,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":3.0
+    },
+    {
+     "year":2014,
+     "value":3.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":3.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA structural policies cluster average (1=low to 6=high)",
    "yearlyData":[
     {
@@ -8568,6 +8897,15 @@
     {
      "year":2016,
      "value":19.8
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":"employer&apos;s family members, civil\/public servants, managerial \/ executive positions, members of cooperatives, UN employees, diplomats"
     }
    ]
   }

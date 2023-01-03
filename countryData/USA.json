@@ -1130,7 +1130,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":56.16
+     "value":59.58
     },
     {
      "year":2021,
@@ -1347,7 +1347,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2271,6 +2271,15 @@
     {
      "year":2022,
      "value":5.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":0.7
     }
    ]
   },
@@ -5147,6 +5156,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":18.1
+    },
+    {
+     "year":2005,
+     "value":16.1
+    },
+    {
+     "year":2010,
+     "value":14.5
+    },
+    {
+     "year":2015,
+     "value":13.9
+    },
+    {
+     "year":2019,
+     "value":13.6
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":14.7
+    },
+    {
+     "year":2005,
+     "value":13.1
+    },
+    {
+     "year":2010,
+     "value":11.7
+    },
+    {
+     "year":2015,
+     "value":11.2
+    },
+    {
+     "year":2019,
+     "value":11.1
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":21.7
+    },
+    {
+     "year":2005,
+     "value":19.3
+    },
+    {
+     "year":2010,
+     "value":17.5
+    },
+    {
+     "year":2015,
+     "value":16.7
+    },
+    {
+     "year":2019,
+     "value":16.1
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, MSMEs",
    "yearlyData":[
     {
@@ -5482,6 +5566,40 @@
    ]
   },
   {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":80.3
+    },
+    {
+     "year":2014,
+     "value":82.7
+    },
+    {
+     "year":2018,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":92.7
+    },
+    {
+     "year":2014,
+     "value":95.2
+    },
+    {
+     "year":2018,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Persons with severe disabilities collecting disability social protection benefits",
    "yearlyData":[
     {
@@ -5533,6 +5651,47 @@
     {
      "year":2022,
      "value":1.5
+    }
+   ]
+  },
+  {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":2.0
+    },
+    {
+     "year":2014,
+     "value":2.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":3.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    },
+    {
+     "year":2020,
+     "value":3.0
+    },
+    {
+     "year":2021,
+     "value":3.0
     }
    ]
   },
@@ -5797,6 +5956,164 @@
     {
      "year":2020,
      "value":99.88
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2005,
+     "value":95.51
+    },
+    {
+     "year":2006,
+     "value":95.51
+    },
+    {
+     "year":2007,
+     "value":95.51
+    },
+    {
+     "year":2008,
+     "value":95.51
+    },
+    {
+     "year":2009,
+     "value":95.51
+    },
+    {
+     "year":2010,
+     "value":95.89
+    },
+    {
+     "year":2011,
+     "value":96.27
+    },
+    {
+     "year":2012,
+     "value":96.65
+    },
+    {
+     "year":2013,
+     "value":97.02
+    },
+    {
+     "year":2014,
+     "value":97.4
+    },
+    {
+     "year":2015,
+     "value":97.78
+    },
+    {
+     "year":2016,
+     "value":98.16
+    },
+    {
+     "year":2017,
+     "value":98.54
+    },
+    {
+     "year":2018,
+     "value":98.91
+    },
+    {
+     "year":2019,
+     "value":99.29
+    },
+    {
+     "year":2020,
+     "value":99.67
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":99.69
+    },
+    {
+     "year":2001,
+     "value":99.69
+    },
+    {
+     "year":2002,
+     "value":99.69
+    },
+    {
+     "year":2003,
+     "value":99.69
+    },
+    {
+     "year":2004,
+     "value":99.69
+    },
+    {
+     "year":2005,
+     "value":99.69
+    },
+    {
+     "year":2006,
+     "value":99.69
+    },
+    {
+     "year":2007,
+     "value":99.69
+    },
+    {
+     "year":2008,
+     "value":99.69
+    },
+    {
+     "year":2009,
+     "value":99.69
+    },
+    {
+     "year":2010,
+     "value":99.71
+    },
+    {
+     "year":2011,
+     "value":99.74
+    },
+    {
+     "year":2012,
+     "value":99.76
+    },
+    {
+     "year":2013,
+     "value":99.78
+    },
+    {
+     "year":2014,
+     "value":99.8
+    },
+    {
+     "year":2015,
+     "value":99.82
+    },
+    {
+     "year":2016,
+     "value":99.84
+    },
+    {
+     "year":2017,
+     "value":99.86
+    },
+    {
+     "year":2018,
+     "value":99.89
+    },
+    {
+     "year":2019,
+     "value":99.91
+    },
+    {
+     "year":2020,
+     "value":99.93
     }
    ]
   },
@@ -7924,6 +8241,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":11.0
+    },
+    {
+     "year":2014,
+     "value":11.0
+    },
+    {
+     "year":2015,
+     "value":11.0
+    },
+    {
+     "year":2016,
+     "value":11.0
+    },
+    {
+     "year":2017,
+     "value":11.0
+    },
+    {
+     "year":2018,
+     "value":11.0
+    },
+    {
+     "year":2019,
+     "value":11.0
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -9050,6 +9400,15 @@
     {
      "year":2022,
      "value":5.0
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":"agricultural workers"
     }
    ]
   }

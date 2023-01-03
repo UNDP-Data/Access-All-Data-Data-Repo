@@ -863,7 +863,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":60.61
+     "value":64.3
     },
     {
      "year":2021,
@@ -871,7 +871,7 @@
     },
     {
      "year":2022,
-     "value":16.77
+     "value":16.78
     }
    ]
   },
@@ -1022,7 +1022,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2051,6 +2051,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":4.7
     }
    ]
   },
@@ -3507,6 +3516,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":18.2
+    },
+    {
+     "year":2005,
+     "value":17.5
+    },
+    {
+     "year":2010,
+     "value":17.3
+    },
+    {
+     "year":2015,
+     "value":16.6
+    },
+    {
+     "year":2019,
+     "value":16.6
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":15.9
+    },
+    {
+     "year":2005,
+     "value":14.9
+    },
+    {
+     "year":2010,
+     "value":14.6
+    },
+    {
+     "year":2015,
+     "value":13.7
+    },
+    {
+     "year":2019,
+     "value":13.5
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":20.6
+    },
+    {
+     "year":2005,
+     "value":20.1
+    },
+    {
+     "year":2010,
+     "value":20.0
+    },
+    {
+     "year":2015,
+     "value":19.5
+    },
+    {
+     "year":2019,
+     "value":19.8
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -3911,6 +3995,43 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":3.0
+    },
+    {
+     "year":2014,
+     "value":3.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":3.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    },
+    {
+     "year":2021,
+     "value":3.0
+    }
+   ]
+  },
+  {
    "indicator":"Population ages 65 and above (% of total population)",
    "yearlyData":[
     {
@@ -4227,6 +4348,184 @@
     {
      "year":2020,
      "value":97.0
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":79.58
+    },
+    {
+     "year":2001,
+     "value":80.18
+    },
+    {
+     "year":2002,
+     "value":80.78
+    },
+    {
+     "year":2003,
+     "value":81.38
+    },
+    {
+     "year":2004,
+     "value":81.98
+    },
+    {
+     "year":2005,
+     "value":82.74
+    },
+    {
+     "year":2006,
+     "value":83.5
+    },
+    {
+     "year":2007,
+     "value":84.26
+    },
+    {
+     "year":2008,
+     "value":85.02
+    },
+    {
+     "year":2009,
+     "value":85.79
+    },
+    {
+     "year":2010,
+     "value":86.56
+    },
+    {
+     "year":2011,
+     "value":87.33
+    },
+    {
+     "year":2012,
+     "value":88.11
+    },
+    {
+     "year":2013,
+     "value":88.88
+    },
+    {
+     "year":2014,
+     "value":89.66
+    },
+    {
+     "year":2015,
+     "value":90.45
+    },
+    {
+     "year":2016,
+     "value":91.23
+    },
+    {
+     "year":2017,
+     "value":92.01
+    },
+    {
+     "year":2018,
+     "value":92.8
+    },
+    {
+     "year":2019,
+     "value":93.59
+    },
+    {
+     "year":2020,
+     "value":94.39
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":96.79
+    },
+    {
+     "year":2001,
+     "value":96.82
+    },
+    {
+     "year":2002,
+     "value":96.84
+    },
+    {
+     "year":2003,
+     "value":96.87
+    },
+    {
+     "year":2004,
+     "value":96.9
+    },
+    {
+     "year":2005,
+     "value":96.96
+    },
+    {
+     "year":2006,
+     "value":97.01
+    },
+    {
+     "year":2007,
+     "value":97.07
+    },
+    {
+     "year":2008,
+     "value":97.12
+    },
+    {
+     "year":2009,
+     "value":97.17
+    },
+    {
+     "year":2010,
+     "value":97.23
+    },
+    {
+     "year":2011,
+     "value":97.28
+    },
+    {
+     "year":2012,
+     "value":97.34
+    },
+    {
+     "year":2013,
+     "value":97.39
+    },
+    {
+     "year":2014,
+     "value":97.45
+    },
+    {
+     "year":2015,
+     "value":97.5
+    },
+    {
+     "year":2016,
+     "value":97.56
+    },
+    {
+     "year":2017,
+     "value":97.61
+    },
+    {
+     "year":2018,
+     "value":97.67
+    },
+    {
+     "year":2019,
+     "value":97.72
+    },
+    {
+     "year":2020,
+     "value":97.78
     }
    ]
   },

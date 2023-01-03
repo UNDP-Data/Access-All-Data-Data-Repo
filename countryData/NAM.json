@@ -1021,7 +1021,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":43.54
+     "value":46.19
     },
     {
      "year":2021,
@@ -1029,7 +1029,7 @@
     },
     {
      "year":2022,
-     "value":16.85
+     "value":16.67
     }
    ]
   },
@@ -1229,7 +1229,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2225,6 +2225,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":4.9
     }
    ]
   },
@@ -4793,6 +4802,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":31.3
+    },
+    {
+     "year":2005,
+     "value":29.7
+    },
+    {
+     "year":2010,
+     "value":25.6
+    },
+    {
+     "year":2015,
+     "value":24.7
+    },
+    {
+     "year":2019,
+     "value":22.6
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":26.1
+    },
+    {
+     "year":2005,
+     "value":23.0
+    },
+    {
+     "year":2010,
+     "value":19.2
+    },
+    {
+     "year":2015,
+     "value":19.9
+    },
+    {
+     "year":2019,
+     "value":17.3
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":37.6
+    },
+    {
+     "year":2005,
+     "value":37.5
+    },
+    {
+     "year":2010,
+     "value":33.3
+    },
+    {
+     "year":2015,
+     "value":31.0
+    },
+    {
+     "year":2019,
+     "value":29.6
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5191,6 +5275,24 @@
    ]
   },
   {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Persons with severe disabilities collecting disability social protection benefits",
    "yearlyData":[
     {
@@ -5554,6 +5656,184 @@
     {
      "year":2020,
      "value":84.27
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":66.01
+    },
+    {
+     "year":2001,
+     "value":66.28
+    },
+    {
+     "year":2002,
+     "value":66.56
+    },
+    {
+     "year":2003,
+     "value":66.84
+    },
+    {
+     "year":2004,
+     "value":67.11
+    },
+    {
+     "year":2005,
+     "value":67.39
+    },
+    {
+     "year":2006,
+     "value":67.67
+    },
+    {
+     "year":2007,
+     "value":67.94
+    },
+    {
+     "year":2008,
+     "value":68.22
+    },
+    {
+     "year":2009,
+     "value":68.49
+    },
+    {
+     "year":2010,
+     "value":68.77
+    },
+    {
+     "year":2011,
+     "value":69.04
+    },
+    {
+     "year":2012,
+     "value":69.32
+    },
+    {
+     "year":2013,
+     "value":69.59
+    },
+    {
+     "year":2014,
+     "value":69.87
+    },
+    {
+     "year":2015,
+     "value":70.14
+    },
+    {
+     "year":2016,
+     "value":70.42
+    },
+    {
+     "year":2017,
+     "value":70.69
+    },
+    {
+     "year":2018,
+     "value":70.96
+    },
+    {
+     "year":2019,
+     "value":71.26
+    },
+    {
+     "year":2020,
+     "value":71.26
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":98.0
+    },
+    {
+     "year":2001,
+     "value":97.91
+    },
+    {
+     "year":2002,
+     "value":97.81
+    },
+    {
+     "year":2003,
+     "value":97.71
+    },
+    {
+     "year":2004,
+     "value":97.62
+    },
+    {
+     "year":2005,
+     "value":97.52
+    },
+    {
+     "year":2006,
+     "value":97.42
+    },
+    {
+     "year":2007,
+     "value":97.32
+    },
+    {
+     "year":2008,
+     "value":97.23
+    },
+    {
+     "year":2009,
+     "value":97.13
+    },
+    {
+     "year":2010,
+     "value":97.03
+    },
+    {
+     "year":2011,
+     "value":96.93
+    },
+    {
+     "year":2012,
+     "value":96.84
+    },
+    {
+     "year":2013,
+     "value":96.74
+    },
+    {
+     "year":2014,
+     "value":96.64
+    },
+    {
+     "year":2015,
+     "value":96.54
+    },
+    {
+     "year":2016,
+     "value":96.45
+    },
+    {
+     "year":2017,
+     "value":96.35
+    },
+    {
+     "year":2018,
+     "value":96.25
+    },
+    {
+     "year":2019,
+     "value":96.27
+    },
+    {
+     "year":2020,
+     "value":96.27
     }
    ]
   },
@@ -7110,6 +7390,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":5.0
+    },
+    {
+     "year":2014,
+     "value":5.0
+    },
+    {
+     "year":2015,
+     "value":5.0
+    },
+    {
+     "year":2016,
+     "value":5.0
+    },
+    {
+     "year":2017,
+     "value":5.0
+    },
+    {
+     "year":2018,
+     "value":5.0
+    },
+    {
+     "year":2019,
+     "value":5.0
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -8019,6 +8332,15 @@
     {
      "year":2013,
      "value":20.2
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"employer&apos;s family members, civil\/public servants, agricultural workers, domestic workers, managerial \/ executive positions, seafarers, teachers"
     }
    ]
   }

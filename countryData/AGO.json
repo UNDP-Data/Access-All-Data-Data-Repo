@@ -956,7 +956,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":58.33
+     "value":61.88
     },
     {
      "year":2021,
@@ -964,7 +964,7 @@
     },
     {
      "year":2022,
-     "value":37.66
+     "value":37.71
     }
    ]
   },
@@ -1164,7 +1164,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2139,6 +2139,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":4.3
     }
    ]
   },
@@ -4562,6 +4571,56 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":24.8
+    },
+    {
+     "year":2005,
+     "value":24.6
+    },
+    {
+     "year":2010,
+     "value":21.8
+    },
+    {
+     "year":2015,
+     "value":19.8
+    },
+    {
+     "year":2019,
+     "value":19.4
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":32.8
+    },
+    {
+     "year":2005,
+     "value":29.8
+    },
+    {
+     "year":2010,
+     "value":27.6
+    },
+    {
+     "year":2015,
+     "value":26.0
+    },
+    {
+     "year":2019,
+     "value":25.2
+    }
+   ]
+  },
+  {
    "indicator":"Armed Services Personnel per 100,000 People",
    "yearlyData":[
     {
@@ -4809,6 +4868,47 @@
     {
      "year":2022,
      "value":2.25
+    }
+   ]
+  },
+  {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":4.0
+    },
+    {
+     "year":2014,
+     "value":4.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":3.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    },
+    {
+     "year":2020,
+     "value":3.0
+    },
+    {
+     "year":2021,
+     "value":3.0
     }
    ]
   },
@@ -5137,6 +5237,184 @@
     {
      "year":2020,
      "value":57.17
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":21.15
+    },
+    {
+     "year":2001,
+     "value":21.53
+    },
+    {
+     "year":2002,
+     "value":21.9
+    },
+    {
+     "year":2003,
+     "value":22.28
+    },
+    {
+     "year":2004,
+     "value":22.65
+    },
+    {
+     "year":2005,
+     "value":23.02
+    },
+    {
+     "year":2006,
+     "value":23.4
+    },
+    {
+     "year":2007,
+     "value":23.77
+    },
+    {
+     "year":2008,
+     "value":24.14
+    },
+    {
+     "year":2009,
+     "value":24.51
+    },
+    {
+     "year":2010,
+     "value":24.88
+    },
+    {
+     "year":2011,
+     "value":25.25
+    },
+    {
+     "year":2012,
+     "value":25.61
+    },
+    {
+     "year":2013,
+     "value":25.98
+    },
+    {
+     "year":2014,
+     "value":26.35
+    },
+    {
+     "year":2015,
+     "value":26.71
+    },
+    {
+     "year":2016,
+     "value":27.08
+    },
+    {
+     "year":2017,
+     "value":27.44
+    },
+    {
+     "year":2018,
+     "value":27.81
+    },
+    {
+     "year":2019,
+     "value":27.81
+    },
+    {
+     "year":2020,
+     "value":27.81
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":61.07
+    },
+    {
+     "year":2001,
+     "value":61.95
+    },
+    {
+     "year":2002,
+     "value":62.84
+    },
+    {
+     "year":2003,
+     "value":63.45
+    },
+    {
+     "year":2004,
+     "value":64.05
+    },
+    {
+     "year":2005,
+     "value":64.65
+    },
+    {
+     "year":2006,
+     "value":65.24
+    },
+    {
+     "year":2007,
+     "value":65.83
+    },
+    {
+     "year":2008,
+     "value":66.4
+    },
+    {
+     "year":2009,
+     "value":66.97
+    },
+    {
+     "year":2010,
+     "value":67.53
+    },
+    {
+     "year":2011,
+     "value":68.08
+    },
+    {
+     "year":2012,
+     "value":68.63
+    },
+    {
+     "year":2013,
+     "value":69.17
+    },
+    {
+     "year":2014,
+     "value":69.7
+    },
+    {
+     "year":2015,
+     "value":70.22
+    },
+    {
+     "year":2016,
+     "value":70.74
+    },
+    {
+     "year":2017,
+     "value":71.24
+    },
+    {
+     "year":2018,
+     "value":71.74
+    },
+    {
+     "year":2019,
+     "value":71.74
+    },
+    {
+     "year":2020,
+     "value":71.74
     }
    ]
   },
@@ -6745,6 +7023,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":1.0
+    },
+    {
+     "year":2014,
+     "value":1.0
+    },
+    {
+     "year":2015,
+     "value":1.0
+    },
+    {
+     "year":2016,
+     "value":1.0
+    },
+    {
+     "year":2017,
+     "value":1.0
+    },
+    {
+     "year":2018,
+     "value":1.0
+    },
+    {
+     "year":2019,
+     "value":1.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA structural policies cluster average (1=low to 6=high)",
    "yearlyData":[
     {
@@ -7699,6 +8010,15 @@
     {
      "year":2016,
      "value":25.9
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"state security corps, civil\/public servants, agricultural workers, domestic workers, police, army"
     }
    ]
   }

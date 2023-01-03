@@ -1102,7 +1102,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":44.78
+     "value":47.5
     },
     {
      "year":2021,
@@ -1319,7 +1319,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2286,6 +2286,15 @@
     {
      "year":2022,
      "value":1.37
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":2.4
     }
    ]
   },
@@ -4924,6 +4933,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":22.5
+    },
+    {
+     "year":2005,
+     "value":19.7
+    },
+    {
+     "year":2010,
+     "value":17.8
+    },
+    {
+     "year":2015,
+     "value":15.6
+    },
+    {
+     "year":2019,
+     "value":14.3
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":15.2
+    },
+    {
+     "year":2005,
+     "value":13.5
+    },
+    {
+     "year":2010,
+     "value":12.0
+    },
+    {
+     "year":2015,
+     "value":10.6
+    },
+    {
+     "year":2019,
+     "value":9.8
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":30.3
+    },
+    {
+     "year":2005,
+     "value":26.3
+    },
+    {
+     "year":2010,
+     "value":23.8
+    },
+    {
+     "year":2015,
+     "value":20.7
+    },
+    {
+     "year":2019,
+     "value":18.8
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5498,6 +5582,40 @@
    ]
   },
   {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":100.0
+    },
+    {
+     "year":2014,
+     "value":100.0
+    },
+    {
+     "year":2018,
+     "value":96.9
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":100.0
+    },
+    {
+     "year":2014,
+     "value":100.0
+    },
+    {
+     "year":2018,
+     "value":84.0
+    }
+   ]
+  },
+  {
    "indicator":"Persons with severe disabilities collecting disability social protection benefits",
    "yearlyData":[
     {
@@ -5941,6 +6059,184 @@
     {
      "year":2020,
      "value":99.88
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":99.61
+    },
+    {
+     "year":2001,
+     "value":99.61
+    },
+    {
+     "year":2002,
+     "value":99.62
+    },
+    {
+     "year":2003,
+     "value":99.64
+    },
+    {
+     "year":2004,
+     "value":99.66
+    },
+    {
+     "year":2005,
+     "value":99.67
+    },
+    {
+     "year":2006,
+     "value":99.69
+    },
+    {
+     "year":2007,
+     "value":99.7
+    },
+    {
+     "year":2008,
+     "value":99.72
+    },
+    {
+     "year":2009,
+     "value":99.74
+    },
+    {
+     "year":2010,
+     "value":99.75
+    },
+    {
+     "year":2011,
+     "value":99.77
+    },
+    {
+     "year":2012,
+     "value":99.79
+    },
+    {
+     "year":2013,
+     "value":99.8
+    },
+    {
+     "year":2014,
+     "value":99.82
+    },
+    {
+     "year":2015,
+     "value":99.82
+    },
+    {
+     "year":2016,
+     "value":99.82
+    },
+    {
+     "year":2017,
+     "value":99.82
+    },
+    {
+     "year":2018,
+     "value":99.82
+    },
+    {
+     "year":2019,
+     "value":99.82
+    },
+    {
+     "year":2020,
+     "value":99.82
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":99.88
+    },
+    {
+     "year":2001,
+     "value":99.88
+    },
+    {
+     "year":2002,
+     "value":99.88
+    },
+    {
+     "year":2003,
+     "value":99.88
+    },
+    {
+     "year":2004,
+     "value":99.88
+    },
+    {
+     "year":2005,
+     "value":99.88
+    },
+    {
+     "year":2006,
+     "value":99.89
+    },
+    {
+     "year":2007,
+     "value":99.89
+    },
+    {
+     "year":2008,
+     "value":99.89
+    },
+    {
+     "year":2009,
+     "value":99.89
+    },
+    {
+     "year":2010,
+     "value":99.89
+    },
+    {
+     "year":2011,
+     "value":99.9
+    },
+    {
+     "year":2012,
+     "value":99.9
+    },
+    {
+     "year":2013,
+     "value":99.9
+    },
+    {
+     "year":2014,
+     "value":99.9
+    },
+    {
+     "year":2015,
+     "value":99.9
+    },
+    {
+     "year":2016,
+     "value":99.9
+    },
+    {
+     "year":2017,
+     "value":99.9
+    },
+    {
+     "year":2018,
+     "value":99.9
+    },
+    {
+     "year":2019,
+     "value":99.9
+    },
+    {
+     "year":2020,
+     "value":99.9
     }
    ]
   },
@@ -7864,6 +8160,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":5.0
+    },
+    {
+     "year":2014,
+     "value":7.0
+    },
+    {
+     "year":2015,
+     "value":7.0
+    },
+    {
+     "year":2016,
+     "value":7.0
+    },
+    {
+     "year":2017,
+     "value":7.0
+    },
+    {
+     "year":2018,
+     "value":7.0
+    },
+    {
+     "year":2019,
+     "value":7.0
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -8952,6 +9281,15 @@
     {
      "year":2012,
      "value":6.0
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"employer&apos;s family members, civil\/public servants, managerial \/ executive positions, members of cooperatives, UN employees, diplomats"
     }
    ]
   }

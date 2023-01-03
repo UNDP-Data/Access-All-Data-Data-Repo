@@ -1136,7 +1136,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -1943,6 +1943,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":5.2
     }
    ]
   },
@@ -4544,6 +4553,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":30.2
+    },
+    {
+     "year":2005,
+     "value":28.3
+    },
+    {
+     "year":2010,
+     "value":26.6
+    },
+    {
+     "year":2015,
+     "value":24.5
+    },
+    {
+     "year":2019,
+     "value":22.7
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":24.1
+    },
+    {
+     "year":2005,
+     "value":22.3
+    },
+    {
+     "year":2010,
+     "value":20.3
+    },
+    {
+     "year":2015,
+     "value":18.9
+    },
+    {
+     "year":2019,
+     "value":17.5
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":36.3
+    },
+    {
+     "year":2005,
+     "value":34.3
+    },
+    {
+     "year":2010,
+     "value":32.9
+    },
+    {
+     "year":2015,
+     "value":30.0
+    },
+    {
+     "year":2019,
+     "value":27.9
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5063,6 +5147,24 @@
    ]
   },
   {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":40.9
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Persons with severe disabilities collecting disability social protection benefits",
    "yearlyData":[
     {
@@ -5466,6 +5568,184 @@
     {
      "year":2020,
      "value":97.74
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":97.99
+    },
+    {
+     "year":2001,
+     "value":97.99
+    },
+    {
+     "year":2002,
+     "value":97.99
+    },
+    {
+     "year":2003,
+     "value":97.99
+    },
+    {
+     "year":2004,
+     "value":97.99
+    },
+    {
+     "year":2005,
+     "value":97.96
+    },
+    {
+     "year":2006,
+     "value":97.93
+    },
+    {
+     "year":2007,
+     "value":97.9
+    },
+    {
+     "year":2008,
+     "value":97.86
+    },
+    {
+     "year":2009,
+     "value":97.83
+    },
+    {
+     "year":2010,
+     "value":97.8
+    },
+    {
+     "year":2011,
+     "value":97.76
+    },
+    {
+     "year":2012,
+     "value":97.73
+    },
+    {
+     "year":2013,
+     "value":97.7
+    },
+    {
+     "year":2014,
+     "value":97.67
+    },
+    {
+     "year":2015,
+     "value":97.63
+    },
+    {
+     "year":2016,
+     "value":97.6
+    },
+    {
+     "year":2017,
+     "value":97.57
+    },
+    {
+     "year":2018,
+     "value":97.53
+    },
+    {
+     "year":2019,
+     "value":97.5
+    },
+    {
+     "year":2020,
+     "value":97.47
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":96.06
+    },
+    {
+     "year":2001,
+     "value":96.06
+    },
+    {
+     "year":2002,
+     "value":96.06
+    },
+    {
+     "year":2003,
+     "value":96.06
+    },
+    {
+     "year":2004,
+     "value":96.06
+    },
+    {
+     "year":2005,
+     "value":96.18
+    },
+    {
+     "year":2006,
+     "value":96.3
+    },
+    {
+     "year":2007,
+     "value":96.42
+    },
+    {
+     "year":2008,
+     "value":96.53
+    },
+    {
+     "year":2009,
+     "value":96.65
+    },
+    {
+     "year":2010,
+     "value":96.77
+    },
+    {
+     "year":2011,
+     "value":96.88
+    },
+    {
+     "year":2012,
+     "value":97.0
+    },
+    {
+     "year":2013,
+     "value":97.12
+    },
+    {
+     "year":2014,
+     "value":97.24
+    },
+    {
+     "year":2015,
+     "value":97.35
+    },
+    {
+     "year":2016,
+     "value":97.47
+    },
+    {
+     "year":2017,
+     "value":97.59
+    },
+    {
+     "year":2018,
+     "value":97.7
+    },
+    {
+     "year":2019,
+     "value":97.82
+    },
+    {
+     "year":2020,
+     "value":97.94
     }
    ]
   },
@@ -7160,6 +7440,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":6.0
+    },
+    {
+     "year":2014,
+     "value":6.0
+    },
+    {
+     "year":2015,
+     "value":6.0
+    },
+    {
+     "year":2016,
+     "value":9.0
+    },
+    {
+     "year":2017,
+     "value":9.0
+    },
+    {
+     "year":2018,
+     "value":9.0
+    },
+    {
+     "year":2019,
+     "value":9.0
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -8214,6 +8527,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":"other"
     }
    ]
   }

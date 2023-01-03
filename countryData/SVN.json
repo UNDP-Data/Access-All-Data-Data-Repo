@@ -998,7 +998,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":50.02
+     "value":53.06
     },
     {
      "year":2021,
@@ -1006,7 +1006,7 @@
     },
     {
      "year":2022,
-     "value":17.47
+     "value":17.49
     }
    ]
   },
@@ -1215,7 +1215,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2191,6 +2191,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":0.8
     }
    ]
   },
@@ -4923,6 +4932,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":18.5
+    },
+    {
+     "year":2005,
+     "value":16.1
+    },
+    {
+     "year":2010,
+     "value":13.5
+    },
+    {
+     "year":2015,
+     "value":12.8
+    },
+    {
+     "year":2019,
+     "value":11.4
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":12.0
+    },
+    {
+     "year":2005,
+     "value":10.7
+    },
+    {
+     "year":2010,
+     "value":8.9
+    },
+    {
+     "year":2015,
+     "value":9.0
+    },
+    {
+     "year":2019,
+     "value":8.0
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":25.4
+    },
+    {
+     "year":2005,
+     "value":21.7
+    },
+    {
+     "year":2010,
+     "value":18.0
+    },
+    {
+     "year":2015,
+     "value":16.5
+    },
+    {
+     "year":2019,
+     "value":14.8
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5498,6 +5582,24 @@
      "year":2016,
      "value":100.0
     },
+    {
+     "year":2018,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
     {
      "year":2018,
      "value":100.0
@@ -7807,6 +7909,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":3.0
+    },
+    {
+     "year":2014,
+     "value":3.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":3.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -8907,6 +9042,15 @@
     {
      "year":2012,
      "value":2.0
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"civil\/public servants, army, judiciary"
     }
    ]
   }

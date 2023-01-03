@@ -1035,7 +1035,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":55.32
+     "value":57.85
     },
     {
      "year":2021,
@@ -1043,7 +1043,7 @@
     },
     {
      "year":2022,
-     "value":53.84
+     "value":53.59
     }
    ]
   },
@@ -4196,6 +4196,95 @@
    ]
   },
   {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":98.74
+    },
+    {
+     "year":2001,
+     "value":98.83
+    },
+    {
+     "year":2002,
+     "value":98.91
+    },
+    {
+     "year":2003,
+     "value":99.0
+    },
+    {
+     "year":2004,
+     "value":99.08
+    },
+    {
+     "year":2005,
+     "value":99.16
+    },
+    {
+     "year":2006,
+     "value":99.25
+    },
+    {
+     "year":2007,
+     "value":99.33
+    },
+    {
+     "year":2008,
+     "value":99.41
+    },
+    {
+     "year":2009,
+     "value":99.5
+    },
+    {
+     "year":2010,
+     "value":99.58
+    },
+    {
+     "year":2011,
+     "value":99.67
+    },
+    {
+     "year":2012,
+     "value":99.75
+    },
+    {
+     "year":2013,
+     "value":99.83
+    },
+    {
+     "year":2014,
+     "value":99.92
+    },
+    {
+     "year":2015,
+     "value":100.0
+    },
+    {
+     "year":2016,
+     "value":100.0
+    },
+    {
+     "year":2017,
+     "value":100.0
+    },
+    {
+     "year":2018,
+     "value":100.0
+    },
+    {
+     "year":2019,
+     "value":100.0
+    },
+    {
+     "year":2020,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Population using at least basic sanitation services (%)",
    "yearlyData":[
     {
@@ -5661,6 +5750,39 @@
     {
      "year":2012,
      "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":7.0
+    },
+    {
+     "year":2014,
+     "value":7.0
+    },
+    {
+     "year":2015,
+     "value":8.0
+    },
+    {
+     "year":2016,
+     "value":8.0
+    },
+    {
+     "year":2017,
+     "value":8.0
+    },
+    {
+     "year":2018,
+     "value":8.0
+    },
+    {
+     "year":2019,
+     "value":8.0
     }
    ]
   },

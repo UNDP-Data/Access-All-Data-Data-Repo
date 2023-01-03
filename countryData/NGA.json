@@ -1150,7 +1150,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":54.15
+     "value":57.45
     },
     {
      "year":2021,
@@ -1367,7 +1367,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2326,6 +2326,15 @@
     {
      "year":2022,
      "value":1.92
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":5.4
     }
    ]
   },
@@ -4686,6 +4695,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":21.9
+    },
+    {
+     "year":2005,
+     "value":20.7
+    },
+    {
+     "year":2010,
+     "value":18.8
+    },
+    {
+     "year":2015,
+     "value":17.8
+    },
+    {
+     "year":2019,
+     "value":16.9
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":21.5
+    },
+    {
+     "year":2005,
+     "value":20.6
+    },
+    {
+     "year":2010,
+     "value":19.0
+    },
+    {
+     "year":2015,
+     "value":18.3
+    },
+    {
+     "year":2019,
+     "value":17.7
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":22.4
+    },
+    {
+     "year":2005,
+     "value":20.9
+    },
+    {
+     "year":2010,
+     "value":18.7
+    },
+    {
+     "year":2015,
+     "value":17.3
+    },
+    {
+     "year":2019,
+     "value":16.1
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5119,6 +5203,47 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":4.0
+    },
+    {
+     "year":2014,
+     "value":4.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":4.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    },
+    {
+     "year":2020,
+     "value":3.0
+    },
+    {
+     "year":2021,
+     "value":3.0
+    }
+   ]
+  },
+  {
    "indicator":"Poor persons covered by social protection systems",
    "yearlyData":[
     {
@@ -5456,6 +5581,184 @@
     {
      "year":2020,
      "value":77.61
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":30.43
+    },
+    {
+     "year":2001,
+     "value":31.82
+    },
+    {
+     "year":2002,
+     "value":33.31
+    },
+    {
+     "year":2003,
+     "value":34.81
+    },
+    {
+     "year":2004,
+     "value":36.31
+    },
+    {
+     "year":2005,
+     "value":37.83
+    },
+    {
+     "year":2006,
+     "value":39.36
+    },
+    {
+     "year":2007,
+     "value":40.89
+    },
+    {
+     "year":2008,
+     "value":42.44
+    },
+    {
+     "year":2009,
+     "value":43.99
+    },
+    {
+     "year":2010,
+     "value":45.55
+    },
+    {
+     "year":2011,
+     "value":47.12
+    },
+    {
+     "year":2012,
+     "value":48.7
+    },
+    {
+     "year":2013,
+     "value":50.29
+    },
+    {
+     "year":2014,
+     "value":51.89
+    },
+    {
+     "year":2015,
+     "value":53.49
+    },
+    {
+     "year":2016,
+     "value":55.11
+    },
+    {
+     "year":2017,
+     "value":56.73
+    },
+    {
+     "year":2018,
+     "value":58.37
+    },
+    {
+     "year":2019,
+     "value":60.01
+    },
+    {
+     "year":2020,
+     "value":61.66
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":66.93
+    },
+    {
+     "year":2001,
+     "value":67.53
+    },
+    {
+     "year":2002,
+     "value":68.74
+    },
+    {
+     "year":2003,
+     "value":69.96
+    },
+    {
+     "year":2004,
+     "value":71.19
+    },
+    {
+     "year":2005,
+     "value":72.44
+    },
+    {
+     "year":2006,
+     "value":73.69
+    },
+    {
+     "year":2007,
+     "value":74.95
+    },
+    {
+     "year":2008,
+     "value":76.23
+    },
+    {
+     "year":2009,
+     "value":77.51
+    },
+    {
+     "year":2010,
+     "value":78.81
+    },
+    {
+     "year":2011,
+     "value":80.12
+    },
+    {
+     "year":2012,
+     "value":81.43
+    },
+    {
+     "year":2013,
+     "value":82.76
+    },
+    {
+     "year":2014,
+     "value":84.1
+    },
+    {
+     "year":2015,
+     "value":85.45
+    },
+    {
+     "year":2016,
+     "value":86.81
+    },
+    {
+     "year":2017,
+     "value":88.18
+    },
+    {
+     "year":2018,
+     "value":89.56
+    },
+    {
+     "year":2019,
+     "value":90.95
+    },
+    {
+     "year":2020,
+     "value":92.36
     }
    ]
   },
@@ -7271,6 +7574,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":6.0
+    },
+    {
+     "year":2014,
+     "value":6.0
+    },
+    {
+     "year":2015,
+     "value":6.0
+    },
+    {
+     "year":2016,
+     "value":6.0
+    },
+    {
+     "year":2017,
+     "value":9.0
+    },
+    {
+     "year":2018,
+     "value":9.0
+    },
+    {
+     "year":2019,
+     "value":9.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA structural policies cluster average (1=low to 6=high)",
    "yearlyData":[
     {
@@ -8294,6 +8630,15 @@
     {
      "year":2013,
      "value":11.0
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":"employer&apos;s family members, civil\/public servants, agricultural workers, domestic workers, managerial \/ executive positions, seafarers, teachers"
     }
    ]
   }

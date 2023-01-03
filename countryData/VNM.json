@@ -969,7 +969,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":57.74
+     "value":61.26
     },
     {
      "year":2021,
@@ -1186,7 +1186,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2178,6 +2178,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":4.0
     }
    ]
   },
@@ -4789,6 +4798,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":21.6
+    },
+    {
+     "year":2005,
+     "value":21.8
+    },
+    {
+     "year":2010,
+     "value":22.4
+    },
+    {
+     "year":2015,
+     "value":21.9
+    },
+    {
+     "year":2019,
+     "value":21.2
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":14.8
+    },
+    {
+     "year":2005,
+     "value":14.5
+    },
+    {
+     "year":2010,
+     "value":14.6
+    },
+    {
+     "year":2015,
+     "value":14.2
+    },
+    {
+     "year":2019,
+     "value":13.7
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":29.2
+    },
+    {
+     "year":2005,
+     "value":30.0
+    },
+    {
+     "year":2010,
+     "value":30.9
+    },
+    {
+     "year":2015,
+     "value":30.3
+    },
+    {
+     "year":2019,
+     "value":29.1
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5274,6 +5358,47 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":3.0
+    },
+    {
+     "year":2014,
+     "value":3.0
+    },
+    {
+     "year":2015,
+     "value":3.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":3.0
+    },
+    {
+     "year":2018,
+     "value":4.0
+    },
+    {
+     "year":2019,
+     "value":4.0
+    },
+    {
+     "year":2020,
+     "value":4.0
+    },
+    {
+     "year":2021,
+     "value":3.0
+    }
+   ]
+  },
+  {
    "indicator":"Poor persons covered by social protection systems",
    "yearlyData":[
     {
@@ -5619,6 +5744,184 @@
     {
      "year":2020,
      "value":96.88
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":75.85
+    },
+    {
+     "year":2001,
+     "value":76.82
+    },
+    {
+     "year":2002,
+     "value":77.78
+    },
+    {
+     "year":2003,
+     "value":78.74
+    },
+    {
+     "year":2004,
+     "value":79.7
+    },
+    {
+     "year":2005,
+     "value":80.67
+    },
+    {
+     "year":2006,
+     "value":81.63
+    },
+    {
+     "year":2007,
+     "value":82.6
+    },
+    {
+     "year":2008,
+     "value":83.57
+    },
+    {
+     "year":2009,
+     "value":84.54
+    },
+    {
+     "year":2010,
+     "value":85.5
+    },
+    {
+     "year":2011,
+     "value":86.47
+    },
+    {
+     "year":2012,
+     "value":87.45
+    },
+    {
+     "year":2013,
+     "value":88.42
+    },
+    {
+     "year":2014,
+     "value":89.9
+    },
+    {
+     "year":2015,
+     "value":90.83
+    },
+    {
+     "year":2016,
+     "value":91.77
+    },
+    {
+     "year":2017,
+     "value":92.71
+    },
+    {
+     "year":2018,
+     "value":93.64
+    },
+    {
+     "year":2019,
+     "value":94.58
+    },
+    {
+     "year":2020,
+     "value":95.51
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":94.96
+    },
+    {
+     "year":2001,
+     "value":95.11
+    },
+    {
+     "year":2002,
+     "value":95.27
+    },
+    {
+     "year":2003,
+     "value":95.43
+    },
+    {
+     "year":2004,
+     "value":95.59
+    },
+    {
+     "year":2005,
+     "value":95.75
+    },
+    {
+     "year":2006,
+     "value":95.91
+    },
+    {
+     "year":2007,
+     "value":96.07
+    },
+    {
+     "year":2008,
+     "value":96.23
+    },
+    {
+     "year":2009,
+     "value":96.39
+    },
+    {
+     "year":2010,
+     "value":96.55
+    },
+    {
+     "year":2011,
+     "value":96.71
+    },
+    {
+     "year":2012,
+     "value":96.87
+    },
+    {
+     "year":2013,
+     "value":97.03
+    },
+    {
+     "year":2014,
+     "value":97.52
+    },
+    {
+     "year":2015,
+     "value":98.21
+    },
+    {
+     "year":2016,
+     "value":98.53
+    },
+    {
+     "year":2017,
+     "value":98.69
+    },
+    {
+     "year":2018,
+     "value":98.86
+    },
+    {
+     "year":2019,
+     "value":99.02
+    },
+    {
+     "year":2020,
+     "value":99.18
     }
    ]
   },
@@ -7524,6 +7827,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":7.0
+    },
+    {
+     "year":2014,
+     "value":7.0
+    },
+    {
+     "year":2015,
+     "value":7.0
+    },
+    {
+     "year":2016,
+     "value":7.0
+    },
+    {
+     "year":2017,
+     "value":8.0
+    },
+    {
+     "year":2018,
+     "value":8.0
+    },
+    {
+     "year":2019,
+     "value":8.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA structural policies cluster average (1=low to 6=high)",
    "yearlyData":[
     {
@@ -8677,6 +9013,15 @@
     {
      "year":2010,
      "value":10.8
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2012,
+     "value":"civil\/public servants, agricultural workers, domestic workers"
     }
    ]
   }

@@ -1142,7 +1142,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":61.23
+     "value":64.93
     },
     {
      "year":2021,
@@ -1350,7 +1350,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2383,6 +2383,15 @@
     {
      "year":2022,
      "value":1.8
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":6.0
     }
    ]
   },
@@ -5008,6 +5017,56 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":32.3
+    },
+    {
+     "year":2005,
+     "value":23.9
+    },
+    {
+     "year":2010,
+     "value":20.5
+    },
+    {
+     "year":2015,
+     "value":19.2
+    },
+    {
+     "year":2019,
+     "value":18.7
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":41.7
+    },
+    {
+     "year":2005,
+     "value":28.6
+    },
+    {
+     "year":2010,
+     "value":24.0
+    },
+    {
+     "year":2015,
+     "value":22.4
+    },
+    {
+     "year":2019,
+     "value":22.0
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5482,6 +5541,47 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":2.0
+    },
+    {
+     "year":2014,
+     "value":3.0
+    },
+    {
+     "year":2015,
+     "value":2.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":3.0
+    },
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    },
+    {
+     "year":2020,
+     "value":3.0
+    },
+    {
+     "year":2021,
+     "value":3.0
+    }
+   ]
+  },
+  {
    "indicator":"Poor persons covered by social protection systems",
    "yearlyData":[
     {
@@ -5819,6 +5919,184 @@
     {
      "year":2020,
      "value":60.41
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":40.62
+    },
+    {
+     "year":2001,
+     "value":41.38
+    },
+    {
+     "year":2002,
+     "value":42.13
+    },
+    {
+     "year":2003,
+     "value":42.89
+    },
+    {
+     "year":2004,
+     "value":43.66
+    },
+    {
+     "year":2005,
+     "value":44.43
+    },
+    {
+     "year":2006,
+     "value":45.2
+    },
+    {
+     "year":2007,
+     "value":45.98
+    },
+    {
+     "year":2008,
+     "value":46.76
+    },
+    {
+     "year":2009,
+     "value":47.55
+    },
+    {
+     "year":2010,
+     "value":48.34
+    },
+    {
+     "year":2011,
+     "value":49.13
+    },
+    {
+     "year":2012,
+     "value":49.93
+    },
+    {
+     "year":2013,
+     "value":50.73
+    },
+    {
+     "year":2014,
+     "value":51.54
+    },
+    {
+     "year":2015,
+     "value":52.35
+    },
+    {
+     "year":2016,
+     "value":53.17
+    },
+    {
+     "year":2017,
+     "value":53.99
+    },
+    {
+     "year":2018,
+     "value":54.81
+    },
+    {
+     "year":2019,
+     "value":55.64
+    },
+    {
+     "year":2020,
+     "value":55.64
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":70.95
+    },
+    {
+     "year":2001,
+     "value":71.56
+    },
+    {
+     "year":2002,
+     "value":72.17
+    },
+    {
+     "year":2003,
+     "value":72.79
+    },
+    {
+     "year":2004,
+     "value":73.41
+    },
+    {
+     "year":2005,
+     "value":74.03
+    },
+    {
+     "year":2006,
+     "value":74.66
+    },
+    {
+     "year":2007,
+     "value":75.29
+    },
+    {
+     "year":2008,
+     "value":75.92
+    },
+    {
+     "year":2009,
+     "value":76.55
+    },
+    {
+     "year":2010,
+     "value":77.18
+    },
+    {
+     "year":2011,
+     "value":77.82
+    },
+    {
+     "year":2012,
+     "value":78.46
+    },
+    {
+     "year":2013,
+     "value":79.11
+    },
+    {
+     "year":2014,
+     "value":79.75
+    },
+    {
+     "year":2015,
+     "value":80.4
+    },
+    {
+     "year":2016,
+     "value":81.05
+    },
+    {
+     "year":2017,
+     "value":81.7
+    },
+    {
+     "year":2018,
+     "value":82.36
+    },
+    {
+     "year":2019,
+     "value":83.02
+    },
+    {
+     "year":2020,
+     "value":83.02
     }
    ]
   },
@@ -7835,6 +8113,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":9.0
+    },
+    {
+     "year":2014,
+     "value":10.0
+    },
+    {
+     "year":2015,
+     "value":10.0
+    },
+    {
+     "year":2016,
+     "value":10.0
+    },
+    {
+     "year":2017,
+     "value":10.0
+    },
+    {
+     "year":2018,
+     "value":11.0
+    },
+    {
+     "year":2019,
+     "value":11.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA structural policies cluster average (1=low to 6=high)",
    "yearlyData":[
     {
@@ -8817,6 +9128,15 @@
     {
      "year":2015,
      "value":20.7
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"dockworkers, civil\/public servants, police, army, seafarers, teachers"
     }
    ]
   }

@@ -1126,7 +1126,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":32.57
+     "value":34.43
     },
     {
      "year":2021,
@@ -1343,7 +1343,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2235,6 +2235,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":2.3
     }
    ]
   },
@@ -5031,6 +5040,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":11.4
+    },
+    {
+     "year":2005,
+     "value":10.3
+    },
+    {
+     "year":2010,
+     "value":9.5
+    },
+    {
+     "year":2015,
+     "value":8.6
+    },
+    {
+     "year":2019,
+     "value":8.3
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":7.5
+    },
+    {
+     "year":2005,
+     "value":6.9
+    },
+    {
+     "year":2010,
+     "value":6.3
+    },
+    {
+     "year":2015,
+     "value":5.8
+    },
+    {
+     "year":2019,
+     "value":5.7
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":15.4
+    },
+    {
+     "year":2005,
+     "value":13.9
+    },
+    {
+     "year":2010,
+     "value":12.8
+    },
+    {
+     "year":2015,
+     "value":11.5
+    },
+    {
+     "year":2019,
+     "value":10.9
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, MSMEs",
    "yearlyData":[
     {
@@ -5496,6 +5580,24 @@
    ]
   },
   {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Persons with severe disabilities collecting disability social protection benefits",
    "yearlyData":[
     {
@@ -5582,6 +5684,35 @@
    "yearlyData":[
     {
      "year":2022,
+     "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":1.0
+    },
+    {
+     "year":2017,
+     "value":1.0
+    },
+    {
+     "year":2018,
+     "value":1.0
+    },
+    {
+     "year":2019,
+     "value":1.0
+    },
+    {
+     "year":2020,
+     "value":1.0
+    },
+    {
+     "year":2021,
      "value":1.0
     }
    ]
@@ -7570,6 +7701,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":5.0
+    },
+    {
+     "year":2014,
+     "value":5.0
+    },
+    {
+     "year":2015,
+     "value":5.0
+    },
+    {
+     "year":2016,
+     "value":5.0
+    },
+    {
+     "year":2017,
+     "value":5.0
+    },
+    {
+     "year":2018,
+     "value":5.0
+    },
+    {
+     "year":2019,
+     "value":5.0
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -8701,6 +8865,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"civil\/public servants, agricultural workers, domestic workers, police, army, managerial \/ executive positions"
     }
    ]
   }

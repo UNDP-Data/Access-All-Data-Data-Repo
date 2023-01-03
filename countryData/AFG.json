@@ -1022,7 +1022,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":41.49
+     "value":44.01
     },
     {
      "year":2021,
@@ -1213,7 +1213,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2217,6 +2217,15 @@
     {
      "year":2022,
      "value":1.16
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":8.0
     }
    ]
   },
@@ -4138,6 +4147,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":41.7
+    },
+    {
+     "year":2005,
+     "value":40.9
+    },
+    {
+     "year":2010,
+     "value":37.8
+    },
+    {
+     "year":2015,
+     "value":35.6
+    },
+    {
+     "year":2019,
+     "value":35.3
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":39.4
+    },
+    {
+     "year":2005,
+     "value":40.0
+    },
+    {
+     "year":2010,
+     "value":37.4
+    },
+    {
+     "year":2015,
+     "value":35.7
+    },
+    {
+     "year":2019,
+     "value":36.2
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":43.9
+    },
+    {
+     "year":2005,
+     "value":41.8
+    },
+    {
+     "year":2010,
+     "value":38.3
+    },
+    {
+     "year":2015,
+     "value":35.4
+    },
+    {
+     "year":2019,
+     "value":34.4
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -4590,6 +4674,43 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":5.0
+    },
+    {
+     "year":2014,
+     "value":5.0
+    },
+    {
+     "year":2015,
+     "value":5.0
+    },
+    {
+     "year":2016,
+     "value":4.0
+    },
+    {
+     "year":2017,
+     "value":5.0
+    },
+    {
+     "year":2018,
+     "value":5.0
+    },
+    {
+     "year":2020,
+     "value":5.0
+    },
+    {
+     "year":2021,
+     "value":5.0
+    }
+   ]
+  },
+  {
    "indicator":"Population ages 65 and above (% of total population)",
    "yearlyData":[
     {
@@ -4894,6 +5015,184 @@
     {
      "year":2020,
      "value":75.09
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":21.39
+    },
+    {
+     "year":2001,
+     "value":21.39
+    },
+    {
+     "year":2002,
+     "value":23.36
+    },
+    {
+     "year":2003,
+     "value":25.33
+    },
+    {
+     "year":2004,
+     "value":27.3
+    },
+    {
+     "year":2005,
+     "value":29.27
+    },
+    {
+     "year":2006,
+     "value":31.24
+    },
+    {
+     "year":2007,
+     "value":33.51
+    },
+    {
+     "year":2008,
+     "value":35.82
+    },
+    {
+     "year":2009,
+     "value":38.17
+    },
+    {
+     "year":2010,
+     "value":40.55
+    },
+    {
+     "year":2011,
+     "value":42.96
+    },
+    {
+     "year":2012,
+     "value":45.42
+    },
+    {
+     "year":2013,
+     "value":47.9
+    },
+    {
+     "year":2014,
+     "value":50.43
+    },
+    {
+     "year":2015,
+     "value":52.99
+    },
+    {
+     "year":2016,
+     "value":55.58
+    },
+    {
+     "year":2017,
+     "value":58.22
+    },
+    {
+     "year":2018,
+     "value":60.88
+    },
+    {
+     "year":2019,
+     "value":63.59
+    },
+    {
+     "year":2020,
+     "value":66.33
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":52.11
+    },
+    {
+     "year":2001,
+     "value":52.11
+    },
+    {
+     "year":2002,
+     "value":54.25
+    },
+    {
+     "year":2003,
+     "value":56.39
+    },
+    {
+     "year":2004,
+     "value":58.54
+    },
+    {
+     "year":2005,
+     "value":60.68
+    },
+    {
+     "year":2006,
+     "value":62.83
+    },
+    {
+     "year":2007,
+     "value":65.37
+    },
+    {
+     "year":2008,
+     "value":67.94
+    },
+    {
+     "year":2009,
+     "value":70.53
+    },
+    {
+     "year":2010,
+     "value":73.15
+    },
+    {
+     "year":2011,
+     "value":75.8
+    },
+    {
+     "year":2012,
+     "value":78.48
+    },
+    {
+     "year":2013,
+     "value":81.18
+    },
+    {
+     "year":2014,
+     "value":83.91
+    },
+    {
+     "year":2015,
+     "value":86.66
+    },
+    {
+     "year":2016,
+     "value":89.44
+    },
+    {
+     "year":2017,
+     "value":92.24
+    },
+    {
+     "year":2018,
+     "value":95.08
+    },
+    {
+     "year":2019,
+     "value":97.94
+    },
+    {
+     "year":2020,
+     "value":100.0
     }
    ]
   },
@@ -6509,6 +6808,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":9.0
+    },
+    {
+     "year":2014,
+     "value":9.0
+    },
+    {
+     "year":2015,
+     "value":9.0
+    },
+    {
+     "year":2016,
+     "value":9.0
+    },
+    {
+     "year":2017,
+     "value":9.0
+    },
+    {
+     "year":2018,
+     "value":10.0
+    },
+    {
+     "year":2019,
+     "value":10.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA structural policies cluster average (1=low to 6=high)",
    "yearlyData":[
     {
@@ -7492,6 +7824,15 @@
     {
      "year":2015,
      "value":46.1
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"state security corps, civil\/public servants, agricultural workers, domestic workers, police, army"
     }
    ]
   }

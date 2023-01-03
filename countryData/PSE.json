@@ -991,7 +991,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":66.28
+     "value":70.31
     },
     {
      "year":2021,
@@ -999,7 +999,7 @@
     },
     {
      "year":2022,
-     "value":18.62
+     "value":18.64
     }
    ]
   },
@@ -1056,7 +1056,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -1788,6 +1788,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":10.0
     }
    ]
   },
@@ -3643,6 +3652,184 @@
    ]
   },
   {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":87.11
+    },
+    {
+     "year":2001,
+     "value":87.63
+    },
+    {
+     "year":2002,
+     "value":88.16
+    },
+    {
+     "year":2003,
+     "value":88.68
+    },
+    {
+     "year":2004,
+     "value":89.21
+    },
+    {
+     "year":2005,
+     "value":89.73
+    },
+    {
+     "year":2006,
+     "value":90.25
+    },
+    {
+     "year":2007,
+     "value":90.78
+    },
+    {
+     "year":2008,
+     "value":91.3
+    },
+    {
+     "year":2009,
+     "value":91.83
+    },
+    {
+     "year":2010,
+     "value":92.35
+    },
+    {
+     "year":2011,
+     "value":92.87
+    },
+    {
+     "year":2012,
+     "value":93.4
+    },
+    {
+     "year":2013,
+     "value":94.06
+    },
+    {
+     "year":2014,
+     "value":94.72
+    },
+    {
+     "year":2015,
+     "value":95.38
+    },
+    {
+     "year":2016,
+     "value":96.05
+    },
+    {
+     "year":2017,
+     "value":96.71
+    },
+    {
+     "year":2018,
+     "value":97.38
+    },
+    {
+     "year":2019,
+     "value":98.05
+    },
+    {
+     "year":2020,
+     "value":98.72
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":92.03
+    },
+    {
+     "year":2001,
+     "value":92.37
+    },
+    {
+     "year":2002,
+     "value":92.71
+    },
+    {
+     "year":2003,
+     "value":93.05
+    },
+    {
+     "year":2004,
+     "value":93.4
+    },
+    {
+     "year":2005,
+     "value":93.74
+    },
+    {
+     "year":2006,
+     "value":94.08
+    },
+    {
+     "year":2007,
+     "value":94.42
+    },
+    {
+     "year":2008,
+     "value":94.76
+    },
+    {
+     "year":2009,
+     "value":95.11
+    },
+    {
+     "year":2010,
+     "value":95.45
+    },
+    {
+     "year":2011,
+     "value":95.79
+    },
+    {
+     "year":2012,
+     "value":96.13
+    },
+    {
+     "year":2013,
+     "value":96.33
+    },
+    {
+     "year":2014,
+     "value":96.52
+    },
+    {
+     "year":2015,
+     "value":96.71
+    },
+    {
+     "year":2016,
+     "value":96.89
+    },
+    {
+     "year":2017,
+     "value":97.08
+    },
+    {
+     "year":2018,
+     "value":97.26
+    },
+    {
+     "year":2019,
+     "value":97.44
+    },
+    {
+     "year":2020,
+     "value":97.63
+    }
+   ]
+  },
+  {
    "indicator":"Population using at least basic sanitation services (%)",
    "yearlyData":[
     {
@@ -5223,6 +5410,39 @@
     {
      "year":2022,
      "value":8.8
+    }
+   ]
+  },
+  {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":8.0
+    },
+    {
+     "year":2018,
+     "value":8.0
+    },
+    {
+     "year":2019,
+     "value":8.0
     }
    ]
   },

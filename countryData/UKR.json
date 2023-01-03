@@ -970,7 +970,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":53.14
+     "value":56.38
     },
     {
      "year":2021,
@@ -978,7 +978,7 @@
     },
     {
      "year":2022,
-     "value":20.59
+     "value":20.61
     }
    ]
   },
@@ -1187,7 +1187,7 @@
    ]
   },
   {
-   "indicator":"Economic Inequality",
+   "indicator":"Total",
    "yearlyData":[
     {
      "year":2022,
@@ -2130,6 +2130,15 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"X1: External Intervention",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":7.5
     }
    ]
   },
@@ -4649,6 +4658,81 @@
    ]
   },
   {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":34.7
+    },
+    {
+     "year":2005,
+     "value":35.3
+    },
+    {
+     "year":2010,
+     "value":29.7
+    },
+    {
+     "year":2015,
+     "value":26.2
+    },
+    {
+     "year":2019,
+     "value":25.5
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":23.9
+    },
+    {
+     "year":2005,
+     "value":23.8
+    },
+    {
+     "year":2010,
+     "value":19.9
+    },
+    {
+     "year":2015,
+     "value":16.8
+    },
+    {
+     "year":2019,
+     "value":16.0
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":46.8
+    },
+    {
+     "year":2005,
+     "value":48.4
+    },
+    {
+     "year":2010,
+     "value":41.4
+    },
+    {
+     "year":2015,
+     "value":37.5
+    },
+    {
+     "year":2019,
+     "value":36.9
+    }
+   ]
+  },
+  {
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
@@ -5239,6 +5323,47 @@
    ]
   },
   {
+   "indicator":"Political Terror Scale",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":3.0
+    },
+    {
+     "year":2014,
+     "value":3.0
+    },
+    {
+     "year":2015,
+     "value":5.0
+    },
+    {
+     "year":2016,
+     "value":3.0
+    },
+    {
+     "year":2017,
+     "value":4.0
+    },
+    {
+     "year":2018,
+     "value":4.0
+    },
+    {
+     "year":2019,
+     "value":3.0
+    },
+    {
+     "year":2020,
+     "value":2.0
+    },
+    {
+     "year":2021,
+     "value":3.0
+    }
+   ]
+  },
+  {
    "indicator":"Poor persons covered by social protection systems",
    "yearlyData":[
     {
@@ -5560,6 +5685,184 @@
     {
      "year":2020,
      "value":93.93
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":94.61
+    },
+    {
+     "year":2001,
+     "value":94.88
+    },
+    {
+     "year":2002,
+     "value":95.08
+    },
+    {
+     "year":2003,
+     "value":95.28
+    },
+    {
+     "year":2004,
+     "value":95.48
+    },
+    {
+     "year":2005,
+     "value":95.68
+    },
+    {
+     "year":2006,
+     "value":95.88
+    },
+    {
+     "year":2007,
+     "value":96.08
+    },
+    {
+     "year":2008,
+     "value":96.28
+    },
+    {
+     "year":2009,
+     "value":96.48
+    },
+    {
+     "year":2010,
+     "value":96.68
+    },
+    {
+     "year":2011,
+     "value":96.88
+    },
+    {
+     "year":2012,
+     "value":97.08
+    },
+    {
+     "year":2013,
+     "value":98.31
+    },
+    {
+     "year":2014,
+     "value":98.58
+    },
+    {
+     "year":2015,
+     "value":98.84
+    },
+    {
+     "year":2016,
+     "value":99.11
+    },
+    {
+     "year":2017,
+     "value":99.37
+    },
+    {
+     "year":2018,
+     "value":99.64
+    },
+    {
+     "year":2019,
+     "value":99.73
+    },
+    {
+     "year":2020,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":99.67
+    },
+    {
+     "year":2001,
+     "value":99.66
+    },
+    {
+     "year":2002,
+     "value":99.65
+    },
+    {
+     "year":2003,
+     "value":99.58
+    },
+    {
+     "year":2004,
+     "value":98.83
+    },
+    {
+     "year":2005,
+     "value":98.08
+    },
+    {
+     "year":2006,
+     "value":97.33
+    },
+    {
+     "year":2007,
+     "value":96.58
+    },
+    {
+     "year":2008,
+     "value":95.84
+    },
+    {
+     "year":2009,
+     "value":95.09
+    },
+    {
+     "year":2010,
+     "value":94.34
+    },
+    {
+     "year":2011,
+     "value":93.59
+    },
+    {
+     "year":2012,
+     "value":92.84
+    },
+    {
+     "year":2013,
+     "value":92.09
+    },
+    {
+     "year":2014,
+     "value":91.34
+    },
+    {
+     "year":2015,
+     "value":91.33
+    },
+    {
+     "year":2016,
+     "value":91.32
+    },
+    {
+     "year":2017,
+     "value":91.31
+    },
+    {
+     "year":2018,
+     "value":91.3
+    },
+    {
+     "year":2019,
+     "value":91.29
+    },
+    {
+     "year":2020,
+     "value":91.28
     }
    ]
   },
@@ -7341,6 +7644,39 @@
    ]
   },
   {
+   "indicator":"Strength of legal rights index (0=weak to 12=strong)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":8.0
+    },
+    {
+     "year":2014,
+     "value":8.0
+    },
+    {
+     "year":2015,
+     "value":8.0
+    },
+    {
+     "year":2016,
+     "value":8.0
+    },
+    {
+     "year":2017,
+     "value":8.0
+    },
+    {
+     "year":2018,
+     "value":8.0
+    },
+    {
+     "year":2019,
+     "value":8.0
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -8392,6 +8728,15 @@
     {
      "year":2007,
      "value":10.2
+    }
+   ]
+  },
+  {
+   "indicator":"Workers categories excluded",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":"agricultural workers"
     }
    ]
   }
