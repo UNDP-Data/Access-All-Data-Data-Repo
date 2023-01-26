@@ -1080,7 +1080,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":39.17
+     "value":41.56
     },
     {
      "year":2021,
@@ -1234,6 +1234,123 @@
     {
      "year":2022,
      "value":8.5
+    }
+   ]
+  },
+  {
+   "indicator":"Dynamic general equilibrium model-based (DGE) estimates of informal output (% of official GDP)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":34.91
+    },
+    {
+     "year":1991,
+     "value":35.28
+    },
+    {
+     "year":1992,
+     "value":35.17
+    },
+    {
+     "year":1993,
+     "value":35.02
+    },
+    {
+     "year":1994,
+     "value":35.11
+    },
+    {
+     "year":1995,
+     "value":34.97
+    },
+    {
+     "year":1996,
+     "value":35.25
+    },
+    {
+     "year":1997,
+     "value":35.39
+    },
+    {
+     "year":1998,
+     "value":35.54
+    },
+    {
+     "year":1999,
+     "value":35.46
+    },
+    {
+     "year":2000,
+     "value":34.87
+    },
+    {
+     "year":2001,
+     "value":35.26
+    },
+    {
+     "year":2002,
+     "value":34.79
+    },
+    {
+     "year":2003,
+     "value":34.21
+    },
+    {
+     "year":2004,
+     "value":33.31
+    },
+    {
+     "year":2005,
+     "value":32.16
+    },
+    {
+     "year":2006,
+     "value":31.7
+    },
+    {
+     "year":2007,
+     "value":31.05
+    },
+    {
+     "year":2008,
+     "value":30.81
+    },
+    {
+     "year":2009,
+     "value":30.64
+    },
+    {
+     "year":2010,
+     "value":30.14
+    },
+    {
+     "year":2011,
+     "value":29.3
+    },
+    {
+     "year":2012,
+     "value":28.14
+    },
+    {
+     "year":2013,
+     "value":27.31
+    },
+    {
+     "year":2014,
+     "value":26.59
+    },
+    {
+     "year":2015,
+     "value":26.32
+    },
+    {
+     "year":2016,
+     "value":26.03
+    },
+    {
+     "year":2017,
+     "value":25.62
     }
    ]
   },
@@ -5288,6 +5405,15 @@
     {
      "year":2014,
      "value":14.3
+    }
+   ]
+  },
+  {
+   "indicator":"Employment outside the formal sector (% of total employment; International Labour Organization; hamonized series)",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":83.43
     }
    ]
   },
@@ -10810,6 +10936,37 @@
     {
      "year":2020,
      "value":4.9
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms competing against unregistered or informal firms (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":65.2
+    },
+    {
+     "year":2014,
+     "value":78.5
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms formally registered when they started operations in the country (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":85.7
+    }
+   ]
+  },
+  {
+   "indicator":"Number of years firm operated without formal registration (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":1.0
     }
    ]
   },

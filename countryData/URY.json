@@ -1128,7 +1128,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":40.2
+     "value":42.64
     },
     {
      "year":2021,
@@ -1282,6 +1282,127 @@
     {
      "year":2022,
      "value":3.7
+    }
+   ]
+  },
+  {
+   "indicator":"Dynamic general equilibrium model-based (DGE) estimates of informal output (% of official GDP)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":50.1
+    },
+    {
+     "year":1991,
+     "value":49.89
+    },
+    {
+     "year":1992,
+     "value":49.73
+    },
+    {
+     "year":1993,
+     "value":49.35
+    },
+    {
+     "year":1994,
+     "value":49.06
+    },
+    {
+     "year":1995,
+     "value":48.74
+    },
+    {
+     "year":1996,
+     "value":48.08
+    },
+    {
+     "year":1997,
+     "value":47.79
+    },
+    {
+     "year":1998,
+     "value":46.93
+    },
+    {
+     "year":1999,
+     "value":46.41
+    },
+    {
+     "year":2000,
+     "value":46.11
+    },
+    {
+     "year":2001,
+     "value":46.03
+    },
+    {
+     "year":2002,
+     "value":45.72
+    },
+    {
+     "year":2003,
+     "value":45.64
+    },
+    {
+     "year":2004,
+     "value":45.96
+    },
+    {
+     "year":2005,
+     "value":46.08
+    },
+    {
+     "year":2006,
+     "value":46.09
+    },
+    {
+     "year":2007,
+     "value":46.1
+    },
+    {
+     "year":2008,
+     "value":45.73
+    },
+    {
+     "year":2009,
+     "value":45.48
+    },
+    {
+     "year":2010,
+     "value":45.11
+    },
+    {
+     "year":2011,
+     "value":45.06
+    },
+    {
+     "year":2012,
+     "value":44.05
+    },
+    {
+     "year":2013,
+     "value":43.76
+    },
+    {
+     "year":2014,
+     "value":43.43
+    },
+    {
+     "year":2015,
+     "value":43.01
+    },
+    {
+     "year":2016,
+     "value":42.66
+    },
+    {
+     "year":2017,
+     "value":42.54
+    },
+    {
+     "year":2018,
+     "value":42.41
     }
    ]
   },
@@ -7316,6 +7437,63 @@
     {
      "year":2017,
      "value":16.2
+    }
+   ]
+  },
+  {
+   "indicator":"Employment outside the formal sector (% of total employment; International Labour Organization; hamonized series)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":44.31
+    },
+    {
+     "year":2007,
+     "value":44.09
+    },
+    {
+     "year":2008,
+     "value":43.07
+    },
+    {
+     "year":2009,
+     "value":42.7
+    },
+    {
+     "year":2010,
+     "value":41.78
+    },
+    {
+     "year":2011,
+     "value":39.29
+    },
+    {
+     "year":2012,
+     "value":37.69
+    },
+    {
+     "year":2013,
+     "value":37.21
+    },
+    {
+     "year":2014,
+     "value":25.77
+    },
+    {
+     "year":2015,
+     "value":26.03
+    },
+    {
+     "year":2016,
+     "value":26.75
+    },
+    {
+     "year":2017,
+     "value":26.58
+    },
+    {
+     "year":2018,
+     "value":26.67
     }
    ]
   },
@@ -15416,6 +15594,57 @@
     {
      "year":2012,
      "value":17.0
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms competing against unregistered or informal firms (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":87.1
+    },
+    {
+     "year":2010,
+     "value":67.7
+    },
+    {
+     "year":2017,
+     "value":67.9
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms formally registered when they started operations in the country (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":97.8
+    },
+    {
+     "year":2010,
+     "value":94.6
+    },
+    {
+     "year":2017,
+     "value":94.7
+    }
+   ]
+  },
+  {
+   "indicator":"Number of years firm operated without formal registration (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":0.2
+    },
+    {
+     "year":2010,
+     "value":0.6
+    },
+    {
+     "year":2017,
+     "value":0.5
     }
    ]
   },

@@ -446,7 +446,7 @@
     },
     {
      "year":2023,
-     "value":272451.0
+     "value":272458.0
     }
    ]
   },
@@ -2550,6 +2550,45 @@
     {
      "year":2022,
      "value":2.0
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms competing against unregistered or informal firms (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":64.1
+    },
+    {
+     "year":2013,
+     "value":60.8
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms formally registered when they started operations in the country (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":89.2
+    },
+    {
+     "year":2013,
+     "value":97.8
+    }
+   ]
+  },
+  {
+   "indicator":"Number of years firm operated without formal registration (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":0.2
+    },
+    {
+     "year":2013,
+     "value":0.4
     }
    ]
   },

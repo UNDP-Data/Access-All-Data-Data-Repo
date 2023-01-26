@@ -535,7 +535,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":40.21
+     "value":42.65
     },
     {
      "year":2021,
@@ -564,7 +564,7 @@
     },
     {
      "year":2023,
-     "value":16590.0
+     "value":16672.0
     }
    ]
   },
@@ -3636,6 +3636,15 @@
     {
      "year":2009,
      "value":20.1
+    }
+   ]
+  },
+  {
+   "indicator":"Employment outside the formal sector (% of total employment; International Labour Organization; hamonized series)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":60.4
     }
    ]
   },
@@ -7625,6 +7634,33 @@
     {
      "year":2020,
      "value":6.2
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms competing against unregistered or informal firms (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":86.8
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms formally registered when they started operations in the country (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":93.5
+    }
+   ]
+  },
+  {
+   "indicator":"Number of years firm operated without formal registration (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":0.2
     }
    ]
   },

@@ -1148,7 +1148,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":49.4
+     "value":52.4
     },
     {
      "year":2021,
@@ -1156,7 +1156,7 @@
     },
     {
      "year":2022,
-     "value":19.2
+     "value":18.07
     }
    ]
   },
@@ -1177,7 +1177,7 @@
     },
     {
      "year":2023,
-     "value":2465639.0
+     "value":2466493.0
     }
    ]
   },
@@ -1198,7 +1198,7 @@
     },
     {
      "year":2023,
-     "value":17660.0
+     "value":17666.0
     }
    ]
   },
@@ -7024,6 +7024,51 @@
     {
      "year":2019,
      "value":19.7
+    }
+   ]
+  },
+  {
+   "indicator":"Employment outside the formal sector (% of total employment; International Labour Organization; hamonized series)",
+   "yearlyData":[
+    {
+     "year":2008,
+     "value":20.55
+    },
+    {
+     "year":2009,
+     "value":19.33
+    },
+    {
+     "year":2011,
+     "value":13.83
+    },
+    {
+     "year":2012,
+     "value":11.49
+    },
+    {
+     "year":2013,
+     "value":15.8
+    },
+    {
+     "year":2014,
+     "value":16.31
+    },
+    {
+     "year":2015,
+     "value":13.38
+    },
+    {
+     "year":2016,
+     "value":13.75
+    },
+    {
+     "year":2017,
+     "value":11.94
+    },
+    {
+     "year":2018,
+     "value":10.69
     }
    ]
   },
@@ -14503,6 +14548,45 @@
     {
      "year":2013,
      "value":36.24
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms competing against unregistered or informal firms (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":53.6
+    },
+    {
+     "year":2013,
+     "value":47.0
+    }
+   ]
+  },
+  {
+   "indicator":"Percent of firms formally registered when they started operations in the country (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":95.0
+    },
+    {
+     "year":2013,
+     "value":98.8
+    }
+   ]
+  },
+  {
+   "indicator":"Number of years firm operated without formal registration (World Bank Enterprise Surveys)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":0.2
+    },
+    {
+     "year":2013,
+     "value":0.1
     }
    ]
   },
