@@ -14,8 +14,12 @@
    "indicator":"Children\/households receiving child\/family cash benefits",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":2.0
+    },
+    {
+     "year":2020,
+     "value":2.8
     }
    ]
   },
@@ -58,6 +62,15 @@
     {
      "year":2023,
      "value":12.0
+    }
+   ]
+  },
+  {
+   "indicator":"Employed covered in the event of work injury",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":14.2
     }
    ]
   },
@@ -325,8 +338,12 @@
    "indicator":"Mothers with newborns receiving maternity benefits, Females",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":73.3
+    },
+    {
+     "year":2020,
+     "value":55.3
     }
    ]
   },
@@ -334,8 +351,12 @@
    "indicator":"Persons above retirement age receiving a pension",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":44.3
+    },
+    {
+     "year":2020,
+     "value":66.1
     }
    ]
   },
@@ -343,8 +364,12 @@
    "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":47.5
+    },
+    {
+     "year":2020,
+     "value":72.7
     }
    ]
   },
@@ -352,8 +377,12 @@
    "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":41.0
+    },
+    {
+     "year":2020,
+     "value":59.1
     }
    ]
   },
@@ -369,8 +398,12 @@
      "value":25.8
     },
     {
-     "year":2020,
+     "year":2019,
      "value":25.6
+    },
+    {
+     "year":2020,
+     "value":30.5
     }
    ]
   },
@@ -387,8 +420,12 @@
    "indicator":"Population covered by at least one social protection benefit",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":57.7
+    },
+    {
+     "year":2020,
+     "value":68.8
     }
    ]
   },
@@ -405,8 +442,12 @@
    "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Female",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":47.5
+    },
+    {
+     "year":2020,
+     "value":72.7
     }
    ]
   },
@@ -414,8 +455,12 @@
    "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Male",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":41.0
+    },
+    {
+     "year":2020,
+     "value":59.1
     }
    ]
   },
@@ -423,8 +468,12 @@
    "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":44.3
+    },
+    {
+     "year":2020,
+     "value":66.1
     }
    ]
   },
@@ -789,7 +838,15 @@
    "indicator":"Unemployed receiving unemployment benefits",
    "yearlyData":[
     {
+     "year":2019,
+     "value":0.0
+    },
+    {
      "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2022,
      "value":0.0
     }
    ]
@@ -888,8 +945,12 @@
    "indicator":"Vulnerable persons covered by social assistance",
    "yearlyData":[
     {
-     "year":2020,
+     "year":2019,
      "value":5.6
+    },
+    {
+     "year":2020,
+     "value":6.7
     }
    ]
   }

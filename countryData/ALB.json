@@ -1931,6 +1931,15 @@
    ]
   },
   {
+   "indicator":"Employed covered in the event of work injury",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":40.7
+    }
+   ]
+  },
+  {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 15-24",
    "yearlyData":[
     {
@@ -7730,6 +7739,15 @@
    ]
   },
   {
+   "indicator":"Mothers with newborns receiving maternity benefits, Females",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":47.9
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, MSMEs",
    "yearlyData":[
     {
@@ -8212,6 +8230,37 @@
     {
      "year":2011,
      "value":77.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Female",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutorypensionable age receiving apension, by sex (%)::Male",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Persons with severe disabilities collecting disability social protection benefits",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":100.0
     }
    ]
   },
@@ -8664,6 +8713,15 @@
     {
      "year":2021,
      "value":16.23
+    }
+   ]
+  },
+  {
+   "indicator":"Population covered by at least one social protection benefit",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":77.6
     }
    ]
   },
@@ -9588,11 +9646,33 @@
    ]
   },
   {
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Female",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Male",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
    "yearlyData":[
     {
      "year":2011,
      "value":77.0
+    },
+    {
+     "year":2021,
+     "value":100.0
     }
    ]
   },
@@ -13236,6 +13316,10 @@
     {
      "year":2012,
      "value":6.9
+    },
+    {
+     "year":2021,
+     "value":2.6
     }
    ]
   },

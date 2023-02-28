@@ -1,0 +1,126 @@
+{
+ "Alpha-3 code":"Aus&NZ",
+ "Country or Area":"Australia and New Zealand",
+ "Latitude (average)":0.0,
+ "Longitude (average)":0.0,
+ "Group 1":"",
+ "Group 2":"",
+ "LDC":false,
+ "LLDC":false,
+ "SIDS":false,
+ "Income group":"",
+ "indicators":[
+  {
+   "indicator":"Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":11.0
+    },
+    {
+     "year":2015,
+     "value":9.4
+    },
+    {
+     "year":2016,
+     "value":11.5
+    },
+    {
+     "year":2017,
+     "value":14.1
+    },
+    {
+     "year":2018,
+     "value":12.8
+    },
+    {
+     "year":2019,
+     "value":13.3
+    },
+    {
+     "year":2020,
+     "value":11.6
+    },
+    {
+     "year":2021,
+     "value":12.2
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":13.4
+    },
+    {
+     "year":2005,
+     "value":11.7
+    },
+    {
+     "year":2010,
+     "value":10.2
+    },
+    {
+     "year":2015,
+     "value":9.5
+    },
+    {
+     "year":2019,
+     "value":8.9
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":10.4
+    },
+    {
+     "year":2005,
+     "value":9.1
+    },
+    {
+     "year":2010,
+     "value":8.0
+    },
+    {
+     "year":2015,
+     "value":7.6
+    },
+    {
+     "year":2019,
+     "value":7.1
+    }
+   ]
+  },
+  {
+   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":16.4
+    },
+    {
+     "year":2005,
+     "value":14.2
+    },
+    {
+     "year":2010,
+     "value":12.3
+    },
+    {
+     "year":2015,
+     "value":11.5
+    },
+    {
+     "year":2019,
+     "value":10.6
+    }
+   ]
+  }
+ ]
+}
