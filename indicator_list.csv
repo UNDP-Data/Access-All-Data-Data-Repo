@@ -295,3 +295,6 @@ infsizep_wb,Employment outside the formal sector (% of total employment; Interna
 data_energy_consumption_wb,Renewable energy consumption (% of total final energy consumption),Renewable energy consumption (% of total final energy consumption),WBANK_ENERGY_CONSUMPTION,float,WBANK_ENERGY_CONSUMPTION_transform,
 data_energy_imports_wb,"Energy imports, net (% of energy use)","Energy imports, net (% of energy use)",WBANK_ENERGY_IMPORTS,float,WBANK_ENERGY_IMPORTS_transform,
 emissionsassociatedwithghgtarget_cwndc,Emission levels associated with GHG target set by (I)NDCs,Emission levels associated with GHG target set by (I)NDCs,CW_NDC,float,CW_NDC_transform,
+energypercapita_owided,"Primary energy consumption per capita, measured in kilowatt-hours","Primary energy consumption per capita, measured in kilowatt-hours",OWID_ENERGY_DATA,float,OWID_ENERGY_DATA_transform,
+coalconsumption_owided,"Primary energy consumption from coal, measured in terawatt-hours","Primary energy consumption from coal, measured in terawatt-hours",OWID_ENERGY_DATA,float,OWID_ENERGY_DATA_transform,
+coalelectricity_owided,"Electricity generation from coal, measured in terawatt-hours","Electricity generation from coal, measured in terawatt-hours",OWID_ENERGY_DATA,float,OWID_ENERGY_DATA_transform,
