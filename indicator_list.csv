@@ -298,3 +298,7 @@ emissionsassociatedwithghgtarget_cwndc,Emission levels associated with GHG targe
 energypercapita_owided,"Primary energy consumption per capita, measured in kilowatt-hours","Primary energy consumption per capita, measured in kilowatt-hours",OWID_ENERGY_DATA,float,OWID_ENERGY_DATA_transform,
 coalconsumption_owided,"Primary energy consumption from coal, measured in terawatt-hours","Primary energy consumption from coal, measured in terawatt-hours",OWID_ENERGY_DATA,float,OWID_ENERGY_DATA_transform,
 coalelectricity_owided,"Electricity generation from coal, measured in terawatt-hours","Electricity generation from coal, measured in terawatt-hours",OWID_ENERGY_DATA,float,OWID_ENERGY_DATA_transform,
+access_elec_wb,Access to electricity (% of population),Access to electricity (% of population),WBANK_ACCESS_ELEC,float,WBANK_ACCESS_ELEC_transform,
+access_elec_urban_wb,"Access to electricity, urban (% of urban population)","Access to electricity, urban (% of urban population)",WBANK_ACCESS_ELEC_URBAN,float,WBANK_ACCESS_ELEC_URBAN_transform,
+access_elec_rural_wb,"Access to electricity, rural (% of rural population)","Access to electricity, rural (% of rural population)",WBANK_ACCESS_ELEC_RURAL,float,WBANK_ACCESS_ELEC_RURAL_transform,
+access_fuel_tech_wb,Access to clean fuels and technologies for cooking  (% of population),Access to clean fuels and technologies for cooking  (% of population),WBANK_ACCESS_FUEL_TECH,float,WBANK_ACCESS_FUEL_TECH_transform,
