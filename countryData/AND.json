@@ -11,6 +11,19 @@
  "Income group":"High income",
  "indicators":[
   {
+   "indicator":"% change in remittance from previous year",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":21100000.0
+    },
+    {
+     "year":2020,
+     "value":47416323.7400000021
+    }
+   ]
+  },
+  {
    "indicator":"Access to electricity, rural (% of rural population)",
    "yearlyData":[
     {
@@ -542,7 +555,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":38.22
+     "value":40.54
     },
     {
      "year":2021,
@@ -2309,6 +2322,19 @@
     {
      "year":2020,
      "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Remittance as % of GDP",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":21100000.0
+    },
+    {
+     "year":2020,
+     "value":47416323.7400000021
     }
    ]
   },
