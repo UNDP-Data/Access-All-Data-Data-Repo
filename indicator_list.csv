@@ -1,4 +1,4 @@
-Indicator ID,Indicator Name,Display Name,Source ID,Data Type,Transform Notebook,Frequency
+Indicator ID,Indicator Name,Display Name,Source ID,Data Type,Transform Notebook,Frequency,AggregateType
 mmrlatest_gii,"Gender Inequality Index-Maternal mortality ratio (deaths per 100,000 live births)",Gender Inequality Index-Maternal mortality ratio,HDR,float,HDR_transform,
 secedufemalelatest_gii,"Gender Inequality Index-Population with at least some secondary education, female (% ages 25 and older)",Gender Inequality Index-female population with secondary education,HDR,float,HDR_transform,
 labourforcemalelatest_gii,"Gender Inequality Index-Labour force participation rate, male (% ages 15 and older)",Gender inequality index- male labour force participation rate,HDR,float,HDR_transform,
@@ -154,7 +154,7 @@ multidimensionalpovertyindex_undpmpi,Multidimensional Poverty Index,Multidimensi
 legislationonuniversalhealthcoverage_wholouhc,Countries that have passed legislation on Universal Health Coverage (UHC) 2017,Countries that have passed legislation on Universal Health Coverage (UHC),WHO_LOUHC,text,WHO_RL_transform,
 estimatednumberofpeoplehwithhiv_whoephiv,Estimated number of people (all ages) living with HIV,Estimated number of people (all ages) living with HIV,WHO_EPHIV,float,WHO_RL_transform,
 currenthealthexpenditure_whoche,Current health expenditure (% of GDP),Current health expenditure (% of GDP),WHO_CHE,float,WHO_RL_transform,
-totalpopulation_untp,"Population, total",Total population,UNTP,float,UNTP_transform,
+totalpopulation_untp,"Population, total",Total population,UNTP,float,UNTP_transform,,SimpleSum
 numberofhospitalbedsper10000people_whohb,"Number of hospital beds per 10,000 people",Number of hospital beds per 10000 people,WHO_HB,float,WHO_RL_transform,
 physiciansper10000people_whops,"Physicians per 10,000 people",Physicians per 10000 people,WHO_PS,float,WHO_RL_transform,
 nursesandmidwivesper10000people_whonam,"Nurses and midwives per 10,000 people",Nurses and midwives per 10000 people,WHO_NAM,float,WHO_RL_transform,
