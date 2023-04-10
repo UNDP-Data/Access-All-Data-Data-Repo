@@ -887,6 +887,147 @@
    ]
   },
   {
+   "indicator":"Chemicals (% of value added in manufacturing)",
+   "yearlyData":[
+    {
+     "year":1982,
+     "value":6.82
+    },
+    {
+     "year":1984,
+     "value":6.42
+    },
+    {
+     "year":1986,
+     "value":3.48
+    },
+    {
+     "year":1988,
+     "value":4.76
+    },
+    {
+     "year":1989,
+     "value":6.29
+    },
+    {
+     "year":1990,
+     "value":1.59
+    },
+    {
+     "year":1991,
+     "value":2.77
+    },
+    {
+     "year":1992,
+     "value":2.77
+    },
+    {
+     "year":1993,
+     "value":2.02
+    },
+    {
+     "year":1994,
+     "value":2.31
+    },
+    {
+     "year":1995,
+     "value":2.31
+    },
+    {
+     "year":1996,
+     "value":5.9
+    },
+    {
+     "year":1997,
+     "value":5.9
+    },
+    {
+     "year":1998,
+     "value":4.38
+    },
+    {
+     "year":1999,
+     "value":4.38
+    },
+    {
+     "year":2000,
+     "value":6.16
+    },
+    {
+     "year":2001,
+     "value":6.16
+    },
+    {
+     "year":2002,
+     "value":5.85
+    },
+    {
+     "year":2003,
+     "value":5.85
+    },
+    {
+     "year":2004,
+     "value":5.85
+    },
+    {
+     "year":2005,
+     "value":6.32
+    },
+    {
+     "year":2006,
+     "value":6.32
+    },
+    {
+     "year":2007,
+     "value":6.32
+    },
+    {
+     "year":2008,
+     "value":6.32
+    },
+    {
+     "year":2009,
+     "value":5.38
+    },
+    {
+     "year":2010,
+     "value":5.38
+    },
+    {
+     "year":2011,
+     "value":5.65
+    },
+    {
+     "year":2012,
+     "value":5.69
+    },
+    {
+     "year":2013,
+     "value":5.69
+    },
+    {
+     "year":2014,
+     "value":7.68
+    },
+    {
+     "year":2015,
+     "value":7.68
+    },
+    {
+     "year":2016,
+     "value":7.47
+    },
+    {
+     "year":2017,
+     "value":7.68
+    },
+    {
+     "year":2018,
+     "value":7.68
+    }
+   ]
+  },
+  {
    "indicator":"Children\/households receiving child\/family cash benefits",
    "yearlyData":[
     {
@@ -1415,6 +1556,24 @@
     {
      "year":2021,
      "value":0.75
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Risks Index Score",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":29.83
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Risks Index Ranking",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":9.0
     }
    ]
   },
@@ -2109,6 +2268,15 @@
     {
      "year":2022,
      "value":6.4
+    }
+   ]
+  },
+  {
+   "indicator":"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":3.75
     }
    ]
   },
@@ -4922,6 +5090,135 @@
     {
      "year":2022,
      "value":1.31
+    }
+   ]
+  },
+  {
+   "indicator":"Forest area (% of land area)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":37.9
+    },
+    {
+     "year":1991,
+     "value":37.83
+    },
+    {
+     "year":1992,
+     "value":37.75
+    },
+    {
+     "year":1993,
+     "value":37.68
+    },
+    {
+     "year":1994,
+     "value":37.61
+    },
+    {
+     "year":1995,
+     "value":37.54
+    },
+    {
+     "year":1996,
+     "value":37.47
+    },
+    {
+     "year":1997,
+     "value":37.4
+    },
+    {
+     "year":1998,
+     "value":37.33
+    },
+    {
+     "year":1999,
+     "value":37.26
+    },
+    {
+     "year":2000,
+     "value":37.19
+    },
+    {
+     "year":2001,
+     "value":37.4
+    },
+    {
+     "year":2002,
+     "value":37.61
+    },
+    {
+     "year":2003,
+     "value":37.82
+    },
+    {
+     "year":2004,
+     "value":38.03
+    },
+    {
+     "year":2005,
+     "value":38.24
+    },
+    {
+     "year":2006,
+     "value":38.45
+    },
+    {
+     "year":2007,
+     "value":38.66
+    },
+    {
+     "year":2008,
+     "value":38.87
+    },
+    {
+     "year":2009,
+     "value":39.08
+    },
+    {
+     "year":2010,
+     "value":39.29
+    },
+    {
+     "year":2011,
+     "value":39.29
+    },
+    {
+     "year":2012,
+     "value":39.28
+    },
+    {
+     "year":2013,
+     "value":39.28
+    },
+    {
+     "year":2014,
+     "value":39.27
+    },
+    {
+     "year":2015,
+     "value":39.27
+    },
+    {
+     "year":2016,
+     "value":39.18
+    },
+    {
+     "year":2017,
+     "value":39.11
+    },
+    {
+     "year":2018,
+     "value":39.04
+    },
+    {
+     "year":2019,
+     "value":38.97
+    },
+    {
+     "year":2020,
+     "value":38.9
     }
    ]
   },
@@ -9038,6 +9335,63 @@
    ]
   },
   {
+   "indicator":"Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+   "yearlyData":[
+    {
+     "year":2007,
+     "value":23.01
+    },
+    {
+     "year":2008,
+     "value":23.01
+    },
+    {
+     "year":2009,
+     "value":23.01
+    },
+    {
+     "year":2010,
+     "value":23.01
+    },
+    {
+     "year":2011,
+     "value":23.01
+    },
+    {
+     "year":2012,
+     "value":23.01
+    },
+    {
+     "year":2013,
+     "value":23.01
+    },
+    {
+     "year":2014,
+     "value":23.01
+    },
+    {
+     "year":2015,
+     "value":23.01
+    },
+    {
+     "year":2016,
+     "value":23.01
+    },
+    {
+     "year":2017,
+     "value":23.01
+    },
+    {
+     "year":2018,
+     "value":23.01
+    },
+    {
+     "year":2019,
+     "value":23.01
+    }
+   ]
+  },
+  {
    "indicator":"Level of Perceived Criminality in Society",
    "yearlyData":[
     {
@@ -10741,6 +11095,175 @@
    ]
   },
   {
+   "indicator":"Ores and metals exports (% of merchandise exports)",
+   "yearlyData":[
+    {
+     "year":1980,
+     "value":13.6
+    },
+    {
+     "year":1981,
+     "value":8.2
+    },
+    {
+     "year":1982,
+     "value":6.85
+    },
+    {
+     "year":1983,
+     "value":5.62
+    },
+    {
+     "year":1984,
+     "value":4.52
+    },
+    {
+     "year":1985,
+     "value":4.44
+    },
+    {
+     "year":1986,
+     "value":2.18
+    },
+    {
+     "year":1987,
+     "value":1.58
+    },
+    {
+     "year":1989,
+     "value":1.41
+    },
+    {
+     "year":1990,
+     "value":1.04
+    },
+    {
+     "year":1991,
+     "value":0.69
+    },
+    {
+     "year":1992,
+     "value":0.59
+    },
+    {
+     "year":1993,
+     "value":0.53
+    },
+    {
+     "year":1994,
+     "value":0.53
+    },
+    {
+     "year":1995,
+     "value":0.62
+    },
+    {
+     "year":1996,
+     "value":0.7
+    },
+    {
+     "year":1997,
+     "value":0.95
+    },
+    {
+     "year":1998,
+     "value":1.04
+    },
+    {
+     "year":1999,
+     "value":1.01
+    },
+    {
+     "year":2000,
+     "value":1.16
+    },
+    {
+     "year":2001,
+     "value":1.07
+    },
+    {
+     "year":2002,
+     "value":1.12
+    },
+    {
+     "year":2003,
+     "value":0.99
+    },
+    {
+     "year":2004,
+     "value":1.15
+    },
+    {
+     "year":2005,
+     "value":1.24
+    },
+    {
+     "year":2006,
+     "value":1.5
+    },
+    {
+     "year":2007,
+     "value":1.78
+    },
+    {
+     "year":2008,
+     "value":1.3
+    },
+    {
+     "year":2009,
+     "value":1.06
+    },
+    {
+     "year":2010,
+     "value":1.27
+    },
+    {
+     "year":2011,
+     "value":1.38
+    },
+    {
+     "year":2012,
+     "value":1.32
+    },
+    {
+     "year":2013,
+     "value":1.29
+    },
+    {
+     "year":2014,
+     "value":1.32
+    },
+    {
+     "year":2015,
+     "value":1.14
+    },
+    {
+     "year":2016,
+     "value":1.2
+    },
+    {
+     "year":2017,
+     "value":1.48
+    },
+    {
+     "year":2018,
+     "value":1.61
+    },
+    {
+     "year":2019,
+     "value":1.6
+    },
+    {
+     "year":2020,
+     "value":1.86
+    },
+    {
+     "year":2021,
+     "value":2.57
+    }
+   ]
+  },
+  {
    "indicator":"Intensity of Organised Internal Conflict",
    "yearlyData":[
     {
@@ -11350,6 +11873,15 @@
     {
      "year":2021,
      "value":3.0
+    }
+   ]
+  },
+  {
+   "indicator":"Air pollution deaths from fossil fuels, 2015",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":25277.0
     }
    ]
   },
@@ -12657,6 +13189,24 @@
    ]
   },
   {
+   "indicator":"Climate Change Readiness Score",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":0.48
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change Readiness Ranking",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":62.0
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
    "yearlyData":[
     {
@@ -13039,6 +13589,171 @@
     {
      "year":2021,
      "value":9064843602.6000003815
+    }
+   ]
+  },
+  {
+   "indicator":"Renewable internal freshwater resources per capita (cubic meters)",
+   "yearlyData":[
+    {
+     "year":1980,
+     "value":4908.64
+    },
+    {
+     "year":1981,
+     "value":4804.69
+    },
+    {
+     "year":1982,
+     "value":4706.68
+    },
+    {
+     "year":1983,
+     "value":4612.85
+    },
+    {
+     "year":1984,
+     "value":4523.06
+    },
+    {
+     "year":1985,
+     "value":4437.4
+    },
+    {
+     "year":1986,
+     "value":4355.86
+    },
+    {
+     "year":1987,
+     "value":4278.08
+    },
+    {
+     "year":1988,
+     "value":4203.44
+    },
+    {
+     "year":1989,
+     "value":4132.8
+    },
+    {
+     "year":1990,
+     "value":4065.12
+    },
+    {
+     "year":1991,
+     "value":4001.97
+    },
+    {
+     "year":1992,
+     "value":3942.99
+    },
+    {
+     "year":1993,
+     "value":3885.86
+    },
+    {
+     "year":1994,
+     "value":3830.57
+    },
+    {
+     "year":1995,
+     "value":3778.05
+    },
+    {
+     "year":1996,
+     "value":3728.71
+    },
+    {
+     "year":1997,
+     "value":3681.15
+    },
+    {
+     "year":1998,
+     "value":3636.07
+    },
+    {
+     "year":1999,
+     "value":3595.46
+    },
+    {
+     "year":2000,
+     "value":3559.89
+    },
+    {
+     "year":2001,
+     "value":3527.26
+    },
+    {
+     "year":2002,
+     "value":3495.81
+    },
+    {
+     "year":2003,
+     "value":3465.89
+    },
+    {
+     "year":2004,
+     "value":3437.54
+    },
+    {
+     "year":2005,
+     "value":3410.9
+    },
+    {
+     "year":2006,
+     "value":3385.28
+    },
+    {
+     "year":2007,
+     "value":3359.58
+    },
+    {
+     "year":2008,
+     "value":3334.56
+    },
+    {
+     "year":2009,
+     "value":3310.69
+    },
+    {
+     "year":2010,
+     "value":3288.54
+    },
+    {
+     "year":2011,
+     "value":3267.37
+    },
+    {
+     "year":2012,
+     "value":3246.38
+    },
+    {
+     "year":2013,
+     "value":3226.71
+    },
+    {
+     "year":2014,
+     "value":3209.08
+    },
+    {
+     "year":2015,
+     "value":3193.85
+    },
+    {
+     "year":2016,
+     "value":3179.71
+    },
+    {
+     "year":2017,
+     "value":3166.65
+    },
+    {
+     "year":2018,
+     "value":3156.43
+    },
+    {
+     "year":2019,
+     "value":3148.47
     }
    ]
   },
@@ -16397,6 +17112,15 @@
     {
      "year":2021,
      "value":27.05
+    }
+   ]
+  },
+  {
+   "indicator":"Climate vulnerability ranking",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":88.0
     }
    ]
   },
