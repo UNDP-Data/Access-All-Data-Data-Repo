@@ -1869,6 +1869,288 @@
    ]
   },
   {
+   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
+   "yearlyData":[
+    {
+     "year":1986,
+     "value":0.0
+    },
+    {
+     "year":1989,
+     "value":42.5
+    },
+    {
+     "year":1990,
+     "value":23.9
+    },
+    {
+     "year":1991,
+     "value":5.5
+    },
+    {
+     "year":1992,
+     "value":5.8
+    },
+    {
+     "year":1993,
+     "value":8.5
+    },
+    {
+     "year":1994,
+     "value":4.7
+    },
+    {
+     "year":1995,
+     "value":13.2
+    },
+    {
+     "year":1996,
+     "value":11.0
+    },
+    {
+     "year":1997,
+     "value":19.3
+    },
+    {
+     "year":1998,
+     "value":20.4
+    },
+    {
+     "year":1999,
+     "value":13.8
+    },
+    {
+     "year":2000,
+     "value":33.6
+    },
+    {
+     "year":2001,
+     "value":91.0
+    },
+    {
+     "year":2002,
+     "value":153.7
+    },
+    {
+     "year":2003,
+     "value":94.4
+    },
+    {
+     "year":2004,
+     "value":153.1
+    },
+    {
+     "year":2005,
+     "value":192.9
+    },
+    {
+     "year":2006,
+     "value":166.5
+    },
+    {
+     "year":2007,
+     "value":191.4
+    },
+    {
+     "year":2008,
+     "value":262.9
+    },
+    {
+     "year":2009,
+     "value":362.1
+    },
+    {
+     "year":2010,
+     "value":398.8
+    },
+    {
+     "year":2011,
+     "value":376.88
+    },
+    {
+     "year":2012,
+     "value":376.31
+    },
+    {
+     "year":2013,
+     "value":357.44
+    },
+    {
+     "year":2014,
+     "value":342.14
+    },
+    {
+     "year":2015,
+     "value":309.28
+    },
+    {
+     "year":2016,
+     "value":272.98
+    },
+    {
+     "year":2017,
+     "value":229.28
+    },
+    {
+     "year":2018,
+     "value":162.96
+    },
+    {
+     "year":2019,
+     "value":63.79
+    },
+    {
+     "year":2020,
+     "value":163.67
+    },
+    {
+     "year":2021,
+     "value":123.84
+    }
+   ]
+  },
+  {
+   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Total",
+   "yearlyData":[
+    {
+     "year":1986,
+     "value":0.0
+    },
+    {
+     "year":1989,
+     "value":52.3
+    },
+    {
+     "year":1990,
+     "value":28.1
+    },
+    {
+     "year":1991,
+     "value":65.5
+    },
+    {
+     "year":1992,
+     "value":95.8
+    },
+    {
+     "year":1993,
+     "value":84.0
+    },
+    {
+     "year":1994,
+     "value":82.6
+    },
+    {
+     "year":1995,
+     "value":29.7
+    },
+    {
+     "year":1996,
+     "value":54.0
+    },
+    {
+     "year":1997,
+     "value":56.9
+    },
+    {
+     "year":1998,
+     "value":62.6
+    },
+    {
+     "year":1999,
+     "value":52.8
+    },
+    {
+     "year":2000,
+     "value":61.8
+    },
+    {
+     "year":2001,
+     "value":124.6
+    },
+    {
+     "year":2002,
+     "value":545.9
+    },
+    {
+     "year":2003,
+     "value":495.6
+    },
+    {
+     "year":2004,
+     "value":547.5
+    },
+    {
+     "year":2005,
+     "value":214.0
+    },
+    {
+     "year":2006,
+     "value":179.5
+    },
+    {
+     "year":2007,
+     "value":196.1
+    },
+    {
+     "year":2008,
+     "value":268.0
+    },
+    {
+     "year":2009,
+     "value":366.0
+    },
+    {
+     "year":2010,
+     "value":400.3
+    },
+    {
+     "year":2011,
+     "value":377.58
+    },
+    {
+     "year":2012,
+     "value":376.81
+    },
+    {
+     "year":2013,
+     "value":357.84
+    },
+    {
+     "year":2014,
+     "value":342.14
+    },
+    {
+     "year":2015,
+     "value":309.28
+    },
+    {
+     "year":2016,
+     "value":272.98
+    },
+    {
+     "year":2017,
+     "value":229.28
+    },
+    {
+     "year":2018,
+     "value":162.96
+    },
+    {
+     "year":2019,
+     "value":63.79
+    },
+    {
+     "year":2020,
+     "value":163.67
+    },
+    {
+     "year":2021,
+     "value":123.84
+    }
+   ]
+  },
+  {
    "indicator":"Transparency Internationals Corruption Perceptions index",
    "yearlyData":[
     {
@@ -1980,7 +2262,7 @@
     },
     {
      "year":2023,
-     "value":7592255.0
+     "value":7597982.0
     }
    ]
   },
@@ -2001,7 +2283,7 @@
     },
     {
      "year":2023,
-     "value":145391.0
+     "value":145571.0
     }
    ]
   },
@@ -9776,6 +10058,15 @@
    ]
   },
   {
+   "indicator":"Multidimensional poverty headcount ratio (%)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":1.15
+    }
+   ]
+  },
+  {
    "indicator":"Natural capital",
    "yearlyData":[
     {
@@ -13238,7 +13529,7 @@
     },
     {
      "year":2023,
-     "value":1.91
+     "value":1.92
     }
    ]
   },

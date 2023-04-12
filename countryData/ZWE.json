@@ -1617,6 +1617,280 @@
    ]
   },
   {
+   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
+   "yearlyData":[
+    {
+     "year":1986,
+     "value":0.0
+    },
+    {
+     "year":1989,
+     "value":18.7
+    },
+    {
+     "year":1991,
+     "value":0.0
+    },
+    {
+     "year":1993,
+     "value":1.5
+    },
+    {
+     "year":1994,
+     "value":18.7
+    },
+    {
+     "year":1995,
+     "value":19.0
+    },
+    {
+     "year":1996,
+     "value":20.5
+    },
+    {
+     "year":1997,
+     "value":3.3
+    },
+    {
+     "year":1998,
+     "value":6.8
+    },
+    {
+     "year":1999,
+     "value":0.1
+    },
+    {
+     "year":2000,
+     "value":8.1
+    },
+    {
+     "year":2001,
+     "value":15.4
+    },
+    {
+     "year":2002,
+     "value":4.1
+    },
+    {
+     "year":2003,
+     "value":3.4
+    },
+    {
+     "year":2004,
+     "value":3.6
+    },
+    {
+     "year":2005,
+     "value":7.9
+    },
+    {
+     "year":2006,
+     "value":9.6
+    },
+    {
+     "year":2007,
+     "value":16.4
+    },
+    {
+     "year":2008,
+     "value":8.7
+    },
+    {
+     "year":2009,
+     "value":17.1
+    },
+    {
+     "year":2010,
+     "value":18.5
+    },
+    {
+     "year":2011,
+     "value":19.82
+    },
+    {
+     "year":2012,
+     "value":16.2
+    },
+    {
+     "year":2013,
+     "value":15.76
+    },
+    {
+     "year":2014,
+     "value":13.32
+    },
+    {
+     "year":2015,
+     "value":14.16
+    },
+    {
+     "year":2016,
+     "value":9.49
+    },
+    {
+     "year":2017,
+     "value":10.65
+    },
+    {
+     "year":2018,
+     "value":10.07
+    },
+    {
+     "year":2019,
+     "value":9.85
+    },
+    {
+     "year":2020,
+     "value":6.28
+    },
+    {
+     "year":2021,
+     "value":4.1
+    },
+    {
+     "year":2022,
+     "value":3.79
+    }
+   ]
+  },
+  {
+   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Total",
+   "yearlyData":[
+    {
+     "year":1986,
+     "value":0.0
+    },
+    {
+     "year":1989,
+     "value":18.7
+    },
+    {
+     "year":1991,
+     "value":390.0
+    },
+    {
+     "year":1993,
+     "value":361.5
+    },
+    {
+     "year":1994,
+     "value":395.5
+    },
+    {
+     "year":1995,
+     "value":424.6
+    },
+    {
+     "year":1996,
+     "value":444.7
+    },
+    {
+     "year":1997,
+     "value":582.3
+    },
+    {
+     "year":1998,
+     "value":825.8
+    },
+    {
+     "year":1999,
+     "value":490.4
+    },
+    {
+     "year":2000,
+     "value":378.8
+    },
+    {
+     "year":2001,
+     "value":559.7
+    },
+    {
+     "year":2002,
+     "value":206.4
+    },
+    {
+     "year":2003,
+     "value":100.8
+    },
+    {
+     "year":2004,
+     "value":187.8
+    },
+    {
+     "year":2005,
+     "value":163.3
+    },
+    {
+     "year":2006,
+     "value":166.4
+    },
+    {
+     "year":2007,
+     "value":38.0
+    },
+    {
+     "year":2008,
+     "value":30.3
+    },
+    {
+     "year":2009,
+     "value":38.1
+    },
+    {
+     "year":2010,
+     "value":29.3
+    },
+    {
+     "year":2011,
+     "value":22.22
+    },
+    {
+     "year":2012,
+     "value":16.2
+    },
+    {
+     "year":2013,
+     "value":15.76
+    },
+    {
+     "year":2014,
+     "value":13.32
+    },
+    {
+     "year":2015,
+     "value":14.16
+    },
+    {
+     "year":2016,
+     "value":9.49
+    },
+    {
+     "year":2017,
+     "value":10.65
+    },
+    {
+     "year":2018,
+     "value":10.07
+    },
+    {
+     "year":2019,
+     "value":9.85
+    },
+    {
+     "year":2020,
+     "value":6.28
+    },
+    {
+     "year":2021,
+     "value":4.1
+    },
+    {
+     "year":2022,
+     "value":3.79
+    }
+   ]
+  },
+  {
    "indicator":"Transparency Internationals Corruption Perceptions index",
    "yearlyData":[
     {
@@ -1728,7 +2002,7 @@
     },
     {
      "year":2023,
-     "value":264555.0
+     "value":264584.0
     }
    ]
   },
@@ -1749,7 +2023,7 @@
     },
     {
      "year":2023,
-     "value":5681.0
+     "value":5684.0
     }
    ]
   },
@@ -9816,6 +10090,15 @@
     {
      "year":2019,
      "value":30.3
+    }
+   ]
+  },
+  {
+   "indicator":"Multidimensional poverty headcount ratio (%)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":42.4
     }
    ]
   },
