@@ -1483,7 +1483,7 @@
    "indicator":"Climate Risks Index Score",
    "yearlyData":[
     {
-     "year":2019,
+     "year":2021,
      "value":59.5
     }
    ]
@@ -1492,7 +1492,7 @@
    "indicator":"Climate Risks Index Ranking",
    "yearlyData":[
     {
-     "year":2019,
+     "year":2021,
      "value":50.0
     }
    ]
@@ -1789,11 +1789,11 @@
    "yearlyData":[
     {
      "year":1986,
-     "value":0.0
+     "value":234.8
     },
     {
      "year":1989,
-     "value":10.6
+     "value":270.9
     },
     {
      "year":1991,
@@ -1801,83 +1801,83 @@
     },
     {
      "year":1992,
-     "value":10.9
+     "value":287.9
     },
     {
      "year":1993,
-     "value":55.8
+     "value":426.7
     },
     {
      "year":1994,
-     "value":60.5
+     "value":498.8
     },
     {
      "year":1995,
-     "value":105.1
+     "value":837.9
     },
     {
      "year":1996,
-     "value":112.8
+     "value":677.2
     },
     {
      "year":1997,
-     "value":117.4
+     "value":614.4
     },
     {
      "year":1998,
-     "value":155.4
+     "value":509.6
     },
     {
      "year":1999,
-     "value":88.8
+     "value":877.7
     },
     {
      "year":2000,
-     "value":196.7
+     "value":623.9
     },
     {
      "year":2001,
-     "value":162.0
+     "value":650.8
     },
     {
      "year":2002,
-     "value":77.1
+     "value":406.9
     },
     {
      "year":2003,
-     "value":56.3
+     "value":322.8
     },
     {
      "year":2004,
-     "value":62.4
+     "value":372.8
     },
     {
      "year":2005,
-     "value":57.8
+     "value":262.1
     },
     {
      "year":2006,
-     "value":76.6
+     "value":232.8
     },
     {
      "year":2007,
-     "value":50.0
+     "value":74.4
     },
     {
      "year":2008,
-     "value":49.4
-    },
-    {
-     "year":2009,
-     "value":48.5
-    },
-    {
-     "year":2010,
      "value":53.9
     },
     {
+     "year":2009,
+     "value":76.8
+    },
+    {
+     "year":2010,
+     "value":54.7
+    },
+    {
      "year":2011,
-     "value":50.11
+     "value":50.61
     },
     {
      "year":2012,
@@ -1913,7 +1913,7 @@
     },
     {
      "year":2020,
-     "value":28.95
+     "value":22.55
     },
     {
      "year":2021,
@@ -14864,8 +14864,108 @@
    "indicator":"Climate Change Readiness Score",
    "yearlyData":[
     {
+     "year":1995,
+     "value":0.32
+    },
+    {
+     "year":1996,
+     "value":0.32
+    },
+    {
+     "year":1997,
+     "value":0.31
+    },
+    {
+     "year":1998,
+     "value":0.31
+    },
+    {
+     "year":1999,
+     "value":0.31
+    },
+    {
+     "year":2000,
+     "value":0.31
+    },
+    {
+     "year":2001,
+     "value":0.32
+    },
+    {
+     "year":2002,
+     "value":0.32
+    },
+    {
+     "year":2003,
+     "value":0.31
+    },
+    {
+     "year":2004,
+     "value":0.31
+    },
+    {
+     "year":2005,
+     "value":0.31
+    },
+    {
+     "year":2006,
+     "value":0.31
+    },
+    {
+     "year":2007,
+     "value":0.32
+    },
+    {
+     "year":2008,
+     "value":0.34
+    },
+    {
+     "year":2009,
+     "value":0.35
+    },
+    {
+     "year":2010,
+     "value":0.35
+    },
+    {
+     "year":2011,
+     "value":0.34
+    },
+    {
+     "year":2012,
+     "value":0.35
+    },
+    {
+     "year":2013,
+     "value":0.35
+    },
+    {
+     "year":2014,
+     "value":0.36
+    },
+    {
+     "year":2015,
+     "value":0.36
+    },
+    {
+     "year":2016,
+     "value":0.36
+    },
+    {
+     "year":2017,
+     "value":0.35
+    },
+    {
+     "year":2018,
+     "value":0.35
+    },
+    {
      "year":2019,
-     "value":0.37
+     "value":0.35
+    },
+    {
+     "year":2020,
+     "value":0.36
     }
    ]
   },
@@ -14873,8 +14973,108 @@
    "indicator":"Climate Change Readiness Ranking",
    "yearlyData":[
     {
+     "year":1995,
+     "value":135.0
+    },
+    {
+     "year":1996,
+     "value":134.0
+    },
+    {
+     "year":1997,
+     "value":142.0
+    },
+    {
+     "year":1998,
+     "value":146.0
+    },
+    {
+     "year":1999,
+     "value":147.0
+    },
+    {
+     "year":2000,
+     "value":141.0
+    },
+    {
+     "year":2001,
+     "value":134.0
+    },
+    {
+     "year":2002,
+     "value":135.0
+    },
+    {
+     "year":2003,
+     "value":147.0
+    },
+    {
+     "year":2004,
+     "value":142.0
+    },
+    {
+     "year":2005,
+     "value":146.0
+    },
+    {
+     "year":2006,
+     "value":129.0
+    },
+    {
+     "year":2007,
+     "value":125.0
+    },
+    {
+     "year":2008,
+     "value":120.0
+    },
+    {
+     "year":2009,
+     "value":112.0
+    },
+    {
+     "year":2010,
+     "value":119.0
+    },
+    {
+     "year":2011,
+     "value":125.0
+    },
+    {
+     "year":2012,
+     "value":122.0
+    },
+    {
+     "year":2013,
+     "value":121.0
+    },
+    {
+     "year":2014,
+     "value":112.0
+    },
+    {
+     "year":2015,
+     "value":112.0
+    },
+    {
+     "year":2016,
+     "value":114.0
+    },
+    {
+     "year":2017,
+     "value":122.0
+    },
+    {
+     "year":2018,
+     "value":122.0
+    },
+    {
      "year":2019,
-     "value":113.0
+     "value":124.0
+    },
+    {
+     "year":2020,
+     "value":121.0
     }
    ]
   },

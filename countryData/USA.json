@@ -2070,139 +2070,139 @@
    "yearlyData":[
     {
      "year":1986,
-     "value":0.0
+     "value":363766.6
     },
     {
      "year":1989,
-     "value":31954.4
+     "value":407115.4
     },
     {
      "year":1990,
-     "value":0.0
+     "value":232862.2
     },
     {
      "year":1991,
-     "value":15317.4
+     "value":223032.2
     },
     {
      "year":1992,
-     "value":27626.1
+     "value":203694.4
     },
     {
      "year":1993,
-     "value":23849.1
+     "value":192481.3
     },
     {
      "year":1994,
-     "value":27837.2
+     "value":102786.1
     },
     {
      "year":1995,
-     "value":30813.5
+     "value":48420.8
     },
     {
      "year":1996,
-     "value":24446.7
+     "value":14886.7
     },
     {
      "year":1997,
-     "value":23516.7
+     "value":-2966.4
     },
     {
      "year":1998,
-     "value":26736.1
+     "value":-2913.4
     },
     {
      "year":1999,
-     "value":22618.1
+     "value":13044.6
     },
     {
      "year":2000,
-     "value":20019.3
+     "value":3983.4
     },
     {
      "year":2001,
-     "value":18498.6
+     "value":22129.3
     },
     {
      "year":2002,
-     "value":17031.9
+     "value":16213.3
     },
     {
      "year":2003,
-     "value":11382.4
+     "value":12418.9
     },
     {
      "year":2004,
-     "value":12644.6
+     "value":13807.6
     },
     {
      "year":2005,
-     "value":11122.8
+     "value":10901.2
     },
     {
      "year":2006,
-     "value":10089.9
+     "value":10850.0
     },
     {
      "year":2007,
-     "value":8812.8
+     "value":8520.6
     },
     {
      "year":2008,
-     "value":7442.8
+     "value":6236.8
     },
     {
      "year":2009,
-     "value":4714.5
+     "value":4285.2
     },
     {
      "year":2010,
-     "value":3967.9
+     "value":2332.5
     },
     {
      "year":2011,
-     "value":3269.58
+     "value":1629.78
     },
     {
      "year":2012,
-     "value":1360.6
+     "value":-67.8
     },
     {
      "year":2013,
-     "value":1644.78
+     "value":714.38
     },
     {
      "year":2014,
-     "value":1452.36
+     "value":837.66
     },
     {
      "year":2015,
-     "value":771.27
+     "value":274.17
     },
     {
      "year":2016,
-     "value":529.35
+     "value":-6.45
     },
     {
      "year":2017,
-     "value":311.78
+     "value":-530.42
     },
     {
      "year":2018,
-     "value":382.3
+     "value":-2309.6
     },
     {
      "year":2019,
-     "value":140.63
+     "value":-2210.87
     },
     {
      "year":2020,
-     "value":-154.6
+     "value":-1770.9
     },
     {
      "year":2021,
-     "value":-75.63
+     "value":-1527.33
     }
    ]
   },
@@ -12432,6 +12432,224 @@
    ]
   },
   {
+   "indicator":"Climate Change Readiness Score",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":0.62
+    },
+    {
+     "year":1996,
+     "value":0.62
+    },
+    {
+     "year":1997,
+     "value":0.62
+    },
+    {
+     "year":1998,
+     "value":0.62
+    },
+    {
+     "year":1999,
+     "value":0.63
+    },
+    {
+     "year":2000,
+     "value":0.64
+    },
+    {
+     "year":2001,
+     "value":0.63
+    },
+    {
+     "year":2002,
+     "value":0.63
+    },
+    {
+     "year":2003,
+     "value":0.63
+    },
+    {
+     "year":2004,
+     "value":0.63
+    },
+    {
+     "year":2005,
+     "value":0.65
+    },
+    {
+     "year":2006,
+     "value":0.72
+    },
+    {
+     "year":2007,
+     "value":0.72
+    },
+    {
+     "year":2008,
+     "value":0.73
+    },
+    {
+     "year":2009,
+     "value":0.72
+    },
+    {
+     "year":2010,
+     "value":0.75
+    },
+    {
+     "year":2011,
+     "value":0.75
+    },
+    {
+     "year":2012,
+     "value":0.76
+    },
+    {
+     "year":2013,
+     "value":0.76
+    },
+    {
+     "year":2014,
+     "value":0.69
+    },
+    {
+     "year":2015,
+     "value":0.69
+    },
+    {
+     "year":2016,
+     "value":0.68
+    },
+    {
+     "year":2017,
+     "value":0.68
+    },
+    {
+     "year":2018,
+     "value":0.67
+    },
+    {
+     "year":2019,
+     "value":0.66
+    },
+    {
+     "year":2020,
+     "value":0.65
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change Readiness Ranking",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":9.0
+    },
+    {
+     "year":1996,
+     "value":9.0
+    },
+    {
+     "year":1997,
+     "value":9.0
+    },
+    {
+     "year":1998,
+     "value":10.0
+    },
+    {
+     "year":1999,
+     "value":12.0
+    },
+    {
+     "year":2000,
+     "value":12.0
+    },
+    {
+     "year":2001,
+     "value":12.0
+    },
+    {
+     "year":2002,
+     "value":14.0
+    },
+    {
+     "year":2003,
+     "value":13.0
+    },
+    {
+     "year":2004,
+     "value":15.0
+    },
+    {
+     "year":2005,
+     "value":10.0
+    },
+    {
+     "year":2006,
+     "value":7.0
+    },
+    {
+     "year":2007,
+     "value":9.0
+    },
+    {
+     "year":2008,
+     "value":7.0
+    },
+    {
+     "year":2009,
+     "value":8.0
+    },
+    {
+     "year":2010,
+     "value":6.0
+    },
+    {
+     "year":2011,
+     "value":7.0
+    },
+    {
+     "year":2012,
+     "value":6.0
+    },
+    {
+     "year":2013,
+     "value":7.0
+    },
+    {
+     "year":2014,
+     "value":18.0
+    },
+    {
+     "year":2015,
+     "value":18.0
+    },
+    {
+     "year":2016,
+     "value":18.0
+    },
+    {
+     "year":2017,
+     "value":18.0
+    },
+    {
+     "year":2018,
+     "value":18.0
+    },
+    {
+     "year":2019,
+     "value":19.0
+    },
+    {
+     "year":2020,
+     "value":18.0
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Female",
    "yearlyData":[
     {
@@ -15371,6 +15589,15 @@
     {
      "year":2021,
      "value":74.88
+    }
+   ]
+  },
+  {
+   "indicator":"Climate vulnerability ranking",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":29.0
     }
    ]
   },

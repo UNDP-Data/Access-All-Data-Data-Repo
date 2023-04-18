@@ -99,11 +99,11 @@
     },
     {
      "year":2001,
-     "value":633753628.5399999619
+     "value":633753628.5
     },
     {
      "year":2002,
-     "value":1600192056.5599999428
+     "value":1600192057.0
     },
     {
      "year":2003,
@@ -1576,7 +1576,7 @@
    "indicator":"Climate Risks Index Score",
    "yearlyData":[
     {
-     "year":2014,
+     "year":2021,
      "value":37.5
     }
    ]
@@ -1585,7 +1585,7 @@
    "indicator":"Climate Risks Index Ranking",
    "yearlyData":[
     {
-     "year":2014,
+     "year":2021,
      "value":16.0
     }
    ]
@@ -1882,87 +1882,87 @@
    "yearlyData":[
     {
      "year":1986,
-     "value":0.0
+     "value":484.3
     },
     {
      "year":1989,
-     "value":0.1
+     "value":420.7
     },
     {
      "year":1990,
-     "value":0.0
+     "value":360.9
     },
     {
      "year":1991,
-     "value":0.0
+     "value":370.1
     },
     {
      "year":1992,
-     "value":0.0
+     "value":370.1
     },
     {
      "year":1993,
-     "value":0.0
+     "value":370.1
     },
     {
      "year":1994,
-     "value":58.3
+     "value":344.2
     },
     {
      "year":1995,
-     "value":244.2
+     "value":489.2
     },
     {
      "year":1996,
-     "value":256.7
+     "value":505.6
     },
     {
      "year":1997,
-     "value":526.1
+     "value":749.5
     },
     {
      "year":1998,
-     "value":581.6
+     "value":789.8
     },
     {
      "year":1999,
-     "value":516.8
+     "value":720.2
     },
     {
      "year":2000,
-     "value":703.2
+     "value":891.1
     },
     {
      "year":2001,
-     "value":790.4
+     "value":1055.4
     },
     {
      "year":2002,
-     "value":712.9
+     "value":952.5
     },
     {
      "year":2003,
-     "value":529.9
+     "value":677.0
     },
     {
      "year":2004,
-     "value":490.7
+     "value":556.1
     },
     {
      "year":2005,
-     "value":529.4
+     "value":586.9
     },
     {
      "year":2006,
-     "value":343.1
+     "value":355.8
     },
     {
      "year":2007,
-     "value":297.0
+     "value":302.9
     },
     {
      "year":2008,
-     "value":183.0
+     "value":184.4
     },
     {
      "year":2009,
@@ -13767,7 +13767,107 @@
    "indicator":"Climate Change Readiness Score",
    "yearlyData":[
     {
+     "year":1995,
+     "value":0.27
+    },
+    {
+     "year":1996,
+     "value":0.27
+    },
+    {
+     "year":1997,
+     "value":0.28
+    },
+    {
+     "year":1998,
+     "value":0.28
+    },
+    {
+     "year":1999,
+     "value":0.28
+    },
+    {
+     "year":2000,
+     "value":0.29
+    },
+    {
+     "year":2001,
+     "value":0.28
+    },
+    {
+     "year":2002,
+     "value":0.28
+    },
+    {
+     "year":2003,
+     "value":0.28
+    },
+    {
+     "year":2004,
+     "value":0.29
+    },
+    {
+     "year":2005,
+     "value":0.28
+    },
+    {
+     "year":2006,
+     "value":0.26
+    },
+    {
+     "year":2007,
+     "value":0.27
+    },
+    {
+     "year":2008,
+     "value":0.28
+    },
+    {
+     "year":2009,
+     "value":0.28
+    },
+    {
+     "year":2010,
+     "value":0.29
+    },
+    {
+     "year":2011,
+     "value":0.29
+    },
+    {
+     "year":2012,
+     "value":0.29
+    },
+    {
+     "year":2013,
+     "value":0.29
+    },
+    {
      "year":2014,
+     "value":0.31
+    },
+    {
+     "year":2015,
+     "value":0.32
+    },
+    {
+     "year":2016,
+     "value":0.32
+    },
+    {
+     "year":2017,
+     "value":0.32
+    },
+    {
+     "year":2018,
+     "value":0.31
+    },
+    {
+     "year":2019,
+     "value":0.32
+    },
+    {
+     "year":2020,
      "value":0.32
     }
    ]
@@ -13776,8 +13876,108 @@
    "indicator":"Climate Change Readiness Ranking",
    "yearlyData":[
     {
+     "year":1995,
+     "value":177.0
+    },
+    {
+     "year":1996,
+     "value":177.0
+    },
+    {
+     "year":1997,
+     "value":173.0
+    },
+    {
+     "year":1998,
+     "value":170.0
+    },
+    {
+     "year":1999,
+     "value":171.0
+    },
+    {
+     "year":2000,
+     "value":168.0
+    },
+    {
+     "year":2001,
+     "value":172.0
+    },
+    {
+     "year":2002,
+     "value":173.0
+    },
+    {
+     "year":2003,
+     "value":174.0
+    },
+    {
+     "year":2004,
+     "value":165.0
+    },
+    {
+     "year":2005,
+     "value":164.0
+    },
+    {
+     "year":2006,
+     "value":168.0
+    },
+    {
+     "year":2007,
+     "value":163.0
+    },
+    {
+     "year":2008,
+     "value":162.0
+    },
+    {
+     "year":2009,
+     "value":162.0
+    },
+    {
+     "year":2010,
+     "value":148.0
+    },
+    {
+     "year":2011,
+     "value":149.0
+    },
+    {
+     "year":2012,
+     "value":151.0
+    },
+    {
+     "year":2013,
+     "value":149.0
+    },
+    {
      "year":2014,
-     "value":139.0
+     "value":132.0
+    },
+    {
+     "year":2015,
+     "value":132.0
+    },
+    {
+     "year":2016,
+     "value":136.0
+    },
+    {
+     "year":2017,
+     "value":143.0
+    },
+    {
+     "year":2018,
+     "value":147.0
+    },
+    {
+     "year":2019,
+     "value":145.0
+    },
+    {
+     "year":2020,
+     "value":145.0
     }
    ]
   },
@@ -14117,11 +14317,11 @@
     },
     {
      "year":2001,
-     "value":633753628.5399999619
+     "value":633753628.5
     },
     {
      "year":2002,
-     "value":1600192056.5599999428
+     "value":1600192057.0
     },
     {
      "year":2003,
@@ -18329,7 +18529,7 @@
    "indicator":"Climate vulnerability ranking",
    "yearlyData":[
     {
-     "year":2014,
+     "year":2019,
      "value":106.0
     }
    ]
