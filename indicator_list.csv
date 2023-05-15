@@ -354,4 +354,7 @@ consumption_of_controlled_substance_total_owid,Consumption of controlled substan
 central_govt_debt_pct_of_gdp_cpiacgd,"Central government debt, total (Percent of GDP)","Central government debt, total (Percent of GDP)",CPIA_CGD,float,CPIA_transform,,,,
 current_account_balance_pct_of_gdp_cpiacab,Current account balance (Percent of GDP),Current account balance (Percent of GDP),CPIA_CAB,float,CPIA_transform,,,,
 tax_revenue_pct_of_gdp_cpiataxr,Tax revenue (Percent of GDP),Tax revenue (Percent of GDP),CPIA_TAXR,float,CPIA_transform,,,,
-worker_output_growth_annual_ilosdgwo,"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ","Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",ILO_SDG_WO,float,ILO_SDG_WO_transform,,,,
+worker_output_growth_annual_2017_ilosdgwo,"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ","Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",ILO_SDG_WO_2017,float,ILO_SDG_transform,,,,
+worker_output_growth_annual_2015_ilosdgwo,"Annual growth rate of output per worker (GDP constant 2015 US $) (%) ","Annual growth rate of output per worker (GDP constant 2015 US $) (%) ",ILO_SDG_WO_2015,float,ILO_SDG_transform,,,,
+income_per_gdp_ilosdg,Labour income share as a percent of GDP (%),Labour income share as a percent of GDP (%),ILO_SDG_INCOME_PER_GDP,float,ILO_SDG_transform,,,,
+income_per_gdp_2021_estimate_ilosdg,"Labour income share as a percent of GDP -- ILO modelled estimates, Nov. 2021 (%) ","Labour income share as a percent of GDP -- ILO modelled estimates, Nov. 2021 (%) ",ILO_SDG_INCOME_PER_GDP_2021_ESTIMATES,float,ILO_SDG_transform,,,,
