@@ -3202,6 +3202,27 @@
    ]
   },
   {
+   "indicator":"Financial institution account (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":"0.5062746405601501"
+    },
+    {
+     "year":2014,
+     "value":"0.611153244972229"
+    },
+    {
+     "year":2017,
+     "value":"0.6710329651832581"
+    },
+    {
+     "year":2021,
+     "value":"0.7397348880767822"
+    }
+   ]
+  },
+  {
    "indicator":"Forest area (% of land area)",
    "yearlyData":[
     {
@@ -10401,6 +10422,33 @@
     {
      "year":2022,
      "value":"15.5806694021431"
+    }
+   ]
+  },
+  {
+   "indicator":"Used a mobile phone or the internet to access an account, income, richest 60% (% ages 15+)",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":"0.30251434445381165"
+    }
+   ]
+  },
+  {
+   "indicator":"Used a mobile phone or the internet to access an account, young (% ages 15-24)",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":"0.2286300510168076"
+    }
+   ]
+  },
+  {
+   "indicator":"Used a mobile phone or the internet to access an account, older (% age 25+)",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":"0.2526064217090607"
     }
    ]
   },
