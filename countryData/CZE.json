@@ -2093,7 +2093,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":47.5
+     "value":44.78
     },
     {
      "year":2021,
@@ -2706,6 +2706,40 @@
     {
      "year":2021,
      "value":15.86
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, female (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.77
+    },
+    {
+     "year":2017,
+     "value":0.77
+    },
+    {
+     "year":2021,
+     "value":0.92
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, male (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.83
+    },
+    {
+     "year":2017,
+     "value":0.82
+    },
+    {
+     "year":2021,
+     "value":0.96
     }
    ]
   },
@@ -19960,6 +19994,135 @@
    ]
   },
   {
+   "indicator":"Trade (% of GDP)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":63.5
+    },
+    {
+     "year":1991,
+     "value":71.27
+    },
+    {
+     "year":1992,
+     "value":78.51
+    },
+    {
+     "year":1993,
+     "value":78.75
+    },
+    {
+     "year":1994,
+     "value":75.33
+    },
+    {
+     "year":1995,
+     "value":83.49
+    },
+    {
+     "year":1996,
+     "value":81.1
+    },
+    {
+     "year":1997,
+     "value":84.64
+    },
+    {
+     "year":1998,
+     "value":84.42
+    },
+    {
+     "year":1999,
+     "value":86.0
+    },
+    {
+     "year":2000,
+     "value":98.05
+    },
+    {
+     "year":2001,
+     "value":99.01
+    },
+    {
+     "year":2002,
+     "value":91.33
+    },
+    {
+     "year":2003,
+     "value":94.97
+    },
+    {
+     "year":2004,
+     "value":113.49
+    },
+    {
+     "year":2005,
+     "value":121.3
+    },
+    {
+     "year":2006,
+     "value":127.03
+    },
+    {
+     "year":2007,
+     "value":129.78
+    },
+    {
+     "year":2008,
+     "value":123.74
+    },
+    {
+     "year":2009,
+     "value":112.8
+    },
+    {
+     "year":2010,
+     "value":128.03
+    },
+    {
+     "year":2011,
+     "value":137.86
+    },
+    {
+     "year":2012,
+     "value":146.53
+    },
+    {
+     "year":2013,
+     "value":146.42
+    },
+    {
+     "year":2014,
+     "value":157.57
+    },
+    {
+     "year":2015,
+     "value":155.18
+    },
+    {
+     "year":2016,
+     "value":150.59
+    },
+    {
+     "year":2017,
+     "value":150.53
+    },
+    {
+     "year":2018,
+     "value":147.98
+    },
+    {
+     "year":2019,
+     "value":141.8
+    },
+    {
+     "year":2020,
+     "value":135.15
+    }
+   ]
+  },
+  {
    "indicator":"Unemployed receiving unemployment benefits",
    "yearlyData":[
     {
@@ -20416,6 +20579,103 @@
     {
      "year":2017,
      "value":0.56
+    }
+   ]
+  },
+  {
+   "indicator":"Value of exported goods as a share of GDP",
+   "yearlyData":[
+    {
+     "year":1992,
+     "value":35.32
+    },
+    {
+     "year":1993,
+     "value":29.32
+    },
+    {
+     "year":1994,
+     "value":30.15
+    },
+    {
+     "year":1995,
+     "value":32.24
+    },
+    {
+     "year":1996,
+     "value":33.17
+    },
+    {
+     "year":1997,
+     "value":36.54
+    },
+    {
+     "year":1998,
+     "value":39.81
+    },
+    {
+     "year":1999,
+     "value":40.54
+    },
+    {
+     "year":2000,
+     "value":47.05
+    },
+    {
+     "year":2001,
+     "value":49.38
+    },
+    {
+     "year":2002,
+     "value":46.61
+    },
+    {
+     "year":2003,
+     "value":49.65
+    },
+    {
+     "year":2004,
+     "value":56.42
+    },
+    {
+     "year":2005,
+     "value":57.46
+    },
+    {
+     "year":2006,
+     "value":61.23
+    },
+    {
+     "year":2007,
+     "value":65.01
+    },
+    {
+     "year":2008,
+     "value":62.6
+    },
+    {
+     "year":2009,
+     "value":55.01
+    },
+    {
+     "year":2010,
+     "value":63.9
+    },
+    {
+     "year":2011,
+     "value":71.14
+    },
+    {
+     "year":2012,
+     "value":75.29
+    },
+    {
+     "year":2013,
+     "value":76.97
+    },
+    {
+     "year":2014,
+     "value":83.7
     }
    ]
   },

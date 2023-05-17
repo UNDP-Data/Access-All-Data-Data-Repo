@@ -1966,7 +1966,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":66.24
+     "value":62.44
     },
     {
      "year":2021,
@@ -2622,6 +2622,40 @@
     {
      "year":2021,
      "value":1.37
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, female (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.04
+    },
+    {
+     "year":2017,
+     "value":0.07
+    },
+    {
+     "year":2021,
+     "value":0.37
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, male (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.04
+    },
+    {
+     "year":2017,
+     "value":0.08
+    },
+    {
+     "year":2021,
+     "value":0.43
     }
    ]
   },
@@ -15652,6 +15686,55 @@
    ]
   },
   {
+   "indicator":"Trade (% of GDP)",
+   "yearlyData":[
+    {
+     "year":2010,
+     "value":18.8
+    },
+    {
+     "year":2011,
+     "value":16.13
+    },
+    {
+     "year":2012,
+     "value":11.86
+    },
+    {
+     "year":2013,
+     "value":30.98
+    },
+    {
+     "year":2014,
+     "value":40.53
+    },
+    {
+     "year":2015,
+     "value":44.95
+    },
+    {
+     "year":2016,
+     "value":53.92
+    },
+    {
+     "year":2017,
+     "value":61.02
+    },
+    {
+     "year":2018,
+     "value":62.45
+    },
+    {
+     "year":2019,
+     "value":60.69
+    },
+    {
+     "year":2020,
+     "value":54.47
+    }
+   ]
+  },
+  {
    "indicator":"Unemployed receiving unemployment benefits",
    "yearlyData":[
     {
@@ -15935,6 +16018,99 @@
     {
      "year":2017,
      "value":0.01
+    }
+   ]
+  },
+  {
+   "indicator":"Value of exported goods as a share of GDP",
+   "yearlyData":[
+    {
+     "year":1980,
+     "value":7.71
+    },
+    {
+     "year":1981,
+     "value":8.08
+    },
+    {
+     "year":1982,
+     "value":7.19
+    },
+    {
+     "year":1983,
+     "value":7.77
+    },
+    {
+     "year":1984,
+     "value":7.45
+    },
+    {
+     "year":1985,
+     "value":6.39
+    },
+    {
+     "year":1986,
+     "value":5.22
+    },
+    {
+     "year":1987,
+     "value":3.99
+    },
+    {
+     "year":1988,
+     "value":3.59
+    },
+    {
+     "year":1989,
+     "value":3.29
+    },
+    {
+     "year":1990,
+     "value":2.49
+    },
+    {
+     "year":1991,
+     "value":1.77
+    },
+    {
+     "year":1992,
+     "value":1.68
+    },
+    {
+     "year":1993,
+     "value":1.48
+    },
+    {
+     "year":1994,
+     "value":1.33
+    },
+    {
+     "year":1995,
+     "value":1.72
+    },
+    {
+     "year":1996,
+     "value":1.68
+    },
+    {
+     "year":1997,
+     "value":1.62
+    },
+    {
+     "year":1998,
+     "value":1.6
+    },
+    {
+     "year":2012,
+     "value":11.45
+    },
+    {
+     "year":2013,
+     "value":18.51
+    },
+    {
+     "year":2014,
+     "value":37.46
     }
    ]
   },

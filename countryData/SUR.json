@@ -1870,7 +1870,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":62.51
+     "value":58.93
     },
     {
      "year":2021,
@@ -13159,6 +13159,31 @@
    ]
   },
   {
+   "indicator":"Trade (% of GDP)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":98.17
+    },
+    {
+     "year":2007,
+     "value":101.38
+    },
+    {
+     "year":2008,
+     "value":109.17
+    },
+    {
+     "year":2009,
+     "value":87.92
+    },
+    {
+     "year":2010,
+     "value":90.96
+    }
+   ]
+  },
+  {
    "indicator":"Unemployed receiving unemployment benefits",
    "yearlyData":[
     {
@@ -13567,6 +13592,151 @@
     {
      "year":2022,
      "value":26.18
+    }
+   ]
+  },
+  {
+   "indicator":"Value of exported goods as a share of GDP",
+   "yearlyData":[
+    {
+     "year":1980,
+     "value":72.38
+    },
+    {
+     "year":1981,
+     "value":58.81
+    },
+    {
+     "year":1982,
+     "value":47.15
+    },
+    {
+     "year":1983,
+     "value":46.4
+    },
+    {
+     "year":1984,
+     "value":41.75
+    },
+    {
+     "year":1985,
+     "value":38.68
+    },
+    {
+     "year":1986,
+     "value":38.79
+    },
+    {
+     "year":1987,
+     "value":39.12
+    },
+    {
+     "year":1988,
+     "value":36.73
+    },
+    {
+     "year":1989,
+     "value":98.02
+    },
+    {
+     "year":1990,
+     "value":148.21
+    },
+    {
+     "year":1991,
+     "value":93.75
+    },
+    {
+     "year":1992,
+     "value":105.79
+    },
+    {
+     "year":1993,
+     "value":141.57
+    },
+    {
+     "year":1994,
+     "value":74.76
+    },
+    {
+     "year":1995,
+     "value":81.57
+    },
+    {
+     "year":1996,
+     "value":66.63
+    },
+    {
+     "year":1997,
+     "value":75.62
+    },
+    {
+     "year":1998,
+     "value":73.97
+    },
+    {
+     "year":1999,
+     "value":70.53
+    },
+    {
+     "year":2000,
+     "value":61.34
+    },
+    {
+     "year":2001,
+     "value":69.96
+    },
+    {
+     "year":2002,
+     "value":47.37
+    },
+    {
+     "year":2003,
+     "value":50.71
+    },
+    {
+     "year":2004,
+     "value":61.03
+    },
+    {
+     "year":2005,
+     "value":55.13
+    },
+    {
+     "year":2006,
+     "value":47.98
+    },
+    {
+     "year":2007,
+     "value":46.45
+    },
+    {
+     "year":2008,
+     "value":45.25
+    },
+    {
+     "year":2009,
+     "value":33.98
+    },
+    {
+     "year":2010,
+     "value":38.1
+    },
+    {
+     "year":2011,
+     "value":32.96
+    },
+    {
+     "year":2012,
+     "value":24.87
+    },
+    {
+     "year":2013,
+     "value":25.55
+    },
+    {
+     "year":2014,
+     "value":29.32
     }
    ]
   },
