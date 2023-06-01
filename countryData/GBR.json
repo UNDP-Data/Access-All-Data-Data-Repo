@@ -2340,11 +2340,11 @@
     },
     {
      "year":2022,
-     "value":24193997.0
+     "value":24194026.0
     },
     {
      "year":2023,
-     "value":24611066.0
+     "value":24618436.0
     }
    ]
   },
@@ -2361,11 +2361,11 @@
     },
     {
      "year":2022,
-     "value":215930.0
+     "value":215942.0
     },
     {
      "year":2023,
-     "value":225852.0
+     "value":226278.0
     }
    ]
   },
@@ -10986,6 +10986,51 @@
    ]
   },
   {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":161513.29
+    },
+    {
+     "year":2012,
+     "value":163546.42
+    },
+    {
+     "year":2013,
+     "value":154591.27
+    },
+    {
+     "year":2014,
+     "value":155627.95
+    },
+    {
+     "year":2015,
+     "value":149438.59
+    },
+    {
+     "year":2016,
+     "value":149681.46
+    },
+    {
+     "year":2017,
+     "value":157189.65
+    },
+    {
+     "year":2018,
+     "value":160126.51
+    },
+    {
+     "year":2019,
+     "value":150369.35
+    },
+    {
+     "year":2020,
+     "value":151249.5
+    }
+   ]
+  },
+  {
    "indicator":"Number and Duration of Internal Conflicts",
    "yearlyData":[
     {
@@ -12829,6 +12874,55 @@
    ]
   },
   {
+   "indicator":"Medium and HighTech Industry Value Added in Total Value Added",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":47.82
+    },
+    {
+     "year":2010,
+     "value":49.74
+    },
+    {
+     "year":2011,
+     "value":49.54
+    },
+    {
+     "year":2012,
+     "value":49.23
+    },
+    {
+     "year":2013,
+     "value":50.53
+    },
+    {
+     "year":2014,
+     "value":50.18
+    },
+    {
+     "year":2015,
+     "value":48.32
+    },
+    {
+     "year":2016,
+     "value":46.66
+    },
+    {
+     "year":2017,
+     "value":48.11
+    },
+    {
+     "year":2018,
+     "value":48.73
+    },
+    {
+     "year":2019,
+     "value":48.17
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, Medium",
    "yearlyData":[
     {
@@ -13027,6 +13121,47 @@
     {
      "year":2021,
      "value":7.0
+    }
+   ]
+  },
+  {
+   "indicator":"Mobile Network Coverage Population",
+   "yearlyData":[
+    {
+     "year":2012,
+     "value":43.0
+    },
+    {
+     "year":2013,
+     "value":70.0
+    },
+    {
+     "year":2014,
+     "value":80.0
+    },
+    {
+     "year":2015,
+     "value":97.8
+    },
+    {
+     "year":2016,
+     "value":98.5
+    },
+    {
+     "year":2017,
+     "value":99.3
+    },
+    {
+     "year":2018,
+     "value":99.7
+    },
+    {
+     "year":2019,
+     "value":99.7
+    },
+    {
+     "year":2020,
+     "value":99.9
     }
    ]
   },
@@ -15770,6 +15905,91 @@
     {
      "year":2016,
      "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Energy Intensity Level of Primary Energy",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":4.14
+    },
+    {
+     "year":2001,
+     "value":4.05
+    },
+    {
+     "year":2002,
+     "value":3.9
+    },
+    {
+     "year":2003,
+     "value":3.84
+    },
+    {
+     "year":2004,
+     "value":3.71
+    },
+    {
+     "year":2005,
+     "value":3.62
+    },
+    {
+     "year":2006,
+     "value":3.47
+    },
+    {
+     "year":2007,
+     "value":3.27
+    },
+    {
+     "year":2008,
+     "value":3.24
+    },
+    {
+     "year":2009,
+     "value":3.18
+    },
+    {
+     "year":2010,
+     "value":3.23
+    },
+    {
+     "year":2011,
+     "value":2.96
+    },
+    {
+     "year":2012,
+     "value":2.99
+    },
+    {
+     "year":2013,
+     "value":2.88
+    },
+    {
+     "year":2014,
+     "value":2.64
+    },
+    {
+     "year":2015,
+     "value":2.61
+    },
+    {
+     "year":2016,
+     "value":2.53
+    },
+    {
+     "year":2017,
+     "value":2.45
+    },
+    {
+     "year":2018,
+     "value":2.41
+    },
+    {
+     "year":2019,
+     "value":2.3
     }
    ]
   },
@@ -19829,6 +20049,15 @@
     {
      "year":2018,
      "value":24.5
+    }
+   ]
+  },
+  {
+   "indicator":"Population with ICT Skills",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":53.01
     }
    ]
   },

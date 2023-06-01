@@ -2448,7 +2448,7 @@
     },
     {
      "year":2023,
-     "value":1061766.0
+     "value":1062275.0
     }
    ]
   },
@@ -3366,6 +3366,95 @@
     {
      "year":2021,
      "value":0.64
+    }
+   ]
+  },
+  {
+   "indicator":"Renewable Electricity Generating Capacity",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":135.21
+    },
+    {
+     "year":2001,
+     "value":134.56
+    },
+    {
+     "year":2002,
+     "value":132.83
+    },
+    {
+     "year":2003,
+     "value":130.59
+    },
+    {
+     "year":2004,
+     "value":130.98
+    },
+    {
+     "year":2005,
+     "value":132.24
+    },
+    {
+     "year":2006,
+     "value":133.33
+    },
+    {
+     "year":2007,
+     "value":149.22
+    },
+    {
+     "year":2008,
+     "value":148.98
+    },
+    {
+     "year":2009,
+     "value":146.77
+    },
+    {
+     "year":2010,
+     "value":156.29
+    },
+    {
+     "year":2011,
+     "value":153.38
+    },
+    {
+     "year":2012,
+     "value":153.01
+    },
+    {
+     "year":2013,
+     "value":152.03
+    },
+    {
+     "year":2014,
+     "value":152.96
+    },
+    {
+     "year":2015,
+     "value":160.29
+    },
+    {
+     "year":2016,
+     "value":281.35
+    },
+    {
+     "year":2017,
+     "value":280.86
+    },
+    {
+     "year":2018,
+     "value":308.23
+    },
+    {
+     "year":2019,
+     "value":303.72
+    },
+    {
+     "year":2020,
+     "value":300.29
     }
    ]
   },
@@ -6389,6 +6478,87 @@
     {
      "year":2022,
      "value":54.7
+    }
+   ]
+  },
+  {
+   "indicator":"International Financial Flows to Developing Countries ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":2.22
+    },
+    {
+     "year":2001,
+     "value":2.14
+    },
+    {
+     "year":2002,
+     "value":0.83
+    },
+    {
+     "year":2003,
+     "value":0.36
+    },
+    {
+     "year":2004,
+     "value":0.31
+    },
+    {
+     "year":2005,
+     "value":8.4
+    },
+    {
+     "year":2006,
+     "value":0.01
+    },
+    {
+     "year":2008,
+     "value":2.77
+    },
+    {
+     "year":2009,
+     "value":1.27
+    },
+    {
+     "year":2010,
+     "value":2811.68
+    },
+    {
+     "year":2011,
+     "value":394.9
+    },
+    {
+     "year":2012,
+     "value":26.49
+    },
+    {
+     "year":2013,
+     "value":331.0
+    },
+    {
+     "year":2014,
+     "value":509.02
+    },
+    {
+     "year":2015,
+     "value":31.74
+    },
+    {
+     "year":2016,
+     "value":134.67
+    },
+    {
+     "year":2017,
+     "value":36.68
+    },
+    {
+     "year":2018,
+     "value":0.89
+    },
+    {
+     "year":2019,
+     "value":60.12
     }
    ]
   },
@@ -10979,6 +11149,51 @@
    ]
   },
   {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":8024.33
+    },
+    {
+     "year":2012,
+     "value":8541.15
+    },
+    {
+     "year":2013,
+     "value":8604.47
+    },
+    {
+     "year":2014,
+     "value":9023.1
+    },
+    {
+     "year":2015,
+     "value":9411.35
+    },
+    {
+     "year":2016,
+     "value":11811.98
+    },
+    {
+     "year":2017,
+     "value":11385.26
+    },
+    {
+     "year":2018,
+     "value":12056.18
+    },
+    {
+     "year":2019,
+     "value":12093.29
+    },
+    {
+     "year":2020,
+     "value":12124.53
+    }
+   ]
+  },
+  {
    "indicator":"Number and Duration of Internal Conflicts",
    "yearlyData":[
     {
@@ -13589,6 +13804,51 @@
    ]
   },
   {
+   "indicator":"Off Grid Installed Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":1594.81
+    },
+    {
+     "year":2012,
+     "value":1609.48
+    },
+    {
+     "year":2013,
+     "value":1722.92
+    },
+    {
+     "year":2014,
+     "value":1764.03
+    },
+    {
+     "year":2015,
+     "value":1978.65
+    },
+    {
+     "year":2016,
+     "value":2285.36
+    },
+    {
+     "year":2017,
+     "value":2478.0
+    },
+    {
+     "year":2018,
+     "value":2598.88
+    },
+    {
+     "year":2019,
+     "value":2720.32
+    },
+    {
+     "year":2020,
+     "value":2730.2
+    }
+   ]
+  },
+  {
    "indicator":"Ores and metals exports (% of merchandise exports)",
    "yearlyData":[
     {
@@ -15633,6 +15893,91 @@
     {
      "year":2016,
      "value":95.66
+    }
+   ]
+  },
+  {
+   "indicator":"Energy Intensity Level of Primary Energy",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":3.27
+    },
+    {
+     "year":2001,
+     "value":3.35
+    },
+    {
+     "year":2002,
+     "value":3.48
+    },
+    {
+     "year":2003,
+     "value":3.73
+    },
+    {
+     "year":2004,
+     "value":3.54
+    },
+    {
+     "year":2005,
+     "value":3.65
+    },
+    {
+     "year":2006,
+     "value":3.43
+    },
+    {
+     "year":2007,
+     "value":3.69
+    },
+    {
+     "year":2008,
+     "value":3.07
+    },
+    {
+     "year":2009,
+     "value":3.39
+    },
+    {
+     "year":2010,
+     "value":3.47
+    },
+    {
+     "year":2011,
+     "value":3.38
+    },
+    {
+     "year":2012,
+     "value":3.17
+    },
+    {
+     "year":2013,
+     "value":3.21
+    },
+    {
+     "year":2014,
+     "value":3.38
+    },
+    {
+     "year":2015,
+     "value":3.26
+    },
+    {
+     "year":2016,
+     "value":3.16
+    },
+    {
+     "year":2017,
+     "value":3.18
+    },
+    {
+     "year":2018,
+     "value":3.1
+    },
+    {
+     "year":2019,
+     "value":3.26
     }
    ]
   },

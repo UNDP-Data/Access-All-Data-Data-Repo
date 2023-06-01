@@ -696,6 +696,15 @@
    ]
   },
   {
+   "indicator":"Attendance of Early Childhood Education",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":1.0
+    }
+   ]
+  },
+  {
    "indicator":"Carbon dioxide emissions per capita (production) (tonnes)",
    "yearlyData":[
     {
@@ -2658,6 +2667,95 @@
    ]
   },
   {
+   "indicator":"Renewable Electricity Generating Capacity",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":0.24
+    },
+    {
+     "year":2001,
+     "value":0.23
+    },
+    {
+     "year":2002,
+     "value":0.22
+    },
+    {
+     "year":2003,
+     "value":0.21
+    },
+    {
+     "year":2004,
+     "value":0.2
+    },
+    {
+     "year":2005,
+     "value":0.2
+    },
+    {
+     "year":2006,
+     "value":0.19
+    },
+    {
+     "year":2007,
+     "value":0.18
+    },
+    {
+     "year":2008,
+     "value":0.18
+    },
+    {
+     "year":2009,
+     "value":0.17
+    },
+    {
+     "year":2010,
+     "value":0.17
+    },
+    {
+     "year":2011,
+     "value":0.16
+    },
+    {
+     "year":2012,
+     "value":0.16
+    },
+    {
+     "year":2013,
+     "value":0.16
+    },
+    {
+     "year":2014,
+     "value":0.15
+    },
+    {
+     "year":2015,
+     "value":0.15
+    },
+    {
+     "year":2016,
+     "value":0.22
+    },
+    {
+     "year":2017,
+     "value":0.22
+    },
+    {
+     "year":2018,
+     "value":0.21
+    },
+    {
+     "year":2019,
+     "value":0.21
+    },
+    {
+     "year":2020,
+     "value":0.2
+    }
+   ]
+  },
+  {
    "indicator":"GHG emission",
    "yearlyData":[
     {
@@ -4329,6 +4427,15 @@
    ]
   },
   {
+   "indicator":"Attendance of Early Childhood Education Female",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":1.0
+    }
+   ]
+  },
+  {
    "indicator":"Labor Force Participation Rate (%), Female",
    "yearlyData":[
     {
@@ -4462,6 +4569,43 @@
     {
      "year":2022,
      "value":48.42
+    }
+   ]
+  },
+  {
+   "indicator":"International Financial Flows to Developing Countries ",
+   "yearlyData":[
+    {
+     "year":2001,
+     "value":5.88
+    },
+    {
+     "year":2007,
+     "value":25.86
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.03
+    },
+    {
+     "year":2014,
+     "value":0.02
+    },
+    {
+     "year":2015,
+     "value":0.02
+    },
+    {
+     "year":2016,
+     "value":41.33
+    },
+    {
+     "year":2017,
+     "value":0.01
     }
    ]
   },
@@ -7680,6 +7824,51 @@
    ]
   },
   {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":356.0
+    },
+    {
+     "year":2012,
+     "value":566.0
+    },
+    {
+     "year":2013,
+     "value":566.05
+    },
+    {
+     "year":2014,
+     "value":566.05
+    },
+    {
+     "year":2015,
+     "value":566.17
+    },
+    {
+     "year":2016,
+     "value":567.27
+    },
+    {
+     "year":2017,
+     "value":567.27
+    },
+    {
+     "year":2018,
+     "value":567.29
+    },
+    {
+     "year":2019,
+     "value":567.29
+    },
+    {
+     "year":2020,
+     "value":567.33
+    }
+   ]
+  },
+  {
    "indicator":"Number and Duration of Internal Conflicts",
    "yearlyData":[
     {
@@ -8707,6 +8896,15 @@
     {
      "year":2021,
      "value":35.42
+    }
+   ]
+  },
+  {
+   "indicator":"Attendance of Early Childhood Education Male",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":1.0
     }
    ]
   },
@@ -9880,6 +10078,51 @@
    ]
   },
   {
+   "indicator":"Off Grid Installed Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.05
+    },
+    {
+     "year":2014,
+     "value":0.05
+    },
+    {
+     "year":2015,
+     "value":0.17
+    },
+    {
+     "year":2016,
+     "value":1.27
+    },
+    {
+     "year":2017,
+     "value":1.27
+    },
+    {
+     "year":2018,
+     "value":1.29
+    },
+    {
+     "year":2019,
+     "value":1.29
+    },
+    {
+     "year":2020,
+     "value":1.33
+    }
+   ]
+  },
+  {
    "indicator":"Intensity of Organised Internal Conflict",
    "yearlyData":[
     {
@@ -10417,6 +10660,15 @@
     {
      "year":2015,
      "value":584.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poorest Attendence in Early Childhood Education",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":0.0
     }
    ]
   },
@@ -11270,6 +11522,91 @@
     {
      "year":2016,
      "value":10.62
+    }
+   ]
+  },
+  {
+   "indicator":"Energy Intensity Level of Primary Energy",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":8.21
+    },
+    {
+     "year":2001,
+     "value":7.51
+    },
+    {
+     "year":2002,
+     "value":7.05
+    },
+    {
+     "year":2003,
+     "value":6.56
+    },
+    {
+     "year":2004,
+     "value":5.0
+    },
+    {
+     "year":2005,
+     "value":4.35
+    },
+    {
+     "year":2006,
+     "value":4.4
+    },
+    {
+     "year":2007,
+     "value":4.38
+    },
+    {
+     "year":2008,
+     "value":4.43
+    },
+    {
+     "year":2009,
+     "value":4.37
+    },
+    {
+     "year":2010,
+     "value":3.95
+    },
+    {
+     "year":2011,
+     "value":4.08
+    },
+    {
+     "year":2012,
+     "value":3.62
+    },
+    {
+     "year":2013,
+     "value":3.55
+    },
+    {
+     "year":2014,
+     "value":3.53
+    },
+    {
+     "year":2015,
+     "value":3.31
+    },
+    {
+     "year":2016,
+     "value":3.72
+    },
+    {
+     "year":2017,
+     "value":3.87
+    },
+    {
+     "year":2018,
+     "value":3.85
+    },
+    {
+     "year":2019,
+     "value":3.77
     }
    ]
   },
@@ -12356,6 +12693,15 @@
     {
      "year":2021,
      "value":0.22
+    }
+   ]
+  },
+  {
+   "indicator":"Richest Attendance in Early Childhood Education ",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":4.2
     }
    ]
   },

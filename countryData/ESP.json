@@ -11431,6 +11431,51 @@
    ]
   },
   {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":151427.52
+    },
+    {
+     "year":2012,
+     "value":153648.52
+    },
+    {
+     "year":2013,
+     "value":154482.58
+    },
+    {
+     "year":2014,
+     "value":154886.58
+    },
+    {
+     "year":2015,
+     "value":154864.28
+    },
+    {
+     "year":2016,
+     "value":153159.78
+    },
+    {
+     "year":2017,
+     "value":149124.55
+    },
+    {
+     "year":2018,
+     "value":148538.13
+    },
+    {
+     "year":2019,
+     "value":154499.77
+    },
+    {
+     "year":2020,
+     "value":150915.21
+    }
+   ]
+  },
+  {
    "indicator":"Number and Duration of Internal Conflicts",
    "yearlyData":[
     {
@@ -13591,6 +13636,55 @@
    ]
   },
   {
+   "indicator":"Medium and HighTech Industry Value Added in Total Value Added",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":36.32
+    },
+    {
+     "year":2010,
+     "value":37.81
+    },
+    {
+     "year":2011,
+     "value":37.65
+    },
+    {
+     "year":2012,
+     "value":38.8
+    },
+    {
+     "year":2013,
+     "value":39.65
+    },
+    {
+     "year":2014,
+     "value":41.8
+    },
+    {
+     "year":2015,
+     "value":41.18
+    },
+    {
+     "year":2016,
+     "value":41.18
+    },
+    {
+     "year":2017,
+     "value":40.88
+    },
+    {
+     "year":2018,
+     "value":40.22
+    },
+    {
+     "year":2019,
+     "value":39.54
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, Medium",
    "yearlyData":[
     {
@@ -13874,6 +13968,43 @@
     {
      "year":2021,
      "value":4.0
+    }
+   ]
+  },
+  {
+   "indicator":"Mobile Network Coverage Population",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":51.27
+    },
+    {
+     "year":2014,
+     "value":75.0
+    },
+    {
+     "year":2015,
+     "value":91.3
+    },
+    {
+     "year":2016,
+     "value":91.3
+    },
+    {
+     "year":2017,
+     "value":96.2
+    },
+    {
+     "year":2018,
+     "value":97.8
+    },
+    {
+     "year":2019,
+     "value":99.4
+    },
+    {
+     "year":2020,
+     "value":99.6
     }
    ]
   },
@@ -14430,6 +14561,51 @@
     {
      "year":2020,
      "value":63.06
+    }
+   ]
+  },
+  {
+   "indicator":"Off Grid Installed Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":23.0
+    },
+    {
+     "year":2012,
+     "value":24.0
+    },
+    {
+     "year":2013,
+     "value":25.0
+    },
+    {
+     "year":2014,
+     "value":25.0
+    },
+    {
+     "year":2015,
+     "value":27.0
+    },
+    {
+     "year":2016,
+     "value":26.0
+    },
+    {
+     "year":2017,
+     "value":27.0
+    },
+    {
+     "year":2018,
+     "value":32.92
+    },
+    {
+     "year":2019,
+     "value":35.19
+    },
+    {
+     "year":2020,
+     "value":35.19
     }
    ]
   },
@@ -16386,6 +16562,91 @@
     {
      "year":2016,
      "value":96.01
+    }
+   ]
+  },
+  {
+   "indicator":"Energy Intensity Level of Primary Energy",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":3.6
+    },
+    {
+     "year":2001,
+     "value":3.56
+    },
+    {
+     "year":2002,
+     "value":3.57
+    },
+    {
+     "year":2003,
+     "value":3.58
+    },
+    {
+     "year":2004,
+     "value":3.63
+    },
+    {
+     "year":2005,
+     "value":3.57
+    },
+    {
+     "year":2006,
+     "value":3.43
+    },
+    {
+     "year":2007,
+     "value":3.36
+    },
+    {
+     "year":2008,
+     "value":3.22
+    },
+    {
+     "year":2009,
+     "value":3.07
+    },
+    {
+     "year":2010,
+     "value":3.07
+    },
+    {
+     "year":2011,
+     "value":3.04
+    },
+    {
+     "year":2012,
+     "value":3.13
+    },
+    {
+     "year":2013,
+     "value":2.96
+    },
+    {
+     "year":2014,
+     "value":2.86
+    },
+    {
+     "year":2015,
+     "value":2.85
+    },
+    {
+     "year":2016,
+     "value":2.79
+    },
+    {
+     "year":2017,
+     "value":2.86
+    },
+    {
+     "year":2018,
+     "value":2.77
+    },
+    {
+     "year":2019,
+     "value":2.64
     }
    ]
   },
@@ -20863,6 +21124,15 @@
     {
      "year":2021,
      "value":6.2
+    }
+   ]
+  },
+  {
+   "indicator":"Population with ICT Skills",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":51.18
     }
    ]
   },

@@ -3466,6 +3466,95 @@
    ]
   },
   {
+   "indicator":"Renewable Electricity Generating Capacity",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":178.5
+    },
+    {
+     "year":2001,
+     "value":183.61
+    },
+    {
+     "year":2002,
+     "value":189.72
+    },
+    {
+     "year":2003,
+     "value":192.09
+    },
+    {
+     "year":2004,
+     "value":190.44
+    },
+    {
+     "year":2005,
+     "value":191.82
+    },
+    {
+     "year":2006,
+     "value":192.47
+    },
+    {
+     "year":2007,
+     "value":196.24
+    },
+    {
+     "year":2008,
+     "value":203.48
+    },
+    {
+     "year":2009,
+     "value":217.73
+    },
+    {
+     "year":2010,
+     "value":240.14
+    },
+    {
+     "year":2011,
+     "value":259.87
+    },
+    {
+     "year":2012,
+     "value":297.19
+    },
+    {
+     "year":2013,
+     "value":336.52
+    },
+    {
+     "year":2014,
+     "value":361.78
+    },
+    {
+     "year":2015,
+     "value":401.33
+    },
+    {
+     "year":2016,
+     "value":431.5
+    },
+    {
+     "year":2017,
+     "value":477.66
+    },
+    {
+     "year":2018,
+     "value":512.88
+    },
+    {
+     "year":2019,
+     "value":534.43
+    },
+    {
+     "year":2020,
+     "value":585.71
+    }
+   ]
+  },
+  {
    "indicator":"GHG emission",
    "yearlyData":[
     {
@@ -6405,6 +6494,83 @@
     {
      "year":2022,
      "value":34.17
+    }
+   ]
+  },
+  {
+   "indicator":"International Financial Flows to Developing Countries ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":130.88
+    },
+    {
+     "year":2001,
+     "value":0.01
+    },
+    {
+     "year":2004,
+     "value":128.92
+    },
+    {
+     "year":2005,
+     "value":0.35
+    },
+    {
+     "year":2006,
+     "value":0.24
+    },
+    {
+     "year":2007,
+     "value":1.64
+    },
+    {
+     "year":2008,
+     "value":66.71
+    },
+    {
+     "year":2009,
+     "value":494.55
+    },
+    {
+     "year":2010,
+     "value":270.52
+    },
+    {
+     "year":2011,
+     "value":801.71
+    },
+    {
+     "year":2012,
+     "value":263.71
+    },
+    {
+     "year":2013,
+     "value":595.99
+    },
+    {
+     "year":2014,
+     "value":515.97
+    },
+    {
+     "year":2015,
+     "value":389.35
+    },
+    {
+     "year":2016,
+     "value":1364.15
+    },
+    {
+     "year":2017,
+     "value":403.6
+    },
+    {
+     "year":2018,
+     "value":1062.53
+    },
+    {
+     "year":2019,
+     "value":360.12
     }
    ]
   },
@@ -11200,6 +11366,51 @@
    ]
   },
   {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":86722.7
+    },
+    {
+     "year":2012,
+     "value":91927.7
+    },
+    {
+     "year":2013,
+     "value":102438.7
+    },
+    {
+     "year":2014,
+     "value":111024.0
+    },
+    {
+     "year":2015,
+     "value":114681.0
+    },
+    {
+     "year":2016,
+     "value":122411.0
+    },
+    {
+     "year":2017,
+     "value":131485.5
+    },
+    {
+     "year":2018,
+     "value":134641.32
+    },
+    {
+     "year":2019,
+     "value":137768.21
+    },
+    {
+     "year":2020,
+     "value":142201.41
+    }
+   ]
+  },
+  {
    "indicator":"Number and Duration of Internal Conflicts",
    "yearlyData":[
     {
@@ -13164,6 +13375,55 @@
    ]
   },
   {
+   "indicator":"Medium and HighTech Industry Value Added in Total Value Added",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":33.75
+    },
+    {
+     "year":2010,
+     "value":32.69
+    },
+    {
+     "year":2011,
+     "value":32.11
+    },
+    {
+     "year":2012,
+     "value":32.04
+    },
+    {
+     "year":2013,
+     "value":31.25
+    },
+    {
+     "year":2014,
+     "value":31.99
+    },
+    {
+     "year":2015,
+     "value":32.85
+    },
+    {
+     "year":2016,
+     "value":33.16
+    },
+    {
+     "year":2017,
+     "value":33.59
+    },
+    {
+     "year":2018,
+     "value":35.45
+    },
+    {
+     "year":2019,
+     "value":33.72
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, Medium",
    "yearlyData":[
     {
@@ -13347,6 +13607,39 @@
     {
      "year":2021,
      "value":17.0
+    }
+   ]
+  },
+  {
+   "indicator":"Mobile Network Coverage Population",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":82.5
+    },
+    {
+     "year":2017,
+     "value":86.52
+    },
+    {
+     "year":2018,
+     "value":93.17
+    },
+    {
+     "year":2019,
+     "value":96.71
+    },
+    {
+     "year":2020,
+     "value":92.24
     }
    ]
   },
@@ -15725,6 +16018,91 @@
     {
      "year":2016,
      "value":66.52
+    }
+   ]
+  },
+  {
+   "indicator":"Energy Intensity Level of Primary Energy",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":3.27
+    },
+    {
+     "year":2001,
+     "value":3.2
+    },
+    {
+     "year":2002,
+     "value":3.17
+    },
+    {
+     "year":2003,
+     "value":3.18
+    },
+    {
+     "year":2004,
+     "value":2.97
+    },
+    {
+     "year":2005,
+     "value":2.84
+    },
+    {
+     "year":2006,
+     "value":2.94
+    },
+    {
+     "year":2007,
+     "value":3.02
+    },
+    {
+     "year":2008,
+     "value":2.94
+    },
+    {
+     "year":2009,
+     "value":3.08
+    },
+    {
+     "year":2010,
+     "value":3.06
+    },
+    {
+     "year":2011,
+     "value":2.92
+    },
+    {
+     "year":2012,
+     "value":2.92
+    },
+    {
+     "year":2013,
+     "value":2.63
+    },
+    {
+     "year":2014,
+     "value":2.59
+    },
+    {
+     "year":2015,
+     "value":2.65
+    },
+    {
+     "year":2016,
+     "value":2.72
+    },
+    {
+     "year":2017,
+     "value":2.71
+    },
+    {
+     "year":2018,
+     "value":2.59
+    },
+    {
+     "year":2019,
+     "value":2.61
     }
    ]
   },

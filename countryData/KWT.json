@@ -2136,11 +2136,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":150093.0
+     "value":150298.0
     },
     {
      "year":2021,
-     "value":416077.0
+     "value":416631.0
     },
     {
      "year":2022,
@@ -2148,7 +2148,7 @@
     },
     {
      "year":2023,
-     "value":665909.0
+     "value":665931.0
     }
    ]
   },
@@ -2157,7 +2157,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":932.0
+     "value":933.0
     },
     {
      "year":2021,
@@ -3055,6 +3055,95 @@
     {
      "year":2021,
      "value":0.3
+    }
+   ]
+  },
+  {
+   "indicator":"Renewable Electricity Generating Capacity",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":0.0
+    },
+    {
+     "year":2001,
+     "value":0.0
+    },
+    {
+     "year":2002,
+     "value":0.0
+    },
+    {
+     "year":2003,
+     "value":0.0
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.71
+    },
+    {
+     "year":2014,
+     "value":1.2
+    },
+    {
+     "year":2015,
+     "value":1.46
+    },
+    {
+     "year":2016,
+     "value":8.32
+    },
+    {
+     "year":2017,
+     "value":10.95
+    },
+    {
+     "year":2018,
+     "value":13.41
+    },
+    {
+     "year":2019,
+     "value":25.14
+    },
+    {
+     "year":2020,
+     "value":24.76
     }
    ]
   },
@@ -7627,6 +7716,51 @@
    ]
   },
   {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":29406.01
+    },
+    {
+     "year":2012,
+     "value":30698.01
+    },
+    {
+     "year":2013,
+     "value":31440.51
+    },
+    {
+     "year":2014,
+     "value":31442.45
+    },
+    {
+     "year":2015,
+     "value":36523.58
+    },
+    {
+     "year":2016,
+     "value":37732.91
+    },
+    {
+     "year":2017,
+     "value":37490.41
+    },
+    {
+     "year":2018,
+     "value":37501.47
+    },
+    {
+     "year":2019,
+     "value":39311.74
+    },
+    {
+     "year":2020,
+     "value":40411.74
+    }
+   ]
+  },
+  {
    "indicator":"Number and Duration of Internal Conflicts",
    "yearlyData":[
     {
@@ -10149,6 +10283,43 @@
    ]
   },
   {
+   "indicator":"Off Grid Installed Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":2.4
+    },
+    {
+     "year":2014,
+     "value":2.4
+    },
+    {
+     "year":2015,
+     "value":2.4
+    },
+    {
+     "year":2016,
+     "value":2.4
+    },
+    {
+     "year":2017,
+     "value":2.4
+    },
+    {
+     "year":2018,
+     "value":2.4
+    },
+    {
+     "year":2019,
+     "value":2.4
+    },
+    {
+     "year":2020,
+     "value":2.4
+    }
+   ]
+  },
+  {
    "indicator":"Ores and metals exports (% of merchandise exports)",
    "yearlyData":[
     {
@@ -11469,6 +11640,91 @@
     {
      "year":2017,
      "value":75.35
+    }
+   ]
+  },
+  {
+   "indicator":"Energy Intensity Level of Primary Energy",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":6.91
+    },
+    {
+     "year":2001,
+     "value":7.36
+    },
+    {
+     "year":2002,
+     "value":7.21
+    },
+    {
+     "year":2003,
+     "value":6.59
+    },
+    {
+     "year":2004,
+     "value":6.6
+    },
+    {
+     "year":2005,
+     "value":6.78
+    },
+    {
+     "year":2006,
+     "value":5.8
+    },
+    {
+     "year":2007,
+     "value":5.28
+    },
+    {
+     "year":2008,
+     "value":6.11
+    },
+    {
+     "year":2009,
+     "value":6.84
+    },
+    {
+     "year":2010,
+     "value":7.42
+    },
+    {
+     "year":2011,
+     "value":6.58
+    },
+    {
+     "year":2012,
+     "value":6.67
+    },
+    {
+     "year":2013,
+     "value":5.57
+    },
+    {
+     "year":2014,
+     "value":5.68
+    },
+    {
+     "year":2015,
+     "value":7.08
+    },
+    {
+     "year":2016,
+     "value":7.3
+    },
+    {
+     "year":2017,
+     "value":7.18
+    },
+    {
+     "year":2018,
+     "value":7.07
+    },
+    {
+     "year":2019,
+     "value":7.4
     }
    ]
   },

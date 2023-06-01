@@ -19,7 +19,7 @@
     },
     {
      "year":2021,
-     "value":3357.0
+     "value":3239.0
     },
     {
      "year":2022,
@@ -27,7 +27,7 @@
     },
     {
      "year":2023,
-     "value":11885.0
+     "value":11909.0
     }
    ]
   },
@@ -40,7 +40,7 @@
     },
     {
      "year":2021,
-     "value":23.0
+     "value":22.0
     },
     {
      "year":2022,
@@ -53,6 +53,140 @@
    ]
   },
   {
+   "indicator":"Renewable Electricity Generating Capacity",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":0.0
+    },
+    {
+     "year":2001,
+     "value":0.0
+    },
+    {
+     "year":2002,
+     "value":0.0
+    },
+    {
+     "year":2003,
+     "value":0.0
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":666.87
+    },
+    {
+     "year":2008,
+     "value":611.13
+    },
+    {
+     "year":2009,
+     "value":564.94
+    },
+    {
+     "year":2010,
+     "value":530.06
+    },
+    {
+     "year":2011,
+     "value":504.59
+    },
+    {
+     "year":2012,
+     "value":485.99
+    },
+    {
+     "year":2013,
+     "value":472.1
+    },
+    {
+     "year":2014,
+     "value":461.21
+    },
+    {
+     "year":2015,
+     "value":463.96
+    },
+    {
+     "year":2016,
+     "value":531.24
+    },
+    {
+     "year":2017,
+     "value":612.23
+    },
+    {
+     "year":2018,
+     "value":649.19
+    },
+    {
+     "year":2019,
+     "value":680.83
+    },
+    {
+     "year":2020,
+     "value":674.65
+    }
+   ]
+  },
+  {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":39.1
+    },
+    {
+     "year":2012,
+     "value":49.1
+    },
+    {
+     "year":2013,
+     "value":49.1
+    },
+    {
+     "year":2014,
+     "value":49.1
+    },
+    {
+     "year":2015,
+     "value":49.4
+    },
+    {
+     "year":2016,
+     "value":51.29
+    },
+    {
+     "year":2017,
+     "value":63.55
+    },
+    {
+     "year":2018,
+     "value":70.69
+    },
+    {
+     "year":2019,
+     "value":71.69
+    },
+    {
+     "year":2020,
+     "value":71.69
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -61,7 +195,7 @@
     },
     {
      "year":2021,
-     "value":0.69
+     "value":0.68
     },
     {
      "year":2022,

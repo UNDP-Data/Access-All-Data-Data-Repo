@@ -1879,11 +1879,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":92169.0
+     "value":92425.0
     },
     {
      "year":2021,
-     "value":280876.0
+     "value":281406.0
     },
     {
      "year":2022,
@@ -1900,7 +1900,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":351.0
+     "value":352.0
     },
     {
      "year":2021,
@@ -2780,6 +2780,95 @@
     {
      "year":2021,
      "value":0.12
+    }
+   ]
+  },
+  {
+   "indicator":"Renewable Electricity Generating Capacity",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":0.0
+    },
+    {
+     "year":2001,
+     "value":0.0
+    },
+    {
+     "year":2002,
+     "value":0.0
+    },
+    {
+     "year":2003,
+     "value":0.0
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.61
+    },
+    {
+     "year":2009,
+     "value":0.57
+    },
+    {
+     "year":2010,
+     "value":0.55
+    },
+    {
+     "year":2011,
+     "value":0.54
+    },
+    {
+     "year":2012,
+     "value":0.92
+    },
+    {
+     "year":2013,
+     "value":0.9
+    },
+    {
+     "year":2014,
+     "value":4.26
+    },
+    {
+     "year":2015,
+     "value":4.15
+    },
+    {
+     "year":2016,
+     "value":4.69
+    },
+    {
+     "year":2017,
+     "value":4.48
+    },
+    {
+     "year":2018,
+     "value":4.48
+    },
+    {
+     "year":2019,
+     "value":6.11
+    },
+    {
+     "year":2020,
+     "value":6.13
     }
    ]
   },
@@ -7349,6 +7438,51 @@
    ]
   },
   {
+   "indicator":"Insalled Electricity Capacity",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":11736.69
+    },
+    {
+     "year":2012,
+     "value":13865.19
+    },
+    {
+     "year":2013,
+     "value":13855.19
+    },
+    {
+     "year":2014,
+     "value":13955.69
+    },
+    {
+     "year":2015,
+     "value":13949.69
+    },
+    {
+     "year":2016,
+     "value":13948.69
+    },
+    {
+     "year":2017,
+     "value":13948.69
+    },
+    {
+     "year":2018,
+     "value":13949.03
+    },
+    {
+     "year":2019,
+     "value":17552.03
+    },
+    {
+     "year":2020,
+     "value":17552.44
+    }
+   ]
+  },
+  {
    "indicator":"Number and Duration of Internal Conflicts",
    "yearlyData":[
     {
@@ -11121,6 +11255,91 @@
     {
      "year":2017,
      "value":77.48
+    }
+   ]
+  },
+  {
+   "indicator":"Energy Intensity Level of Primary Energy",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":10.43
+    },
+    {
+     "year":2001,
+     "value":10.41
+    },
+    {
+     "year":2002,
+     "value":10.45
+    },
+    {
+     "year":2003,
+     "value":10.3
+    },
+    {
+     "year":2004,
+     "value":9.83
+    },
+    {
+     "year":2005,
+     "value":10.55
+    },
+    {
+     "year":2006,
+     "value":10.36
+    },
+    {
+     "year":2007,
+     "value":10.31
+    },
+    {
+     "year":2008,
+     "value":10.35
+    },
+    {
+     "year":2009,
+     "value":9.7
+    },
+    {
+     "year":2010,
+     "value":9.59
+    },
+    {
+     "year":2011,
+     "value":9.42
+    },
+    {
+     "year":2012,
+     "value":8.64
+    },
+    {
+     "year":2013,
+     "value":9.54
+    },
+    {
+     "year":2014,
+     "value":8.77
+    },
+    {
+     "year":2015,
+     "value":9.05
+    },
+    {
+     "year":2016,
+     "value":8.62
+    },
+    {
+     "year":2017,
+     "value":8.33
+    },
+    {
+     "year":2018,
+     "value":8.27
+    },
+    {
+     "year":2019,
+     "value":8.73
     }
    ]
   },
