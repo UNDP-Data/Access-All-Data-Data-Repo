@@ -4535,6 +4535,48 @@
    ]
   },
   {
+   "indicator":"Proportion of women in managerial positions, %",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":6.9
+    },
+    {
+     "year":2018,
+     "value":7.9
+    },
+    {
+     "year":2019,
+     "value":7.6
+    },
+    {
+     "year":2020,
+     "value":15.4
+    },
+    {
+     "year":2021,
+     "value":16.7
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":23.31
+    },
+    {
+     "year":2020,
+     "value":28.75
+    },
+    {
+     "year":2021,
+     "value":23.86
+    }
+   ]
+  },
+  {
    "indicator":"Financial institution account (% age 15+)",
    "yearlyData":[
     {
@@ -7866,31 +7908,31 @@
     },
     {
      "year":2014,
-     "value":131036.26
+     "value":131036.25
     },
     {
      "year":2015,
-     "value":138334.26
+     "value":138334.25
     },
     {
      "year":2016,
-     "value":149428.26
+     "value":149428.25
     },
     {
      "year":2017,
-     "value":160973.63
+     "value":160973.62
     },
     {
      "year":2018,
-     "value":153963.63
+     "value":153963.62
     },
     {
      "year":2019,
-     "value":153158.13
+     "value":153158.12
     },
     {
      "year":2020,
-     "value":163858.13
+     "value":163858.12
     }
    ]
   },
@@ -9026,6 +9068,23 @@
    ]
   },
   {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training, Male",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":8.55
+    },
+    {
+     "year":2020,
+     "value":16.41
+    },
+    {
+     "year":2021,
+     "value":14.97
+    }
+   ]
+  },
+  {
    "indicator":"Domestic material consumption per capita, by type of raw material (tonnes), Total or No breakdown",
    "yearlyData":[
     {
@@ -9723,6 +9782,95 @@
    ]
   },
   {
+   "indicator":"Proportion of medium and high-tech industry value added in total value added",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":21.67
+    },
+    {
+     "year":2001,
+     "value":21.67
+    },
+    {
+     "year":2002,
+     "value":42.24
+    },
+    {
+     "year":2003,
+     "value":35.94
+    },
+    {
+     "year":2004,
+     "value":34.67
+    },
+    {
+     "year":2005,
+     "value":41.71
+    },
+    {
+     "year":2006,
+     "value":41.12
+    },
+    {
+     "year":2007,
+     "value":41.23
+    },
+    {
+     "year":2008,
+     "value":41.23
+    },
+    {
+     "year":2009,
+     "value":32.9
+    },
+    {
+     "year":2010,
+     "value":31.72
+    },
+    {
+     "year":2011,
+     "value":33.31
+    },
+    {
+     "year":2012,
+     "value":33.51
+    },
+    {
+     "year":2013,
+     "value":34.33
+    },
+    {
+     "year":2014,
+     "value":34.54
+    },
+    {
+     "year":2015,
+     "value":37.89
+    },
+    {
+     "year":2016,
+     "value":37.57
+    },
+    {
+     "year":2017,
+     "value":35.38
+    },
+    {
+     "year":2018,
+     "value":36.7
+    },
+    {
+     "year":2019,
+     "value":36.7
+    },
+    {
+     "year":2020,
+     "value":36.7
+    }
+   ]
+  },
+  {
    "indicator":"Militarisation",
    "yearlyData":[
     {
@@ -9870,6 +10018,63 @@
     {
      "year":2021,
      "value":17.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population covered by a mobile network, by technology",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":85.0
+    },
+    {
+     "year":2010,
+     "value":90.0
+    },
+    {
+     "year":2011,
+     "value":93.8
+    },
+    {
+     "year":2012,
+     "value":173.08
+    },
+    {
+     "year":2013,
+     "value":177.0
+    },
+    {
+     "year":2014,
+     "value":179.0
+    },
+    {
+     "year":2015,
+     "value":182.0
+    },
+    {
+     "year":2016,
+     "value":185.15
+    },
+    {
+     "year":2017,
+     "value":188.0
+    },
+    {
+     "year":2018,
+     "value":191.2
+    },
+    {
+     "year":2019,
+     "value":193.06
+    },
+    {
+     "year":2020,
+     "value":197.37
+    },
+    {
+     "year":2021,
+     "value":199.98
     }
    ]
   },
@@ -14276,6 +14481,23 @@
     {
      "year":2021,
      "value":30380961.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":15.6
+    },
+    {
+     "year":2020,
+     "value":22.31
+    },
+    {
+     "year":2021,
+     "value":19.22
     }
    ]
   },

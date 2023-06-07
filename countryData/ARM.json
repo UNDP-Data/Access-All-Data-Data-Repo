@@ -5640,6 +5640,125 @@
    ]
   },
   {
+   "indicator":"Proportion of women in managerial positions, %",
+   "yearlyData":[
+    {
+     "year":2008,
+     "value":35.2
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":31.7
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":28.8
+    },
+    {
+     "year":2014,
+     "value":32.4
+    },
+    {
+     "year":2015,
+     "value":29.1
+    },
+    {
+     "year":2016,
+     "value":29.5
+    },
+    {
+     "year":2017,
+     "value":28.7
+    },
+    {
+     "year":2018,
+     "value":25.7
+    },
+    {
+     "year":2019,
+     "value":24.4
+    },
+    {
+     "year":2020,
+     "value":28.1
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, Female",
+   "yearlyData":[
+    {
+     "year":2004,
+     "value":24.03
+    },
+    {
+     "year":2008,
+     "value":21.66
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":40.85
+    },
+    {
+     "year":2011,
+     "value":44.46
+    },
+    {
+     "year":2012,
+     "value":39.28
+    },
+    {
+     "year":2013,
+     "value":42.57
+    },
+    {
+     "year":2014,
+     "value":38.49
+    },
+    {
+     "year":2015,
+     "value":34.8
+    },
+    {
+     "year":2016,
+     "value":37.83
+    },
+    {
+     "year":2017,
+     "value":37.53
+    },
+    {
+     "year":2018,
+     "value":28.65
+    },
+    {
+     "year":2019,
+     "value":22.1
+    },
+    {
+     "year":2020,
+     "value":23.3
+    }
+   ]
+  },
+  {
    "indicator":"International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
    "yearlyData":[
     {
@@ -6537,6 +6656,19 @@
     {
      "year":2021,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, Gender Gap",
+   "yearlyData":[
+    {
+     "year":2004,
+     "value":-19.44
+    },
+    {
+     "year":2008,
+     "value":-17.29
     }
    ]
   },
@@ -11147,6 +11279,68 @@
    ]
   },
   {
+   "indicator":"Time spent on unpaid domestic and care work, Male",
+   "yearlyData":[
+    {
+     "year":2004,
+     "value":4.58
+    },
+    {
+     "year":2008,
+     "value":4.37
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training, Male",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":40.19
+    },
+    {
+     "year":2011,
+     "value":44.78
+    },
+    {
+     "year":2012,
+     "value":34.33
+    },
+    {
+     "year":2013,
+     "value":46.43
+    },
+    {
+     "year":2014,
+     "value":37.52
+    },
+    {
+     "year":2015,
+     "value":36.35
+    },
+    {
+     "year":2016,
+     "value":35.39
+    },
+    {
+     "year":2017,
+     "value":35.72
+    },
+    {
+     "year":2018,
+     "value":30.45
+    },
+    {
+     "year":2019,
+     "value":29.66
+    },
+    {
+     "year":2020,
+     "value":28.68
+    }
+   ]
+  },
+  {
    "indicator":"Domestic material consumption per capita, by type of raw material (tonnes), Total or No breakdown",
    "yearlyData":[
     {
@@ -11843,6 +12037,42 @@
    "indicator":"Proportion of medium and high-tech industry value added in total value added",
    "yearlyData":[
     {
+     "year":2000,
+     "value":9.53
+    },
+    {
+     "year":2001,
+     "value":9.96
+    },
+    {
+     "year":2002,
+     "value":7.75
+    },
+    {
+     "year":2003,
+     "value":7.55
+    },
+    {
+     "year":2004,
+     "value":4.08
+    },
+    {
+     "year":2005,
+     "value":3.91
+    },
+    {
+     "year":2006,
+     "value":3.9
+    },
+    {
+     "year":2007,
+     "value":3.91
+    },
+    {
+     "year":2008,
+     "value":3.91
+    },
+    {
      "year":2009,
      "value":4.51
     },
@@ -11884,7 +12114,11 @@
     },
     {
      "year":2019,
-     "value":7.05
+     "value":8.21
+    },
+    {
+     "year":2020,
+     "value":8.21
     }
    ]
   },
@@ -12043,40 +12277,56 @@
    "indicator":"Proportion of population covered by a mobile network, by technology",
    "yearlyData":[
     {
+     "year":2009,
+     "value":81.1
+    },
+    {
+     "year":2010,
+     "value":93.0
+    },
+    {
+     "year":2011,
+     "value":95.0
+    },
+    {
      "year":2012,
-     "value":17.54
+     "value":113.84
     },
     {
      "year":2013,
-     "value":44.0
+     "value":141.68
     },
     {
      "year":2014,
-     "value":46.0
+     "value":144.8
     },
     {
      "year":2015,
-     "value":46.5
+     "value":146.4
     },
     {
      "year":2016,
-     "value":52.48
+     "value":152.48
     },
     {
      "year":2017,
-     "value":90.05
+     "value":190.05
     },
     {
      "year":2018,
-     "value":99.1
+     "value":199.1
     },
     {
      "year":2019,
-     "value":99.3
+     "value":199.3
     },
     {
      "year":2020,
-     "value":100.0
+     "value":200.0
+    },
+    {
+     "year":2021,
+     "value":200.0
     }
    ]
   },
@@ -19423,6 +19673,55 @@
    ]
   },
   {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":40.52
+    },
+    {
+     "year":2011,
+     "value":44.6
+    },
+    {
+     "year":2012,
+     "value":36.77
+    },
+    {
+     "year":2013,
+     "value":44.37
+    },
+    {
+     "year":2014,
+     "value":38.03
+    },
+    {
+     "year":2015,
+     "value":35.56
+    },
+    {
+     "year":2016,
+     "value":36.58
+    },
+    {
+     "year":2017,
+     "value":36.59
+    },
+    {
+     "year":2018,
+     "value":29.52
+    },
+    {
+     "year":2019,
+     "value":26.04
+    },
+    {
+     "year":2020,
+     "value":26.08
+    }
+   ]
+  },
+  {
    "indicator":"Trade (% of GDP)",
    "yearlyData":[
     {
@@ -19916,6 +20215,19 @@
     {
      "year":2022,
      "value":24.56
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, all ages (all areas), hours",
+   "yearlyData":[
+    {
+     "year":2004,
+     "value":28.61
+    },
+    {
+     "year":2008,
+     "value":26.03
     }
    ]
   },

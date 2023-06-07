@@ -4477,6 +4477,108 @@
    ]
   },
   {
+   "indicator":"Proportion of women in managerial positions, %",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":26.9
+    },
+    {
+     "year":2001,
+     "value":27.6
+    },
+    {
+     "year":2002,
+     "value":25.3
+    },
+    {
+     "year":2003,
+     "value":24.4
+    },
+    {
+     "year":2004,
+     "value":29.6
+    },
+    {
+     "year":2005,
+     "value":28.2
+    },
+    {
+     "year":2006,
+     "value":23.2
+    },
+    {
+     "year":2007,
+     "value":22.1
+    },
+    {
+     "year":2008,
+     "value":24.7
+    },
+    {
+     "year":2009,
+     "value":19.2
+    },
+    {
+     "year":2010,
+     "value":25.5
+    },
+    {
+     "year":2011,
+     "value":32.8
+    },
+    {
+     "year":2012,
+     "value":34.2
+    },
+    {
+     "year":2013,
+     "value":33.0
+    },
+    {
+     "year":2014,
+     "value":34.5
+    },
+    {
+     "year":2015,
+     "value":35.1
+    },
+    {
+     "year":2016,
+     "value":34.9
+    },
+    {
+     "year":2017,
+     "value":34.5
+    },
+    {
+     "year":2018,
+     "value":38.1
+    },
+    {
+     "year":2019,
+     "value":35.8
+    },
+    {
+     "year":2020,
+     "value":35.5
+    },
+    {
+     "year":2021,
+     "value":36.2
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, Female",
+   "yearlyData":[
+    {
+     "year":2008,
+     "value":25.42
+    }
+   ]
+  },
+  {
    "indicator":"International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
    "yearlyData":[
     {
@@ -5338,6 +5440,15 @@
     {
      "year":2021,
      "value":0.97
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, Gender Gap",
+   "yearlyData":[
+    {
+     "year":2008,
+     "value":-16.53
     }
    ]
   },
@@ -8595,6 +8706,15 @@
    ]
   },
   {
+   "indicator":"Time spent on unpaid domestic and care work, Male",
+   "yearlyData":[
+    {
+     "year":2008,
+     "value":8.89
+    }
+   ]
+  },
+  {
    "indicator":"Domestic material consumption per capita, by type of raw material (tonnes), Total or No breakdown",
    "yearlyData":[
     {
@@ -9231,48 +9351,88 @@
    "indicator":"Proportion of medium and high-tech industry value added in total value added",
    "yearlyData":[
     {
+     "year":2000,
+     "value":9.83
+    },
+    {
+     "year":2001,
+     "value":13.3
+    },
+    {
+     "year":2002,
+     "value":12.61
+    },
+    {
+     "year":2003,
+     "value":9.41
+    },
+    {
+     "year":2004,
+     "value":10.28
+    },
+    {
+     "year":2005,
+     "value":11.91
+    },
+    {
+     "year":2006,
+     "value":9.56
+    },
+    {
+     "year":2007,
+     "value":10.93
+    },
+    {
+     "year":2008,
+     "value":7.33
+    },
+    {
      "year":2009,
-     "value":13.88
+     "value":6.34
     },
     {
      "year":2010,
-     "value":10.07
+     "value":7.96
     },
     {
      "year":2011,
-     "value":12.49
+     "value":9.92
     },
     {
      "year":2012,
-     "value":12.5
+     "value":8.47
     },
     {
      "year":2013,
-     "value":15.72
+     "value":10.25
     },
     {
      "year":2014,
-     "value":17.54
+     "value":9.86
     },
     {
      "year":2015,
-     "value":29.91
+     "value":10.66
     },
     {
      "year":2016,
-     "value":28.18
+     "value":10.13
     },
     {
      "year":2017,
-     "value":20.37
+     "value":10.82
     },
     {
      "year":2018,
-     "value":18.18
+     "value":10.29
     },
     {
      "year":2019,
-     "value":14.23
+     "value":11.28
+    },
+    {
+     "year":2020,
+     "value":15.23
     }
    ]
   },
@@ -9431,40 +9591,56 @@
    "indicator":"Proportion of population covered by a mobile network, by technology",
    "yearlyData":[
     {
+     "year":2009,
+     "value":32.2
+    },
+    {
+     "year":2010,
+     "value":69.2
+    },
+    {
+     "year":2011,
+     "value":89.3
+    },
+    {
      "year":2012,
-     "value":6.68
+     "value":103.18
     },
     {
      "year":2013,
-     "value":14.31
+     "value":111.21
     },
     {
      "year":2014,
-     "value":49.0
+     "value":146.1
     },
     {
      "year":2015,
-     "value":39.0
+     "value":134.47
     },
     {
      "year":2016,
-     "value":41.0
+     "value":136.5
     },
     {
      "year":2017,
-     "value":42.0
+     "value":138.3
     },
     {
      "year":2018,
-     "value":49.0
+     "value":146.1
     },
     {
      "year":2019,
-     "value":93.0
+     "value":190.6
     },
     {
      "year":2020,
-     "value":93.0
+     "value":190.6
+    },
+    {
+     "year":2021,
+     "value":193.5
     }
    ]
   },
@@ -13593,43 +13769,6 @@
    ]
   },
   {
-   "indicator":"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
-   "yearlyData":[
-    {
-     "year":2013,
-     "value":11.5
-    },
-    {
-     "year":2014,
-     "value":12.53
-    },
-    {
-     "year":2015,
-     "value":12.78
-    },
-    {
-     "year":2016,
-     "value":12.69
-    },
-    {
-     "year":2017,
-     "value":14.24
-    },
-    {
-     "year":2018,
-     "value":14.06
-    },
-    {
-     "year":2019,
-     "value":14.71
-    },
-    {
-     "year":2020,
-     "value":17.05
-    }
-   ]
-  },
-  {
    "indicator":"CPIA policies for social inclusion\/equity cluster average",
    "yearlyData":[
     {
@@ -14978,6 +15117,15 @@
     {
      "year":2022,
      "value":13.4
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, all ages (all areas), hours",
+   "yearlyData":[
+    {
+     "year":2008,
+     "value":34.31
     }
    ]
   },

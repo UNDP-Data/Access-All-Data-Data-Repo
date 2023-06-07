@@ -6498,6 +6498,19 @@
    ]
   },
   {
+   "indicator":"Time spent on unpaid domestic and care work, Female",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":22.0
+    },
+    {
+     "year":2015,
+     "value":19.15
+    }
+   ]
+  },
+  {
    "indicator":"International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
    "yearlyData":[
     {
@@ -7571,6 +7584,19 @@
     {
      "year":2021,
      "value":0.94
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, Gender Gap",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":-18.45
+    },
+    {
+     "year":2015,
+     "value":-15.45
     }
    ]
   },
@@ -12733,6 +12759,19 @@
    ]
   },
   {
+   "indicator":"Time spent on unpaid domestic and care work, Male",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":3.55
+    },
+    {
+     "year":2015,
+     "value":3.71
+    }
+   ]
+  },
+  {
    "indicator":"MSME employment (% total)",
    "yearlyData":[
     {
@@ -13375,55 +13414,6 @@
    ]
   },
   {
-   "indicator":"Proportion of medium and high-tech industry value added in total value added",
-   "yearlyData":[
-    {
-     "year":2009,
-     "value":33.75
-    },
-    {
-     "year":2010,
-     "value":32.69
-    },
-    {
-     "year":2011,
-     "value":32.11
-    },
-    {
-     "year":2012,
-     "value":32.04
-    },
-    {
-     "year":2013,
-     "value":31.25
-    },
-    {
-     "year":2014,
-     "value":31.99
-    },
-    {
-     "year":2015,
-     "value":32.85
-    },
-    {
-     "year":2016,
-     "value":33.16
-    },
-    {
-     "year":2017,
-     "value":33.59
-    },
-    {
-     "year":2018,
-     "value":35.45
-    },
-    {
-     "year":2019,
-     "value":33.72
-    }
-   ]
-  },
-  {
    "indicator":"Size Breakdown, % of all enterprises, Medium",
    "yearlyData":[
     {
@@ -13614,32 +13604,64 @@
    "indicator":"Proportion of population covered by a mobile network, by technology",
    "yearlyData":[
     {
-     "year":2014,
+     "year":2007,
      "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":84.02
+    },
+    {
+     "year":2013,
+     "value":86.17
+    },
+    {
+     "year":2014,
+     "value":93.0
     },
     {
      "year":2015,
-     "value":0.0
+     "value":95.03
     },
     {
      "year":2016,
-     "value":82.5
+     "value":178.54
     },
     {
      "year":2017,
-     "value":86.52
+     "value":183.9
     },
     {
      "year":2018,
-     "value":93.17
+     "value":191.49
     },
     {
      "year":2019,
-     "value":96.71
+     "value":195.27
     },
     {
      "year":2020,
-     "value":92.24
+     "value":190.1
+    },
+    {
+     "year":2021,
+     "value":195.64
     }
    ]
   },
@@ -22322,6 +22344,19 @@
     {
      "year":2022,
      "value":18.98
+    }
+   ]
+  },
+  {
+   "indicator":"Time spent on unpaid domestic and care work, all ages (all areas), hours",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":25.56
+    },
+    {
+     "year":2015,
+     "value":22.86
     }
    ]
   },

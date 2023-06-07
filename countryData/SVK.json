@@ -5798,6 +5798,180 @@
    ]
   },
   {
+   "indicator":"Proportion of women in managerial positions, %",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":31.2
+    },
+    {
+     "year":2001,
+     "value":31.2
+    },
+    {
+     "year":2002,
+     "value":31.2
+    },
+    {
+     "year":2003,
+     "value":34.6
+    },
+    {
+     "year":2004,
+     "value":32.4
+    },
+    {
+     "year":2005,
+     "value":30.8
+    },
+    {
+     "year":2006,
+     "value":27.9
+    },
+    {
+     "year":2007,
+     "value":30.9
+    },
+    {
+     "year":2008,
+     "value":29.7
+    },
+    {
+     "year":2009,
+     "value":32.2
+    },
+    {
+     "year":2010,
+     "value":34.2
+    },
+    {
+     "year":2011,
+     "value":31.4
+    },
+    {
+     "year":2012,
+     "value":33.1
+    },
+    {
+     "year":2013,
+     "value":32.3
+    },
+    {
+     "year":2014,
+     "value":31.4
+    },
+    {
+     "year":2015,
+     "value":31.4
+    },
+    {
+     "year":2016,
+     "value":35.1
+    },
+    {
+     "year":2017,
+     "value":32.5
+    },
+    {
+     "year":2018,
+     "value":32.1
+    },
+    {
+     "year":2019,
+     "value":33.7
+    },
+    {
+     "year":2020,
+     "value":35.5
+    },
+    {
+     "year":2021,
+     "value":38.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+   "yearlyData":[
+    {
+     "year":2003,
+     "value":19.98
+    },
+    {
+     "year":2004,
+     "value":20.01
+    },
+    {
+     "year":2005,
+     "value":18.36
+    },
+    {
+     "year":2006,
+     "value":15.76
+    },
+    {
+     "year":2007,
+     "value":13.32
+    },
+    {
+     "year":2008,
+     "value":13.14
+    },
+    {
+     "year":2009,
+     "value":13.33
+    },
+    {
+     "year":2010,
+     "value":15.12
+    },
+    {
+     "year":2011,
+     "value":14.46
+    },
+    {
+     "year":2012,
+     "value":13.92
+    },
+    {
+     "year":2013,
+     "value":14.0
+    },
+    {
+     "year":2014,
+     "value":14.39
+    },
+    {
+     "year":2015,
+     "value":14.38
+    },
+    {
+     "year":2016,
+     "value":14.17
+    },
+    {
+     "year":2017,
+     "value":14.06
+    },
+    {
+     "year":2018,
+     "value":12.33
+    },
+    {
+     "year":2019,
+     "value":11.8
+    },
+    {
+     "year":2020,
+     "value":11.77
+    },
+    {
+     "year":2021,
+     "value":11.49
+    }
+   ]
+  },
+  {
    "indicator":"Financial institution account (% age 15+)",
    "yearlyData":[
     {
@@ -11333,6 +11507,87 @@
    ]
   },
   {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training, Male",
+   "yearlyData":[
+    {
+     "year":2003,
+     "value":19.95
+    },
+    {
+     "year":2004,
+     "value":18.91
+    },
+    {
+     "year":2005,
+     "value":15.42
+    },
+    {
+     "year":2006,
+     "value":12.16
+    },
+    {
+     "year":2007,
+     "value":10.02
+    },
+    {
+     "year":2008,
+     "value":9.79
+    },
+    {
+     "year":2009,
+     "value":12.6
+    },
+    {
+     "year":2010,
+     "value":14.04
+    },
+    {
+     "year":2011,
+     "value":14.16
+    },
+    {
+     "year":2012,
+     "value":14.81
+    },
+    {
+     "year":2013,
+     "value":14.5
+    },
+    {
+     "year":2014,
+     "value":13.77
+    },
+    {
+     "year":2015,
+     "value":13.58
+    },
+    {
+     "year":2016,
+     "value":11.27
+    },
+    {
+     "year":2017,
+     "value":10.67
+    },
+    {
+     "year":2018,
+     "value":8.57
+    },
+    {
+     "year":2019,
+     "value":9.22
+    },
+    {
+     "year":2020,
+     "value":9.77
+    },
+    {
+     "year":2021,
+     "value":10.68
+    }
+   ]
+  },
+  {
    "indicator":"MSME employment (% total)",
    "yearlyData":[
     {
@@ -11986,48 +12241,88 @@
    "indicator":"Proportion of medium and high-tech industry value added in total value added",
    "yearlyData":[
     {
+     "year":2000,
+     "value":33.66
+    },
+    {
+     "year":2001,
+     "value":34.72
+    },
+    {
+     "year":2002,
+     "value":35.91
+    },
+    {
+     "year":2003,
+     "value":37.99
+    },
+    {
+     "year":2004,
+     "value":34.77
+    },
+    {
+     "year":2005,
+     "value":36.13
+    },
+    {
+     "year":2006,
+     "value":39.99
+    },
+    {
+     "year":2007,
+     "value":43.11
+    },
+    {
+     "year":2008,
+     "value":41.26
+    },
+    {
      "year":2009,
      "value":43.3
     },
     {
      "year":2010,
-     "value":46.58
+     "value":45.75
     },
     {
      "year":2011,
-     "value":44.86
+     "value":44.52
     },
     {
      "year":2012,
-     "value":48.49
+     "value":47.82
     },
     {
      "year":2013,
-     "value":50.02
+     "value":49.43
     },
     {
      "year":2014,
-     "value":47.97
+     "value":47.48
     },
     {
      "year":2015,
-     "value":49.66
+     "value":49.39
     },
     {
      "year":2016,
-     "value":48.14
+     "value":47.77
     },
     {
      "year":2017,
-     "value":48.67
+     "value":47.93
     },
     {
      "year":2018,
-     "value":49.52
+     "value":49.51
     },
     {
      "year":2019,
-     "value":50.73
+     "value":51.17
+    },
+    {
+     "year":2020,
+     "value":52.78
     }
    ]
   },
@@ -12270,40 +12565,64 @@
    "indicator":"Proportion of population covered by a mobile network, by technology",
    "yearlyData":[
     {
+     "year":2007,
+     "value":56.0
+    },
+    {
+     "year":2008,
+     "value":61.1
+    },
+    {
+     "year":2009,
+     "value":67.8
+    },
+    {
+     "year":2010,
+     "value":69.2
+    },
+    {
+     "year":2011,
+     "value":71.1
+    },
+    {
      "year":2012,
-     "value":11.15
+     "value":88.15
     },
     {
      "year":2013,
-     "value":24.0
+     "value":109.0
     },
     {
      "year":2014,
-     "value":52.0
+     "value":143.0
     },
     {
      "year":2015,
-     "value":75.0
+     "value":168.0
     },
     {
      "year":2016,
-     "value":87.0
+     "value":181.0
     },
     {
      "year":2017,
-     "value":92.0
+     "value":187.0
     },
     {
      "year":2018,
-     "value":94.0
+     "value":189.0
     },
     {
      "year":2019,
-     "value":97.0
+     "value":194.0
     },
     {
      "year":2020,
-     "value":99.0
+     "value":198.0
+    },
+    {
+     "year":2021,
+     "value":198.0
     }
    ]
   },
@@ -16221,6 +16540,87 @@
    ]
   },
   {
+   "indicator":"Proportion of women in senior and middle management positions, %",
+   "yearlyData":[
+    {
+     "year":2003,
+     "value":34.62
+    },
+    {
+     "year":2004,
+     "value":32.37
+    },
+    {
+     "year":2005,
+     "value":30.76
+    },
+    {
+     "year":2006,
+     "value":27.39
+    },
+    {
+     "year":2007,
+     "value":31.83
+    },
+    {
+     "year":2008,
+     "value":29.15
+    },
+    {
+     "year":2009,
+     "value":31.68
+    },
+    {
+     "year":2010,
+     "value":34.88
+    },
+    {
+     "year":2011,
+     "value":28.63
+    },
+    {
+     "year":2012,
+     "value":30.4
+    },
+    {
+     "year":2013,
+     "value":29.88
+    },
+    {
+     "year":2014,
+     "value":27.88
+    },
+    {
+     "year":2015,
+     "value":27.82
+    },
+    {
+     "year":2016,
+     "value":34.32
+    },
+    {
+     "year":2017,
+     "value":30.58
+    },
+    {
+     "year":2018,
+     "value":30.37
+    },
+    {
+     "year":2019,
+     "value":33.35
+    },
+    {
+     "year":2020,
+     "value":34.53
+    },
+    {
+     "year":2021,
+     "value":35.24
+    }
+   ]
+  },
+  {
    "indicator":"Share of seats in parliament, male (% held by men)",
    "yearlyData":[
     {
@@ -18732,15 +19132,6 @@
    ]
   },
   {
-   "indicator":"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
-   "yearlyData":[
-    {
-     "year":2014,
-     "value":39.18
-    }
-   ]
-  },
-  {
    "indicator":"Size Breakdown, % of all enterprises, Small",
    "yearlyData":[
     {
@@ -19702,6 +20093,87 @@
     {
      "year":2021,
      "value":2931708.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training",
+   "yearlyData":[
+    {
+     "year":2003,
+     "value":19.97
+    },
+    {
+     "year":2004,
+     "value":19.45
+    },
+    {
+     "year":2005,
+     "value":16.86
+    },
+    {
+     "year":2006,
+     "value":13.92
+    },
+    {
+     "year":2007,
+     "value":11.63
+    },
+    {
+     "year":2008,
+     "value":11.43
+    },
+    {
+     "year":2009,
+     "value":12.96
+    },
+    {
+     "year":2010,
+     "value":14.57
+    },
+    {
+     "year":2011,
+     "value":14.31
+    },
+    {
+     "year":2012,
+     "value":14.37
+    },
+    {
+     "year":2013,
+     "value":14.26
+    },
+    {
+     "year":2014,
+     "value":14.07
+    },
+    {
+     "year":2015,
+     "value":13.97
+    },
+    {
+     "year":2016,
+     "value":12.69
+    },
+    {
+     "year":2017,
+     "value":12.33
+    },
+    {
+     "year":2018,
+     "value":10.4
+    },
+    {
+     "year":2019,
+     "value":10.48
+    },
+    {
+     "year":2020,
+     "value":10.75
+    },
+    {
+     "year":2021,
+     "value":11.08
     }
    ]
   },

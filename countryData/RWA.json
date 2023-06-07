@@ -5244,6 +5244,76 @@
    ]
   },
   {
+   "indicator":"Proportion of women in managerial positions, %",
+   "yearlyData":[
+    {
+     "year":2012,
+     "value":34.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":14.1
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":36.3
+    },
+    {
+     "year":2018,
+     "value":31.9
+    },
+    {
+     "year":2019,
+     "value":28.6
+    },
+    {
+     "year":2020,
+     "value":33.4
+    },
+    {
+     "year":2021,
+     "value":35.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":29.98
+    },
+    {
+     "year":2018,
+     "value":30.74
+    },
+    {
+     "year":2019,
+     "value":32.76
+    },
+    {
+     "year":2020,
+     "value":29.5
+    },
+    {
+     "year":2021,
+     "value":30.78
+    }
+   ]
+  },
+  {
    "indicator":"International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
    "yearlyData":[
     {
@@ -9119,43 +9189,43 @@
    "yearlyData":[
     {
      "year":2011,
-     "value":160.25
+     "value":159.45
     },
     {
      "year":2012,
-     "value":161.71
+     "value":160.35
     },
     {
      "year":2013,
-     "value":165.79
+     "value":163.25
     },
     {
      "year":2014,
-     "value":181.03
+     "value":177.95
     },
     {
      "year":2015,
-     "value":311.01
+     "value":276.0
     },
     {
      "year":2016,
-     "value":320.23
+     "value":280.0
     },
     {
      "year":2017,
-     "value":358.73
+     "value":313.3
     },
     {
      "year":2018,
-     "value":362.45
+     "value":313.3
     },
     {
      "year":2019,
-     "value":373.31
+     "value":324.16
     },
     {
      "year":2020,
-     "value":373.31
+     "value":324.16
     }
    ]
   },
@@ -10331,6 +10401,31 @@
    ]
   },
   {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training, Male",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":20.9
+    },
+    {
+     "year":2018,
+     "value":21.49
+    },
+    {
+     "year":2019,
+     "value":24.11
+    },
+    {
+     "year":2020,
+     "value":22.68
+    },
+    {
+     "year":2021,
+     "value":27.26
+    }
+   ]
+  },
+  {
    "indicator":"MSME employment (% total)",
    "yearlyData":[
     {
@@ -11045,6 +11140,95 @@
    ]
   },
   {
+   "indicator":"Proportion of medium and high-tech industry value added in total value added",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":6.52
+    },
+    {
+     "year":2001,
+     "value":6.52
+    },
+    {
+     "year":2002,
+     "value":6.52
+    },
+    {
+     "year":2003,
+     "value":6.52
+    },
+    {
+     "year":2004,
+     "value":6.52
+    },
+    {
+     "year":2005,
+     "value":6.52
+    },
+    {
+     "year":2006,
+     "value":6.52
+    },
+    {
+     "year":2007,
+     "value":9.94
+    },
+    {
+     "year":2008,
+     "value":9.94
+    },
+    {
+     "year":2009,
+     "value":9.94
+    },
+    {
+     "year":2010,
+     "value":9.94
+    },
+    {
+     "year":2011,
+     "value":9.94
+    },
+    {
+     "year":2012,
+     "value":9.94
+    },
+    {
+     "year":2013,
+     "value":9.94
+    },
+    {
+     "year":2014,
+     "value":9.94
+    },
+    {
+     "year":2015,
+     "value":4.9
+    },
+    {
+     "year":2016,
+     "value":5.29
+    },
+    {
+     "year":2017,
+     "value":5.74
+    },
+    {
+     "year":2018,
+     "value":6.37
+    },
+    {
+     "year":2019,
+     "value":7.48
+    },
+    {
+     "year":2020,
+     "value":6.88
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, Medium",
    "yearlyData":[
     {
@@ -11252,6 +11436,51 @@
     {
      "year":2021,
      "value":248.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population covered by a mobile network, by technology",
+   "yearlyData":[
+    {
+     "year":2012,
+     "value":18.31
+    },
+    {
+     "year":2013,
+     "value":88.0
+    },
+    {
+     "year":2014,
+     "value":96.0
+    },
+    {
+     "year":2015,
+     "value":108.01
+    },
+    {
+     "year":2016,
+     "value":154.08
+    },
+    {
+     "year":2017,
+     "value":182.37
+    },
+    {
+     "year":2018,
+     "value":193.2
+    },
+    {
+     "year":2019,
+     "value":197.8
+    },
+    {
+     "year":2020,
+     "value":196.14
+    },
+    {
+     "year":2021,
+     "value":196.7
     }
    ]
   },
@@ -15174,6 +15403,31 @@
    ]
   },
   {
+   "indicator":"Proportion of women in senior and middle management positions, %",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":36.3
+    },
+    {
+     "year":2018,
+     "value":33.22
+    },
+    {
+     "year":2019,
+     "value":0.0
+    },
+    {
+     "year":2020,
+     "value":34.19
+    },
+    {
+     "year":2021,
+     "value":35.41
+    }
+   ]
+  },
+  {
    "indicator":"Share of seats in parliament, male (% held by men)",
    "yearlyData":[
     {
@@ -17599,6 +17853,31 @@
     {
      "year":2021,
      "value":2364984.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15\u201324 years) not in education, employment or training",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":25.59
+    },
+    {
+     "year":2018,
+     "value":26.3
+    },
+    {
+     "year":2019,
+     "value":28.55
+    },
+    {
+     "year":2020,
+     "value":26.14
+    },
+    {
+     "year":2021,
+     "value":29.05
     }
    ]
   },
