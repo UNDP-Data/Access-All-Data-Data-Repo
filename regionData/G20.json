@@ -1,19 +1,148 @@
 {
  "Alpha-3 code":"G20",
- "data":[
-
- ],
  "Country or Area":"G20",
- "Alpha-2 code":"",
- "Numeric code":0,
  "Latitude (average)":0.0,
  "Longitude (average)":0.0,
  "Group 1":"",
  "Group 2":"",
- "Group 3":"",
  "LDC":false,
  "LLDC":false,
  "SIDS":false,
- "Development classification":"",
- "Income group":""
+ "Income group":"",
+ "indicators":[
+  {
+   "indicator":"Children\/households receiving child\/family cash benefits",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":34.5
+    }
+   ]
+  },
+  {
+   "indicator":"Employed covered in the event of work injury",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":38.1
+    }
+   ]
+  },
+  {
+   "indicator":"Labour income share as a percent of GDP -- ILO modelled estimates, Nov. 2021 (%) ",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":56.6
+    },
+    {
+     "year":2010,
+     "value":55.4
+    },
+    {
+     "year":2011,
+     "value":54.8
+    },
+    {
+     "year":2012,
+     "value":54.8
+    },
+    {
+     "year":2013,
+     "value":54.6
+    },
+    {
+     "year":2014,
+     "value":54.7
+    },
+    {
+     "year":2015,
+     "value":54.7
+    },
+    {
+     "year":2016,
+     "value":54.8
+    },
+    {
+     "year":2017,
+     "value":54.7
+    },
+    {
+     "year":2018,
+     "value":54.6
+    },
+    {
+     "year":2019,
+     "value":54.8
+    },
+    {
+     "year":2020,
+     "value":55.5
+    }
+   ]
+  },
+  {
+   "indicator":"Mothers with newborns receiving maternity benefits, Females",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":57.5
+    }
+   ]
+  },
+  {
+   "indicator":"Persons above retirement age receiving a pension",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":86.3
+    }
+   ]
+  },
+  {
+   "indicator":"Persons with severe disabilities collecting disability social protection benefits",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":38.6
+    }
+   ]
+  },
+  {
+   "indicator":"Population covered by at least one social protection benefit",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":57.8
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":86.3
+    }
+   ]
+  },
+  {
+   "indicator":"Unemployed receiving unemployment benefits",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":21.8
+    }
+   ]
+  },
+  {
+   "indicator":"Vulnerable persons covered by social assistance",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":35.8
+    }
+   ]
+  }
+ ]
 }

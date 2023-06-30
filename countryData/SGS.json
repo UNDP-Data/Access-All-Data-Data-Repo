@@ -1,19 +1,59 @@
 {
  "Alpha-3 code":"SGS",
- "data":[
-
- ],
  "Country or Area":"South Georgia and the South Sandwich Islands",
- "Alpha-2 code":"GS",
- "Numeric code":239,
  "Latitude (average)":-54.429579,
  "Longitude (average)":-36.587909,
  "Group 1":"Americas",
  "Group 2":"Latin America and the Caribbean",
- "Group 3":"South America",
  "LDC":false,
  "LLDC":false,
  "SIDS":false,
- "Development classification":"",
- "Income group":""
+ "Income group":"",
+ "indicators":[
+  {
+   "indicator":"Installed electricity capacity (MW) by Country\/area Off-grid",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":0.64
+    },
+    {
+     "year":2012,
+     "value":0.64
+    },
+    {
+     "year":2013,
+     "value":0.64
+    },
+    {
+     "year":2014,
+     "value":0.64
+    },
+    {
+     "year":2015,
+     "value":0.64
+    },
+    {
+     "year":2016,
+     "value":0.64
+    },
+    {
+     "year":2017,
+     "value":0.64
+    },
+    {
+     "year":2018,
+     "value":0.64
+    },
+    {
+     "year":2019,
+     "value":0.64
+    },
+    {
+     "year":2020,
+     "value":0.64
+    }
+   ]
+  }
+ ]
 }
