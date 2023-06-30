@@ -38,6 +38,39 @@
    ]
   },
   {
+   "indicator":"Births attended by skilled health personnel (%)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":73.86
+    },
+    {
+     "year":2005,
+     "value":76.29
+    },
+    {
+     "year":2010,
+     "value":77.25
+    },
+    {
+     "year":2015,
+     "value":80.52
+    },
+    {
+     "year":2017,
+     "value":81.94
+    },
+    {
+     "year":2019,
+     "value":83.05
+    },
+    {
+     "year":2021,
+     "value":83.48
+    }
+   ]
+  },
+  {
    "indicator":"Children\/households receiving child\/family cash benefits",
    "yearlyData":[
     {
@@ -1336,6 +1369,23 @@
    ]
   },
   {
+   "indicator":"Health Service Provision (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":67.0
+    },
+    {
+     "year":2019,
+     "value":73.0
+    },
+    {
+     "year":2020,
+     "value":53.0
+    }
+   ]
+  },
+  {
    "indicator":"Informal employment by sex and age (thousands), Female, 15-24",
    "yearlyData":[
     {
@@ -1679,6 +1729,40 @@
    ]
   },
   {
+   "indicator":" Laboratory (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":100.0
+    },
+    {
+     "year":2019,
+     "value":100.0
+    },
+    {
+     "year":2020,
+     "value":93.0
+    }
+   ]
+  },
+  {
+   "indicator":" Legislation and Financing (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":80.0
+    },
+    {
+     "year":2019,
+     "value":80.0
+    },
+    {
+     "year":2020,
+     "value":80.0
+    }
+   ]
+  },
+  {
    "indicator":"Countries that have passed legislation on Universal Health Coverage (UHC) 2017",
    "yearlyData":[
     {
@@ -1734,6 +1818,23 @@
     {
      "year":2021,
      "value":110.0
+    }
+   ]
+  },
+  {
+   "indicator":"National Health Emergency Framework (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":67.0
+    },
+    {
+     "year":2019,
+     "value":73.0
+    },
+    {
+     "year":2020,
+     "value":53.0
     }
    ]
   },
@@ -2054,6 +2155,23 @@
     {
      "year":2016,
      "value":98.3
+    }
+   ]
+  },
+  {
+   "indicator":"Problems in accessing health care (any of the specified problems) (% of women): Q1 (lowest)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":67.0
+    },
+    {
+     "year":2019,
+     "value":73.0
+    },
+    {
+     "year":2020,
+     "value":53.0
     }
    ]
   },
@@ -2912,6 +3030,171 @@
    ]
   },
   {
+   "indicator":" UHC Service Coverage Index",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":47.39
+    },
+    {
+     "year":2005,
+     "value":50.17
+    },
+    {
+     "year":2010,
+     "value":60.71
+    },
+    {
+     "year":2015,
+     "value":63.45
+    },
+    {
+     "year":2017,
+     "value":62.52
+    },
+    {
+     "year":2019,
+     "value":63.44
+    },
+    {
+     "year":2021,
+     "value":45.98
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on infectious diseases ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":20.01
+    },
+    {
+     "year":2005,
+     "value":23.16
+    },
+    {
+     "year":2010,
+     "value":48.9
+    },
+    {
+     "year":2015,
+     "value":62.64
+    },
+    {
+     "year":2017,
+     "value":65.9
+    },
+    {
+     "year":2019,
+     "value":58.47
+    },
+    {
+     "year":2021,
+     "value":16.75
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on reproductive, maternal, newborn and child health ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":73.86
+    },
+    {
+     "year":2005,
+     "value":76.29
+    },
+    {
+     "year":2010,
+     "value":77.25
+    },
+    {
+     "year":2015,
+     "value":80.52
+    },
+    {
+     "year":2017,
+     "value":81.94
+    },
+    {
+     "year":2019,
+     "value":83.05
+    },
+    {
+     "year":2021,
+     "value":83.48
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on service capacity an access ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":88.01
+    },
+    {
+     "year":2005,
+     "value":88.48
+    },
+    {
+     "year":2010,
+     "value":87.23
+    },
+    {
+     "year":2015,
+     "value":79.11
+    },
+    {
+     "year":2017,
+     "value":68.37
+    },
+    {
+     "year":2019,
+     "value":79.8
+    },
+    {
+     "year":2021,
+     "value":76.17
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on noncommunicable diseases ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":38.75
+    },
+    {
+     "year":2005,
+     "value":40.52
+    },
+    {
+     "year":2010,
+     "value":41.21
+    },
+    {
+     "year":2015,
+     "value":40.62
+    },
+    {
+     "year":2017,
+     "value":41.38
+    },
+    {
+     "year":2019,
+     "value":41.79
+    },
+    {
+     "year":2021,
+     "value":41.97
+    }
+   ]
+  },
+  {
    "indicator":"Voice and Accountability (estimate)",
    "yearlyData":[
     {
@@ -2999,6 +3282,23 @@
     {
      "year":2020,
      "value":85.8
+    }
+   ]
+  },
+  {
+   "indicator":"Zoonotic Events and the Human-animal Interface (IHR SPAR) ",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":20.0
+    },
+    {
+     "year":2019,
+     "value":20.0
+    },
+    {
+     "year":2020,
+     "value":20.0
     }
    ]
   }

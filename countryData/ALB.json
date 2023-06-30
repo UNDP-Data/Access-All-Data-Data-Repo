@@ -837,6 +837,39 @@
    ]
   },
   {
+   "indicator":"Births attended by skilled health personnel (%)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":48.58
+    },
+    {
+     "year":2005,
+     "value":47.75
+    },
+    {
+     "year":2010,
+     "value":51.28
+    },
+    {
+     "year":2015,
+     "value":46.94
+    },
+    {
+     "year":2017,
+     "value":44.86
+    },
+    {
+     "year":2019,
+     "value":46.03
+    },
+    {
+     "year":2021,
+     "value":47.54
+    }
+   ]
+  },
+  {
    "indicator":"Carbon dioxide emissions per capita (production) (tonnes)",
    "yearlyData":[
     {
@@ -5497,6 +5530,15 @@
    ]
   },
   {
+   "indicator":"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":79.0
+    }
+   ]
+  },
+  {
    "indicator":"Number, Duration and Role in External Conflicts",
    "yearlyData":[
     {
@@ -7989,6 +8031,19 @@
    ]
   },
   {
+   "indicator":"Health Service Provision (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":40.0
+    },
+    {
+     "year":2020,
+     "value":67.0
+    }
+   ]
+  },
+  {
    "indicator":"Number of Homicides per 100,000 People",
    "yearlyData":[
     {
@@ -10188,6 +10243,19 @@
    ]
   },
   {
+   "indicator":" Laboratory (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":53.0
+    },
+    {
+     "year":2020,
+     "value":60.0
+    }
+   ]
+  },
+  {
    "indicator":"Labor force with advanced education (% of total working-age population with advanced education)",
    "yearlyData":[
     {
@@ -10540,6 +10608,19 @@
     {
      "year":2017,
      "value":1.13
+    }
+   ]
+  },
+  {
+   "indicator":" Legislation and Financing (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":73.0
+    },
+    {
+     "year":2020,
+     "value":67.0
     }
    ]
   },
@@ -12503,6 +12584,19 @@
     {
      "year":2018,
      "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"National Health Emergency Framework (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":40.0
+    },
+    {
+     "year":2020,
+     "value":67.0
     }
    ]
   },
@@ -14705,6 +14799,28 @@
    ]
   },
   {
+   "indicator":"Problems in accessing health care (any of the specified problems) (% of women): Q1 (lowest)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":40.0
+    },
+    {
+     "year":2020,
+     "value":67.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":1.64
+    }
+   ]
+  },
+  {
    "indicator":"Protection of rights and freedoms",
    "yearlyData":[
     {
@@ -16136,6 +16252,15 @@
     {
      "year":2021,
      "value":56.72
+    }
+   ]
+  },
+  {
+   "indicator":"Score of adoption and implementation of national DRR strategies in line with the Sendai Framework",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":0.05
     }
    ]
   },
@@ -19584,6 +19709,171 @@
    ]
   },
   {
+   "indicator":" UHC Service Coverage Index",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":42.62
+    },
+    {
+     "year":2005,
+     "value":51.9
+    },
+    {
+     "year":2010,
+     "value":57.38
+    },
+    {
+     "year":2015,
+     "value":61.0
+    },
+    {
+     "year":2017,
+     "value":61.48
+    },
+    {
+     "year":2019,
+     "value":63.57
+    },
+    {
+     "year":2021,
+     "value":63.77
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on infectious diseases ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":19.74
+    },
+    {
+     "year":2005,
+     "value":40.36
+    },
+    {
+     "year":2010,
+     "value":52.22
+    },
+    {
+     "year":2015,
+     "value":69.2
+    },
+    {
+     "year":2017,
+     "value":73.33
+    },
+    {
+     "year":2019,
+     "value":72.96
+    },
+    {
+     "year":2021,
+     "value":66.55
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on reproductive, maternal, newborn and child health ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":48.58
+    },
+    {
+     "year":2005,
+     "value":47.75
+    },
+    {
+     "year":2010,
+     "value":51.28
+    },
+    {
+     "year":2015,
+     "value":46.94
+    },
+    {
+     "year":2017,
+     "value":44.86
+    },
+    {
+     "year":2019,
+     "value":46.03
+    },
+    {
+     "year":2021,
+     "value":47.54
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on service capacity an access ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":73.9
+    },
+    {
+     "year":2005,
+     "value":73.9
+    },
+    {
+     "year":2010,
+     "value":73.9
+    },
+    {
+     "year":2015,
+     "value":73.9
+    },
+    {
+     "year":2017,
+     "value":73.9
+    },
+    {
+     "year":2019,
+     "value":81.63
+    },
+    {
+     "year":2021,
+     "value":87.37
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on noncommunicable diseases ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":46.57
+    },
+    {
+     "year":2005,
+     "value":50.93
+    },
+    {
+     "year":2010,
+     "value":54.78
+    },
+    {
+     "year":2015,
+     "value":57.67
+    },
+    {
+     "year":2017,
+     "value":58.78
+    },
+    {
+     "year":2019,
+     "value":59.58
+    },
+    {
+     "year":2021,
+     "value":59.83
+    }
+   ]
+  },
+  {
    "indicator":"Unemployed receiving unemployment benefits",
    "yearlyData":[
     {
@@ -20587,6 +20877,139 @@
    ]
   },
   {
+   "indicator":"Women's share of population ages 15+ living with HIV (%)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":20.0
+    },
+    {
+     "year":1991,
+     "value":14.3
+    },
+    {
+     "year":1992,
+     "value":20.0
+    },
+    {
+     "year":1993,
+     "value":16.7
+    },
+    {
+     "year":1994,
+     "value":18.8
+    },
+    {
+     "year":1995,
+     "value":21.7
+    },
+    {
+     "year":1996,
+     "value":20.0
+    },
+    {
+     "year":1997,
+     "value":21.4
+    },
+    {
+     "year":1998,
+     "value":21.1
+    },
+    {
+     "year":1999,
+     "value":21.8
+    },
+    {
+     "year":2000,
+     "value":22.1
+    },
+    {
+     "year":2001,
+     "value":23.2
+    },
+    {
+     "year":2002,
+     "value":23.9
+    },
+    {
+     "year":2003,
+     "value":24.3
+    },
+    {
+     "year":2004,
+     "value":24.8
+    },
+    {
+     "year":2005,
+     "value":25.5
+    },
+    {
+     "year":2006,
+     "value":25.9
+    },
+    {
+     "year":2007,
+     "value":26.3
+    },
+    {
+     "year":2008,
+     "value":26.3
+    },
+    {
+     "year":2009,
+     "value":26.3
+    },
+    {
+     "year":2010,
+     "value":26.1
+    },
+    {
+     "year":2011,
+     "value":25.9
+    },
+    {
+     "year":2012,
+     "value":25.7
+    },
+    {
+     "year":2013,
+     "value":25.5
+    },
+    {
+     "year":2014,
+     "value":25.5
+    },
+    {
+     "year":2015,
+     "value":25.6
+    },
+    {
+     "year":2016,
+     "value":25.7
+    },
+    {
+     "year":2017,
+     "value":25.8
+    },
+    {
+     "year":2018,
+     "value":25.9
+    },
+    {
+     "year":2019,
+     "value":26.1
+    },
+    {
+     "year":2020,
+     "value":26.4
+    },
+    {
+     "year":2021,
+     "value":26.6
+    }
+   ]
+  },
+  {
    "indicator":"Annual growth rate of output per worker (GDP constant 2015 US $) (%) ",
    "yearlyData":[
     {
@@ -21070,6 +21493,19 @@
     {
      "year":2019,
      "value":0.08
+    }
+   ]
+  },
+  {
+   "indicator":"Zoonotic Events and the Human-animal Interface (IHR SPAR) ",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":80.0
+    },
+    {
+     "year":2020,
+     "value":80.0
     }
    ]
   }
