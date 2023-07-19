@@ -1982,7 +1982,11 @@
     },
     {
      "year":2021,
-     "value":2.98
+     "value":2.28
+    },
+    {
+     "year":2022,
+     "value":0.1
     }
    ]
   },
@@ -5272,7 +5276,7 @@
     },
     {
      "year":2008,
-     "value":27100.39
+     "value":27100.38
     },
     {
      "year":2009,
@@ -5304,27 +5308,31 @@
     },
     {
      "year":2016,
-     "value":30146.47
+     "value":30146.48
     },
     {
      "year":2017,
-     "value":29287.13
+     "value":29287.12
     },
     {
      "year":2018,
-     "value":29902.4
+     "value":29893.38
     },
     {
      "year":2019,
-     "value":28478.04
+     "value":28468.56
     },
     {
      "year":2020,
-     "value":25719.82
+     "value":25782.08
     },
     {
      "year":2021,
-     "value":25820.4
+     "value":25884.49
+    },
+    {
+     "year":2022,
+     "value":25094.4
     }
    ]
   },
@@ -24192,6 +24200,10 @@
   {
    "indicator":"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",
    "yearlyData":[
+    {
+     "year":2010,
+     "value":-1.67
+    },
     {
      "year":2011,
      "value":0.02

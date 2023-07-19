@@ -2015,7 +2015,11 @@
     },
     {
      "year":2021,
-     "value":65.14
+     "value":65.03
+    },
+    {
+     "year":2022,
+     "value":64.5
     }
    ]
   },
@@ -2168,11 +2172,11 @@
     },
     {
      "year":2021,
-     "value":14.56
+     "value":14.59
     },
     {
      "year":2022,
-     "value":15.79
+     "value":14.6
     }
    ]
   },
@@ -5317,7 +5321,7 @@
    "yearlyData":[
     {
      "year":1980,
-     "value":61724.81
+     "value":61724.8
     },
     {
      "year":1981,
@@ -5369,7 +5373,7 @@
     },
     {
      "year":1993,
-     "value":62091.72
+     "value":62091.71
     },
     {
      "year":1994,
@@ -5405,7 +5409,7 @@
     },
     {
      "year":2002,
-     "value":65146.57
+     "value":65146.56
     },
     {
      "year":2003,
@@ -5437,51 +5441,55 @@
     },
     {
      "year":2010,
-     "value":68759.1
+     "value":70448.46
     },
     {
      "year":2011,
-     "value":65563.91
+     "value":66766.09
     },
     {
      "year":2012,
-     "value":63098.31
+     "value":65277.33
     },
     {
      "year":2013,
-     "value":60911.81
+     "value":63014.34
     },
     {
      "year":2014,
-     "value":57191.66
+     "value":59946.08
     },
     {
      "year":2015,
-     "value":57713.58
+     "value":60683.02
     },
     {
      "year":2016,
-     "value":58494.16
+     "value":60943.15
     },
     {
      "year":2017,
-     "value":57336.97
+     "value":61101.0
     },
     {
      "year":2018,
-     "value":57062.31
+     "value":59348.1
     },
     {
      "year":2019,
-     "value":56760.37
+     "value":58836.93
     },
     {
      "year":2020,
-     "value":53925.96
+     "value":56705.54
     },
     {
      "year":2021,
-     "value":55146.14
+     "value":58009.9
+    },
+    {
+     "year":2022,
+     "value":56000.76
     }
    ]
   },
@@ -21416,7 +21424,7 @@
     },
     {
      "year":2022,
-     "value":17.34
+     "value":16.83
     }
    ]
   },
@@ -23696,6 +23704,10 @@
   {
    "indicator":"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",
    "yearlyData":[
+    {
+     "year":2010,
+     "value":-1.32
+    },
     {
      "year":2011,
      "value":1.55

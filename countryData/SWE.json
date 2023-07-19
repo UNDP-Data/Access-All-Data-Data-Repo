@@ -2107,11 +2107,15 @@
     },
     {
      "year":2020,
-     "value":18.89
+     "value":18.93
     },
     {
      "year":2021,
-     "value":15.75
+     "value":19.14
+    },
+    {
+     "year":2022,
+     "value":20.32
     }
    ]
   },
@@ -5241,7 +5245,7 @@
     },
     {
      "year":1987,
-     "value":83179.81
+     "value":83179.8
     },
     {
      "year":1988,
@@ -5313,71 +5317,75 @@
     },
     {
      "year":2005,
-     "value":75216.66
+     "value":75121.83
     },
     {
      "year":2006,
-     "value":70272.17
+     "value":70265.69
     },
     {
      "year":2007,
-     "value":70868.05
+     "value":70870.68
     },
     {
      "year":2008,
-     "value":69282.23
+     "value":69369.7
     },
     {
      "year":2009,
-     "value":63042.45
+     "value":63081.84
     },
     {
      "year":2010,
-     "value":66260.7
+     "value":66485.91
     },
     {
      "year":2011,
-     "value":64920.46
+     "value":64929.96
     },
     {
      "year":2012,
-     "value":68276.1
+     "value":68276.21
     },
     {
      "year":2013,
-     "value":63351.69
+     "value":63351.67
     },
     {
      "year":2014,
-     "value":62421.99
+     "value":62421.89
     },
     {
      "year":2015,
-     "value":63862.33
+     "value":63877.48
     },
     {
      "year":2016,
-     "value":62050.22
+     "value":62081.12
     },
     {
      "year":2017,
-     "value":63391.56
+     "value":63417.6
     },
     {
      "year":2018,
-     "value":61463.21
+     "value":61487.0
     },
     {
      "year":2019,
-     "value":63260.46
+     "value":63283.47
     },
     {
      "year":2020,
-     "value":59624.94
+     "value":59395.52
     },
     {
      "year":2021,
-     "value":60610.23
+     "value":60186.46
+    },
+    {
+     "year":2022,
+     "value":59926.8
     }
    ]
   },
@@ -24099,6 +24107,10 @@
   {
    "indicator":"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",
    "yearlyData":[
+    {
+     "year":2010,
+     "value":-0.95
+    },
     {
      "year":2011,
      "value":1.23

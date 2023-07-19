@@ -1505,7 +1505,7 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":0.02
+     "value":0.03
     },
     {
      "year":2001,
@@ -1525,23 +1525,23 @@
     },
     {
      "year":2005,
-     "value":0.02
+     "value":0.03
     },
     {
      "year":2006,
-     "value":0.06
+     "value":0.07
     },
     {
      "year":2007,
-     "value":0.02
+     "value":0.03
     },
     {
      "year":2008,
-     "value":0.11
+     "value":0.14
     },
     {
      "year":2009,
-     "value":0.05
+     "value":0.06
     },
     {
      "year":2010,
@@ -4354,15 +4354,15 @@
     },
     {
      "year":2011,
-     "value":9078.96
+     "value":9036.28
     },
     {
      "year":2012,
-     "value":9293.79
+     "value":9158.61
     },
     {
      "year":2013,
-     "value":9309.79
+     "value":9313.88
     },
     {
      "year":2014,
@@ -4378,15 +4378,23 @@
     },
     {
      "year":2017,
-     "value":9885.47
+     "value":9969.97
     },
     {
      "year":2018,
-     "value":9426.11
+     "value":9675.66
     },
     {
      "year":2019,
-     "value":8908.72
+     "value":9254.44
+    },
+    {
+     "year":2020,
+     "value":8960.35
+    },
+    {
+     "year":2021,
+     "value":8748.27
     }
    ]
   },
@@ -19217,6 +19225,10 @@
   {
    "indicator":"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",
    "yearlyData":[
+    {
+     "year":2010,
+     "value":0.78
+    },
     {
      "year":2011,
      "value":0.68

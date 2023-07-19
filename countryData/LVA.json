@@ -1677,7 +1677,7 @@
     },
     {
      "year":2009,
-     "value":1.0
+     "value":0.99
     },
     {
      "year":2010,
@@ -1689,11 +1689,11 @@
     },
     {
      "year":2012,
-     "value":1.03
+     "value":1.07
     },
     {
      "year":2013,
-     "value":0.87
+     "value":0.84
     },
     {
      "year":2014,
@@ -1701,7 +1701,7 @@
     },
     {
      "year":2015,
-     "value":0.54
+     "value":0.55
     },
     {
      "year":2016,
@@ -1709,7 +1709,7 @@
     },
     {
      "year":2017,
-     "value":0.46
+     "value":0.48
     },
     {
      "year":2018,
@@ -1717,15 +1717,19 @@
     },
     {
      "year":2019,
-     "value":0.46
+     "value":0.48
     },
     {
      "year":2020,
-     "value":0.27
+     "value":0.28
     },
     {
      "year":2021,
-     "value":0.37
+     "value":0.22
+    },
+    {
+     "year":2022,
+     "value":0.24
     }
    ]
   },
@@ -4796,7 +4800,7 @@
     },
     {
      "year":1987,
-     "value":33604.99
+     "value":33604.98
     },
     {
      "year":1988,
@@ -4808,7 +4812,7 @@
     },
     {
      "year":1990,
-     "value":32150.79
+     "value":32150.78
     },
     {
      "year":1991,
@@ -4880,59 +4884,63 @@
     },
     {
      "year":2008,
-     "value":21500.76
+     "value":21504.19
     },
     {
      "year":2009,
-     "value":20610.43
+     "value":20609.24
     },
     {
      "year":2010,
-     "value":23637.22
+     "value":23635.06
     },
     {
      "year":2011,
-     "value":21348.52
+     "value":21346.46
     },
     {
      "year":2012,
-     "value":22364.08
+     "value":22381.16
     },
     {
      "year":2013,
-     "value":21788.31
+     "value":21775.47
     },
     {
      "year":2014,
-     "value":20260.84
+     "value":20261.9
     },
     {
      "year":2015,
-     "value":20953.67
+     "value":20957.16
     },
     {
      "year":2016,
-     "value":22549.11
+     "value":22548.6
     },
     {
      "year":2017,
-     "value":25046.83
+     "value":25054.54
     },
     {
      "year":2018,
-     "value":22505.13
+     "value":22506.59
     },
     {
      "year":2019,
-     "value":23379.49
+     "value":23394.7
     },
     {
      "year":2020,
-     "value":21451.52
+     "value":21535.73
     },
     {
      "year":2021,
-     "value":22525.7
+     "value":22625.61
+    },
+    {
+     "year":2022,
+     "value":21435.61
     }
    ]
   },
@@ -22452,6 +22460,10 @@
   {
    "indicator":"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",
    "yearlyData":[
+    {
+     "year":2010,
+     "value":-0.44
+    },
     {
      "year":2011,
      "value":-4.58
