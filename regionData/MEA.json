@@ -674,32 +674,6 @@
    ]
   },
   {
-   "indicator":"Made or received a digital payment, female (% age 15+)",
-   "yearlyData":[
-    {
-     "year":2017,
-     "value":0.29
-    },
-    {
-     "year":2021,
-     "value":0.38
-    }
-   ]
-  },
-  {
-   "indicator":"Made or received a digital payment, male (% age 15+)",
-   "yearlyData":[
-    {
-     "year":2017,
-     "value":0.46
-    },
-    {
-     "year":2021,
-     "value":0.53
-    }
-   ]
-  },
-  {
    "indicator":"Installed renewable electricity-generating capacity (watts per capita)",
    "yearlyData":[
     {
@@ -1214,6 +1188,15 @@
     {
      "year":1996,
      "value":22.5
+    }
+   ]
+  },
+  {
+   "indicator":"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":72.0
     }
    ]
   },
@@ -3854,6 +3837,43 @@
    ]
   },
   {
+   "indicator":"Proportion of forest area with a long-term management plan",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":52.86
+    },
+    {
+     "year":2010,
+     "value":60.22
+    },
+    {
+     "year":2015,
+     "value":62.54
+    },
+    {
+     "year":2016,
+     "value":62.79
+    },
+    {
+     "year":2017,
+     "value":63.27
+    },
+    {
+     "year":2018,
+     "value":63.79
+    },
+    {
+     "year":2019,
+     "value":64.32
+    },
+    {
+     "year":2020,
+     "value":64.86
+    }
+   ]
+  },
+  {
    "indicator":"CPIA Public sector management and institutions",
    "yearlyData":[
     {
@@ -5489,6 +5509,139 @@
     {
      "year":2020,
      "value":8.0
+    }
+   ]
+  },
+  {
+   "indicator":"Women's share of population ages 15+ living with HIV (%)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":45.97
+    },
+    {
+     "year":1991,
+     "value":46.45
+    },
+    {
+     "year":1992,
+     "value":47.26
+    },
+    {
+     "year":1993,
+     "value":48.17
+    },
+    {
+     "year":1994,
+     "value":48.42
+    },
+    {
+     "year":1995,
+     "value":48.2
+    },
+    {
+     "year":1996,
+     "value":47.81
+    },
+    {
+     "year":1997,
+     "value":46.92
+    },
+    {
+     "year":1998,
+     "value":46.46
+    },
+    {
+     "year":1999,
+     "value":46.24
+    },
+    {
+     "year":2000,
+     "value":45.14
+    },
+    {
+     "year":2001,
+     "value":45.0
+    },
+    {
+     "year":2002,
+     "value":44.24
+    },
+    {
+     "year":2003,
+     "value":43.5
+    },
+    {
+     "year":2004,
+     "value":42.78
+    },
+    {
+     "year":2005,
+     "value":42.11
+    },
+    {
+     "year":2006,
+     "value":41.56
+    },
+    {
+     "year":2007,
+     "value":41.37
+    },
+    {
+     "year":2008,
+     "value":40.91
+    },
+    {
+     "year":2009,
+     "value":40.4
+    },
+    {
+     "year":2010,
+     "value":40.14
+    },
+    {
+     "year":2011,
+     "value":39.91
+    },
+    {
+     "year":2012,
+     "value":39.63
+    },
+    {
+     "year":2013,
+     "value":39.4
+    },
+    {
+     "year":2014,
+     "value":39.29
+    },
+    {
+     "year":2015,
+     "value":39.2
+    },
+    {
+     "year":2016,
+     "value":39.15
+    },
+    {
+     "year":2017,
+     "value":39.64
+    },
+    {
+     "year":2018,
+     "value":39.64
+    },
+    {
+     "year":2019,
+     "value":39.67
+    },
+    {
+     "year":2020,
+     "value":39.73
+    },
+    {
+     "year":2021,
+     "value":39.62
     }
    ]
   }

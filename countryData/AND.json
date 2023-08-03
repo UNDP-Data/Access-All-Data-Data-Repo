@@ -563,6 +563,47 @@
    ]
   },
   {
+   "indicator":"Births attended by skilled health personnel (%)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":82.63
+    },
+    {
+     "year":2005,
+     "value":84.71
+    },
+    {
+     "year":2010,
+     "value":86.7
+    },
+    {
+     "year":2015,
+     "value":87.13
+    },
+    {
+     "year":2017,
+     "value":87.9
+    },
+    {
+     "year":2018,
+     "value":60.0
+    },
+    {
+     "year":2019,
+     "value":88.2
+    },
+    {
+     "year":2020,
+     "value":60.0
+    },
+    {
+     "year":2021,
+     "value":88.66
+    }
+   ]
+  },
+  {
    "indicator":"Carbon dioxide emissions per capita (production) (tonnes)",
    "yearlyData":[
     {
@@ -1674,6 +1715,19 @@
    ]
   },
   {
+   "indicator":"Global Health Security Index",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":30.5
+    },
+    {
+     "year":2021,
+     "value":34.7
+    }
+   ]
+  },
+  {
    "indicator":"General government net lending\/borrowing; percent of GDP",
    "yearlyData":[
     {
@@ -1916,6 +1970,23 @@
     {
      "year":2021,
      "value":51166.63
+    }
+   ]
+  },
+  {
+   "indicator":"Health Service Provision (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":53.0
+    },
+    {
+     "year":2019,
+     "value":53.0
+    },
+    {
+     "year":2020,
+     "value":53.0
     }
    ]
   },
@@ -2379,11 +2450,54 @@
    ]
   },
   {
+   "indicator":" Laboratory (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":67.0
+    },
+    {
+     "year":2019,
+     "value":100.0
+    },
+    {
+     "year":2020,
+     "value":80.0
+    }
+   ]
+  },
+  {
+   "indicator":" Legislation and Financing (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":47.0
+    },
+    {
+     "year":2019,
+     "value":47.0
+    },
+    {
+     "year":2020,
+     "value":47.0
+    }
+   ]
+  },
+  {
    "indicator":"Countries that have passed legislation on Universal Health Coverage (UHC) 2017",
    "yearlyData":[
     {
      "year":2017,
      "value":"Yes"
+    }
+   ]
+  },
+  {
+   "indicator":"LGBTQ+ Equality Index",
+   "yearlyData":[
+    {
+     "year":2023,
+     "value":81.0
     }
    ]
   },
@@ -3123,6 +3237,23 @@
    ]
   },
   {
+   "indicator":"National Health Emergency Framework (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":20.0
+    },
+    {
+     "year":2020,
+     "value":7.0
+    }
+   ]
+  },
+  {
    "indicator":"Nurses and midwives per 10,000 people",
    "yearlyData":[
     {
@@ -3430,6 +3561,15 @@
     {
      "year":2021,
      "value":46.43
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of forest area within legally established protected areas (%)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":12.5
     }
    ]
   },
@@ -4133,6 +4273,32 @@
     {
      "year":2016,
      "value":14.98
+    }
+   ]
+  },
+  {
+   "indicator":"Problems in accessing health care (any of the specified problems) (% of women): Q1 (lowest)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":20.0
+    },
+    {
+     "year":2020,
+     "value":7.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of forest area with a long-term management plan",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":100.0
     }
    ]
   },
@@ -5439,6 +5605,171 @@
    ]
   },
   {
+   "indicator":" UHC Service Coverage Index",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":67.37
+    },
+    {
+     "year":2005,
+     "value":71.5
+    },
+    {
+     "year":2010,
+     "value":74.18
+    },
+    {
+     "year":2015,
+     "value":74.73
+    },
+    {
+     "year":2017,
+     "value":75.51
+    },
+    {
+     "year":2019,
+     "value":78.05
+    },
+    {
+     "year":2021,
+     "value":78.86
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on infectious diseases ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":63.91
+    },
+    {
+     "year":2005,
+     "value":74.22
+    },
+    {
+     "year":2010,
+     "value":79.61
+    },
+    {
+     "year":2015,
+     "value":85.56
+    },
+    {
+     "year":2017,
+     "value":86.5
+    },
+    {
+     "year":2019,
+     "value":87.88
+    },
+    {
+     "year":2021,
+     "value":90.2
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on reproductive, maternal, newborn and child health ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":82.63
+    },
+    {
+     "year":2005,
+     "value":84.71
+    },
+    {
+     "year":2010,
+     "value":86.7
+    },
+    {
+     "year":2015,
+     "value":87.13
+    },
+    {
+     "year":2017,
+     "value":87.9
+    },
+    {
+     "year":2019,
+     "value":88.2
+    },
+    {
+     "year":2021,
+     "value":88.66
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on service capacity an access ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":71.14
+    },
+    {
+     "year":2005,
+     "value":71.14
+    },
+    {
+     "year":2010,
+     "value":71.14
+    },
+    {
+     "year":2015,
+     "value":65.42
+    },
+    {
+     "year":2017,
+     "value":66.19
+    },
+    {
+     "year":2019,
+     "value":73.68
+    },
+    {
+     "year":2021,
+     "value":74.29
+    }
+   ]
+  },
+  {
+   "indicator":" UHC Service Coverage sub-index on noncommunicable diseases ",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":54.82
+    },
+    {
+     "year":2005,
+     "value":58.41
+    },
+    {
+     "year":2010,
+     "value":61.65
+    },
+    {
+     "year":2015,
+     "value":63.95
+    },
+    {
+     "year":2017,
+     "value":64.61
+    },
+    {
+     "year":2019,
+     "value":65.0
+    },
+    {
+     "year":2021,
+     "value":65.11
+    }
+   ]
+  },
+  {
    "indicator":"Unemployed receiving unemployment benefits",
    "yearlyData":[
     {
@@ -5546,6 +5877,23 @@
     {
      "year":1996,
      "value":0.04
+    }
+   ]
+  },
+  {
+   "indicator":"Zoonotic Events and the Human-animal Interface (IHR SPAR) ",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":60.0
+    },
+    {
+     "year":2019,
+     "value":60.0
+    },
+    {
+     "year":2020,
+     "value":60.0
     }
    ]
   }

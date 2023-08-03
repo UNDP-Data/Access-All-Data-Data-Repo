@@ -12,6 +12,7 @@
  "indicators":[
   {
    "indicator":"Informal employment by sex (thousands), Female",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -41,6 +42,7 @@
   },
   {
    "indicator":"Informal employment by sex (thousands), Male",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -70,6 +72,7 @@
   },
   {
    "indicator":"Informal employment by sex (thousands), Total",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -99,6 +102,7 @@
   },
   {
    "indicator":"Access to electricity, rural (% of rural population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -144,6 +148,7 @@
   },
   {
    "indicator":"Access to electricity, urban (% of urban population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -189,6 +194,7 @@
   },
   {
    "indicator":"Access to electricity (% of population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -234,6 +240,7 @@
   },
   {
    "indicator":"Access to clean fuels and technologies for cooking  (% of population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -279,6 +286,7 @@
   },
   {
    "indicator":"Individuals using the Internet (% of population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -372,6 +380,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Adolescent birth rate",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -505,6 +514,7 @@
   },
   {
    "indicator":"Carbon dioxide emissions per capita (production) (tonnes)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":1990,
@@ -638,6 +648,7 @@
   },
   {
    "indicator":"Primary energy consumption from coal, measured in terawatt-hours",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -735,6 +746,7 @@
   },
   {
    "indicator":"Electricity generation from coal, measured in terawatt-hours",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -832,6 +844,7 @@
   },
   {
    "indicator":"Coefficient of human inequality",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":2010,
@@ -885,6 +898,7 @@
   },
   {
    "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -978,6 +992,7 @@
   },
   {
    "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Total",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -1071,6 +1086,7 @@
   },
   {
    "indicator":"Cumulative Number of COVID-19 Cases",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2020,
@@ -1088,6 +1104,7 @@
   },
   {
    "indicator":"Cumulative Number of COVID-19 Deaths",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2020,
@@ -1105,6 +1122,7 @@
   },
   {
    "indicator":"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2009,
@@ -1114,6 +1132,7 @@
   },
   {
    "indicator":"Difference from HDI value (%)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -1247,6 +1266,7 @@
   },
   {
    "indicator":"Installed renewable electricity-generating capacity (watts per capita)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -1336,6 +1356,7 @@
   },
   {
    "indicator":"GHG emission",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -1425,6 +1446,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 15-24",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1454,6 +1476,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 15-64",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1483,6 +1506,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 15 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1512,6 +1536,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 25 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1541,6 +1566,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 15-24",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1570,6 +1596,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 15-64",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1599,6 +1626,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 15 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1628,6 +1656,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 25 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1657,6 +1686,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 15-24",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1686,6 +1716,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 15-64",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1715,6 +1746,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 15 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1744,6 +1776,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 25 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1773,6 +1806,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Female, Agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1802,6 +1836,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Female, Non-agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1831,6 +1866,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Male, Agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1860,6 +1896,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Male, Non-agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1889,6 +1926,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Total, Agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1918,6 +1956,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Total, Non-agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1947,6 +1986,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Female, Employees",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -1976,6 +2016,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Female, Not classified",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2005,6 +2046,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Female, Self-employed",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2034,6 +2076,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Male, Employees",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2063,6 +2106,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Male, Not classified",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2092,6 +2136,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Male, Self-employed",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2121,6 +2166,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Total, Employees",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2150,6 +2196,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Total, Not classified",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2179,6 +2226,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Total, Self-employed",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2208,6 +2256,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex (thousands), Female",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2237,6 +2286,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex (thousands), Male",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2266,6 +2316,7 @@
   },
   {
    "indicator":"Employement outside the Formal Sector by sex (thousands), Total",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -2295,6 +2346,7 @@
   },
   {
    "indicator":"Primary energy consumption per capita, measured in kilowatt-hours",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -2392,6 +2444,7 @@
   },
   {
    "indicator":"Estimated number of people (all ages) living with HIV",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -2489,6 +2542,7 @@
   },
   {
    "indicator":"Expected Years of Schooling, female (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -2622,6 +2676,7 @@
   },
   {
    "indicator":"Expected Years of Schooling (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -2755,6 +2810,7 @@
   },
   {
    "indicator":"Expected Years of Schooling, male (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -2888,6 +2944,7 @@
   },
   {
    "indicator":"International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -2973,6 +3030,7 @@
   },
   {
    "indicator":"GDP per capita, PPP (current international $)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -3070,6 +3128,7 @@
   },
   {
    "indicator":"Gender Development Index (value)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -3203,6 +3262,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Gender Inequality Index",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -3336,6 +3396,7 @@
   },
   {
    "indicator":"Gross National Income Per Capita, female (2017 PPP$)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -3469,6 +3530,7 @@
   },
   {
    "indicator":"Gross National Income Per Capita (2017 PPP$)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -3602,6 +3664,7 @@
   },
   {
    "indicator":"Gross National Income Per Capita, male (2017 PPP$)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -3735,6 +3798,7 @@
   },
   {
    "indicator":"Human Development Index (female)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -3868,6 +3932,7 @@
   },
   {
    "indicator":"Human Development Index (male)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -4001,6 +4066,7 @@
   },
   {
    "indicator":"Human development index (HDI)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -4134,6 +4200,7 @@
   },
   {
    "indicator":"Inequality in eduation",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":2010,
@@ -4187,6 +4254,7 @@
   },
   {
    "indicator":"Inequality in income",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":2010,
@@ -4240,6 +4308,7 @@
   },
   {
    "indicator":"Inequality in life expectancy",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":2010,
@@ -4293,6 +4362,7 @@
   },
   {
    "indicator":"Inequality-adjusted HDI",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":2010,
@@ -4346,6 +4416,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Female, 15-24",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4375,6 +4446,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Female, 15-64",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4404,6 +4476,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Female, 15 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4433,6 +4506,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Female, 25 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4462,6 +4536,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Male, 15-24",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4491,6 +4566,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Male, 15-64",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4520,6 +4596,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Male, 15 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4549,6 +4626,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Male, 25 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4578,6 +4656,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Total, 15-24",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4607,6 +4686,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Total, 15-64",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4636,6 +4716,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Total, 15 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4665,6 +4746,7 @@
   },
   {
    "indicator":"Informal employment by sex and age (thousands), Total, 25 and above",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4694,6 +4776,7 @@
   },
   {
    "indicator":"Informal employment by sex and economic activity (thousands), Female, Agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4723,6 +4806,7 @@
   },
   {
    "indicator":"Informal employment by sex and economic activity (thousands), Female, Non-agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4752,6 +4836,7 @@
   },
   {
    "indicator":"Informal employment by sex and economic activity (thousands), Male, Agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4781,6 +4866,7 @@
   },
   {
    "indicator":"Informal employment by sex and economic activity (thousands), Male, Non-agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4810,6 +4896,7 @@
   },
   {
    "indicator":"Informal employment by sex and economic activity (thousands), Total, Agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4839,6 +4926,7 @@
   },
   {
    "indicator":"Informal employment by sex and economic activity (thousands), Total, Non-agriculture",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4868,6 +4956,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Female, Employees",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4897,6 +4986,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Female, Not classified",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4926,6 +5016,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Female, Self-employed",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4955,6 +5046,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Male, Employees",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -4984,6 +5076,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Male, Not classified",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -5013,6 +5106,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Male, Self-employed",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -5042,6 +5136,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Total, Not classified",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -5071,6 +5166,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Total, Employees",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -5100,6 +5196,7 @@
   },
   {
    "indicator":"Informal employment by sex and status in employment (thousands), Total, Self-employed",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2010,
@@ -5129,6 +5226,7 @@
   },
   {
    "indicator":"Installed electricity capacity (MW) by Country\/area",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2011,
@@ -5174,6 +5272,7 @@
   },
   {
    "indicator":"International migrant stock at mid-year (both sexes)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -5199,6 +5298,7 @@
   },
   {
    "indicator":"Internet users, total (% of population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -5288,6 +5388,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Labour force participation rate, female (% ages 15 and older)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -5421,6 +5522,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Labour force participation rate, male (% ages 15 and older)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -5554,6 +5656,7 @@
   },
   {
    "indicator":"Life Expectancy at Birth, female (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -5687,6 +5790,7 @@
   },
   {
    "indicator":"Life Expectancy at Birth, male (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -5820,6 +5924,7 @@
   },
   {
    "indicator":"Life Expectancy at Birth (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -5953,6 +6058,7 @@
   },
   {
    "indicator":"Domestic material consumption per capita, by type of raw material (tonnes), Total or No breakdown",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -6038,6 +6144,7 @@
   },
   {
    "indicator":"Material footprint per capita (tonnes)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -6171,6 +6278,7 @@
   },
   {
    "indicator":"Mean Years of Schooling, female (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -6304,6 +6412,7 @@
   },
   {
    "indicator":"Mean Years of Schooling, male (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -6437,6 +6546,7 @@
   },
   {
    "indicator":"Mean Years of Schooling (years)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -6570,6 +6680,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Maternal mortality ratio (deaths per 100,000 live births)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -6703,6 +6814,7 @@
   },
   {
    "indicator":"Natural capital",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2018,
@@ -6712,6 +6824,7 @@
   },
   {
    "indicator":"Number of hospital beds per 10,000 people",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -6781,6 +6894,7 @@
   },
   {
    "indicator":"Number of New Limited Liability Companies",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2006,
@@ -6846,6 +6960,7 @@
   },
   {
    "indicator":"Nurses and midwives per 10,000 people",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -6883,6 +6998,7 @@
   },
   {
    "indicator":"Installed electricity capacity (MW) by Country\/area Off-grid",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2011,
@@ -6928,6 +7044,7 @@
   },
   {
    "indicator":"Overall loss (%)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":2010,
@@ -6981,6 +7098,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Share of seats in parliament (% held by women)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -7114,6 +7232,7 @@
   },
   {
    "indicator":"Physicians per 10,000 people",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2018,
@@ -7127,6 +7246,7 @@
   },
   {
    "indicator":"Planetary pressures adjusted Human Development Index (value)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -7260,6 +7380,7 @@
   },
   {
    "indicator":"Air pollution deaths from fossil fuels, 2015",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2015,
@@ -7269,6 +7390,7 @@
   },
   {
    "indicator":"Population ages 65 and above (% of total population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -7366,6 +7488,7 @@
   },
   {
    "indicator":"Population covered by at least one social protection benefit",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2016,
@@ -7379,6 +7502,7 @@
   },
   {
    "indicator":"Population living in slums (% of urban population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -7432,6 +7556,7 @@
   },
   {
    "indicator":"Population using at least basic drinking-water services (%)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -7521,6 +7646,7 @@
   },
   {
    "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -7610,6 +7736,7 @@
   },
   {
    "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -7699,6 +7826,7 @@
   },
   {
    "indicator":"Population using at least basic sanitation services (%)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -7788,6 +7916,7 @@
   },
   {
    "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2004,
@@ -7825,6 +7954,7 @@
   },
   {
    "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2004,
@@ -7862,6 +7992,7 @@
   },
   {
    "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2004,
@@ -7899,6 +8030,7 @@
   },
   {
    "indicator":"Prevalence of Mental health disorders: Both (age-standardized percent)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -7972,6 +8104,7 @@
   },
   {
    "indicator":"Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -8005,6 +8138,7 @@
   },
   {
    "indicator":"Refugee population by country or territory of asylum",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -8102,6 +8236,7 @@
   },
   {
    "indicator":"Renewable internal freshwater resources per capita (cubic meters)",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -8191,6 +8326,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Population with at least some secondary education, female (% ages 25 and older)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -8324,6 +8460,7 @@
   },
   {
    "indicator":"Gender Inequality Index-Population with at least some secondary education, male (% ages 25 and older)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -8457,6 +8594,7 @@
   },
   {
    "indicator":"Share of seats in parliament, male (% held by men)",
+   "isPreAggregated":"False",
    "yearlyData":[
     {
      "year":1990,
@@ -8590,6 +8728,7 @@
   },
   {
    "indicator":"Electricity generation from solar, measured in terawatt-hours",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -8687,6 +8826,7 @@
   },
   {
    "indicator":"COVID-19 Fatality Rate",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2020,
@@ -8704,6 +8844,7 @@
   },
   {
    "indicator":"Fiscal Response",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2021,
@@ -8713,6 +8854,7 @@
   },
   {
    "indicator":"Population, total",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -8806,6 +8948,7 @@
   },
   {
    "indicator":"Rural Population, total",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
@@ -8903,6 +9046,7 @@
   },
   {
    "indicator":"Urban Population, total",
+   "isPreAggregated":"True",
    "yearlyData":[
     {
      "year":2000,
