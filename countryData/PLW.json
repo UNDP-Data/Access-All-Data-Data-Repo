@@ -9,7 +9,7 @@
  "LLDC":false,
  "SIDS":true,
  "Income group":"Upper middle income",
- "UNDP_Region":"UNDP_EAP",
+ "UNDP_Region":"UNDP_AP",
  "indicators":[
   {
    "indicator":"% change in remittance from previous year",
@@ -544,6 +544,67 @@
    ]
   },
   {
+   "indicator":"Ambient particulate matter pollution exposure",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":6.88
+    },
+    {
+     "year":1995,
+     "value":6.45
+    },
+    {
+     "year":2000,
+     "value":6.62
+    },
+    {
+     "year":2005,
+     "value":6.82
+    },
+    {
+     "year":2010,
+     "value":5.83
+    },
+    {
+     "year":2011,
+     "value":6.52
+    },
+    {
+     "year":2012,
+     "value":6.82
+    },
+    {
+     "year":2013,
+     "value":6.67
+    },
+    {
+     "year":2014,
+     "value":7.28
+    },
+    {
+     "year":2015,
+     "value":9.04
+    },
+    {
+     "year":2016,
+     "value":7.33
+    },
+    {
+     "year":2017,
+     "value":6.91
+    },
+    {
+     "year":2018,
+     "value":7.15
+    },
+    {
+     "year":2019,
+     "value":6.87
+    }
+   ]
+  },
+  {
    "indicator":"Births attended by skilled health personnel (%)",
    "yearlyData":[
     {
@@ -763,11 +824,82 @@
    ]
   },
   {
+   "indicator":"Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":10.97
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":1165.98
+    }
+   ]
+  },
+  {
+   "indicator":"Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Chemical Events (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":20.0
+    },
+    {
+     "year":2019,
+     "value":60.0
+    },
+    {
+     "year":2020,
+     "value":60.0
+    }
+   ]
+  },
+  {
    "indicator":"Children\/households receiving child\/family cash benefits",
    "yearlyData":[
     {
      "year":2019,
      "value":60.0
+    }
+   ]
+  },
+  {
+   "indicator":"Condoms distributed to prisoners",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":90.0
     }
    ]
   },
@@ -1014,6 +1146,103 @@
    ]
   },
   {
+   "indicator":"Coverage of protected areas in relation to marine areas",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":34.44
+    },
+    {
+     "year":2001,
+     "value":34.44
+    },
+    {
+     "year":2002,
+     "value":34.44
+    },
+    {
+     "year":2003,
+     "value":34.44
+    },
+    {
+     "year":2004,
+     "value":53.26
+    },
+    {
+     "year":2005,
+     "value":53.26
+    },
+    {
+     "year":2006,
+     "value":53.26
+    },
+    {
+     "year":2007,
+     "value":53.26
+    },
+    {
+     "year":2008,
+     "value":56.71
+    },
+    {
+     "year":2009,
+     "value":56.71
+    },
+    {
+     "year":2010,
+     "value":56.71
+    },
+    {
+     "year":2011,
+     "value":56.71
+    },
+    {
+     "year":2012,
+     "value":56.71
+    },
+    {
+     "year":2013,
+     "value":56.71
+    },
+    {
+     "year":2014,
+     "value":56.71
+    },
+    {
+     "year":2015,
+     "value":72.29
+    },
+    {
+     "year":2016,
+     "value":72.29
+    },
+    {
+     "year":2017,
+     "value":72.29
+    },
+    {
+     "year":2018,
+     "value":72.29
+    },
+    {
+     "year":2019,
+     "value":72.29
+    },
+    {
+     "year":2020,
+     "value":72.29
+    },
+    {
+     "year":2021,
+     "value":72.29
+    },
+    {
+     "year":2022,
+     "value":72.29
+    }
+   ]
+  },
+  {
    "indicator":"Cumulative Number of COVID-19 Cases",
    "yearlyData":[
     {
@@ -1030,7 +1259,7 @@
     },
     {
      "year":2023,
-     "value":6122.0
+     "value":6176.0
     }
    ]
   },
@@ -1255,6 +1484,26 @@
     {
      "year":2019,
      "value":0.29
+    }
+   ]
+  },
+  {
+   "indicator":{
+    "degreeofimplementationofinternationalinstrumentsaimingtocombatillegalunreportedunregulatedfishing_ilfish":"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
+    "degreeofimplementationofinternationalinstrumentsaimingtocombatillegalunreportedunregulatedfishing_ilfish":"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+   },
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":2.0
+    },
+    {
+     "year":2020,
+     "value":1.0
+    },
+    {
+     "year":2022,
+     "value":4.0
     }
    ]
   },
@@ -2498,6 +2747,95 @@
    ]
   },
   {
+   "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":8.19
+    },
+    {
+     "year":2001,
+     "value":7.97
+    },
+    {
+     "year":2002,
+     "value":7.39
+    },
+    {
+     "year":2003,
+     "value":8.38
+    },
+    {
+     "year":2004,
+     "value":8.5
+    },
+    {
+     "year":2005,
+     "value":8.73
+    },
+    {
+     "year":2006,
+     "value":7.98
+    },
+    {
+     "year":2007,
+     "value":6.94
+    },
+    {
+     "year":2008,
+     "value":6.88
+    },
+    {
+     "year":2009,
+     "value":9.43
+    },
+    {
+     "year":2010,
+     "value":8.54
+    },
+    {
+     "year":2011,
+     "value":9.2
+    },
+    {
+     "year":2012,
+     "value":9.8
+    },
+    {
+     "year":2013,
+     "value":11.55
+    },
+    {
+     "year":2014,
+     "value":11.03
+    },
+    {
+     "year":2015,
+     "value":10.99
+    },
+    {
+     "year":2016,
+     "value":16.51
+    },
+    {
+     "year":2017,
+     "value":17.39
+    },
+    {
+     "year":2018,
+     "value":17.16
+    },
+    {
+     "year":2019,
+     "value":16.07
+    },
+    {
+     "year":2020,
+     "value":23.24
+    }
+   ]
+  },
+  {
    "indicator":"Global Health Security Index",
    "yearlyData":[
     {
@@ -3093,6 +3431,131 @@
     },
     {
      "year":2021,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Household air pollution from solid fuels",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":0.0
+    },
+    {
+     "year":1991,
+     "value":0.0
+    },
+    {
+     "year":1992,
+     "value":0.0
+    },
+    {
+     "year":1993,
+     "value":0.0
+    },
+    {
+     "year":1994,
+     "value":0.0
+    },
+    {
+     "year":1995,
+     "value":0.0
+    },
+    {
+     "year":1996,
+     "value":0.0
+    },
+    {
+     "year":1997,
+     "value":0.0
+    },
+    {
+     "year":1998,
+     "value":0.0
+    },
+    {
+     "year":1999,
+     "value":0.0
+    },
+    {
+     "year":2000,
+     "value":0.0
+    },
+    {
+     "year":2001,
+     "value":0.0
+    },
+    {
+     "year":2002,
+     "value":0.0
+    },
+    {
+     "year":2003,
+     "value":0.0
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
      "value":0.0
     }
    ]
@@ -4259,6 +4722,27 @@
    ]
   },
   {
+   "indicator":{
+    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
+    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
+   },
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":10.92
+    }
+   ]
+  },
+  {
+   "indicator":"Men who have sex with men: Population size estimate",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":200.0
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of population covered by a mobile network, by technology",
    "yearlyData":[
     {
@@ -4305,6 +4789,51 @@
     {
      "year":2020,
      "value":93.0
+    }
+   ]
+  },
+  {
+   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":0.0
+    },
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
     }
    ]
   },
@@ -5286,6 +5815,23 @@
    ]
   },
   {
+   "indicator":"Public Health Risk Communication",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":80.0
+    },
+    {
+     "year":2019,
+     "value":80.0
+    },
+    {
+     "year":2020,
+     "value":80.0
+    }
+   ]
+  },
+  {
    "indicator":"Climate Change Readiness Score",
    "yearlyData":[
     {
@@ -5964,6 +6510,15 @@
    ]
   },
   {
+   "indicator":"Sex Workers-  Population size estimate (all ages)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":40.0
+    }
+   ]
+  },
+  {
    "indicator":"Share of seats in parliament, male (% held by men)",
    "yearlyData":[
     {
@@ -6126,6 +6681,23 @@
     {
      "year":2019,
      "value":10.0
+    }
+   ]
+  },
+  {
+   "indicator":"Surveillance Capacity (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":80.0
+    },
+    {
+     "year":2019,
+     "value":70.0
+    },
+    {
+     "year":2020,
+     "value":90.0
     }
    ]
   },

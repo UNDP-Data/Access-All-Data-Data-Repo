@@ -638,6 +638,85 @@
    ]
   },
   {
+   "indicator":"Ambient particulate matter pollution exposure",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":21.68
+    },
+    {
+     "year":1995,
+     "value":21.53
+    },
+    {
+     "year":2000,
+     "value":21.82
+    },
+    {
+     "year":2005,
+     "value":19.66
+    },
+    {
+     "year":2010,
+     "value":19.83
+    },
+    {
+     "year":2011,
+     "value":19.1
+    },
+    {
+     "year":2012,
+     "value":20.06
+    },
+    {
+     "year":2013,
+     "value":20.09
+    },
+    {
+     "year":2014,
+     "value":20.27
+    },
+    {
+     "year":2015,
+     "value":21.94
+    },
+    {
+     "year":2016,
+     "value":21.18
+    },
+    {
+     "year":2017,
+     "value":21.01
+    },
+    {
+     "year":2018,
+     "value":21.38
+    },
+    {
+     "year":2019,
+     "value":21.49
+    }
+   ]
+  },
+  {
+   "indicator":"Beds for mental health in general hospitals (per 100,000)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":18.72
+    }
+   ]
+  },
+  {
+   "indicator":"Beds in mental hospitals (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":74.89
+    }
+   ]
+  },
+  {
    "indicator":"Births attended by skilled health personnel (%)",
    "yearlyData":[
     {
@@ -800,6 +879,51 @@
     {
      "year":2021,
      "value":2.62
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":63.37
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":4073.13
+    }
+   ]
+  },
+  {
+   "indicator":"Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
     }
    ]
   },
@@ -1202,6 +1326,103 @@
     {
      "year":2022,
      "value":52.0
+    }
+   ]
+  },
+  {
+   "indicator":"Coverage of protected areas in relation to marine areas",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":0.12
+    },
+    {
+     "year":2001,
+     "value":0.12
+    },
+    {
+     "year":2002,
+     "value":0.12
+    },
+    {
+     "year":2003,
+     "value":0.12
+    },
+    {
+     "year":2004,
+     "value":0.12
+    },
+    {
+     "year":2005,
+     "value":0.12
+    },
+    {
+     "year":2006,
+     "value":0.12
+    },
+    {
+     "year":2007,
+     "value":0.12
+    },
+    {
+     "year":2008,
+     "value":0.12
+    },
+    {
+     "year":2009,
+     "value":0.12
+    },
+    {
+     "year":2010,
+     "value":0.12
+    },
+    {
+     "year":2011,
+     "value":0.12
+    },
+    {
+     "year":2012,
+     "value":30.21
+    },
+    {
+     "year":2013,
+     "value":30.21
+    },
+    {
+     "year":2014,
+     "value":30.21
+    },
+    {
+     "year":2015,
+     "value":30.21
+    },
+    {
+     "year":2016,
+     "value":30.21
+    },
+    {
+     "year":2017,
+     "value":30.21
+    },
+    {
+     "year":2018,
+     "value":30.21
+    },
+    {
+     "year":2019,
+     "value":30.21
+    },
+    {
+     "year":2020,
+     "value":30.21
+    },
+    {
+     "year":2021,
+     "value":30.21
+    },
+    {
+     "year":2022,
+     "value":30.21
     }
    ]
   },
@@ -3354,6 +3575,95 @@
    ]
   },
   {
+   "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":7.24
+    },
+    {
+     "year":2001,
+     "value":7.26
+    },
+    {
+     "year":2002,
+     "value":7.56
+    },
+    {
+     "year":2003,
+     "value":7.42
+    },
+    {
+     "year":2004,
+     "value":10.47
+    },
+    {
+     "year":2005,
+     "value":9.11
+    },
+    {
+     "year":2006,
+     "value":6.31
+    },
+    {
+     "year":2007,
+     "value":7.26
+    },
+    {
+     "year":2008,
+     "value":7.03
+    },
+    {
+     "year":2009,
+     "value":7.87
+    },
+    {
+     "year":2010,
+     "value":7.4
+    },
+    {
+     "year":2011,
+     "value":8.54
+    },
+    {
+     "year":2012,
+     "value":9.11
+    },
+    {
+     "year":2013,
+     "value":8.24
+    },
+    {
+     "year":2014,
+     "value":7.3
+    },
+    {
+     "year":2015,
+     "value":7.66
+    },
+    {
+     "year":2016,
+     "value":7.51
+    },
+    {
+     "year":2017,
+     "value":8.35
+    },
+    {
+     "year":2018,
+     "value":8.33
+    },
+    {
+     "year":2019,
+     "value":9.43
+    },
+    {
+     "year":2020,
+     "value":8.49
+    }
+   ]
+  },
+  {
    "indicator":"Global Health Security Index",
    "yearlyData":[
     {
@@ -4042,6 +4352,140 @@
     {
      "year":2011,
      "value":50.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV prevalence among men who have sex with men",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":1.7
+    }
+   ]
+  },
+  {
+   "indicator":"Household air pollution from solid fuels",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":0.25
+    },
+    {
+     "year":1991,
+     "value":0.22
+    },
+    {
+     "year":1992,
+     "value":0.2
+    },
+    {
+     "year":1993,
+     "value":0.17
+    },
+    {
+     "year":1994,
+     "value":0.15
+    },
+    {
+     "year":1995,
+     "value":0.13
+    },
+    {
+     "year":1996,
+     "value":0.12
+    },
+    {
+     "year":1997,
+     "value":0.11
+    },
+    {
+     "year":1998,
+     "value":0.09
+    },
+    {
+     "year":1999,
+     "value":0.08
+    },
+    {
+     "year":2000,
+     "value":0.07
+    },
+    {
+     "year":2001,
+     "value":0.07
+    },
+    {
+     "year":2002,
+     "value":0.06
+    },
+    {
+     "year":2003,
+     "value":0.05
+    },
+    {
+     "year":2004,
+     "value":0.05
+    },
+    {
+     "year":2005,
+     "value":0.05
+    },
+    {
+     "year":2006,
+     "value":0.04
+    },
+    {
+     "year":2007,
+     "value":0.04
+    },
+    {
+     "year":2008,
+     "value":0.04
+    },
+    {
+     "year":2009,
+     "value":0.04
+    },
+    {
+     "year":2010,
+     "value":0.04
+    },
+    {
+     "year":2011,
+     "value":0.03
+    },
+    {
+     "year":2012,
+     "value":0.03
+    },
+    {
+     "year":2013,
+     "value":0.03
+    },
+    {
+     "year":2014,
+     "value":0.03
+    },
+    {
+     "year":2015,
+     "value":0.03
+    },
+    {
+     "year":2016,
+     "value":0.03
+    },
+    {
+     "year":2017,
+     "value":0.03
+    },
+    {
+     "year":2018,
+     "value":0.03
+    },
+    {
+     "year":2019,
+     "value":0.03
     }
    ]
   },
@@ -5407,6 +5851,42 @@
    ]
   },
   {
+   "indicator":"Mental health outpatient facilities (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":10.3
+    }
+   ]
+  },
+  {
+   "indicator":"Mental health units in general hospitals (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":0.94
+    }
+   ]
+  },
+  {
+   "indicator":"Mental health units in general hospitals admissions (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":710.23
+    }
+   ]
+  },
+  {
+   "indicator":"Men who have sex with men: Population size estimate",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":2400.0
+    }
+   ]
+  },
+  {
    "indicator":"Gender Inequality Index-Maternal mortality ratio (deaths per 100,000 live births)",
    "yearlyData":[
     {
@@ -5747,6 +6227,39 @@
    ]
   },
   {
+   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "yearlyData":[
+    {
+     "year":2005,
+     "value":1.81
+    },
+    {
+     "year":2007,
+     "value":0.9
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    }
+   ]
+  },
+  {
    "indicator":"Number of hospital beds per 10,000 people",
    "yearlyData":[
     {
@@ -5878,6 +6391,15 @@
     {
      "year":2018,
      "value":57.47
+    }
+   ]
+  },
+  {
+   "indicator":"Nurses working in mental health sector (per 100 000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":0.94
     }
    ]
   },
@@ -6920,6 +7442,119 @@
    ]
   },
   {
+   "indicator":"Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":2.41
+    },
+    {
+     "year":1991,
+     "value":2.41
+    },
+    {
+     "year":1992,
+     "value":2.4
+    },
+    {
+     "year":1993,
+     "value":2.4
+    },
+    {
+     "year":1994,
+     "value":2.4
+    },
+    {
+     "year":1995,
+     "value":2.39
+    },
+    {
+     "year":1996,
+     "value":2.41
+    },
+    {
+     "year":1997,
+     "value":2.42
+    },
+    {
+     "year":1998,
+     "value":2.44
+    },
+    {
+     "year":1999,
+     "value":2.45
+    },
+    {
+     "year":2000,
+     "value":2.47
+    },
+    {
+     "year":2001,
+     "value":2.47
+    },
+    {
+     "year":2002,
+     "value":2.47
+    },
+    {
+     "year":2003,
+     "value":2.48
+    },
+    {
+     "year":2004,
+     "value":2.48
+    },
+    {
+     "year":2005,
+     "value":2.48
+    },
+    {
+     "year":2006,
+     "value":2.48
+    },
+    {
+     "year":2007,
+     "value":2.48
+    },
+    {
+     "year":2008,
+     "value":2.48
+    },
+    {
+     "year":2009,
+     "value":2.48
+    },
+    {
+     "year":2010,
+     "value":2.47
+    },
+    {
+     "year":2011,
+     "value":2.47
+    },
+    {
+     "year":2012,
+     "value":2.47
+    },
+    {
+     "year":2013,
+     "value":2.47
+    },
+    {
+     "year":2014,
+     "value":2.47
+    },
+    {
+     "year":2015,
+     "value":2.47
+    },
+    {
+     "year":2016,
+     "value":2.47
+    }
+   ]
+  },
+  {
    "indicator":"Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)",
    "yearlyData":[
     {
@@ -7010,6 +7645,15 @@
     {
      "year":2012,
      "value":50.0
+    }
+   ]
+  },
+  {
+   "indicator":"Psychiatrists working in mental health sector (per 100,000)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":1.87
     }
    ]
   },
@@ -7933,6 +8577,15 @@
    ]
   },
   {
+   "indicator":"Sex Workers-  Population size estimate (all ages)",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":1000.0
+    }
+   ]
+  },
+  {
    "indicator":"Share of seats in parliament, male (% held by men)",
    "yearlyData":[
     {
@@ -8311,6 +8964,91 @@
     {
      "year":2022,
      "value":3.5
+    }
+   ]
+  },
+  {
+   "indicator":"Suicide rate per 100,000 population- age-standardized",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":2.12
+    },
+    {
+     "year":2001,
+     "value":0.37
+    },
+    {
+     "year":2002,
+     "value":3.42
+    },
+    {
+     "year":2003,
+     "value":2.57
+    },
+    {
+     "year":2004,
+     "value":4.89
+    },
+    {
+     "year":2005,
+     "value":3.22
+    },
+    {
+     "year":2006,
+     "value":4.94
+    },
+    {
+     "year":2007,
+     "value":1.89
+    },
+    {
+     "year":2008,
+     "value":2.05
+    },
+    {
+     "year":2009,
+     "value":0.52
+    },
+    {
+     "year":2010,
+     "value":0.73
+    },
+    {
+     "year":2011,
+     "value":1.57
+    },
+    {
+     "year":2012,
+     "value":1.64
+    },
+    {
+     "year":2013,
+     "value":1.12
+    },
+    {
+     "year":2014,
+     "value":0.45
+    },
+    {
+     "year":2015,
+     "value":0.62
+    },
+    {
+     "year":2016,
+     "value":0.91
+    },
+    {
+     "year":2017,
+     "value":0.66
+    },
+    {
+     "year":2018,
+     "value":0.34
+    },
+    {
+     "year":2019,
+     "value":0.64
     }
    ]
   },
@@ -8868,6 +9606,15 @@
     {
      "year":2022,
      "value":46246.0
+    }
+   ]
+  },
+  {
+   "indicator":"Total workforce in mental health sector (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":5.62
     }
    ]
   },

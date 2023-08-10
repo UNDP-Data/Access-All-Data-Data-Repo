@@ -9,7 +9,7 @@
  "LLDC":false,
  "SIDS":true,
  "Income group":"Upper middle income",
- "UNDP_Region":"UNDP_EAP",
+ "UNDP_Region":"UNDP_AP",
  "indicators":[
   {
    "indicator":"% change in remittance from previous year",
@@ -519,6 +519,67 @@
    ]
   },
   {
+   "indicator":"Ambient particulate matter pollution exposure",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":5.51
+    },
+    {
+     "year":1995,
+     "value":5.66
+    },
+    {
+     "year":2000,
+     "value":5.75
+    },
+    {
+     "year":2005,
+     "value":5.86
+    },
+    {
+     "year":2010,
+     "value":5.61
+    },
+    {
+     "year":2011,
+     "value":5.38
+    },
+    {
+     "year":2012,
+     "value":5.37
+    },
+    {
+     "year":2013,
+     "value":5.35
+    },
+    {
+     "year":2014,
+     "value":5.55
+    },
+    {
+     "year":2015,
+     "value":5.63
+    },
+    {
+     "year":2016,
+     "value":6.1
+    },
+    {
+     "year":2017,
+     "value":6.0
+    },
+    {
+     "year":2018,
+     "value":6.04
+    },
+    {
+     "year":2019,
+     "value":6.03
+    }
+   ]
+  },
+  {
    "indicator":"Attendance in early childhood education (%), Total",
    "yearlyData":[
     {
@@ -698,6 +759,64 @@
     {
      "year":2021,
      "value":0.64
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":31.48
+    }
+   ]
+  },
+  {
+   "indicator":"Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Chemical Events (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":100.0
+    },
+    {
+     "year":2020,
+     "value":20.0
     }
    ]
   },
@@ -2801,6 +2920,95 @@
    ]
   },
   {
+   "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":11.93
+    },
+    {
+     "year":2001,
+     "value":11.46
+    },
+    {
+     "year":2002,
+     "value":11.25
+    },
+    {
+     "year":2003,
+     "value":12.86
+    },
+    {
+     "year":2004,
+     "value":11.94
+    },
+    {
+     "year":2005,
+     "value":11.57
+    },
+    {
+     "year":2006,
+     "value":9.89
+    },
+    {
+     "year":2007,
+     "value":10.71
+    },
+    {
+     "year":2008,
+     "value":11.08
+    },
+    {
+     "year":2009,
+     "value":10.03
+    },
+    {
+     "year":2010,
+     "value":13.99
+    },
+    {
+     "year":2011,
+     "value":15.07
+    },
+    {
+     "year":2012,
+     "value":15.51
+    },
+    {
+     "year":2013,
+     "value":12.36
+    },
+    {
+     "year":2014,
+     "value":12.67
+    },
+    {
+     "year":2015,
+     "value":8.72
+    },
+    {
+     "year":2016,
+     "value":8.66
+    },
+    {
+     "year":2017,
+     "value":9.97
+    },
+    {
+     "year":2018,
+     "value":11.9
+    },
+    {
+     "year":2019,
+     "value":13.86
+    },
+    {
+     "year":2020,
+     "value":15.9
+    }
+   ]
+  },
+  {
    "indicator":"GINI index (World Bank estimate)",
    "yearlyData":[
     {
@@ -3402,6 +3610,131 @@
     {
      "year":2021,
      "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Household air pollution from solid fuels",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":0.44
+    },
+    {
+     "year":1991,
+     "value":0.42
+    },
+    {
+     "year":1992,
+     "value":0.41
+    },
+    {
+     "year":1993,
+     "value":0.39
+    },
+    {
+     "year":1994,
+     "value":0.38
+    },
+    {
+     "year":1995,
+     "value":0.36
+    },
+    {
+     "year":1996,
+     "value":0.35
+    },
+    {
+     "year":1997,
+     "value":0.33
+    },
+    {
+     "year":1998,
+     "value":0.31
+    },
+    {
+     "year":1999,
+     "value":0.3
+    },
+    {
+     "year":2000,
+     "value":0.28
+    },
+    {
+     "year":2001,
+     "value":0.27
+    },
+    {
+     "year":2002,
+     "value":0.25
+    },
+    {
+     "year":2003,
+     "value":0.24
+    },
+    {
+     "year":2004,
+     "value":0.22
+    },
+    {
+     "year":2005,
+     "value":0.21
+    },
+    {
+     "year":2006,
+     "value":0.19
+    },
+    {
+     "year":2007,
+     "value":0.18
+    },
+    {
+     "year":2008,
+     "value":0.17
+    },
+    {
+     "year":2009,
+     "value":0.16
+    },
+    {
+     "year":2010,
+     "value":0.15
+    },
+    {
+     "year":2011,
+     "value":0.14
+    },
+    {
+     "year":2012,
+     "value":0.13
+    },
+    {
+     "year":2013,
+     "value":0.13
+    },
+    {
+     "year":2014,
+     "value":0.12
+    },
+    {
+     "year":2015,
+     "value":0.11
+    },
+    {
+     "year":2016,
+     "value":0.11
+    },
+    {
+     "year":2017,
+     "value":0.1
+    },
+    {
+     "year":2018,
+     "value":0.1
+    },
+    {
+     "year":2019,
+     "value":0.09
     }
    ]
   },
@@ -4945,6 +5278,27 @@
    ]
   },
   {
+   "indicator":{
+    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
+    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
+   },
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":5.72
+    }
+   ]
+  },
+  {
+   "indicator":"Men who have sex with men: Population size estimate",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":300.0
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of population covered by a mobile network, by technology",
    "yearlyData":[
     {
@@ -4996,6 +5350,43 @@
     {
      "year":2020,
      "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":0.0
+    },
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
     }
    ]
   },
@@ -5980,6 +6371,19 @@
    ]
   },
   {
+   "indicator":"Public Health Risk Communication",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":60.0
+    },
+    {
+     "year":2020,
+     "value":80.0
+    }
+   ]
+  },
+  {
    "indicator":"CPIA Public sector management and institutions",
    "yearlyData":[
     {
@@ -6839,6 +7243,15 @@
    ]
   },
   {
+   "indicator":"Sex Workers-  Population size estimate (all ages)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":10.0
+    }
+   ]
+  },
+  {
    "indicator":"Share of seats in parliament, male (% held by men)",
    "yearlyData":[
     {
@@ -7066,6 +7479,19 @@
     {
      "year":2022,
      "value":2.67
+    }
+   ]
+  },
+  {
+   "indicator":"Surveillance Capacity (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":40.0
+    },
+    {
+     "year":2020,
+     "value":70.0
     }
    ]
   },
@@ -7624,6 +8050,15 @@
     {
      "year":2016,
      "value":34.26
+    }
+   ]
+  },
+  {
+   "indicator":"Transgender people - population size estimate",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":40.0
     }
    ]
   },

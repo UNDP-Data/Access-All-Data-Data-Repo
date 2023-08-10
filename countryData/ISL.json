@@ -841,6 +841,85 @@
    ]
   },
   {
+   "indicator":"Ambient particulate matter pollution exposure",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":7.22
+    },
+    {
+     "year":1995,
+     "value":6.86
+    },
+    {
+     "year":2000,
+     "value":6.86
+    },
+    {
+     "year":2005,
+     "value":6.65
+    },
+    {
+     "year":2010,
+     "value":6.6
+    },
+    {
+     "year":2011,
+     "value":6.81
+    },
+    {
+     "year":2012,
+     "value":6.19
+    },
+    {
+     "year":2013,
+     "value":6.09
+    },
+    {
+     "year":2014,
+     "value":5.94
+    },
+    {
+     "year":2015,
+     "value":5.83
+    },
+    {
+     "year":2016,
+     "value":5.44
+    },
+    {
+     "year":2017,
+     "value":5.71
+    },
+    {
+     "year":2018,
+     "value":5.69
+    },
+    {
+     "year":2019,
+     "value":5.7
+    }
+   ]
+  },
+  {
+   "indicator":"Beds for mental health in general hospitals (per 100,000)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":32.7
+    }
+   ]
+  },
+  {
+   "indicator":"Beds in mental hospitals (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":18.17
+    }
+   ]
+  },
+  {
    "indicator":"Births attended by skilled health personnel (%)",
    "yearlyData":[
     {
@@ -1140,6 +1219,64 @@
     {
      "year":2021,
      "value":96.87
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":-1962.33
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":8173.76
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":-1268.63
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Chemical Events (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":60.0
+    },
+    {
+     "year":2019,
+     "value":60.0
     }
    ]
   },
@@ -2553,6 +2690,103 @@
    ]
   },
   {
+   "indicator":"Coverage of protected areas in relation to marine areas",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":9.39
+    },
+    {
+     "year":2001,
+     "value":9.39
+    },
+    {
+     "year":2002,
+     "value":9.43
+    },
+    {
+     "year":2003,
+     "value":9.43
+    },
+    {
+     "year":2004,
+     "value":9.86
+    },
+    {
+     "year":2005,
+     "value":9.86
+    },
+    {
+     "year":2006,
+     "value":10.29
+    },
+    {
+     "year":2007,
+     "value":10.29
+    },
+    {
+     "year":2008,
+     "value":10.29
+    },
+    {
+     "year":2009,
+     "value":11.84
+    },
+    {
+     "year":2010,
+     "value":11.84
+    },
+    {
+     "year":2011,
+     "value":12.23
+    },
+    {
+     "year":2012,
+     "value":14.56
+    },
+    {
+     "year":2013,
+     "value":14.56
+    },
+    {
+     "year":2014,
+     "value":14.56
+    },
+    {
+     "year":2015,
+     "value":14.56
+    },
+    {
+     "year":2016,
+     "value":14.56
+    },
+    {
+     "year":2017,
+     "value":14.56
+    },
+    {
+     "year":2018,
+     "value":14.56
+    },
+    {
+     "year":2019,
+     "value":14.56
+    },
+    {
+     "year":2020,
+     "value":14.56
+    },
+    {
+     "year":2021,
+     "value":16.12
+    },
+    {
+     "year":2022,
+     "value":16.12
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Government Response Stringency",
    "yearlyData":[
     {
@@ -2586,7 +2820,7 @@
     },
     {
      "year":2023,
-     "value":208757.0
+     "value":208814.0
     }
    ]
   },
@@ -2957,6 +3191,22 @@
     {
      "year":2022,
      "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":{
+    "degreeofimplementationofinternationalinstrumentsaimingtocombatillegalunreportedunregulatedfishing_ilfish":"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
+    "degreeofimplementationofinternationalinstrumentsaimingtocombatillegalunreportedunregulatedfishing_ilfish":"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+   },
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":5.0
+    },
+    {
+     "year":2022,
+     "value":4.0
     }
    ]
   },
@@ -7112,6 +7362,95 @@
    ]
   },
   {
+   "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":16.04
+    },
+    {
+     "year":2001,
+     "value":14.88
+    },
+    {
+     "year":2002,
+     "value":16.84
+    },
+    {
+     "year":2003,
+     "value":16.55
+    },
+    {
+     "year":2004,
+     "value":16.17
+    },
+    {
+     "year":2005,
+     "value":16.11
+    },
+    {
+     "year":2006,
+     "value":15.57
+    },
+    {
+     "year":2007,
+     "value":15.31
+    },
+    {
+     "year":2008,
+     "value":10.82
+    },
+    {
+     "year":2009,
+     "value":13.37
+    },
+    {
+     "year":2010,
+     "value":13.69
+    },
+    {
+     "year":2011,
+     "value":12.99
+    },
+    {
+     "year":2012,
+     "value":13.7
+    },
+    {
+     "year":2013,
+     "value":14.27
+    },
+    {
+     "year":2014,
+     "value":14.45
+    },
+    {
+     "year":2015,
+     "value":15.0
+    },
+    {
+     "year":2016,
+     "value":14.21
+    },
+    {
+     "year":2017,
+     "value":15.23
+    },
+    {
+     "year":2018,
+     "value":15.74
+    },
+    {
+     "year":2019,
+     "value":16.27
+    },
+    {
+     "year":2020,
+     "value":15.69
+    }
+   ]
+  },
+  {
    "indicator":"GINI index (World Bank estimate)",
    "yearlyData":[
     {
@@ -8576,6 +8915,131 @@
     {
      "year":2022,
      "value":1.74
+    }
+   ]
+  },
+  {
+   "indicator":"Household air pollution from solid fuels",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":0.01
+    },
+    {
+     "year":1991,
+     "value":0.01
+    },
+    {
+     "year":1992,
+     "value":0.01
+    },
+    {
+     "year":1993,
+     "value":0.01
+    },
+    {
+     "year":1994,
+     "value":0.01
+    },
+    {
+     "year":1995,
+     "value":0.01
+    },
+    {
+     "year":1996,
+     "value":0.01
+    },
+    {
+     "year":1997,
+     "value":0.01
+    },
+    {
+     "year":1998,
+     "value":0.01
+    },
+    {
+     "year":1999,
+     "value":0.01
+    },
+    {
+     "year":2000,
+     "value":0.01
+    },
+    {
+     "year":2001,
+     "value":0.0
+    },
+    {
+     "year":2002,
+     "value":0.0
+    },
+    {
+     "year":2003,
+     "value":0.0
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":0.0
     }
    ]
   },
@@ -12633,6 +13097,33 @@
    ]
   },
   {
+   "indicator":"Mental health outpatient facilities (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":3.03
+    }
+   ]
+  },
+  {
+   "indicator":"Mental health units in general hospitals (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":4.54
+    }
+   ]
+  },
+  {
+   "indicator":"Mental health units in general hospitals admissions (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":878.92
+    }
+   ]
+  },
+  {
    "indicator":"Size Breakdown, % of all enterprises, Micro",
    "yearlyData":[
     {
@@ -15437,6 +15928,119 @@
    ]
   },
   {
+   "indicator":"Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":2.0
+    },
+    {
+     "year":1991,
+     "value":2.0
+    },
+    {
+     "year":1992,
+     "value":2.01
+    },
+    {
+     "year":1993,
+     "value":2.01
+    },
+    {
+     "year":1994,
+     "value":2.01
+    },
+    {
+     "year":1995,
+     "value":2.01
+    },
+    {
+     "year":1996,
+     "value":2.01
+    },
+    {
+     "year":1997,
+     "value":2.01
+    },
+    {
+     "year":1998,
+     "value":2.01
+    },
+    {
+     "year":1999,
+     "value":2.02
+    },
+    {
+     "year":2000,
+     "value":2.01
+    },
+    {
+     "year":2001,
+     "value":2.02
+    },
+    {
+     "year":2002,
+     "value":2.03
+    },
+    {
+     "year":2003,
+     "value":2.03
+    },
+    {
+     "year":2004,
+     "value":2.04
+    },
+    {
+     "year":2005,
+     "value":2.05
+    },
+    {
+     "year":2006,
+     "value":2.06
+    },
+    {
+     "year":2007,
+     "value":2.07
+    },
+    {
+     "year":2008,
+     "value":2.07
+    },
+    {
+     "year":2009,
+     "value":2.07
+    },
+    {
+     "year":2010,
+     "value":2.06
+    },
+    {
+     "year":2011,
+     "value":2.08
+    },
+    {
+     "year":2012,
+     "value":2.09
+    },
+    {
+     "year":2013,
+     "value":2.1
+    },
+    {
+     "year":2014,
+     "value":2.11
+    },
+    {
+     "year":2015,
+     "value":2.12
+    },
+    {
+     "year":2016,
+     "value":2.14
+    }
+   ]
+  },
+  {
    "indicator":"Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)",
    "yearlyData":[
     {
@@ -15741,6 +16345,19 @@
     {
      "year":2021,
      "value":0.89
+    }
+   ]
+  },
+  {
+   "indicator":"Public Health Risk Communication",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":100.0
+    },
+    {
+     "year":2019,
+     "value":100.0
     }
    ]
   },
@@ -19146,6 +19763,104 @@
     {
      "year":2019,
      "value":4.0
+    }
+   ]
+  },
+  {
+   "indicator":"Suicide rate per 100,000 population- age-standardized",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":12.68
+    },
+    {
+     "year":2001,
+     "value":12.44
+    },
+    {
+     "year":2002,
+     "value":11.75
+    },
+    {
+     "year":2003,
+     "value":12.01
+    },
+    {
+     "year":2004,
+     "value":11.48
+    },
+    {
+     "year":2005,
+     "value":10.81
+    },
+    {
+     "year":2006,
+     "value":11.26
+    },
+    {
+     "year":2007,
+     "value":13.49
+    },
+    {
+     "year":2008,
+     "value":13.35
+    },
+    {
+     "year":2009,
+     "value":12.88
+    },
+    {
+     "year":2010,
+     "value":11.79
+    },
+    {
+     "year":2011,
+     "value":10.69
+    },
+    {
+     "year":2012,
+     "value":12.53
+    },
+    {
+     "year":2013,
+     "value":12.45
+    },
+    {
+     "year":2014,
+     "value":14.37
+    },
+    {
+     "year":2015,
+     "value":13.17
+    },
+    {
+     "year":2016,
+     "value":12.26
+    },
+    {
+     "year":2017,
+     "value":11.66
+    },
+    {
+     "year":2018,
+     "value":10.12
+    },
+    {
+     "year":2019,
+     "value":11.15
+    }
+   ]
+  },
+  {
+   "indicator":"Surveillance Capacity (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":80.0
+    },
+    {
+     "year":2019,
+     "value":80.0
     }
    ]
   },

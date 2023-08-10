@@ -615,6 +615,76 @@
    ]
   },
   {
+   "indicator":"Ambient particulate matter pollution exposure",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":18.12
+    },
+    {
+     "year":1995,
+     "value":18.13
+    },
+    {
+     "year":2000,
+     "value":18.18
+    },
+    {
+     "year":2005,
+     "value":16.58
+    },
+    {
+     "year":2010,
+     "value":16.89
+    },
+    {
+     "year":2011,
+     "value":16.09
+    },
+    {
+     "year":2012,
+     "value":16.79
+    },
+    {
+     "year":2013,
+     "value":16.95
+    },
+    {
+     "year":2014,
+     "value":16.49
+    },
+    {
+     "year":2015,
+     "value":18.15
+    },
+    {
+     "year":2016,
+     "value":17.67
+    },
+    {
+     "year":2017,
+     "value":17.18
+    },
+    {
+     "year":2018,
+     "value":17.57
+    },
+    {
+     "year":2019,
+     "value":17.59
+    }
+   ]
+  },
+  {
+   "indicator":"Beds in mental hospitals (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":136.1
+    }
+   ]
+  },
+  {
    "indicator":"Births attended by skilled health personnel (%)",
    "yearlyData":[
     {
@@ -781,6 +851,60 @@
     {
      "year":2021,
      "value":4.4
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":2773.37
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":-2803.06
+    }
+   ]
+  },
+  {
+   "indicator":"Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Chemical Events (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":20.0
     }
    ]
   },
@@ -1178,6 +1302,112 @@
    ]
   },
   {
+   "indicator":"Contraceptive Services: Laws & Regulations",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Coverage of protected areas in relation to marine areas",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":0.0
+    },
+    {
+     "year":2001,
+     "value":0.0
+    },
+    {
+     "year":2002,
+     "value":0.0
+    },
+    {
+     "year":2003,
+     "value":0.0
+    },
+    {
+     "year":2004,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":18.42
+    },
+    {
+     "year":2006,
+     "value":18.42
+    },
+    {
+     "year":2007,
+     "value":18.42
+    },
+    {
+     "year":2008,
+     "value":18.42
+    },
+    {
+     "year":2009,
+     "value":18.42
+    },
+    {
+     "year":2010,
+     "value":18.42
+    },
+    {
+     "year":2011,
+     "value":18.42
+    },
+    {
+     "year":2012,
+     "value":18.42
+    },
+    {
+     "year":2013,
+     "value":18.42
+    },
+    {
+     "year":2014,
+     "value":18.84
+    },
+    {
+     "year":2015,
+     "value":18.84
+    },
+    {
+     "year":2016,
+     "value":18.84
+    },
+    {
+     "year":2017,
+     "value":18.84
+    },
+    {
+     "year":2018,
+     "value":18.84
+    },
+    {
+     "year":2019,
+     "value":18.84
+    },
+    {
+     "year":2020,
+     "value":18.84
+    },
+    {
+     "year":2021,
+     "value":18.84
+    },
+    {
+     "year":2022,
+     "value":18.84
+    }
+   ]
+  },
+  {
    "indicator":"Cumulative Number of COVID-19 Cases",
    "yearlyData":[
     {
@@ -1523,6 +1753,22 @@
     {
      "year":2019,
      "value":0.91
+    }
+   ]
+  },
+  {
+   "indicator":{
+    "degreeofimplementationofinternationalinstrumentsaimingtocombatillegalunreportedunregulatedfishing_ilfish":"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
+    "degreeofimplementationofinternationalinstrumentsaimingtocombatillegalunreportedunregulatedfishing_ilfish":"Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+   },
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":3.0
+    },
+    {
+     "year":2022,
+     "value":3.0
     }
    ]
   },
@@ -3100,6 +3346,95 @@
    ]
   },
   {
+   "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":11.86
+    },
+    {
+     "year":2001,
+     "value":12.12
+    },
+    {
+     "year":2002,
+     "value":10.65
+    },
+    {
+     "year":2003,
+     "value":12.45
+    },
+    {
+     "year":2004,
+     "value":12.13
+    },
+    {
+     "year":2005,
+     "value":11.53
+    },
+    {
+     "year":2006,
+     "value":8.37
+    },
+    {
+     "year":2007,
+     "value":8.45
+    },
+    {
+     "year":2008,
+     "value":8.08
+    },
+    {
+     "year":2009,
+     "value":6.33
+    },
+    {
+     "year":2010,
+     "value":13.9
+    },
+    {
+     "year":2011,
+     "value":12.99
+    },
+    {
+     "year":2012,
+     "value":14.63
+    },
+    {
+     "year":2013,
+     "value":13.3
+    },
+    {
+     "year":2014,
+     "value":15.11
+    },
+    {
+     "year":2015,
+     "value":11.82
+    },
+    {
+     "year":2016,
+     "value":11.61
+    },
+    {
+     "year":2017,
+     "value":11.61
+    },
+    {
+     "year":2018,
+     "value":13.07
+    },
+    {
+     "year":2019,
+     "value":11.3
+    },
+    {
+     "year":2020,
+     "value":12.64
+    }
+   ]
+  },
+  {
    "indicator":"Government Effectiveness: Estimate",
    "yearlyData":[
     {
@@ -3738,6 +4073,15 @@
    ]
   },
   {
+   "indicator":"Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Health Service Provision (IHR SPAR)",
    "yearlyData":[
     {
@@ -3784,6 +4128,158 @@
     {
      "year":2011,
      "value":50.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV Confidentiality",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV prevalence among prisoners",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV Treatment and Care Services",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Household air pollution from solid fuels",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":0.04
+    },
+    {
+     "year":1991,
+     "value":0.04
+    },
+    {
+     "year":1992,
+     "value":0.04
+    },
+    {
+     "year":1993,
+     "value":0.03
+    },
+    {
+     "year":1994,
+     "value":0.03
+    },
+    {
+     "year":1995,
+     "value":0.03
+    },
+    {
+     "year":1996,
+     "value":0.03
+    },
+    {
+     "year":1997,
+     "value":0.03
+    },
+    {
+     "year":1998,
+     "value":0.03
+    },
+    {
+     "year":1999,
+     "value":0.03
+    },
+    {
+     "year":2000,
+     "value":0.02
+    },
+    {
+     "year":2001,
+     "value":0.02
+    },
+    {
+     "year":2002,
+     "value":0.02
+    },
+    {
+     "year":2003,
+     "value":0.02
+    },
+    {
+     "year":2004,
+     "value":0.02
+    },
+    {
+     "year":2005,
+     "value":0.02
+    },
+    {
+     "year":2006,
+     "value":0.02
+    },
+    {
+     "year":2007,
+     "value":0.02
+    },
+    {
+     "year":2008,
+     "value":0.02
+    },
+    {
+     "year":2009,
+     "value":0.02
+    },
+    {
+     "year":2010,
+     "value":0.02
+    },
+    {
+     "year":2011,
+     "value":0.02
+    },
+    {
+     "year":2012,
+     "value":0.02
+    },
+    {
+     "year":2013,
+     "value":0.02
+    },
+    {
+     "year":2014,
+     "value":0.02
+    },
+    {
+     "year":2015,
+     "value":0.02
+    },
+    {
+     "year":2016,
+     "value":0.01
+    },
+    {
+     "year":2017,
+     "value":0.01
+    },
+    {
+     "year":2018,
+     "value":0.01
+    },
+    {
+     "year":2019,
+     "value":0.01
     }
    ]
   },
@@ -4997,6 +5493,15 @@
    ]
   },
   {
+   "indicator":"Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":85.0
+    }
+   ]
+  },
+  {
    "indicator":"Literacy Rate Female (%)",
    "yearlyData":[
     {
@@ -5494,6 +5999,51 @@
    ]
   },
   {
+   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "yearlyData":[
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":2.37
+    },
+    {
+     "year":2010,
+     "value":9.34
+    },
+    {
+     "year":2011,
+     "value":1.15
+    },
+    {
+     "year":2012,
+     "value":1.14
+    },
+    {
+     "year":2013,
+     "value":4.52
+    },
+    {
+     "year":2014,
+     "value":3.36
+    },
+    {
+     "year":2017,
+     "value":1.1
+    },
+    {
+     "year":2020,
+     "value":4.32
+    }
+   ]
+  },
+  {
    "indicator":"Number of hospital beds per 10,000 people",
    "yearlyData":[
     {
@@ -5625,6 +6175,15 @@
     {
      "year":2019,
      "value":95.76
+    }
+   ]
+  },
+  {
+   "indicator":"Nurses working in mental health sector (per 100 000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":7.01
     }
    ]
   },
@@ -6428,6 +6987,119 @@
    ]
   },
   {
+   "indicator":"Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":3.04
+    },
+    {
+     "year":1991,
+     "value":3.01
+    },
+    {
+     "year":1992,
+     "value":2.99
+    },
+    {
+     "year":1993,
+     "value":2.97
+    },
+    {
+     "year":1994,
+     "value":2.95
+    },
+    {
+     "year":1995,
+     "value":2.93
+    },
+    {
+     "year":1996,
+     "value":2.91
+    },
+    {
+     "year":1997,
+     "value":2.89
+    },
+    {
+     "year":1998,
+     "value":2.87
+    },
+    {
+     "year":1999,
+     "value":2.85
+    },
+    {
+     "year":2000,
+     "value":2.84
+    },
+    {
+     "year":2001,
+     "value":2.82
+    },
+    {
+     "year":2002,
+     "value":2.81
+    },
+    {
+     "year":2003,
+     "value":2.8
+    },
+    {
+     "year":2004,
+     "value":2.79
+    },
+    {
+     "year":2005,
+     "value":2.78
+    },
+    {
+     "year":2006,
+     "value":2.77
+    },
+    {
+     "year":2007,
+     "value":2.76
+    },
+    {
+     "year":2008,
+     "value":2.75
+    },
+    {
+     "year":2009,
+     "value":2.74
+    },
+    {
+     "year":2010,
+     "value":2.73
+    },
+    {
+     "year":2011,
+     "value":2.71
+    },
+    {
+     "year":2012,
+     "value":2.7
+    },
+    {
+     "year":2013,
+     "value":2.69
+    },
+    {
+     "year":2014,
+     "value":2.68
+    },
+    {
+     "year":2015,
+     "value":2.68
+    },
+    {
+     "year":2016,
+     "value":2.67
+    }
+   ]
+  },
+  {
    "indicator":"Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)",
    "yearlyData":[
     {
@@ -6536,6 +7208,24 @@
     {
      "year":2008,
      "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Psychiatrists working in mental health sector (per 100,000)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":1.0
+    }
+   ]
+  },
+  {
+   "indicator":"Public Health Risk Communication",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":40.0
     }
    ]
   },
@@ -7384,6 +8074,37 @@
    ]
   },
   {
+   "indicator":"Sexual and reproductive health laws and regulations",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":75.0
+    }
+   ]
+  },
+  {
+   "indicator":"Sexuality Education: Laws & Regulations",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Sex Workers-  Population size estimate (all ages)",
+   "yearlyData":[
+    {
+     "year":2012,
+     "value":700.0
+    },
+    {
+     "year":2014,
+     "value":800.0
+    }
+   ]
+  },
+  {
    "indicator":"Share of seats in parliament, male (% held by men)",
    "yearlyData":[
     {
@@ -7648,6 +8369,100 @@
     {
      "year":2019,
      "value":5.0
+    }
+   ]
+  },
+  {
+   "indicator":"Suicide rate per 100,000 population- age-standardized",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":2.01
+    },
+    {
+     "year":2001,
+     "value":1.88
+    },
+    {
+     "year":2002,
+     "value":1.25
+    },
+    {
+     "year":2003,
+     "value":1.44
+    },
+    {
+     "year":2004,
+     "value":1.95
+    },
+    {
+     "year":2005,
+     "value":1.32
+    },
+    {
+     "year":2006,
+     "value":0.44
+    },
+    {
+     "year":2007,
+     "value":0.33
+    },
+    {
+     "year":2008,
+     "value":0.24
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.13
+    },
+    {
+     "year":2011,
+     "value":0.16
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.44
+    },
+    {
+     "year":2015,
+     "value":0.42
+    },
+    {
+     "year":2016,
+     "value":0.49
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.32
+    },
+    {
+     "year":2019,
+     "value":0.32
+    }
+   ]
+  },
+  {
+   "indicator":"Surveillance Capacity (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":60.0
     }
    ]
   },
@@ -8205,6 +9020,15 @@
     {
      "year":2022,
      "value":22828.0
+    }
+   ]
+  },
+  {
+   "indicator":"Total workforce in mental health sector (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":12.01
     }
    ]
   },

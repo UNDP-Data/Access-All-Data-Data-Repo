@@ -11,6 +11,15 @@
  "Income group":"",
  "indicators":[
   {
+   "indicator":"Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":34.0
+    }
+   ]
+  },
+  {
    "indicator":"Births attended by skilled health personnel (%)",
    "yearlyData":[
     {
@@ -52,11 +61,37 @@
    ]
   },
   {
+   "indicator":"Chemical Events (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":56.0
+    },
+    {
+     "year":2019,
+     "value":60.0
+    },
+    {
+     "year":2020,
+     "value":63.0
+    }
+   ]
+  },
+  {
    "indicator":"Children\/households receiving child\/family cash benefits",
    "yearlyData":[
     {
      "year":2020,
      "value":57.4
+    }
+   ]
+  },
+  {
+   "indicator":"Contraceptive Services: Laws & Regulations",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":74.0
     }
    ]
   },
@@ -564,6 +599,104 @@
    ]
   },
   {
+   "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":11.96
+    },
+    {
+     "year":2001,
+     "value":11.67
+    },
+    {
+     "year":2002,
+     "value":11.58
+    },
+    {
+     "year":2003,
+     "value":11.57
+    },
+    {
+     "year":2004,
+     "value":11.9
+    },
+    {
+     "year":2005,
+     "value":11.67
+    },
+    {
+     "year":2006,
+     "value":11.61
+    },
+    {
+     "year":2007,
+     "value":12.14
+    },
+    {
+     "year":2008,
+     "value":12.14
+    },
+    {
+     "year":2009,
+     "value":12.59
+    },
+    {
+     "year":2010,
+     "value":12.79
+    },
+    {
+     "year":2011,
+     "value":12.86
+    },
+    {
+     "year":2012,
+     "value":12.74
+    },
+    {
+     "year":2013,
+     "value":12.89
+    },
+    {
+     "year":2014,
+     "value":13.2
+    },
+    {
+     "year":2015,
+     "value":13.6
+    },
+    {
+     "year":2016,
+     "value":13.82
+    },
+    {
+     "year":2017,
+     "value":13.71
+    },
+    {
+     "year":2018,
+     "value":13.67
+    },
+    {
+     "year":2019,
+     "value":13.74
+    },
+    {
+     "year":2020,
+     "value":14.3
+    }
+   ]
+  },
+  {
+   "indicator":"Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":84.0
+    }
+   ]
+  },
+  {
    "indicator":"Health Service Provision (IHR SPAR)",
    "yearlyData":[
     {
@@ -577,6 +710,24 @@
     {
      "year":2020,
      "value":63.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV Confidentiality",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":93.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV Treatment and Care Services",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":87.0
     }
    ]
   },
@@ -721,6 +872,15 @@
    ]
   },
   {
+   "indicator":"Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":86.0
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training, Male",
    "yearlyData":[
     {
@@ -794,6 +954,15 @@
     {
      "year":2022,
      "value":12.96
+    }
+   ]
+  },
+  {
+   "indicator":"Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":70.0
     }
    ]
   },
@@ -950,6 +1119,200 @@
    ]
   },
   {
+   "indicator":"HIV, Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission ",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":27000.0
+    },
+    {
+     "year":1991,
+     "value":30000.0
+    },
+    {
+     "year":1992,
+     "value":33000.0
+    },
+    {
+     "year":1993,
+     "value":36000.0
+    },
+    {
+     "year":1994,
+     "value":39000.0
+    },
+    {
+     "year":1995,
+     "value":41000.0
+    },
+    {
+     "year":1996,
+     "value":42000.0
+    },
+    {
+     "year":1997,
+     "value":44000.0
+    },
+    {
+     "year":1998,
+     "value":45000.0
+    },
+    {
+     "year":1999,
+     "value":46000.0
+    },
+    {
+     "year":2000,
+     "value":47000.0
+    },
+    {
+     "year":2001,
+     "value":47000.0
+    },
+    {
+     "year":2002,
+     "value":47000.0
+    },
+    {
+     "year":2003,
+     "value":47000.0
+    },
+    {
+     "year":2004,
+     "value":47000.0
+    },
+    {
+     "year":2005,
+     "value":47000.0
+    },
+    {
+     "year":2006,
+     "value":46000.0
+    },
+    {
+     "year":2007,
+     "value":45000.0
+    },
+    {
+     "year":2008,
+     "value":45000.0
+    },
+    {
+     "year":2009,
+     "value":44000.0
+    },
+    {
+     "year":2010,
+     "value":43000.0
+    },
+    {
+     "year":2011,
+     "value":43000.0
+    },
+    {
+     "year":2012,
+     "value":42000.0
+    },
+    {
+     "year":2013,
+     "value":42000.0
+    },
+    {
+     "year":2014,
+     "value":41000.0
+    },
+    {
+     "year":2015,
+     "value":41000.0
+    },
+    {
+     "year":2016,
+     "value":40000.0
+    },
+    {
+     "year":2017,
+     "value":40000.0
+    },
+    {
+     "year":2018,
+     "value":39000.0
+    },
+    {
+     "year":2019,
+     "value":39000.0
+    },
+    {
+     "year":2020,
+     "value":38000.0
+    },
+    {
+     "year":2021,
+     "value":38000.0
+    },
+    {
+     "year":2022,
+     "value":38000.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV, Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission ",
+   "yearlyData":[
+    {
+     "year":2010,
+     "value":47.0
+    },
+    {
+     "year":2011,
+     "value":54.0
+    },
+    {
+     "year":2012,
+     "value":60.0
+    },
+    {
+     "year":2013,
+     "value":62.0
+    },
+    {
+     "year":2014,
+     "value":63.0
+    },
+    {
+     "year":2015,
+     "value":64.0
+    },
+    {
+     "year":2016,
+     "value":64.0
+    },
+    {
+     "year":2017,
+     "value":67.0
+    },
+    {
+     "year":2018,
+     "value":70.0
+    },
+    {
+     "year":2019,
+     "value":71.0
+    },
+    {
+     "year":2020,
+     "value":61.0
+    },
+    {
+     "year":2021,
+     "value":64.0
+    },
+    {
+     "year":2022,
+     "value":67.0
+    }
+   ]
+  },
+  {
    "indicator":"Nurses and midwives per 10,000 people",
    "yearlyData":[
     {
@@ -1012,11 +1375,148 @@
    ]
   },
   {
+   "indicator":"Public Health Risk Communication",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":63.0
+    },
+    {
+     "year":2019,
+     "value":68.0
+    },
+    {
+     "year":2020,
+     "value":68.0
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of population above statutory pensionable age receiving a pension, by sex (%), Total",
    "yearlyData":[
     {
      "year":2020,
      "value":88.1
+    }
+   ]
+  },
+  {
+   "indicator":"Sexual and reproductive health laws and regulations",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":80.0
+    }
+   ]
+  },
+  {
+   "indicator":"Sexuality Education: Laws & Regulations",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":69.0
+    }
+   ]
+  },
+  {
+   "indicator":"Suicide rate per 100,000 population- age-standardized",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":7.73
+    },
+    {
+     "year":2001,
+     "value":7.98
+    },
+    {
+     "year":2002,
+     "value":8.02
+    },
+    {
+     "year":2003,
+     "value":7.93
+    },
+    {
+     "year":2004,
+     "value":7.9
+    },
+    {
+     "year":2005,
+     "value":7.88
+    },
+    {
+     "year":2006,
+     "value":7.87
+    },
+    {
+     "year":2007,
+     "value":7.93
+    },
+    {
+     "year":2008,
+     "value":8.09
+    },
+    {
+     "year":2009,
+     "value":8.15
+    },
+    {
+     "year":2010,
+     "value":8.13
+    },
+    {
+     "year":2011,
+     "value":8.28
+    },
+    {
+     "year":2012,
+     "value":8.26
+    },
+    {
+     "year":2013,
+     "value":8.23
+    },
+    {
+     "year":2014,
+     "value":8.41
+    },
+    {
+     "year":2015,
+     "value":8.55
+    },
+    {
+     "year":2016,
+     "value":8.72
+    },
+    {
+     "year":2017,
+     "value":9.16
+    },
+    {
+     "year":2018,
+     "value":8.97
+    },
+    {
+     "year":2019,
+     "value":8.99
+    }
+   ]
+  },
+  {
+   "indicator":"Surveillance Capacity (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":74.0
+    },
+    {
+     "year":2019,
+     "value":78.0
+    },
+    {
+     "year":2020,
+     "value":81.0
     }
    ]
   },

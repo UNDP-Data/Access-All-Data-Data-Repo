@@ -360,6 +360,15 @@
    ]
   },
   {
+   "indicator":"Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":75.0
+    }
+   ]
+  },
+  {
    "indicator":"Access to electricity, rural (% of rural population)",
    "yearlyData":[
     {
@@ -836,11 +845,107 @@
    ]
   },
   {
+   "indicator":"Ambient particulate matter pollution exposure",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":28.76
+    },
+    {
+     "year":1995,
+     "value":29.18
+    },
+    {
+     "year":2000,
+     "value":28.69
+    },
+    {
+     "year":2005,
+     "value":27.03
+    },
+    {
+     "year":2010,
+     "value":29.4
+    },
+    {
+     "year":2011,
+     "value":29.45
+    },
+    {
+     "year":2012,
+     "value":29.17
+    },
+    {
+     "year":2013,
+     "value":28.77
+    },
+    {
+     "year":2014,
+     "value":29.0
+    },
+    {
+     "year":2015,
+     "value":29.24
+    },
+    {
+     "year":2016,
+     "value":28.72
+    },
+    {
+     "year":2017,
+     "value":28.86
+    },
+    {
+     "year":2018,
+     "value":28.75
+    },
+    {
+     "year":2019,
+     "value":28.67
+    }
+   ]
+  },
+  {
+   "indicator":"Antiretroviral therapy coverage among men who have sex with men living with HIV",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":28.1
+    },
+    {
+     "year":2019,
+     "value":69.0
+    },
+    {
+     "year":2021,
+     "value":44.1
+    }
+   ]
+  },
+  {
    "indicator":"Attendance in early childhood education (%), Total",
    "yearlyData":[
     {
      "year":2015,
      "value":48.1
+    }
+   ]
+  },
+  {
+   "indicator":"Beds for mental health in general hospitals (per 100,000)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":4.33
+    }
+   ]
+  },
+  {
+   "indicator":"Beds in mental hospitals (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":16.56
     }
    ]
   },
@@ -1092,6 +1197,131 @@
     {
      "year":2021,
      "value":75.62
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to coastal floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":85.46
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to drought - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":13334094.25
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to Floods - SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":43715.98
+    }
+   ]
+  },
+  {
+   "indicator":"Change in absolute number of people exposed to malaria and dengue -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":22884311.3500000015
+    }
+   ]
+  },
+  {
+   "indicator":"Change in Human Hazard & Exposure to conflict -SSP3, RCP 8.5 (2050)",
+   "yearlyData":[
+    {
+     "year":2050,
+     "value":2.1
+    }
+   ]
+  },
+  {
+   "indicator":"Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $1.90 poverty line",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":0.0
+    },
+    {
+     "year":2000,
+     "value":0.0
+    },
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $3.20 poverty line",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":0.01
+    },
+    {
+     "year":2000,
+     "value":0.01
+    },
+    {
+     "year":2005,
+     "value":0.01
+    },
+    {
+     "year":2010,
+     "value":0.01
+    }
+   ]
+  },
+  {
+   "indicator":"Change in poverty gap due to out-of-pocket health spending ($ 2011 PPP), $5.50 poverty line",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":0.02
+    },
+    {
+     "year":2000,
+     "value":0.02
+    },
+    {
+     "year":2005,
+     "value":0.03
+    },
+    {
+     "year":2010,
+     "value":0.02
+    }
+   ]
+  },
+  {
+   "indicator":"Chemical Events (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":80.0
+    },
+    {
+     "year":2019,
+     "value":80.0
+    },
+    {
+     "year":2020,
+     "value":80.0
     }
    ]
   },
@@ -2198,6 +2428,31 @@
    ]
   },
   {
+   "indicator":"Condoms distributed to prisoners",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":1967110.0
+    },
+    {
+     "year":2018,
+     "value":2436070.0
+    },
+    {
+     "year":2019,
+     "value":1703890.0
+    },
+    {
+     "year":2020,
+     "value":1170000.0
+    },
+    {
+     "year":2021,
+     "value":1270460.0
+    }
+   ]
+  },
+  {
    "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
    "yearlyData":[
     {
@@ -2480,6 +2735,15 @@
    ]
   },
   {
+   "indicator":"Contraceptive Services: Laws & Regulations",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":80.0
+    }
+   ]
+  },
+  {
    "indicator":"Transparency Internationals Corruption Perceptions index",
    "yearlyData":[
     {
@@ -2554,6 +2818,103 @@
     {
      "year":2021,
      "value":0.02
+    }
+   ]
+  },
+  {
+   "indicator":"Coverage of protected areas in relation to marine areas",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":39.9
+    },
+    {
+     "year":2001,
+     "value":39.92
+    },
+    {
+     "year":2002,
+     "value":39.96
+    },
+    {
+     "year":2003,
+     "value":39.96
+    },
+    {
+     "year":2004,
+     "value":41.4
+    },
+    {
+     "year":2005,
+     "value":41.4
+    },
+    {
+     "year":2006,
+     "value":41.4
+    },
+    {
+     "year":2007,
+     "value":41.4
+    },
+    {
+     "year":2008,
+     "value":41.4
+    },
+    {
+     "year":2009,
+     "value":41.4
+    },
+    {
+     "year":2010,
+     "value":41.4
+    },
+    {
+     "year":2011,
+     "value":41.4
+    },
+    {
+     "year":2012,
+     "value":41.4
+    },
+    {
+     "year":2013,
+     "value":41.71
+    },
+    {
+     "year":2014,
+     "value":41.71
+    },
+    {
+     "year":2015,
+     "value":43.86
+    },
+    {
+     "year":2016,
+     "value":43.86
+    },
+    {
+     "year":2017,
+     "value":44.0
+    },
+    {
+     "year":2018,
+     "value":44.27
+    },
+    {
+     "year":2019,
+     "value":52.61
+    },
+    {
+     "year":2020,
+     "value":52.61
+    },
+    {
+     "year":2021,
+     "value":52.61
+    },
+    {
+     "year":2022,
+     "value":52.72
     }
    ]
   },
@@ -6572,6 +6933,35 @@
    ]
   },
   {
+   "indicator":"Expenditure on HIV\/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":7.6
+    },
+    {
+     "year":2015,
+     "value":10.06
+    },
+    {
+     "year":2016,
+     "value":10.84
+    },
+    {
+     "year":2017,
+     "value":10.06
+    },
+    {
+     "year":2018,
+     "value":10.11
+    },
+    {
+     "year":2019,
+     "value":10.28
+    }
+   ]
+  },
+  {
    "indicator":"Expenditure on tertiary education (% of government expenditure on education)",
    "yearlyData":[
     {
@@ -6717,6 +7107,35 @@
     {
      "year":2022,
      "value":7.0
+    }
+   ]
+  },
+  {
+   "indicator":"External sources of funding on HIV\/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":91.6
+    },
+    {
+     "year":2015,
+     "value":91.32
+    },
+    {
+     "year":2016,
+     "value":91.92
+    },
+    {
+     "year":2017,
+     "value":91.92
+    },
+    {
+     "year":2018,
+     "value":91.92
+    },
+    {
+     "year":2019,
+     "value":91.92
     }
    ]
   },
@@ -8277,6 +8696,95 @@
    ]
   },
   {
+   "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":11.86
+    },
+    {
+     "year":2001,
+     "value":10.62
+    },
+    {
+     "year":2002,
+     "value":10.38
+    },
+    {
+     "year":2003,
+     "value":12.34
+    },
+    {
+     "year":2004,
+     "value":12.03
+    },
+    {
+     "year":2005,
+     "value":10.92
+    },
+    {
+     "year":2006,
+     "value":13.1
+    },
+    {
+     "year":2007,
+     "value":13.51
+    },
+    {
+     "year":2008,
+     "value":13.01
+    },
+    {
+     "year":2009,
+     "value":13.37
+    },
+    {
+     "year":2010,
+     "value":14.14
+    },
+    {
+     "year":2011,
+     "value":14.68
+    },
+    {
+     "year":2012,
+     "value":14.47
+    },
+    {
+     "year":2013,
+     "value":14.34
+    },
+    {
+     "year":2014,
+     "value":14.92
+    },
+    {
+     "year":2015,
+     "value":15.24
+    },
+    {
+     "year":2016,
+     "value":15.29
+    },
+    {
+     "year":2017,
+     "value":15.29
+    },
+    {
+     "year":2018,
+     "value":15.29
+    },
+    {
+     "year":2019,
+     "value":15.29
+    },
+    {
+     "year":2020,
+     "value":15.29
+    }
+   ]
+  },
+  {
    "indicator":"GINI index (World Bank estimate)",
    "yearlyData":[
     {
@@ -9383,6 +9891,15 @@
    ]
   },
   {
+   "indicator":"Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Health Service Provision (IHR SPAR)",
    "yearlyData":[
     {
@@ -9400,11 +9917,214 @@
    ]
   },
   {
+   "indicator":"HIV Confidentiality",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV prevalence among men who have sex with men",
+   "yearlyData":[
+    {
+     "year":2011,
+     "value":9.9
+    },
+    {
+     "year":2015,
+     "value":26.8
+    },
+    {
+     "year":2018,
+     "value":18.1
+    },
+    {
+     "year":2020,
+     "value":29.7
+    }
+   ]
+  },
+  {
+   "indicator":"HIV prevalence among prisoners",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":9.1
+    },
+    {
+     "year":2018,
+     "value":8.9
+    },
+    {
+     "year":2019,
+     "value":11.1
+    },
+    {
+     "year":2021,
+     "value":3.5
+    }
+   ]
+  },
+  {
+   "indicator":"HIV prevalence among transgender people",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":58.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV testing and status awareness among people who inject drugs",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":79.8
+    }
+   ]
+  },
+  {
+   "indicator":"HIV Treatment and Care Services",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Number of Homicides per 100,000 People",
    "yearlyData":[
     {
      "year":2022,
      "value":5.0
+    }
+   ]
+  },
+  {
+   "indicator":"Household air pollution from solid fuels",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":0.46
+    },
+    {
+     "year":1991,
+     "value":0.44
+    },
+    {
+     "year":1992,
+     "value":0.42
+    },
+    {
+     "year":1993,
+     "value":0.41
+    },
+    {
+     "year":1994,
+     "value":0.39
+    },
+    {
+     "year":1995,
+     "value":0.38
+    },
+    {
+     "year":1996,
+     "value":0.37
+    },
+    {
+     "year":1997,
+     "value":0.36
+    },
+    {
+     "year":1998,
+     "value":0.36
+    },
+    {
+     "year":1999,
+     "value":0.35
+    },
+    {
+     "year":2000,
+     "value":0.34
+    },
+    {
+     "year":2001,
+     "value":0.34
+    },
+    {
+     "year":2002,
+     "value":0.33
+    },
+    {
+     "year":2003,
+     "value":0.31
+    },
+    {
+     "year":2004,
+     "value":0.3
+    },
+    {
+     "year":2005,
+     "value":0.28
+    },
+    {
+     "year":2006,
+     "value":0.27
+    },
+    {
+     "year":2007,
+     "value":0.25
+    },
+    {
+     "year":2008,
+     "value":0.23
+    },
+    {
+     "year":2009,
+     "value":0.22
+    },
+    {
+     "year":2010,
+     "value":0.21
+    },
+    {
+     "year":2011,
+     "value":0.19
+    },
+    {
+     "year":2012,
+     "value":0.18
+    },
+    {
+     "year":2013,
+     "value":0.17
+    },
+    {
+     "year":2014,
+     "value":0.16
+    },
+    {
+     "year":2015,
+     "value":0.15
+    },
+    {
+     "year":2016,
+     "value":0.14
+    },
+    {
+     "year":2017,
+     "value":0.14
+    },
+    {
+     "year":2018,
+     "value":0.13
+    },
+    {
+     "year":2019,
+     "value":0.12
     }
    ]
   },
@@ -13190,6 +13910,15 @@
    ]
   },
   {
+   "indicator":"Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
    "indicator":"Literacy Rate Female (%)",
    "yearlyData":[
     {
@@ -13805,6 +14534,15 @@
    ]
   },
   {
+   "indicator":"Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":94.0
+    }
+   ]
+  },
+  {
    "indicator":"Mean Years of Schooling, female (years)",
    "yearlyData":[
     {
@@ -14204,6 +14942,27 @@
    ]
   },
   {
+   "indicator":"Mean household per capita out-of-pocket health spending ($ 2011 PPP)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":168.32
+    },
+    {
+     "year":2000,
+     "value":135.49
+    },
+    {
+     "year":2005,
+     "value":70.5
+    },
+    {
+     "year":2010,
+     "value":69.77
+    }
+   ]
+  },
+  {
    "indicator":"Proportion of medium and high-tech industry value added in total value added",
    "yearlyData":[
     {
@@ -14298,6 +15057,41 @@
     {
      "year":2016,
      "value":0.12
+    }
+   ]
+  },
+  {
+   "indicator":"Mental health outpatient facilities (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":0.11
+    }
+   ]
+  },
+  {
+   "indicator":"Mental health units in general hospitals (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":0.07
+    }
+   ]
+  },
+  {
+   "indicator":"Men who have sex with men: Population size estimate",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":85800.0
+    },
+    {
+     "year":2017,
+     "value":299000.0
+    },
+    {
+     "year":2020,
+     "value":309700.0
     }
    ]
   },
@@ -14617,6 +15411,99 @@
    ]
   },
   {
+   "indicator":"Mother-to-child HIV transmission rate",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":24.53
+    },
+    {
+     "year":2001,
+     "value":24.31
+    },
+    {
+     "year":2002,
+     "value":24.25
+    },
+    {
+     "year":2003,
+     "value":24.33
+    },
+    {
+     "year":2004,
+     "value":24.45
+    },
+    {
+     "year":2005,
+     "value":24.21
+    },
+    {
+     "year":2006,
+     "value":23.58
+    },
+    {
+     "year":2007,
+     "value":22.85
+    },
+    {
+     "year":2008,
+     "value":21.54
+    },
+    {
+     "year":2009,
+     "value":18.13
+    },
+    {
+     "year":2010,
+     "value":13.36
+    },
+    {
+     "year":2011,
+     "value":10.1
+    },
+    {
+     "year":2012,
+     "value":8.41
+    },
+    {
+     "year":2013,
+     "value":7.38
+    },
+    {
+     "year":2014,
+     "value":6.61
+    },
+    {
+     "year":2015,
+     "value":5.11
+    },
+    {
+     "year":2016,
+     "value":4.85
+    },
+    {
+     "year":2017,
+     "value":4.04
+    },
+    {
+     "year":2018,
+     "value":3.53
+    },
+    {
+     "year":2019,
+     "value":3.25
+    },
+    {
+     "year":2020,
+     "value":3.74
+    },
+    {
+     "year":2021,
+     "value":3.51
+    }
+   ]
+  },
+  {
    "indicator":"Multidimensional poverty headcount ratio (%)",
    "yearlyData":[
     {
@@ -14745,6 +15632,75 @@
    ]
   },
   {
+   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "yearlyData":[
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.02
+    },
+    {
+     "year":2007,
+     "value":0.1
+    },
+    {
+     "year":2008,
+     "value":0.47
+    },
+    {
+     "year":2009,
+     "value":0.06
+    },
+    {
+     "year":2010,
+     "value":0.18
+    },
+    {
+     "year":2011,
+     "value":0.12
+    },
+    {
+     "year":2012,
+     "value":0.58
+    },
+    {
+     "year":2013,
+     "value":0.12
+    },
+    {
+     "year":2014,
+     "value":0.06
+    },
+    {
+     "year":2015,
+     "value":0.55
+    },
+    {
+     "year":2016,
+     "value":0.53
+    },
+    {
+     "year":2017,
+     "value":0.06
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":0.26
+    },
+    {
+     "year":2020,
+     "value":48.42
+    }
+   ]
+  },
+  {
    "indicator":"Number of hospital beds per 10,000 people",
    "yearlyData":[
     {
@@ -14827,6 +15783,200 @@
     {
      "year":2020,
      "value":486900.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV, Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission ",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":15000.0
+    },
+    {
+     "year":1991,
+     "value":25000.0
+    },
+    {
+     "year":1992,
+     "value":38000.0
+    },
+    {
+     "year":1993,
+     "value":55000.0
+    },
+    {
+     "year":1994,
+     "value":75000.0
+    },
+    {
+     "year":1995,
+     "value":99000.0
+    },
+    {
+     "year":1996,
+     "value":120000.0
+    },
+    {
+     "year":1997,
+     "value":140000.0
+    },
+    {
+     "year":1998,
+     "value":160000.0
+    },
+    {
+     "year":1999,
+     "value":180000.0
+    },
+    {
+     "year":2000,
+     "value":200000.0
+    },
+    {
+     "year":2001,
+     "value":220000.0
+    },
+    {
+     "year":2002,
+     "value":230000.0
+    },
+    {
+     "year":2003,
+     "value":240000.0
+    },
+    {
+     "year":2004,
+     "value":270000.0
+    },
+    {
+     "year":2005,
+     "value":280000.0
+    },
+    {
+     "year":2006,
+     "value":290000.0
+    },
+    {
+     "year":2007,
+     "value":300000.0
+    },
+    {
+     "year":2008,
+     "value":310000.0
+    },
+    {
+     "year":2009,
+     "value":310000.0
+    },
+    {
+     "year":2010,
+     "value":310000.0
+    },
+    {
+     "year":2011,
+     "value":310000.0
+    },
+    {
+     "year":2012,
+     "value":310000.0
+    },
+    {
+     "year":2013,
+     "value":320000.0
+    },
+    {
+     "year":2014,
+     "value":320000.0
+    },
+    {
+     "year":2015,
+     "value":320000.0
+    },
+    {
+     "year":2016,
+     "value":310000.0
+    },
+    {
+     "year":2017,
+     "value":300000.0
+    },
+    {
+     "year":2018,
+     "value":300000.0
+    },
+    {
+     "year":2019,
+     "value":300000.0
+    },
+    {
+     "year":2020,
+     "value":290000.0
+    },
+    {
+     "year":2021,
+     "value":280000.0
+    },
+    {
+     "year":2022,
+     "value":260000.0
+    }
+   ]
+  },
+  {
+   "indicator":"HIV, Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission ",
+   "yearlyData":[
+    {
+     "year":2010,
+     "value":85.0
+    },
+    {
+     "year":2011,
+     "value":89.0
+    },
+    {
+     "year":2012,
+     "value":96.0
+    },
+    {
+     "year":2013,
+     "value":100.0
+    },
+    {
+     "year":2014,
+     "value":100.0
+    },
+    {
+     "year":2015,
+     "value":97.0
+    },
+    {
+     "year":2016,
+     "value":97.0
+    },
+    {
+     "year":2017,
+     "value":97.0
+    },
+    {
+     "year":2018,
+     "value":98.0
+    },
+    {
+     "year":2019,
+     "value":99.0
+    },
+    {
+     "year":2020,
+     "value":99.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":98.0
     }
    ]
   },
@@ -15254,6 +16404,37 @@
     {
      "year":2014,
      "value":3.2
+    }
+   ]
+  },
+  {
+   "indicator":"People who inject drugs - HIV prevalence",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":46.4
+    },
+    {
+     "year":2018,
+     "value":21.8
+    }
+   ]
+  },
+  {
+   "indicator":"People who inject drugs - needles per injector",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":36.0
+    }
+   ]
+  },
+  {
+   "indicator":"People who inject drugs -  Population size estimate",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":82500.0
     }
    ]
   },
@@ -15851,6 +17032,27 @@
     {
      "year":2022,
      "value":5.89
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":0.32
+    },
+    {
+     "year":2000,
+     "value":0.22
+    },
+    {
+     "year":2005,
+     "value":0.79
+    },
+    {
+     "year":2010,
+     "value":0.5
     }
    ]
   },
@@ -16658,6 +17860,119 @@
    ]
   },
   {
+   "indicator":"Prevalence - Alcohol and substance use disorders: Both sexes (age-standardized percent)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":2.59
+    },
+    {
+     "year":1991,
+     "value":2.6
+    },
+    {
+     "year":1992,
+     "value":2.62
+    },
+    {
+     "year":1993,
+     "value":2.63
+    },
+    {
+     "year":1994,
+     "value":2.65
+    },
+    {
+     "year":1995,
+     "value":2.66
+    },
+    {
+     "year":1996,
+     "value":2.62
+    },
+    {
+     "year":1997,
+     "value":2.59
+    },
+    {
+     "year":1998,
+     "value":2.55
+    },
+    {
+     "year":1999,
+     "value":2.51
+    },
+    {
+     "year":2000,
+     "value":2.48
+    },
+    {
+     "year":2001,
+     "value":2.45
+    },
+    {
+     "year":2002,
+     "value":2.43
+    },
+    {
+     "year":2003,
+     "value":2.41
+    },
+    {
+     "year":2004,
+     "value":2.38
+    },
+    {
+     "year":2005,
+     "value":2.36
+    },
+    {
+     "year":2006,
+     "value":2.35
+    },
+    {
+     "year":2007,
+     "value":2.35
+    },
+    {
+     "year":2008,
+     "value":2.34
+    },
+    {
+     "year":2009,
+     "value":2.33
+    },
+    {
+     "year":2010,
+     "value":2.33
+    },
+    {
+     "year":2011,
+     "value":2.3
+    },
+    {
+     "year":2012,
+     "value":2.27
+    },
+    {
+     "year":2013,
+     "value":2.24
+    },
+    {
+     "year":2014,
+     "value":2.22
+    },
+    {
+     "year":2015,
+     "value":2.19
+    },
+    {
+     "year":2016,
+     "value":2.17
+    }
+   ]
+  },
+  {
    "indicator":"Energy intensity level of primary energy (megajoules per constant 2017 purchasing power parity GDP)",
    "yearlyData":[
     {
@@ -16739,6 +18054,19 @@
     {
      "year":2019,
      "value":8.03
+    }
+   ]
+  },
+  {
+   "indicator":"Prisoners: Population size estimate",
+   "yearlyData":[
+    {
+     "year":2017,
+     "value":161100.0
+    },
+    {
+     "year":2020,
+     "value":166400.0
     }
    ]
   },
@@ -16967,6 +18295,32 @@
     {
      "year":2021,
      "value":0.67
+    }
+   ]
+  },
+  {
+   "indicator":"Psychiatrists working in mental health sector (per 100,000)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":1.52
+    }
+   ]
+  },
+  {
+   "indicator":"Public Health Risk Communication",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":20.0
+    },
+    {
+     "year":2019,
+     "value":60.0
+    },
+    {
+     "year":2020,
+     "value":100.0
     }
    ]
   },
@@ -18543,6 +19897,49 @@
     {
      "year":2021,
      "value":35.19
+    }
+   ]
+  },
+  {
+   "indicator":"Sexual and reproductive health laws and regulations",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Sexuality Education: Laws & Regulations",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Sex Workers-  Population size estimate (all ages)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":262500.0
+    },
+    {
+     "year":2014,
+     "value":23500.0
+    },
+    {
+     "year":2017,
+     "value":112400.0
+    },
+    {
+     "year":2018,
+     "value":24000.0
+    },
+    {
+     "year":2021,
+     "value":146000.0
     }
    ]
   },
@@ -21731,6 +23128,108 @@
    ]
   },
   {
+   "indicator":"Suicide rate per 100,000 population- age-standardized",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":26.56
+    },
+    {
+     "year":2001,
+     "value":26.92
+    },
+    {
+     "year":2002,
+     "value":28.02
+    },
+    {
+     "year":2003,
+     "value":28.67
+    },
+    {
+     "year":2004,
+     "value":27.91
+    },
+    {
+     "year":2005,
+     "value":27.46
+    },
+    {
+     "year":2006,
+     "value":26.54
+    },
+    {
+     "year":2007,
+     "value":27.42
+    },
+    {
+     "year":2008,
+     "value":29.43
+    },
+    {
+     "year":2009,
+     "value":29.24
+    },
+    {
+     "year":2010,
+     "value":26.92
+    },
+    {
+     "year":2011,
+     "value":24.43
+    },
+    {
+     "year":2012,
+     "value":24.63
+    },
+    {
+     "year":2013,
+     "value":25.12
+    },
+    {
+     "year":2014,
+     "value":25.28
+    },
+    {
+     "year":2015,
+     "value":25.55
+    },
+    {
+     "year":2016,
+     "value":25.31
+    },
+    {
+     "year":2017,
+     "value":25.84
+    },
+    {
+     "year":2018,
+     "value":24.39
+    },
+    {
+     "year":2019,
+     "value":23.49
+    }
+   ]
+  },
+  {
+   "indicator":"Surveillance Capacity (IHR SPAR)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":60.0
+    },
+    {
+     "year":2019,
+     "value":40.0
+    },
+    {
+     "year":2020,
+     "value":80.0
+    }
+   ]
+  },
+  {
    "indicator":"Tax revenue (Percent of GDP)",
    "yearlyData":[
     {
@@ -22534,6 +24033,15 @@
    ]
   },
   {
+   "indicator":"Total workforce in mental health sector (per 100,000) ",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":1.52
+    }
+   ]
+  },
+  {
    "indicator":"Trade (% of GDP)",
    "yearlyData":[
     {
@@ -22699,6 +24207,15 @@
     {
      "year":2020,
      "value":51.13
+    }
+   ]
+  },
+  {
+   "indicator":"Transgender people - population size estimate",
+   "yearlyData":[
+    {
+     "year":2021,
+     "value":179300.0
     }
    ]
   },
