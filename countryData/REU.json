@@ -12,6 +12,40 @@
  "UNDP_Region":"",
  "indicators":[
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-4.15
+    },
+    {
+     "year":2040,
+     "value":-6.63
+    },
+    {
+     "year":2090,
+     "value":-4.83
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-5.26
+    },
+    {
+     "year":2040,
+     "value":-9.81
+    },
+    {
+     "year":2090,
+     "value":-12.68
+    }
+   ]
+  },
+  {
    "indicator":"Electricity generation from coal, measured in terawatt-hours",
    "yearlyData":[
     {

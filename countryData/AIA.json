@@ -25,6 +25,40 @@
    ]
   },
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":0.76
+    },
+    {
+     "year":2040,
+     "value":0.65
+    },
+    {
+     "year":2090,
+     "value":2.01
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.29
+    },
+    {
+     "year":2040,
+     "value":-0.35
+    },
+    {
+     "year":2090,
+     "value":5.02
+    }
+   ]
+  },
+  {
    "indicator":"Coverage of protected areas in relation to marine areas",
    "yearlyData":[
     {

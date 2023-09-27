@@ -11,6 +11,39 @@
  "Income group":"",
  "UNDP_Region":"",
  "indicators":[
-
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-17.85
+    },
+    {
+     "year":2040,
+     "value":-44.05
+    },
+    {
+     "year":2090,
+     "value":-87.98
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-18.47
+    },
+    {
+     "year":2040,
+     "value":-52.35
+    },
+    {
+     "year":2090,
+     "value":-134.92
+    }
+   ]
+  }
  ]
 }

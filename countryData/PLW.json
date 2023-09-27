@@ -904,6 +904,40 @@
    ]
   },
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":1.67
+    },
+    {
+     "year":2040,
+     "value":3.55
+    },
+    {
+     "year":2090,
+     "value":7.01
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":1.33
+    },
+    {
+     "year":2040,
+     "value":3.65
+    },
+    {
+     "year":2090,
+     "value":22.57
+    }
+   ]
+  },
+  {
    "indicator":"Condoms distributed to prisoners",
    "yearlyData":[
     {
@@ -8387,15 +8421,15 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":87.0
+     "value":67.0
     },
     {
      "year":2019,
-     "value":87.0
+     "value":60.0
     },
     {
      "year":2020,
-     "value":93.0
+     "value":67.0
     }
    ]
   },

@@ -191,6 +191,40 @@
    ]
   },
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-3.35
+    },
+    {
+     "year":2040,
+     "value":-5.18
+    },
+    {
+     "year":2090,
+     "value":-5.83
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-2.58
+    },
+    {
+     "year":2040,
+     "value":-6.94
+    },
+    {
+     "year":2090,
+     "value":-12.29
+    }
+   ]
+  },
+  {
    "indicator":"Electricity generation from coal, measured in terawatt-hours",
    "yearlyData":[
     {

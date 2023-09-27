@@ -1594,6 +1594,40 @@
    ]
   },
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.49
+    },
+    {
+     "year":2040,
+     "value":2.22
+    },
+    {
+     "year":2090,
+     "value":5.75
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.11
+    },
+    {
+     "year":2040,
+     "value":3.58
+    },
+    {
+     "year":2090,
+     "value":13.15
+    }
+   ]
+  },
+  {
    "indicator":"Climate Risks Index Score",
    "yearlyData":[
     {
@@ -3937,6 +3971,32 @@
     {
      "year":2021,
      "value":1.54
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, female (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.02
+    },
+    {
+     "year":2022,
+     "value":0.05
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, male (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.07
+    },
+    {
+     "year":2022,
+     "value":0.14
     }
    ]
   },
@@ -15834,15 +15894,15 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":60.0
+     "value":47.0
     },
     {
      "year":2019,
-     "value":60.0
+     "value":47.0
     },
     {
      "year":2020,
-     "value":60.0
+     "value":47.0
     }
    ]
   },

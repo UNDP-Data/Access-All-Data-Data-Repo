@@ -12,6 +12,40 @@
  "UNDP_Region":"",
  "indicators":[
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-8.29
+    },
+    {
+     "year":2040,
+     "value":-18.96
+    },
+    {
+     "year":2090,
+     "value":-29.96
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-7.97
+    },
+    {
+     "year":2040,
+     "value":-21.31
+    },
+    {
+     "year":2090,
+     "value":-48.02
+    }
+   ]
+  },
+  {
    "indicator":"Coverage of protected areas in relation to marine areas",
    "yearlyData":[
     {

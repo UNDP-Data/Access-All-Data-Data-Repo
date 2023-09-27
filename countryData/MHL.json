@@ -897,6 +897,40 @@
    ]
   },
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":1.68
+    },
+    {
+     "year":2040,
+     "value":1.89
+    },
+    {
+     "year":2090,
+     "value":-0.47
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":1.8
+    },
+    {
+     "year":2040,
+     "value":1.88
+    },
+    {
+     "year":2090,
+     "value":3.57
+    }
+   ]
+  },
+  {
    "indicator":"Climate Risks Index Score",
    "yearlyData":[
     {
@@ -9312,11 +9346,11 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":80.0
+     "value":40.0
     },
     {
      "year":2020,
-     "value":73.0
+     "value":47.0
     }
    ]
   },

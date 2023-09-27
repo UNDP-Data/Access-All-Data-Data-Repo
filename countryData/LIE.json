@@ -707,6 +707,40 @@
    ]
   },
   {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-18.59
+    },
+    {
+     "year":2040,
+     "value":-43.89
+    },
+    {
+     "year":2090,
+     "value":-85.84
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-18.25
+    },
+    {
+     "year":2040,
+     "value":-53.08
+    },
+    {
+     "year":2090,
+     "value":-139.64
+    }
+   ]
+  },
+  {
    "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
    "yearlyData":[
     {
@@ -4134,11 +4168,11 @@
    "yearlyData":[
     {
      "year":2019,
-     "value":40.0
+     "value":73.0
     },
     {
      "year":2020,
-     "value":40.0
+     "value":73.0
     }
    ]
   },

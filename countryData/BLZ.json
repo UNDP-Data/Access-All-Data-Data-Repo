@@ -160,7 +160,7 @@
     },
     {
      "year":2020,
-     "value":120683619.400000006
+     "value":120683619.4200000018
     },
     {
      "year":2021,
@@ -168,7 +168,7 @@
     },
     {
      "year":2022,
-     "value":142416852.6999999881
+     "value":142416852.7199999988
     }
    ]
   },
@@ -1060,6 +1060,40 @@
     {
      "year":2020,
      "value":3.0
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.16
+    },
+    {
+     "year":2040,
+     "value":0.8
+    },
+    {
+     "year":2090,
+     "value":3.08
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-0.39
+    },
+    {
+     "year":2040,
+     "value":0.91
+    },
+    {
+     "year":2090,
+     "value":15.4
     }
    ]
   },
@@ -3477,6 +3511,24 @@
     {
      "year":2021,
      "value":6.73
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, female (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.32
+    }
+   ]
+  },
+  {
+   "indicator":"Made or received a digital payment, male (% age 15+)",
+   "yearlyData":[
+    {
+     "year":2014,
+     "value":0.25
     }
    ]
   },
@@ -14703,11 +14755,11 @@
    "yearlyData":[
     {
      "year":2018,
-     "value":67.0
+     "value":47.0
     },
     {
      "year":2020,
-     "value":80.0
+     "value":47.0
     }
    ]
   },
@@ -15336,7 +15388,7 @@
     },
     {
      "year":2020,
-     "value":120683619.400000006
+     "value":120683619.4200000018
     },
     {
      "year":2021,
@@ -15344,7 +15396,7 @@
     },
     {
      "year":2022,
-     "value":142416852.6999999881
+     "value":142416852.7199999988
     }
    ]
   },
