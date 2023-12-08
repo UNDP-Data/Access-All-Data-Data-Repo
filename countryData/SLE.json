@@ -645,7 +645,7 @@
    ]
   },
   {
-   "indicator":"Adequacy of social safety net programs",
+   "indicator":"Adequacy of social safety net programs (percentage of total welfare of beneficiary households)",
    "yearlyData":[
     {
      "year":2018,
@@ -4294,7 +4294,15 @@
     },
     {
      "year":2019,
-     "value":0.14
+     "value":0.1
+    },
+    {
+     "year":2020,
+     "value":0.17
+    },
+    {
+     "year":2021,
+     "value":0.08
     }
    ]
   },
@@ -4311,7 +4319,15 @@
     },
     {
      "year":2019,
-     "value":0.01
+     "value":0.0
+    },
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.03
     }
    ]
   },
@@ -6303,7 +6319,15 @@
     },
     {
      "year":2019,
-     "value":4.11
+     "value":3.76
+    },
+    {
+     "year":2020,
+     "value":5.19
+    },
+    {
+     "year":2021,
+     "value":3.48
     }
    ]
   },
@@ -6414,7 +6438,15 @@
     },
     {
      "year":2019,
-     "value":8.16
+     "value":8.31
+    },
+    {
+     "year":2020,
+     "value":10.41
+    },
+    {
+     "year":2021,
+     "value":8.35
     }
    ]
   },
@@ -13306,7 +13338,7 @@
    ]
   },
   {
-   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "indicator":"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
    "yearlyData":[
     {
      "year":2006,

@@ -801,7 +801,7 @@
    ]
   },
   {
-   "indicator":"Adequacy of social safety net programs",
+   "indicator":"Adequacy of social safety net programs (percentage of total welfare of beneficiary households)",
    "yearlyData":[
     {
      "year":2008,
@@ -2777,7 +2777,7 @@
     },
     {
      "year":2023,
-     "value":1238884.0
+     "value":1230653.0
     }
    ]
   },
@@ -2798,7 +2798,7 @@
     },
     {
      "year":2023,
-     "value":9428.0
+     "value":9368.0
     }
    ]
   },
@@ -4700,6 +4700,32 @@
     {
      "year":2021,
      "value":0.66
+    }
+   ]
+  },
+  {
+   "indicator":"Domestic General Government Expenditure on HIV\/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":0.02
+    },
+    {
+     "year":2020,
+     "value":0.02
+    }
+   ]
+  },
+  {
+   "indicator":"Domestic Private Expenditure on HIV\/AIDS and Sexually Transmitted Diseases (STDs), as % of gross domestic product (GDP)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":0.0
+    },
+    {
+     "year":2020,
+     "value":0.0
     }
    ]
   },
@@ -7881,6 +7907,19 @@
    ]
   },
   {
+   "indicator":"Expenditure on HIV\/AIDS and Sexually Transmitted Diseases (STDs) as % of Current Health Expenditure (CHE)",
+   "yearlyData":[
+    {
+     "year":2019,
+     "value":0.22
+    },
+    {
+     "year":2020,
+     "value":0.26
+    }
+   ]
+  },
+  {
    "indicator":"Expenditure on tertiary education (% of government expenditure on education)",
    "yearlyData":[
     {
@@ -8022,6 +8061,15 @@
     {
      "year":2022,
      "value":4.8
+    }
+   ]
+  },
+  {
+   "indicator":"External sources of funding on HIV\/AIDS and Sexually Transmitted Diseases (STDs) as % of External Health Expenditure (EXT)",
+   "yearlyData":[
+    {
+     "year":2020,
+     "value":0.0
     }
    ]
   },
@@ -16728,7 +16776,7 @@
    ]
   },
   {
-   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "indicator":"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
    "yearlyData":[
     {
      "year":2005,

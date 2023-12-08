@@ -4082,11 +4082,15 @@
     },
     {
      "year":2018,
-     "value":0.05
+     "value":0.04
     },
     {
      "year":2019,
      "value":0.05
+    },
+    {
+     "year":2020,
+     "value":0.01
     }
    ]
   },
@@ -4107,6 +4111,10 @@
     },
     {
      "year":2019,
+     "value":0.0
+    },
+    {
+     "year":2020,
      "value":0.0
     }
    ]
@@ -6091,7 +6099,7 @@
    "yearlyData":[
     {
      "year":2016,
-     "value":15.6
+     "value":15.81
     },
     {
      "year":2017,
@@ -6099,11 +6107,15 @@
     },
     {
      "year":2018,
-     "value":5.7
+     "value":5.75
     },
     {
      "year":2019,
      "value":4.48
+    },
+    {
+     "year":2020,
+     "value":9.66
     }
    ]
   },
@@ -6242,6 +6254,10 @@
     {
      "year":2019,
      "value":11.92
+    },
+    {
+     "year":2020,
+     "value":16.79
     }
    ]
   },
@@ -13277,7 +13293,7 @@
    ]
   },
   {
-   "indicator":"Number of deaths and missing persons attributed to disasters per 100,000 population (number)",
+   "indicator":"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
    "yearlyData":[
     {
      "year":2015,
