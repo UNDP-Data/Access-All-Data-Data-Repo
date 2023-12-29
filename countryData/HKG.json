@@ -1680,91 +1680,91 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":20.1
+     "value":17.44
     },
     {
      "year":2001,
-     "value":20.81
+     "value":18.71
     },
     {
      "year":2002,
-     "value":21.93
+     "value":20.96
     },
     {
      "year":2003,
-     "value":19.28
+     "value":26.16
     },
     {
      "year":2004,
-     "value":24.39
+     "value":23.97
     },
     {
      "year":2005,
-     "value":20.08
+     "value":26.4
     },
     {
      "year":2006,
-     "value":18.81
+     "value":23.0
     },
     {
      "year":2007,
-     "value":18.5
+     "value":29.12
     },
     {
      "year":2008,
-     "value":18.08
+     "value":28.35
     },
     {
      "year":2009,
-     "value":18.4
+     "value":28.7
     },
     {
      "year":2010,
-     "value":18.24
+     "value":25.59
     },
     {
      "year":2011,
-     "value":18.59
+     "value":29.09
     },
     {
      "year":2012,
-     "value":18.46
+     "value":28.91
     },
     {
      "year":2013,
-     "value":18.6
+     "value":29.47
     },
     {
      "year":2014,
-     "value":18.96
+     "value":28.55
     },
     {
      "year":2015,
-     "value":18.08
+     "value":24.27
     },
     {
      "year":2016,
-     "value":21.41
+     "value":22.93
     },
     {
      "year":2017,
-     "value":20.49
+     "value":21.59
     },
     {
      "year":2018,
-     "value":19.84
+     "value":21.66
     },
     {
      "year":2019,
-     "value":19.78
+     "value":21.31
     },
     {
      "year":2020,
-     "value":18.42
+     "value":11.43
     },
     {
      "year":2021,
-     "value":19.16
+     "value":12.86
     }
    ]
   },
@@ -5080,6 +5080,10 @@
     {
      "year":2021,
      "value":4.0
+    },
+    {
+     "year":2022,
+     "value":3.73
     }
    ]
   },
@@ -8283,10 +8287,7 @@
    ]
   },
   {
-   "indicator":{
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
-   },
+   "indicator":"Medical Waste (tons per year)",
    "yearlyData":[
     {
      "year":2015,

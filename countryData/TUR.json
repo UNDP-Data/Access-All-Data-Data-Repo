@@ -3139,11 +3139,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":2194272.0
+     "value":2133373.0
     },
     {
      "year":2021,
-     "value":9441764.0
+     "value":9286986.0
     },
     {
      "year":2022,
@@ -3160,11 +3160,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":20642.0
+     "value":19624.0
     },
     {
      "year":2021,
-     "value":82104.0
+     "value":81303.0
     },
     {
      "year":2022,
@@ -3434,11 +3434,15 @@
     },
     {
      "year":2019,
-     "value":4.36
+     "value":4.37
     },
     {
      "year":2020,
      "value":4.62
+    },
+    {
+     "year":2021,
+     "value":4.57
     }
    ]
   },
@@ -9946,7 +9950,7 @@
     },
     {
      "year":2018,
-     "value":9.23
+     "value":9.22
     },
     {
      "year":2019,
@@ -9954,7 +9958,11 @@
     },
     {
      "year":2020,
-     "value":10.72
+     "value":10.71
+    },
+    {
+     "year":2021,
+     "value":11.53
     }
    ]
   },
@@ -10602,6 +10610,14 @@
      "value":2.73
     },
     {
+     "year":2008,
+     "value":3.32
+    },
+    {
+     "year":2009,
+     "value":3.77
+    },
+    {
      "year":2010,
      "value":3.79
     },
@@ -10635,7 +10651,7 @@
     },
     {
      "year":2018,
-     "value":4.29
+     "value":4.3
     },
     {
      "year":2019,
@@ -10643,7 +10659,11 @@
     },
     {
      "year":2020,
-     "value":3.36
+     "value":4.01
+    },
+    {
+     "year":2021,
+     "value":2.85
     }
    ]
   },
@@ -20003,10 +20023,132 @@
    ]
   },
   {
-   "indicator":{
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, female (estimate), (rate)",
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, male (estimate), (rate)"
-   },
+   "indicator":"Prevalence of neurological disorders, female (estimate), (rate)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":26632.36
+    },
+    {
+     "year":1991,
+     "value":26766.42
+    },
+    {
+     "year":1992,
+     "value":26866.1
+    },
+    {
+     "year":1993,
+     "value":26939.36
+    },
+    {
+     "year":1994,
+     "value":26999.55
+    },
+    {
+     "year":1995,
+     "value":27057.7
+    },
+    {
+     "year":1996,
+     "value":26964.58
+    },
+    {
+     "year":1997,
+     "value":26664.38
+    },
+    {
+     "year":1998,
+     "value":26262.25
+    },
+    {
+     "year":1999,
+     "value":25906.35
+    },
+    {
+     "year":2000,
+     "value":25738.45
+    },
+    {
+     "year":2001,
+     "value":25754.8
+    },
+    {
+     "year":2002,
+     "value":25855.04
+    },
+    {
+     "year":2003,
+     "value":26005.34
+    },
+    {
+     "year":2004,
+     "value":26185.7
+    },
+    {
+     "year":2005,
+     "value":26361.98
+    },
+    {
+     "year":2006,
+     "value":26500.84
+    },
+    {
+     "year":2007,
+     "value":26663.03
+    },
+    {
+     "year":2008,
+     "value":26825.72
+    },
+    {
+     "year":2009,
+     "value":26987.23
+    },
+    {
+     "year":2010,
+     "value":27141.15
+    },
+    {
+     "year":2011,
+     "value":27325.77
+    },
+    {
+     "year":2012,
+     "value":27529.76
+    },
+    {
+     "year":2013,
+     "value":27743.67
+    },
+    {
+     "year":2014,
+     "value":27927.68
+    },
+    {
+     "year":2015,
+     "value":28083.67
+    },
+    {
+     "year":2016,
+     "value":28082.57
+    },
+    {
+     "year":2017,
+     "value":28116.09
+    },
+    {
+     "year":2018,
+     "value":28986.91
+    },
+    {
+     "year":2019,
+     "value":30696.06
+    }
+   ]
+  },
+  {
+   "indicator":"Prevalence of neurological disorders, male (estimate), (rate)",
    "yearlyData":[
     {
      "year":1990,
@@ -25927,11 +26069,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":0.94
+     "value":0.92
     },
     {
      "year":2021,
-     "value":0.87
+     "value":0.88
     },
     {
      "year":2022,

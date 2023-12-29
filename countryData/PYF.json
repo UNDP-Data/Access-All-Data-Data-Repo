@@ -674,15 +674,15 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":16851.0
+     "value":16550.0
     },
     {
      "year":2021,
-     "value":46425.0
+     "value":46382.0
     },
     {
      "year":2022,
-     "value":77957.0
+     "value":77910.0
     },
     {
      "year":2023,
@@ -695,7 +695,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":114.0
+     "value":108.0
     },
     {
      "year":2021,
@@ -2240,10 +2240,7 @@
    ]
   },
   {
-   "indicator":{
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
-   },
+   "indicator":"Medical Waste (tons per year)",
    "yearlyData":[
     {
      "year":2014,
@@ -3090,7 +3087,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":0.68
+     "value":0.65
     },
     {
      "year":2021,

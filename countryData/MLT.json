@@ -2405,7 +2405,7 @@
     },
     {
      "year":2023,
-     "value":120705.0
+     "value":120807.0
     }
    ]
   },
@@ -2426,7 +2426,7 @@
     },
     {
      "year":2023,
-     "value":885.0
+     "value":886.0
     }
    ]
   },
@@ -2684,15 +2684,19 @@
     },
     {
      "year":2018,
-     "value":8.57
+     "value":8.55
     },
     {
      "year":2019,
-     "value":9.24
+     "value":9.15
     },
     {
      "year":2020,
-     "value":10.84
+     "value":10.74
+    },
+    {
+     "year":2021,
+     "value":10.58
     }
    ]
   },
@@ -8847,15 +8851,19 @@
     },
     {
      "year":2018,
-     "value":15.18
+     "value":15.01
     },
     {
      "year":2019,
-     "value":16.02
+     "value":15.91
     },
     {
      "year":2020,
-     "value":15.6
+     "value":15.63
+    },
+    {
+     "year":2021,
+     "value":16.23
     }
    ]
   },
@@ -9350,15 +9358,35 @@
     },
     {
      "year":1998,
-     "value":4.18
+     "value":4.24
+    },
+    {
+     "year":2000,
+     "value":5.15
+    },
+    {
+     "year":2001,
+     "value":5.65
     },
     {
      "year":2002,
-     "value":4.14
+     "value":3.95
+    },
+    {
+     "year":2003,
+     "value":5.85
     },
     {
      "year":2004,
-     "value":4.43
+     "value":4.42
+    },
+    {
+     "year":2005,
+     "value":5.39
+    },
+    {
+     "year":2006,
+     "value":5.45
     },
     {
      "year":2007,
@@ -9398,23 +9426,27 @@
     },
     {
      "year":2016,
-     "value":5.08
+     "value":5.11
     },
     {
      "year":2017,
-     "value":4.65
+     "value":4.56
     },
     {
      "year":2018,
-     "value":5.14
+     "value":4.96
     },
     {
      "year":2019,
-     "value":4.99
+     "value":4.94
     },
     {
      "year":2020,
-     "value":5.87
+     "value":5.77
+    },
+    {
+     "year":2021,
+     "value":5.63
     }
    ]
   },
@@ -14810,10 +14842,7 @@
    ]
   },
   {
-   "indicator":{
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
-   },
+   "indicator":"Medical Waste (tons per year)",
    "yearlyData":[
     {
      "year":2014,
@@ -18431,10 +18460,132 @@
    ]
   },
   {
-   "indicator":{
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, female (estimate), (rate)",
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, male (estimate), (rate)"
-   },
+   "indicator":"Prevalence of neurological disorders, female (estimate), (rate)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":38040.44
+    },
+    {
+     "year":1991,
+     "value":38086.59
+    },
+    {
+     "year":1992,
+     "value":38149.7
+    },
+    {
+     "year":1993,
+     "value":38230.8
+    },
+    {
+     "year":1994,
+     "value":38334.49
+    },
+    {
+     "year":1995,
+     "value":38440.59
+    },
+    {
+     "year":1996,
+     "value":38541.7
+    },
+    {
+     "year":1997,
+     "value":38648.72
+    },
+    {
+     "year":1998,
+     "value":38769.16
+    },
+    {
+     "year":1999,
+     "value":38891.86
+    },
+    {
+     "year":2000,
+     "value":39036.24
+    },
+    {
+     "year":2001,
+     "value":39191.87
+    },
+    {
+     "year":2002,
+     "value":39355.72
+    },
+    {
+     "year":2003,
+     "value":39507.93
+    },
+    {
+     "year":2004,
+     "value":39625.49
+    },
+    {
+     "year":2005,
+     "value":39740.13
+    },
+    {
+     "year":2006,
+     "value":39841.02
+    },
+    {
+     "year":2007,
+     "value":39937.57
+    },
+    {
+     "year":2008,
+     "value":40001.05
+    },
+    {
+     "year":2009,
+     "value":40023.09
+    },
+    {
+     "year":2010,
+     "value":40026.42
+    },
+    {
+     "year":2011,
+     "value":40006.93
+    },
+    {
+     "year":2012,
+     "value":39988.36
+    },
+    {
+     "year":2013,
+     "value":39957.23
+    },
+    {
+     "year":2014,
+     "value":39911.43
+    },
+    {
+     "year":2015,
+     "value":39850.38
+    },
+    {
+     "year":2016,
+     "value":39794.62
+    },
+    {
+     "year":2017,
+     "value":39738.43
+    },
+    {
+     "year":2018,
+     "value":39684.67
+    },
+    {
+     "year":2019,
+     "value":39628.73
+    }
+   ]
+  },
+  {
+   "indicator":"Prevalence of neurological disorders, male (estimate), (rate)",
    "yearlyData":[
     {
      "year":1990,
@@ -23480,7 +23631,7 @@
     },
     {
      "year":2022,
-     "value":0.26
+     "value":0.33
     }
    ]
   },

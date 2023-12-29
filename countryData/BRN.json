@@ -1001,15 +1001,15 @@
     },
     {
      "year":2019,
-     "value":2.3
+     "value":0.0
     },
     {
      "year":2020,
-     "value":2.18
+     "value":0.0
     },
     {
      "year":2021,
-     "value":2.32
+     "value":0.0
     }
    ]
   },
@@ -1469,19 +1469,19 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":157.0
+     "value":152.0
     },
     {
      "year":2021,
-     "value":15474.0
+     "value":15447.0
     },
     {
      "year":2022,
-     "value":270199.0
+     "value":268615.0
     },
     {
      "year":2023,
-     "value":314610.0
+     "value":326275.0
     }
    ]
   },
@@ -1502,7 +1502,7 @@
     },
     {
      "year":2023,
-     "value":163.0
+     "value":170.0
     }
    ]
   },
@@ -1608,27 +1608,27 @@
     },
     {
      "year":2002,
-     "value":2.54
+     "value":2.53
     },
     {
      "year":2003,
-     "value":2.61
+     "value":2.6
     },
     {
      "year":2004,
-     "value":2.56
+     "value":2.55
     },
     {
      "year":2005,
-     "value":2.24
+     "value":2.23
     },
     {
      "year":2006,
-     "value":1.92
+     "value":1.91
     },
     {
      "year":2007,
-     "value":1.96
+     "value":1.94
     },
     {
      "year":2008,
@@ -1681,6 +1681,10 @@
     {
      "year":2020,
      "value":2.39
+    },
+    {
+     "year":2021,
+     "value":2.2
     }
    ]
   },
@@ -6841,6 +6845,10 @@
     {
      "year":2020,
      "value":6.78
+    },
+    {
+     "year":2021,
+     "value":7.06
     }
    ]
   },
@@ -11657,10 +11665,7 @@
    ]
   },
   {
-   "indicator":{
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
-   },
+   "indicator":"Medical Waste (tons per year)",
    "yearlyData":[
     {
      "year":2001,
@@ -14501,10 +14506,132 @@
    ]
   },
   {
-   "indicator":{
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, female (estimate), (rate)",
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, male (estimate), (rate)"
-   },
+   "indicator":"Prevalence of neurological disorders, female (estimate), (rate)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":29707.03
+    },
+    {
+     "year":1991,
+     "value":29820.72
+    },
+    {
+     "year":1992,
+     "value":29919.77
+    },
+    {
+     "year":1993,
+     "value":30019.58
+    },
+    {
+     "year":1994,
+     "value":30109.34
+    },
+    {
+     "year":1995,
+     "value":30210.98
+    },
+    {
+     "year":1996,
+     "value":30305.21
+    },
+    {
+     "year":1997,
+     "value":30388.88
+    },
+    {
+     "year":1998,
+     "value":30481.42
+    },
+    {
+     "year":1999,
+     "value":30578.84
+    },
+    {
+     "year":2000,
+     "value":30672.19
+    },
+    {
+     "year":2001,
+     "value":30765.37
+    },
+    {
+     "year":2002,
+     "value":30869.24
+    },
+    {
+     "year":2003,
+     "value":30985.83
+    },
+    {
+     "year":2004,
+     "value":31116.78
+    },
+    {
+     "year":2005,
+     "value":31263.74
+    },
+    {
+     "year":2006,
+     "value":31421.95
+    },
+    {
+     "year":2007,
+     "value":31595.64
+    },
+    {
+     "year":2008,
+     "value":31776.05
+    },
+    {
+     "year":2009,
+     "value":31947.47
+    },
+    {
+     "year":2010,
+     "value":32120.78
+    },
+    {
+     "year":2011,
+     "value":32279.17
+    },
+    {
+     "year":2012,
+     "value":32417.88
+    },
+    {
+     "year":2013,
+     "value":32543.59
+    },
+    {
+     "year":2014,
+     "value":32642.71
+    },
+    {
+     "year":2015,
+     "value":32731.24
+    },
+    {
+     "year":2016,
+     "value":32806.35
+    },
+    {
+     "year":2017,
+     "value":32874.87
+    },
+    {
+     "year":2018,
+     "value":32936.25
+    },
+    {
+     "year":2019,
+     "value":32991.02
+    }
+   ]
+  },
+  {
+   "indicator":"Prevalence of neurological disorders, male (estimate), (rate)",
    "yearlyData":[
     {
      "year":1990,
@@ -17885,7 +18012,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":1.91
+     "value":1.97
     },
     {
      "year":2021,
@@ -17893,7 +18020,7 @@
     },
     {
      "year":2022,
-     "value":0.05
+     "value":0.06
     },
     {
      "year":2023,

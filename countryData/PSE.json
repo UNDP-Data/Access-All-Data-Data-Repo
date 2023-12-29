@@ -1845,11 +1845,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":154097.0
+     "value":148540.0
     },
     {
      "year":2021,
-     "value":470303.0
+     "value":468443.0
     },
     {
      "year":2022,
@@ -1866,11 +1866,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":1500.0
+     "value":1406.0
     },
     {
      "year":2021,
-     "value":4931.0
+     "value":4900.0
     },
     {
      "year":2022,
@@ -5681,6 +5681,10 @@
     {
      "year":2018,
      "value":5.32
+    },
+    {
+     "year":2021,
+     "value":5.43
     }
    ]
   },
@@ -8467,10 +8471,7 @@
    ]
   },
   {
-   "indicator":{
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
-   },
+   "indicator":"Medical Waste (tons per year)",
    "yearlyData":[
     {
      "year":2014,
@@ -11050,10 +11051,132 @@
    ]
   },
   {
-   "indicator":{
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, female (estimate), (rate)",
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, male (estimate), (rate)"
-   },
+   "indicator":"Prevalence of neurological disorders, female (estimate), (rate)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":25115.3
+    },
+    {
+     "year":1991,
+     "value":25148.38
+    },
+    {
+     "year":1992,
+     "value":25192.26
+    },
+    {
+     "year":1993,
+     "value":25236.26
+    },
+    {
+     "year":1994,
+     "value":25290.81
+    },
+    {
+     "year":1995,
+     "value":25358.11
+    },
+    {
+     "year":1996,
+     "value":25444.67
+    },
+    {
+     "year":1997,
+     "value":25551.44
+    },
+    {
+     "year":1998,
+     "value":25672.43
+    },
+    {
+     "year":1999,
+     "value":25805.28
+    },
+    {
+     "year":2000,
+     "value":25955.22
+    },
+    {
+     "year":2001,
+     "value":26103.78
+    },
+    {
+     "year":2002,
+     "value":26266.08
+    },
+    {
+     "year":2003,
+     "value":26419.33
+    },
+    {
+     "year":2004,
+     "value":26576.05
+    },
+    {
+     "year":2005,
+     "value":26728.36
+    },
+    {
+     "year":2006,
+     "value":26863.86
+    },
+    {
+     "year":2007,
+     "value":26990.67
+    },
+    {
+     "year":2008,
+     "value":27108.25
+    },
+    {
+     "year":2009,
+     "value":27207.36
+    },
+    {
+     "year":2010,
+     "value":27308.86
+    },
+    {
+     "year":2011,
+     "value":27417.91
+    },
+    {
+     "year":2012,
+     "value":27534.98
+    },
+    {
+     "year":2013,
+     "value":27658.83
+    },
+    {
+     "year":2014,
+     "value":27801.38
+    },
+    {
+     "year":2015,
+     "value":27958.94
+    },
+    {
+     "year":2016,
+     "value":28136.39
+    },
+    {
+     "year":2017,
+     "value":28331.78
+    },
+    {
+     "year":2018,
+     "value":28537.15
+    },
+    {
+     "year":2019,
+     "value":28747.27
+    }
+   ]
+  },
+  {
+   "indicator":"Prevalence of neurological disorders, male (estimate), (rate)",
    "yearlyData":[
     {
      "year":1990,
@@ -13281,7 +13404,7 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":0.97
+     "value":0.95
     },
     {
      "year":2021,

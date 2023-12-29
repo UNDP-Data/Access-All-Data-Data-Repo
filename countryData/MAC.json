@@ -2503,7 +2503,11 @@
     },
     {
      "year":2020,
-     "value":6.3
+     "value":6.36
+    },
+    {
+     "year":2021,
+     "value":5.25
     }
    ]
   },
@@ -3358,10 +3362,7 @@
    ]
   },
   {
-   "indicator":{
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
-   },
+   "indicator":"Medical Waste (tons per year)",
    "yearlyData":[
     {
      "year":2009,

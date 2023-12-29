@@ -2374,7 +2374,7 @@
     },
     {
      "year":2022,
-     "value":21.19
+     "value":21.72
     }
    ]
   },
@@ -2628,19 +2628,19 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":2083689.0
+     "value":2039182.0
     },
     {
      "year":2021,
-     "value":5981428.0
+     "value":5622431.0
     },
     {
      "year":2022,
-     "value":25168438.0
+     "value":25060503.0
     },
     {
      "year":2023,
-     "value":26318717.0
+     "value":26495903.0
     }
    ]
   },
@@ -2649,19 +2649,19 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":73604.0
+     "value":71627.0
     },
     {
      "year":2021,
-     "value":137247.0
+     "value":136530.0
     },
     {
      "year":2022,
-     "value":184792.0
+     "value":184168.0
     },
     {
      "year":2023,
-     "value":192909.0
+     "value":193743.0
     }
    ]
   },
@@ -2928,6 +2928,10 @@
     {
      "year":2020,
      "value":9.63
+    },
+    {
+     "year":2021,
+     "value":9.38
     }
    ]
   },
@@ -9488,7 +9492,11 @@
     },
     {
      "year":2020,
-     "value":12.86
+     "value":12.87
+    },
+    {
+     "year":2021,
+     "value":12.36
     }
    ]
   },
@@ -10273,7 +10281,11 @@
     },
     {
      "year":2020,
-     "value":4.27
+     "value":4.44
+    },
+    {
+     "year":2021,
+     "value":4.13
     }
    ]
   },
@@ -15843,10 +15855,7 @@
    ]
   },
   {
-   "indicator":{
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)",
-    "medicalwastetonsperyear_medwaste":"Medical Waste (tons per year)"
-   },
+   "indicator":"Medical Waste (tons per year)",
    "yearlyData":[
     {
      "year":2014,
@@ -19843,10 +19852,132 @@
    ]
   },
   {
-   "indicator":{
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, female (estimate), (rate)",
-    "prevalenceofneurologicaldisordersfemale_pdnfihme":"Prevalence of neurological disorders, male (estimate), (rate)"
-   },
+   "indicator":"Prevalence of neurological disorders, female (estimate), (rate)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":41806.01
+    },
+    {
+     "year":1991,
+     "value":41674.5
+    },
+    {
+     "year":1992,
+     "value":41575.81
+    },
+    {
+     "year":1993,
+     "value":41520.41
+    },
+    {
+     "year":1994,
+     "value":41517.57
+    },
+    {
+     "year":1995,
+     "value":41560.79
+    },
+    {
+     "year":1996,
+     "value":41775.01
+    },
+    {
+     "year":1997,
+     "value":42210.9
+    },
+    {
+     "year":1998,
+     "value":42723.45
+    },
+    {
+     "year":1999,
+     "value":43162.14
+    },
+    {
+     "year":2000,
+     "value":43390.37
+    },
+    {
+     "year":2001,
+     "value":43429.98
+    },
+    {
+     "year":2002,
+     "value":43407.65
+    },
+    {
+     "year":2003,
+     "value":43350.39
+    },
+    {
+     "year":2004,
+     "value":43279.88
+    },
+    {
+     "year":2005,
+     "value":43225.66
+    },
+    {
+     "year":2006,
+     "value":43181.03
+    },
+    {
+     "year":2007,
+     "value":43115.74
+    },
+    {
+     "year":2008,
+     "value":43047.5
+    },
+    {
+     "year":2009,
+     "value":42984.08
+    },
+    {
+     "year":2010,
+     "value":42931.06
+    },
+    {
+     "year":2011,
+     "value":43106.85
+    },
+    {
+     "year":2012,
+     "value":43560.78
+    },
+    {
+     "year":2013,
+     "value":44122.05
+    },
+    {
+     "year":2014,
+     "value":44614.91
+    },
+    {
+     "year":2015,
+     "value":44842.8
+    },
+    {
+     "year":2016,
+     "value":44881.87
+    },
+    {
+     "year":2017,
+     "value":44925.19
+    },
+    {
+     "year":2018,
+     "value":45010.21
+    },
+    {
+     "year":2019,
+     "value":45148.8
+    }
+   ]
+  },
+  {
+   "indicator":"Prevalence of neurological disorders, male (estimate), (rate)",
    "yearlyData":[
     {
      "year":1990,
@@ -25563,11 +25694,11 @@
    "yearlyData":[
     {
      "year":2020,
-     "value":3.53
+     "value":3.51
     },
     {
      "year":2021,
-     "value":2.29
+     "value":2.43
     },
     {
      "year":2022,
