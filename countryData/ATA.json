@@ -1,148 +1,20 @@
 {
  "Alpha-3 code":"ATA",
+ "data":[
+
+ ],
  "Country or Area":"Antarctica",
+ "Alpha-2 code":"AQ",
+ "Numeric code":10,
  "Latitude (average)":-90.0,
  "Longitude (average)":0.0,
  "Group 1":"",
  "Group 2":"",
+ "Group 3":"",
  "LDC":false,
  "LLDC":false,
  "SIDS":false,
+ "Development classification":"",
  "Income group":"",
- "UNDP_Region":"",
- "indicators":[
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
-   "yearlyData":[
-    {
-     "year":2030,
-     "value":-73.43
-    },
-    {
-     "year":2040,
-     "value":-136.43
-    },
-    {
-     "year":2090,
-     "value":-236.38
-    }
-   ]
-  },
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
-   "yearlyData":[
-    {
-     "year":2030,
-     "value":-96.99
-    },
-    {
-     "year":2040,
-     "value":-228.04
-    },
-    {
-     "year":2090,
-     "value":-563.14
-    }
-   ]
-  },
-  {
-   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
-   "yearlyData":[
-    {
-     "year":1988,
-     "value":4.6
-    },
-    {
-     "year":1990,
-     "value":2.9
-    },
-    {
-     "year":1993,
-     "value":7.4
-    },
-    {
-     "year":1996,
-     "value":2.6
-    },
-    {
-     "year":1999,
-     "value":2.3
-    },
-    {
-     "year":2002,
-     "value":2.1
-    },
-    {
-     "year":2004,
-     "value":1.2
-    }
-   ]
-  },
-  {
-   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
-   "yearlyData":[
-    {
-     "year":1988,
-     "value":17.0
-    },
-    {
-     "year":1990,
-     "value":16.6
-    },
-    {
-     "year":1993,
-     "value":26.2
-    },
-    {
-     "year":1996,
-     "value":11.4
-    },
-    {
-     "year":1999,
-     "value":8.5
-    },
-    {
-     "year":2002,
-     "value":8.9
-    },
-    {
-     "year":2004,
-     "value":7.2
-    }
-   ]
-  },
-  {
-   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
-   "yearlyData":[
-    {
-     "year":1988,
-     "value":45.8
-    },
-    {
-     "year":1990,
-     "value":49.5
-    },
-    {
-     "year":1993,
-     "value":64.4
-    },
-    {
-     "year":1996,
-     "value":42.8
-    },
-    {
-     "year":1999,
-     "value":30.4
-    },
-    {
-     "year":2002,
-     "value":33.3
-    },
-    {
-     "year":2004,
-     "value":29.1
-    }
-   ]
-  }
- ]
+ "UNDP_Region":""
 }
