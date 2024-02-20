@@ -1,20 +1,146 @@
 {
  "Alpha-3 code":"SJM",
- "data":[
-
- ],
  "Country or Area":"Svalbard and Jan Mayen Islands",
- "Alpha-2 code":"SJ",
- "Numeric code":744,
  "Latitude (average)":78.0,
  "Longitude (average)":20.0,
  "Group 1":"Europe",
  "Group 2":"Northern Europe",
- "Group 3":"",
  "LDC":false,
  "LLDC":false,
  "SIDS":false,
- "Development classification":"",
  "Income group":"",
- "UNDP_Region":""
+ "UNDP_Region":"",
+ "indicators":[
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-54.1
+    },
+    {
+     "year":2040,
+     "value":-125.62
+    },
+    {
+     "year":2090,
+     "value":-273.53
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-47.31
+    },
+    {
+     "year":2040,
+     "value":-157.27
+    },
+    {
+     "year":2090,
+     "value":-440.81
+    }
+   ]
+  },
+  {
+   "indicator":"Coverage of protected areas in relation to marine areas",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":31.95
+    },
+    {
+     "year":2001,
+     "value":31.95
+    },
+    {
+     "year":2002,
+     "value":38.19
+    },
+    {
+     "year":2003,
+     "value":63.08
+    },
+    {
+     "year":2004,
+     "value":63.08
+    },
+    {
+     "year":2005,
+     "value":63.08
+    },
+    {
+     "year":2006,
+     "value":63.08
+    },
+    {
+     "year":2007,
+     "value":63.08
+    },
+    {
+     "year":2008,
+     "value":63.08
+    },
+    {
+     "year":2009,
+     "value":63.08
+    },
+    {
+     "year":2010,
+     "value":63.08
+    },
+    {
+     "year":2011,
+     "value":63.08
+    },
+    {
+     "year":2012,
+     "value":67.28
+    },
+    {
+     "year":2013,
+     "value":67.28
+    },
+    {
+     "year":2014,
+     "value":67.28
+    },
+    {
+     "year":2015,
+     "value":67.28
+    },
+    {
+     "year":2016,
+     "value":67.28
+    },
+    {
+     "year":2017,
+     "value":67.28
+    },
+    {
+     "year":2018,
+     "value":67.28
+    },
+    {
+     "year":2019,
+     "value":67.34
+    },
+    {
+     "year":2020,
+     "value":67.34
+    },
+    {
+     "year":2021,
+     "value":67.34
+    },
+    {
+     "year":2022,
+     "value":67.34
+    }
+   ]
+  }
+ ]
 }

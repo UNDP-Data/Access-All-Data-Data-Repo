@@ -1,20 +1,100 @@
 {
  "Alpha-3 code":"ALA",
- "data":[
-
- ],
  "Country or Area":"\u00c5land Islands",
- "Alpha-2 code":"AX",
- "Numeric code":248,
  "Latitude (average)":60.22,
  "Longitude (average)":19.93,
  "Group 1":"Europe",
  "Group 2":"Northern Europe",
- "Group 3":"",
  "LDC":false,
  "LLDC":false,
  "SIDS":false,
- "Development classification":"",
  "Income group":"",
- "UNDP_Region":""
+ "UNDP_Region":"",
+ "indicators":[
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-17.85
+    },
+    {
+     "year":2040,
+     "value":-44.05
+    },
+    {
+     "year":2090,
+     "value":-87.98
+    }
+   ]
+  },
+  {
+   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+   "yearlyData":[
+    {
+     "year":2030,
+     "value":-18.47
+    },
+    {
+     "year":2040,
+     "value":-52.35
+    },
+    {
+     "year":2090,
+     "value":-134.92
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":55.2
+    },
+    {
+     "year":2003,
+     "value":40.3
+    },
+    {
+     "year":2010,
+     "value":8.2
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":83.8
+    },
+    {
+     "year":2003,
+     "value":70.6
+    },
+    {
+     "year":2010,
+     "value":40.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":96.6
+    },
+    {
+     "year":2003,
+     "value":89.7
+    },
+    {
+     "year":2010,
+     "value":80.4
+    }
+   ]
+  }
+ ]
 }
