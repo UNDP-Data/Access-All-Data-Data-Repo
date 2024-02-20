@@ -12,6 +12,83 @@
  "UNDP_Region":"",
  "indicators":[
   {
+   "indicator":"% change in remittance from previous year",
+   "yearlyData":[
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":16600000.0
+    },
+    {
+     "year":2018,
+     "value":18703507.5799999982
+    },
+    {
+     "year":2019,
+     "value":17387420.6099999994
+    },
+    {
+     "year":2020,
+     "value":17658928.6499999985
+    },
+    {
+     "year":2021,
+     "value":21041053.3299999982
+    },
+    {
+     "year":2022,
+     "value":21041053.3299999982
+    }
+   ]
+  },
+  {
    "indicator":"Access to electricity, rural (% of rural population)",
    "yearlyData":[
     {
@@ -393,6 +470,14 @@
     },
     {
      "year":2020,
+     "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
      "value":100.0
     }
    ]
@@ -2594,6 +2679,10 @@
     {
      "year":2020,
      "value":16.67
+    },
+    {
+     "year":2021,
+     "value":16.67
     }
    ]
   },
@@ -3041,7 +3130,7 @@
     },
     {
      "year":2014,
-     "value":54688.3
+     "value":54688.31
     },
     {
      "year":2015,
@@ -4244,6 +4333,14 @@
     {
      "year":2019,
      "value":90.0
+    },
+    {
+     "year":2021,
+     "value":77.38
+    },
+    {
+     "year":2022,
+     "value":77.18
     }
    ]
   },
@@ -5341,6 +5438,14 @@
     {
      "year":2020,
      "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
     }
    ]
   },
@@ -5430,6 +5535,53 @@
     {
      "year":2020,
      "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":18.6
+    },
+    {
+     "year":2014,
+     "value":15.3
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":47.8
+    },
+    {
+     "year":2014,
+     "value":49.7
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":82.8
+    },
+    {
+     "year":2014,
+     "value":86.2
     }
    ]
   },
@@ -6983,6 +7135,83 @@
    ]
   },
   {
+   "indicator":"Remittance as % of GDP",
+   "yearlyData":[
+    {
+     "year":2005,
+     "value":0.0
+    },
+    {
+     "year":2006,
+     "value":0.0
+    },
+    {
+     "year":2007,
+     "value":0.0
+    },
+    {
+     "year":2008,
+     "value":0.0
+    },
+    {
+     "year":2009,
+     "value":0.0
+    },
+    {
+     "year":2010,
+     "value":0.0
+    },
+    {
+     "year":2011,
+     "value":0.0
+    },
+    {
+     "year":2012,
+     "value":0.0
+    },
+    {
+     "year":2013,
+     "value":0.0
+    },
+    {
+     "year":2014,
+     "value":0.0
+    },
+    {
+     "year":2015,
+     "value":0.0
+    },
+    {
+     "year":2016,
+     "value":0.0
+    },
+    {
+     "year":2017,
+     "value":16600000.0
+    },
+    {
+     "year":2018,
+     "value":18703507.5799999982
+    },
+    {
+     "year":2019,
+     "value":17387420.6099999994
+    },
+    {
+     "year":2020,
+     "value":17658928.6499999985
+    },
+    {
+     "year":2021,
+     "value":21041053.3299999982
+    },
+    {
+     "year":2022,
+     "value":21041053.3299999982
+    }
+   ]
+  },
+  {
    "indicator":"Rule of Law: Estimate",
    "yearlyData":[
     {
@@ -7116,6 +7345,38 @@
    "indicator":"School enrollment, tertiary (% gross)",
    "yearlyData":[
     {
+     "year":2000,
+     "value":59.32
+    },
+    {
+     "year":2008,
+     "value":66.64
+    },
+    {
+     "year":2010,
+     "value":64.71
+    },
+    {
+     "year":2011,
+     "value":63.9
+    },
+    {
+     "year":2012,
+     "value":59.6
+    },
+    {
+     "year":2013,
+     "value":60.16
+    },
+    {
+     "year":2014,
+     "value":62.08
+    },
+    {
+     "year":2015,
+     "value":61.62
+    },
+    {
      "year":2018,
      "value":43.52
     },
@@ -7130,6 +7391,10 @@
     {
      "year":2021,
      "value":56.7
+    },
+    {
+     "year":2022,
+     "value":53.35
     }
    ]
   },

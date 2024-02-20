@@ -80,7 +80,7 @@
     },
     {
      "year":2021,
-     "value":806654918.6000000238
+     "value":806654918.6200000048
     },
     {
      "year":2022,
@@ -507,6 +507,14 @@
     },
     {
      "year":2020,
+     "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
      "value":100.0
     }
    ]
@@ -2666,11 +2674,11 @@
     },
     {
      "year":2021,
-     "value":25.54
+     "value":25.43
     },
     {
      "year":2022,
-     "value":34.18
+     "value":35.97
     }
    ]
   },
@@ -6543,6 +6551,10 @@
     {
      "year":2020,
      "value":0.35
+    },
+    {
+     "year":2021,
+     "value":0.35
     }
    ]
   },
@@ -7182,11 +7194,11 @@
     },
     {
      "year":2021,
-     "value":50375.38
+     "value":50295.28
     },
     {
      "year":2022,
-     "value":58056.23
+     "value":58349.21
     }
    ]
   },
@@ -13025,6 +13037,10 @@
     {
      "year":2021,
      "value":0.16
+    },
+    {
+     "year":2022,
+     "value":0.07
     }
    ]
   },
@@ -13898,6 +13914,111 @@
     {
      "year":2020,
      "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":100.0
+    },
+    {
+     "year":2001,
+     "value":100.0
+    },
+    {
+     "year":2002,
+     "value":100.0
+    },
+    {
+     "year":2003,
+     "value":100.0
+    },
+    {
+     "year":2004,
+     "value":100.0
+    },
+    {
+     "year":2005,
+     "value":100.0
+    },
+    {
+     "year":2006,
+     "value":100.0
+    },
+    {
+     "year":2007,
+     "value":100.0
+    },
+    {
+     "year":2008,
+     "value":100.0
+    },
+    {
+     "year":2009,
+     "value":100.0
+    },
+    {
+     "year":2010,
+     "value":100.0
+    },
+    {
+     "year":2011,
+     "value":100.0
+    },
+    {
+     "year":2012,
+     "value":100.0
+    },
+    {
+     "year":2013,
+     "value":100.0
+    },
+    {
+     "year":2014,
+     "value":100.0
+    },
+    {
+     "year":2015,
+     "value":100.0
+    },
+    {
+     "year":2016,
+     "value":100.0
+    },
+    {
+     "year":2017,
+     "value":100.0
+    },
+    {
+     "year":2018,
+     "value":100.0
+    },
+    {
+     "year":2019,
+     "value":100.0
+    },
+    {
+     "year":2020,
+     "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
     }
    ]
   },
@@ -13987,6 +14108,89 @@
     {
      "year":2020,
      "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1994,
+     "value":84.5
+    },
+    {
+     "year":2001,
+     "value":57.2
+    },
+    {
+     "year":2006,
+     "value":49.7
+    },
+    {
+     "year":2009,
+     "value":48.2
+    },
+    {
+     "year":2018,
+     "value":15.2
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1994,
+     "value":93.4
+    },
+    {
+     "year":2001,
+     "value":79.9
+    },
+    {
+     "year":2006,
+     "value":77.2
+    },
+    {
+     "year":2009,
+     "value":78.7
+    },
+    {
+     "year":2018,
+     "value":48.2
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1994,
+     "value":98.0
+    },
+    {
+     "year":2001,
+     "value":95.6
+    },
+    {
+     "year":2006,
+     "value":93.7
+    },
+    {
+     "year":2009,
+     "value":95.9
+    },
+    {
+     "year":2018,
+     "value":81.0
     }
    ]
   },
@@ -16603,7 +16807,7 @@
     },
     {
      "year":2021,
-     "value":806654918.6000000238
+     "value":806654918.6200000048
     },
     {
      "year":2022,
@@ -17152,119 +17356,123 @@
    "yearlyData":[
     {
      "year":1980,
-     "value":10.64
+     "value":9.04
     },
     {
      "year":1981,
-     "value":11.32
+     "value":9.61
     },
     {
      "year":1982,
-     "value":12.24
+     "value":10.48
     },
     {
      "year":1983,
-     "value":13.3
+     "value":11.38
     },
     {
      "year":1984,
-     "value":13.77
+     "value":11.68
     },
     {
      "year":1985,
-     "value":15.33
-    },
-    {
-     "year":1986,
-     "value":16.24
-    },
-    {
-     "year":1987,
-     "value":15.4
-    },
-    {
-     "year":1988,
-     "value":15.0
-    },
-    {
-     "year":1989,
-     "value":14.54
-    },
-    {
-     "year":1990,
-     "value":12.01
-    },
-    {
-     "year":1992,
-     "value":11.87
-    },
-    {
-     "year":1993,
      "value":13.3
     },
     {
+     "year":1986,
+     "value":14.02
+    },
+    {
+     "year":1987,
+     "value":14.93
+    },
+    {
+     "year":1988,
+     "value":15.97
+    },
+    {
+     "year":1989,
+     "value":16.45
+    },
+    {
+     "year":1990,
+     "value":13.75
+    },
+    {
+     "year":1992,
+     "value":17.8
+    },
+    {
+     "year":1993,
+     "value":16.64
+    },
+    {
      "year":1994,
-     "value":16.8
+     "value":18.14
     },
     {
      "year":1995,
-     "value":21.17
+     "value":22.35
     },
     {
      "year":1996,
-     "value":25.18
+     "value":23.09
     },
     {
      "year":1997,
-     "value":24.9
+     "value":21.11
     },
     {
      "year":1999,
-     "value":23.95
+     "value":19.74
     },
     {
      "year":2001,
-     "value":21.26
+     "value":18.31
     },
     {
      "year":2002,
-     "value":20.51
+     "value":19.27
     },
     {
      "year":2003,
-     "value":19.61
+     "value":19.58
     },
     {
      "year":2004,
-     "value":19.21
+     "value":19.97
     },
     {
      "year":2014,
-     "value":51.03
+     "value":54.02
     },
     {
      "year":2015,
-     "value":55.15
+     "value":58.7
     },
     {
      "year":2016,
-     "value":57.29
+     "value":57.78
     },
     {
      "year":2017,
-     "value":55.36
+     "value":55.13
     },
     {
      "year":2018,
-     "value":54.36
+     "value":52.11
     },
     {
      "year":2019,
-     "value":55.31
+     "value":50.47
     },
     {
      "year":2020,
-     "value":61.13
+     "value":53.73
+    },
+    {
+     "year":2021,
+     "value":61.56
     }
    ]
   },

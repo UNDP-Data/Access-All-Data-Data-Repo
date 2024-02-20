@@ -2937,6 +2937,10 @@
     {
      "year":2020,
      "value":56.89
+    },
+    {
+     "year":2021,
+     "value":57.31
     }
    ]
   },
@@ -4067,87 +4071,166 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":98.94
-    },
-    {
-     "year":2001,
-     "value":98.96
-    },
-    {
-     "year":2002,
-     "value":98.99
-    },
-    {
-     "year":2003,
-     "value":99.02
-    },
-    {
-     "year":2004,
-     "value":99.04
-    },
-    {
-     "year":2005,
      "value":99.07
     },
     {
+     "year":2001,
+     "value":99.07
+    },
+    {
+     "year":2002,
+     "value":99.07
+    },
+    {
+     "year":2003,
+     "value":99.08
+    },
+    {
+     "year":2004,
+     "value":99.08
+    },
+    {
+     "year":2005,
+     "value":99.08
+    },
+    {
      "year":2006,
-     "value":99.1
+     "value":99.08
     },
     {
      "year":2007,
-     "value":99.13
+     "value":99.08
     },
     {
      "year":2008,
-     "value":99.15
+     "value":99.08
     },
     {
      "year":2009,
-     "value":99.18
+     "value":99.09
     },
     {
      "year":2010,
-     "value":99.21
+     "value":99.09
     },
     {
      "year":2011,
-     "value":99.23
+     "value":99.09
     },
     {
      "year":2012,
-     "value":99.26
+     "value":99.09
     },
     {
      "year":2013,
-     "value":99.29
+     "value":99.09
     },
     {
      "year":2014,
-     "value":99.32
+     "value":99.09
     },
     {
      "year":2015,
-     "value":99.34
+     "value":99.1
     },
     {
      "year":2016,
-     "value":99.37
+     "value":99.1
     },
     {
      "year":2017,
-     "value":99.37
+     "value":99.1
     },
     {
      "year":2018,
-     "value":99.37
+     "value":99.1
     },
     {
      "year":2019,
-     "value":99.37
+     "value":99.1
     },
     {
      "year":2020,
-     "value":99.37
+     "value":99.11
+    },
+    {
+     "year":2021,
+     "value":99.11
+    },
+    {
+     "year":2022,
+     "value":99.11
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1991,
+     "value":42.7
+    },
+    {
+     "year":1993,
+     "value":42.2
+    },
+    {
+     "year":2002,
+     "value":53.2
+    },
+    {
+     "year":2010,
+     "value":66.7
+    },
+    {
+     "year":2018,
+     "value":21.7
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1991,
+     "value":62.3
+    },
+    {
+     "year":1993,
+     "value":69.5
+    },
+    {
+     "year":2002,
+     "value":82.6
+    },
+    {
+     "year":2010,
+     "value":84.5
+    },
+    {
+     "year":2018,
+     "value":56.8
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1993,
+     "value":90.6
+    },
+    {
+     "year":2002,
+     "value":96.8
+    },
+    {
+     "year":2010,
+     "value":94.3
+    },
+    {
+     "year":2018,
+     "value":87.2
     }
    ]
   },
@@ -5805,6 +5888,39 @@
     {
      "year":2021,
      "value":82.21
+    }
+   ]
+  },
+  {
+   "indicator":"School enrollment, tertiary (% gross)",
+   "yearlyData":[
+    {
+     "year":1982,
+     "value":29.94
+    },
+    {
+     "year":1983,
+     "value":29.02
+    },
+    {
+     "year":1986,
+     "value":25.23
+    },
+    {
+     "year":1987,
+     "value":26.4
+    },
+    {
+     "year":1991,
+     "value":36.56
+    },
+    {
+     "year":1992,
+     "value":44.07
+    },
+    {
+     "year":1993,
+     "value":51.18
     }
    ]
   },

@@ -380,6 +380,14 @@
     {
      "year":2020,
      "value":66.38
+    },
+    {
+     "year":2021,
+     "value":66.45
+    },
+    {
+     "year":2022,
+     "value":66.53
     }
    ]
   },
@@ -4803,6 +4811,10 @@
     {
      "year":2020,
      "value":50.08
+    },
+    {
+     "year":2021,
+     "value":49.9
     }
    ]
   },
@@ -7799,6 +7811,14 @@
     {
      "year":2020,
      "value":93.84
+    },
+    {
+     "year":2021,
+     "value":93.87
+    },
+    {
+     "year":2022,
+     "value":93.89
     }
    ]
   },
@@ -7887,6 +7907,14 @@
     },
     {
      "year":2020,
+     "value":88.75
+    },
+    {
+     "year":2021,
+     "value":88.75
+    },
+    {
+     "year":2022,
      "value":88.75
     }
    ]
@@ -7977,6 +8005,14 @@
     {
      "year":2020,
      "value":96.91
+    },
+    {
+     "year":2021,
+     "value":96.91
+    },
+    {
+     "year":2022,
+     "value":96.91
     }
    ]
   },
@@ -8058,6 +8094,101 @@
     {
      "year":2020,
      "value":84.67
+    },
+    {
+     "year":2021,
+     "value":84.71
+    },
+    {
+     "year":2022,
+     "value":84.77
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":0.2
+    },
+    {
+     "year":2008,
+     "value":0.2
+    },
+    {
+     "year":2010,
+     "value":0.5
+    },
+    {
+     "year":2012,
+     "value":0.2
+    },
+    {
+     "year":2014,
+     "value":0.2
+    },
+    {
+     "year":2016,
+     "value":0.2
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":0.7
+    },
+    {
+     "year":2008,
+     "value":0.7
+    },
+    {
+     "year":2010,
+     "value":0.7
+    },
+    {
+     "year":2012,
+     "value":0.7
+    },
+    {
+     "year":2014,
+     "value":0.5
+    },
+    {
+     "year":2016,
+     "value":0.5
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":2.0
+    },
+    {
+     "year":2008,
+     "value":1.7
+    },
+    {
+     "year":2010,
+     "value":2.2
+    },
+    {
+     "year":2012,
+     "value":1.7
+    },
+    {
+     "year":2014,
+     "value":1.5
+    },
+    {
+     "year":2016,
+     "value":1.2
     }
    ]
   },
@@ -10477,19 +10608,19 @@
    "yearlyData":[
     {
      "year":2009,
-     "value":30.88
+     "value":30.58
     },
     {
      "year":2011,
-     "value":30.35
+     "value":30.04
     },
     {
      "year":2015,
-     "value":28.11
+     "value":28.02
     },
     {
      "year":2018,
-     "value":26.83
+     "value":27.21
     }
    ]
   },

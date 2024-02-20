@@ -1468,6 +1468,10 @@
     {
      "year":2021,
      "value":-0.13
+    },
+    {
+     "year":2022,
+     "value":-11.73
     }
    ]
   },
@@ -4340,6 +4344,10 @@
     },
     {
      "year":2020,
+     "value":11.33
+    },
+    {
+     "year":2021,
      "value":11.33
     }
    ]
@@ -9001,6 +9009,14 @@
     {
      "year":2020,
      "value":40.95
+    },
+    {
+     "year":2021,
+     "value":41.07
+    },
+    {
+     "year":2022,
+     "value":41.19
     }
    ]
   },
@@ -9045,6 +9061,14 @@
     },
     {
      "year":2020,
+     "value":33.59
+    },
+    {
+     "year":2021,
+     "value":33.59
+    },
+    {
+     "year":2022,
      "value":33.59
     }
    ]
@@ -9091,6 +9115,14 @@
     {
      "year":2020,
      "value":70.02
+    },
+    {
+     "year":2021,
+     "value":70.02
+    },
+    {
+     "year":2022,
+     "value":70.02
     }
    ]
   },
@@ -9136,6 +9168,14 @@
     {
      "year":2020,
      "value":15.84
+    },
+    {
+     "year":2021,
+     "value":15.95
+    },
+    {
+     "year":2022,
+     "value":16.06
     }
    ]
   },
@@ -9143,8 +9183,24 @@
    "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
    "yearlyData":[
     {
+     "year":2001,
+     "value":0.3
+    },
+    {
+     "year":2004,
+     "value":0.2
+    },
+    {
+     "year":2007,
+     "value":0.1
+    },
+    {
      "year":2009,
      "value":34.5
+    },
+    {
+     "year":2011,
+     "value":0.1
     },
     {
      "year":2016,
@@ -9156,8 +9212,24 @@
    "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
    "yearlyData":[
     {
+     "year":2001,
+     "value":1.1
+    },
+    {
+     "year":2004,
+     "value":0.7
+    },
+    {
+     "year":2007,
+     "value":0.4
+    },
+    {
      "year":2009,
      "value":56.6
+    },
+    {
+     "year":2011,
+     "value":0.8
     },
     {
      "year":2016,
@@ -9169,8 +9241,24 @@
    "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
    "yearlyData":[
     {
+     "year":2001,
+     "value":13.8
+    },
+    {
+     "year":2004,
+     "value":6.6
+    },
+    {
+     "year":2007,
+     "value":4.8
+    },
+    {
      "year":2009,
      "value":81.8
+    },
+    {
+     "year":2011,
+     "value":5.8
     },
     {
      "year":2016,
@@ -11296,11 +11384,11 @@
    "yearlyData":[
     {
      "year":2016,
-     "value":0.59
+     "value":0.66
     },
     {
      "year":2018,
-     "value":0.75
+     "value":1.0
     }
    ]
   },

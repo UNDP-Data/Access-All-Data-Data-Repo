@@ -97,6 +97,10 @@
     {
      "year":2021,
      "value":2500652.0699999998
+    },
+    {
+     "year":2022,
+     "value":2500652.0699999998
     }
    ]
   },
@@ -382,6 +386,103 @@
     {
      "year":2021,
      "value":71.59
+    }
+   ]
+  },
+  {
+   "indicator":"People using safely managed drinking water services (% of population)",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":7.67
+    },
+    {
+     "year":2001,
+     "value":7.69
+    },
+    {
+     "year":2002,
+     "value":7.72
+    },
+    {
+     "year":2003,
+     "value":7.76
+    },
+    {
+     "year":2004,
+     "value":7.81
+    },
+    {
+     "year":2005,
+     "value":7.87
+    },
+    {
+     "year":2006,
+     "value":7.92
+    },
+    {
+     "year":2007,
+     "value":7.97
+    },
+    {
+     "year":2008,
+     "value":8.03
+    },
+    {
+     "year":2009,
+     "value":8.08
+    },
+    {
+     "year":2010,
+     "value":8.14
+    },
+    {
+     "year":2011,
+     "value":8.19
+    },
+    {
+     "year":2012,
+     "value":8.24
+    },
+    {
+     "year":2013,
+     "value":8.3
+    },
+    {
+     "year":2014,
+     "value":8.35
+    },
+    {
+     "year":2015,
+     "value":8.4
+    },
+    {
+     "year":2016,
+     "value":8.45
+    },
+    {
+     "year":2017,
+     "value":8.49
+    },
+    {
+     "year":2018,
+     "value":8.54
+    },
+    {
+     "year":2019,
+     "value":8.58
+    },
+    {
+     "year":2020,
+     "value":8.63
+    },
+    {
+     "year":2021,
+     "value":8.67
+    },
+    {
+     "year":2022,
+     "value":8.71
     }
    ]
   },
@@ -1270,39 +1371,43 @@
     },
     {
      "year":2013,
-     "value":-10.85
+     "value":2.85
     },
     {
      "year":2014,
-     "value":-11.54
+     "value":-0.48
     },
     {
      "year":2015,
-     "value":-46.34
+     "value":-33.6
     },
     {
      "year":2016,
-     "value":-39.55
+     "value":29.64
     },
     {
      "year":2017,
-     "value":8.39
+     "value":2.07
     },
     {
      "year":2018,
-     "value":66.21
+     "value":60.92
     },
     {
      "year":2019,
-     "value":-11.18
+     "value":-22.17
     },
     {
      "year":2020,
-     "value":17.42
+     "value":16.35
     },
     {
      "year":2021,
-     "value":34.59
+     "value":24.14
+    },
+    {
+     "year":2022,
+     "value":4.59
     }
    ]
   },
@@ -3756,6 +3861,10 @@
     {
      "year":2020,
      "value":33.33
+    },
+    {
+     "year":2021,
+     "value":33.33
     }
    ]
   },
@@ -4227,19 +4336,19 @@
     },
     {
      "year":2019,
-     "value":5036.65
+     "value":5036.66
     },
     {
      "year":2020,
-     "value":4834.4
+     "value":4834.39
     },
     {
      "year":2021,
-     "value":5080.76
+     "value":5080.77
     },
     {
      "year":2022,
-     "value":5421.25
+     "value":5423.05
     }
    ]
   },
@@ -5873,6 +5982,10 @@
     {
      "year":2017,
      "value":86.85
+    },
+    {
+     "year":2022,
+     "value":81.56
     }
    ]
   },
@@ -7329,84 +7442,96 @@
    "indicator":"Population using at least basic drinking-water services (%)",
    "yearlyData":[
     {
+     "year":2000,
+     "value":98.81
+    },
+    {
      "year":2001,
-     "value":97.49
+     "value":98.83
     },
     {
      "year":2002,
-     "value":97.49
+     "value":98.86
     },
     {
      "year":2003,
-     "value":97.5
+     "value":98.88
     },
     {
      "year":2004,
-     "value":97.51
+     "value":98.9
     },
     {
      "year":2005,
-     "value":97.52
+     "value":98.92
     },
     {
      "year":2006,
-     "value":97.87
+     "value":98.94
     },
     {
      "year":2007,
-     "value":98.21
+     "value":98.97
     },
     {
      "year":2008,
-     "value":98.55
+     "value":98.99
     },
     {
      "year":2009,
-     "value":98.89
+     "value":99.01
     },
     {
      "year":2010,
-     "value":99.23
+     "value":99.03
     },
     {
      "year":2011,
-     "value":99.56
+     "value":99.05
     },
     {
      "year":2012,
-     "value":99.89
+     "value":99.07
     },
     {
      "year":2013,
-     "value":100.0
+     "value":99.08
     },
     {
      "year":2014,
-     "value":100.0
+     "value":99.1
     },
     {
      "year":2015,
-     "value":100.0
+     "value":99.12
     },
     {
      "year":2016,
-     "value":100.0
+     "value":99.14
     },
     {
      "year":2017,
-     "value":100.0
+     "value":99.16
     },
     {
      "year":2018,
-     "value":100.0
+     "value":99.18
     },
     {
      "year":2019,
-     "value":100.0
+     "value":99.2
     },
     {
      "year":2020,
-     "value":100.0
+     "value":99.22
+    },
+    {
+     "year":2021,
+     "value":99.24
+    },
+    {
+     "year":2022,
+     "value":99.26
     }
    ]
   },
@@ -7414,84 +7539,96 @@
    "indicator":"Population using at least basic drinking-water services (%)::Rural",
    "yearlyData":[
     {
+     "year":2000,
+     "value":99.01
+    },
+    {
      "year":2001,
-     "value":96.96
-    },
-    {
-     "year":2002,
-     "value":96.96
-    },
-    {
-     "year":2003,
-     "value":96.96
-    },
-    {
-     "year":2004,
-     "value":96.96
-    },
-    {
-     "year":2005,
-     "value":96.96
-    },
-    {
-     "year":2006,
-     "value":97.38
-    },
-    {
-     "year":2007,
-     "value":97.8
-    },
-    {
-     "year":2008,
-     "value":98.22
-    },
-    {
-     "year":2009,
-     "value":98.64
-    },
-    {
-     "year":2010,
      "value":99.05
     },
     {
+     "year":2002,
+     "value":99.08
+    },
+    {
+     "year":2003,
+     "value":99.11
+    },
+    {
+     "year":2004,
+     "value":99.14
+    },
+    {
+     "year":2005,
+     "value":99.18
+    },
+    {
+     "year":2006,
+     "value":99.21
+    },
+    {
+     "year":2007,
+     "value":99.24
+    },
+    {
+     "year":2008,
+     "value":99.28
+    },
+    {
+     "year":2009,
+     "value":99.31
+    },
+    {
+     "year":2010,
+     "value":99.34
+    },
+    {
      "year":2011,
-     "value":99.47
+     "value":99.38
     },
     {
      "year":2012,
-     "value":99.89
+     "value":99.41
     },
     {
      "year":2013,
-     "value":100.0
+     "value":99.44
     },
     {
      "year":2014,
-     "value":100.0
+     "value":99.48
     },
     {
      "year":2015,
-     "value":100.0
+     "value":99.51
     },
     {
      "year":2016,
-     "value":100.0
+     "value":99.54
     },
     {
      "year":2017,
-     "value":100.0
+     "value":99.57
     },
     {
      "year":2018,
-     "value":100.0
+     "value":99.61
     },
     {
      "year":2019,
-     "value":100.0
+     "value":99.64
     },
     {
      "year":2020,
-     "value":100.0
+     "value":99.67
+    },
+    {
+     "year":2021,
+     "value":99.71
+    },
+    {
+     "year":2022,
+     "value":99.74
     }
    ]
   },
@@ -7499,84 +7636,96 @@
    "indicator":"Population using at least basic drinking-water services (%)::Urban",
    "yearlyData":[
     {
+     "year":2000,
+     "value":98.57
+    },
+    {
      "year":2001,
-     "value":98.09
+     "value":98.59
     },
     {
      "year":2002,
-     "value":98.09
+     "value":98.61
     },
     {
      "year":2003,
-     "value":98.09
+     "value":98.63
     },
     {
      "year":2004,
-     "value":98.09
+     "value":98.65
     },
     {
      "year":2005,
-     "value":98.09
+     "value":98.67
     },
     {
      "year":2006,
-     "value":98.34
+     "value":98.69
     },
     {
      "year":2007,
-     "value":98.6
+     "value":98.71
     },
     {
      "year":2008,
-     "value":98.86
+     "value":98.73
     },
     {
      "year":2009,
-     "value":99.11
+     "value":98.74
     },
     {
      "year":2010,
-     "value":99.37
+     "value":98.76
     },
     {
      "year":2011,
-     "value":99.63
+     "value":98.78
     },
     {
      "year":2012,
-     "value":99.88
+     "value":98.8
     },
     {
      "year":2013,
-     "value":100.0
+     "value":98.82
     },
     {
      "year":2014,
-     "value":100.0
+     "value":98.84
     },
     {
      "year":2015,
-     "value":100.0
+     "value":98.86
     },
     {
      "year":2016,
-     "value":100.0
+     "value":98.88
     },
     {
      "year":2017,
-     "value":100.0
+     "value":98.9
     },
     {
      "year":2018,
-     "value":100.0
+     "value":98.92
     },
     {
      "year":2019,
-     "value":100.0
+     "value":98.94
     },
     {
      "year":2020,
-     "value":100.0
+     "value":98.96
+    },
+    {
+     "year":2021,
+     "value":98.98
+    },
+    {
+     "year":2022,
+     "value":99.0
     }
    ]
   },
@@ -7584,76 +7733,96 @@
    "indicator":"Population using at least basic sanitation services (%)",
    "yearlyData":[
     {
+     "year":2000,
+     "value":80.29
+    },
+    {
      "year":2001,
-     "value":79.78
+     "value":80.69
     },
     {
      "year":2002,
-     "value":79.81
+     "value":81.09
     },
     {
      "year":2003,
-     "value":79.87
+     "value":81.5
     },
     {
      "year":2004,
-     "value":79.95
+     "value":81.91
     },
     {
      "year":2005,
-     "value":80.03
+     "value":82.32
     },
     {
      "year":2006,
-     "value":80.7
+     "value":82.47
     },
     {
      "year":2007,
-     "value":81.36
+     "value":82.6
     },
     {
      "year":2008,
-     "value":82.0
+     "value":82.72
     },
     {
      "year":2009,
-     "value":82.62
+     "value":82.84
     },
     {
      "year":2010,
-     "value":83.23
+     "value":82.94
     },
     {
      "year":2011,
-     "value":83.83
+     "value":83.04
     },
     {
      "year":2012,
-     "value":84.41
+     "value":83.13
     },
     {
      "year":2013,
-     "value":84.17
+     "value":83.21
     },
     {
      "year":2014,
-     "value":83.63
+     "value":83.28
     },
     {
      "year":2015,
-     "value":83.66
+     "value":83.34
     },
     {
      "year":2016,
-     "value":83.69
+     "value":83.39
     },
     {
      "year":2017,
-     "value":83.72
+     "value":83.43
     },
     {
      "year":2018,
-     "value":83.74
+     "value":83.47
+    },
+    {
+     "year":2019,
+     "value":83.5
+    },
+    {
+     "year":2020,
+     "value":83.52
+    },
+    {
+     "year":2021,
+     "value":83.54
+    },
+    {
+     "year":2022,
+     "value":83.55
     }
    ]
   },
@@ -7661,8 +7830,28 @@
    "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
    "yearlyData":[
     {
+     "year":1991,
+     "value":69.3
+    },
+    {
+     "year":2000,
+     "value":84.0
+    },
+    {
+     "year":2007,
+     "value":56.2
+    },
+    {
      "year":2010,
      "value":3.6
+    },
+    {
+     "year":2011,
+     "value":44.7
+    },
+    {
+     "year":2018,
+     "value":44.9
     }
    ]
   },
@@ -7670,8 +7859,28 @@
    "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
    "yearlyData":[
     {
+     "year":1991,
+     "value":89.5
+    },
+    {
+     "year":2000,
+     "value":95.5
+    },
+    {
+     "year":2007,
+     "value":81.6
+    },
+    {
      "year":2010,
      "value":19.6
+    },
+    {
+     "year":2011,
+     "value":76.7
+    },
+    {
+     "year":2018,
+     "value":74.3
     }
    ]
   },
@@ -7679,8 +7888,28 @@
    "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
    "yearlyData":[
     {
+     "year":1991,
+     "value":98.3
+    },
+    {
+     "year":2000,
+     "value":99.4
+    },
+    {
+     "year":2007,
+     "value":95.3
+    },
+    {
      "year":2010,
      "value":56.6
+    },
+    {
+     "year":2011,
+     "value":93.7
+    },
+    {
+     "year":2018,
+     "value":92.3
     }
    ]
   },
@@ -9461,6 +9690,10 @@
     },
     {
      "year":2021,
+     "value":2500652.0699999998
+    },
+    {
+     "year":2022,
      "value":2500652.0699999998
     }
    ]

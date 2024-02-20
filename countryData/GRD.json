@@ -464,43 +464,43 @@
     },
     {
      "year":2008,
-     "value":85.95
+     "value":85.94
     },
     {
      "year":2009,
-     "value":86.86
+     "value":86.84
     },
     {
      "year":2010,
-     "value":87.12
+     "value":87.74
     },
     {
      "year":2011,
-     "value":87.33
+     "value":88.65
     },
     {
      "year":2012,
-     "value":87.43
+     "value":89.44
     },
     {
      "year":2013,
-     "value":87.12
+     "value":89.81
     },
     {
      "year":2014,
-     "value":87.12
+     "value":89.92
     },
     {
      "year":2015,
-     "value":87.12
+     "value":89.92
     },
     {
      "year":2016,
-     "value":87.12
+     "value":89.92
     },
     {
      "year":2017,
-     "value":87.12
+     "value":89.92
     }
    ]
   },
@@ -1668,35 +1668,39 @@
     },
     {
      "year":2014,
-     "value":-11.55
+     "value":-9.1
     },
     {
      "year":2015,
-     "value":-12.51
+     "value":-10.68
     },
     {
      "year":2016,
-     "value":-11.05
+     "value":-8.9
     },
     {
      "year":2017,
-     "value":-14.44
+     "value":-11.55
     },
     {
      "year":2018,
-     "value":-16.12
+     "value":-12.91
     },
     {
      "year":2019,
-     "value":-14.58
+     "value":-10.15
     },
     {
      "year":2020,
-     "value":-21.04
+     "value":-16.43
     },
     {
      "year":2021,
-     "value":-26.16
+     "value":-13.02
+    },
+    {
+     "year":2022,
+     "value":-4.54
     }
    ]
   },
@@ -4163,6 +4167,10 @@
     {
      "year":2020,
      "value":52.06
+    },
+    {
+     "year":2021,
+     "value":52.06
     }
    ]
   },
@@ -4814,7 +4822,7 @@
     },
     {
      "year":2022,
-     "value":16987.13
+     "value":17082.89
     }
    ]
   },
@@ -6703,6 +6711,23 @@
     {
      "year":2020,
      "value":56.9
+    }
+   ]
+  },
+  {
+   "indicator":"Labor force with advanced education (% of total working-age population with advanced education)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":78.07
+    },
+    {
+     "year":2019,
+     "value":77.73
+    },
+    {
+     "year":2020,
+     "value":69.66
     }
    ]
   },
@@ -8721,6 +8746,81 @@
     {
      "year":2017,
      "value":91.49
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":69.2
+    },
+    {
+     "year":1999,
+     "value":58.0
+    },
+    {
+     "year":2004,
+     "value":34.6
+    },
+    {
+     "year":2010,
+     "value":30.8
+    },
+    {
+     "year":2015,
+     "value":27.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":88.9
+    },
+    {
+     "year":1999,
+     "value":89.5
+    },
+    {
+     "year":2004,
+     "value":77.0
+    },
+    {
+     "year":2010,
+     "value":71.3
+    },
+    {
+     "year":2015,
+     "value":65.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1995,
+     "value":96.9
+    },
+    {
+     "year":1999,
+     "value":98.0
+    },
+    {
+     "year":2004,
+     "value":96.3
+    },
+    {
+     "year":2010,
+     "value":94.0
+    },
+    {
+     "year":2015,
+     "value":90.9
     }
    ]
   },
@@ -11282,39 +11382,39 @@
    "yearlyData":[
     {
      "year":1980,
-     "value":5.84
+     "value":5.32
     },
     {
      "year":1982,
-     "value":8.31
+     "value":7.95
     },
     {
      "year":1983,
-     "value":4.47
+     "value":4.39
     },
     {
      "year":1984,
-     "value":4.49
+     "value":4.48
     },
     {
      "year":2009,
-     "value":64.53
+     "value":54.38
     },
     {
      "year":2015,
-     "value":95.62
+     "value":92.88
     },
     {
      "year":2016,
-     "value":96.42
+     "value":93.22
     },
     {
      "year":2017,
-     "value":100.2
+     "value":95.38
     },
     {
      "year":2018,
-     "value":104.56
+     "value":96.89
     }
    ]
   },

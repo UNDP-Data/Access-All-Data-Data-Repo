@@ -77,6 +77,14 @@
     {
      "year":2020,
      "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":0.0
     }
    ]
   },
@@ -253,6 +261,39 @@
     {
      "year":1995,
      "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"People using safely managed drinking water services (% of population)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":47.22
+    },
+    {
+     "year":2017,
+     "value":47.2
+    },
+    {
+     "year":2018,
+     "value":47.17
+    },
+    {
+     "year":2019,
+     "value":47.15
+    },
+    {
+     "year":2020,
+     "value":47.13
+    },
+    {
+     "year":2021,
+     "value":47.1
+    },
+    {
+     "year":2022,
+     "value":47.09
     }
    ]
   },
@@ -1039,6 +1080,10 @@
     {
      "year":2020,
      "value":11.07
+    },
+    {
+     "year":2021,
+     "value":11.07
     }
    ]
   },
@@ -1220,11 +1265,11 @@
     },
     {
      "year":2021,
-     "value":21803.15
+     "value":21808.25
     },
     {
      "year":2022,
-     "value":22914.81
+     "value":24471.52
     }
    ]
   },
@@ -1773,15 +1818,161 @@
     },
     {
      "year":2016,
-     "value":94.32
+     "value":98.69
     },
     {
      "year":2017,
-     "value":94.32
+     "value":98.71
     },
     {
      "year":2018,
-     "value":94.32
+     "value":98.73
+    },
+    {
+     "year":2019,
+     "value":98.75
+    },
+    {
+     "year":2020,
+     "value":98.77
+    },
+    {
+     "year":2021,
+     "value":98.79
+    },
+    {
+     "year":2022,
+     "value":98.8
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Rural",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":91.79
+    },
+    {
+     "year":2017,
+     "value":91.79
+    },
+    {
+     "year":2018,
+     "value":91.79
+    },
+    {
+     "year":2019,
+     "value":91.79
+    },
+    {
+     "year":2020,
+     "value":91.79
+    },
+    {
+     "year":2021,
+     "value":91.79
+    },
+    {
+     "year":2022,
+     "value":91.79
+    }
+   ]
+  },
+  {
+   "indicator":"Population using at least basic drinking-water services (%)::Urban",
+   "yearlyData":[
+    {
+     "year":2000,
+     "value":99.25
+    },
+    {
+     "year":2001,
+     "value":99.25
+    },
+    {
+     "year":2002,
+     "value":99.25
+    },
+    {
+     "year":2003,
+     "value":99.25
+    },
+    {
+     "year":2004,
+     "value":99.25
+    },
+    {
+     "year":2005,
+     "value":99.25
+    },
+    {
+     "year":2006,
+     "value":99.25
+    },
+    {
+     "year":2007,
+     "value":99.25
+    },
+    {
+     "year":2008,
+     "value":99.25
+    },
+    {
+     "year":2009,
+     "value":99.25
+    },
+    {
+     "year":2010,
+     "value":99.25
+    },
+    {
+     "year":2011,
+     "value":99.25
+    },
+    {
+     "year":2012,
+     "value":99.25
+    },
+    {
+     "year":2013,
+     "value":99.25
+    },
+    {
+     "year":2014,
+     "value":99.25
+    },
+    {
+     "year":2015,
+     "value":99.25
+    },
+    {
+     "year":2016,
+     "value":99.25
+    },
+    {
+     "year":2017,
+     "value":99.25
+    },
+    {
+     "year":2018,
+     "value":99.25
+    },
+    {
+     "year":2019,
+     "value":99.25
+    },
+    {
+     "year":2020,
+     "value":99.25
+    },
+    {
+     "year":2021,
+     "value":99.25
+    },
+    {
+     "year":2022,
+     "value":99.25
     }
    ]
   },
@@ -1854,15 +2045,106 @@
     },
     {
      "year":2016,
-     "value":87.99
+     "value":93.12
     },
     {
      "year":2017,
-     "value":87.99
+     "value":93.13
     },
     {
      "year":2018,
-     "value":87.99
+     "value":93.13
+    },
+    {
+     "year":2019,
+     "value":93.13
+    },
+    {
+     "year":2020,
+     "value":93.14
+    },
+    {
+     "year":2021,
+     "value":93.14
+    },
+    {
+     "year":2022,
+     "value":93.15
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1998,
+     "value":74.1
+    },
+    {
+     "year":2003,
+     "value":50.7
+    },
+    {
+     "year":2010,
+     "value":29.8
+    },
+    {
+     "year":2015,
+     "value":13.4
+    },
+    {
+     "year":2020,
+     "value":17.2
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1998,
+     "value":88.5
+    },
+    {
+     "year":2003,
+     "value":73.5
+    },
+    {
+     "year":2010,
+     "value":59.5
+    },
+    {
+     "year":2015,
+     "value":44.6
+    },
+    {
+     "year":2020,
+     "value":47.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1998,
+     "value":96.5
+    },
+    {
+     "year":2003,
+     "value":90.9
+    },
+    {
+     "year":2010,
+     "value":86.3
+    },
+    {
+     "year":2015,
+     "value":81.2
+    },
+    {
+     "year":2020,
+     "value":80.6
     }
    ]
   },
@@ -2080,6 +2362,14 @@
     {
      "year":2020,
      "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":0.0
     }
    ]
   },
@@ -2097,19 +2387,39 @@
    "yearlyData":[
     {
      "year":2008,
-     "value":0.09
+     "value":0.12
     },
     {
      "year":2010,
-     "value":0.22
+     "value":0.31
     },
     {
      "year":2014,
-     "value":11.64
+     "value":13.59
     },
     {
      "year":2015,
-     "value":11.46
+     "value":12.52
+    },
+    {
+     "year":2016,
+     "value":11.14
+    },
+    {
+     "year":2017,
+     "value":11.84
+    },
+    {
+     "year":2018,
+     "value":11.36
+    },
+    {
+     "year":2019,
+     "value":11.76
+    },
+    {
+     "year":2022,
+     "value":17.09
     }
    ]
   },

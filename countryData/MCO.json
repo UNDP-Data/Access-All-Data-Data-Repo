@@ -402,6 +402,14 @@
     {
      "year":2020,
      "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
     }
    ]
   },
@@ -2531,6 +2539,10 @@
     {
      "year":2020,
      "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
     }
    ]
   },
@@ -4222,6 +4234,14 @@
     {
      "year":2020,
      "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
     }
    ]
   },
@@ -4310,6 +4330,14 @@
     },
     {
      "year":2020,
+     "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
      "value":100.0
     }
    ]
@@ -4400,6 +4428,53 @@
     {
      "year":2020,
      "value":100.0
+    },
+    {
+     "year":2021,
+     "value":100.0
+    },
+    {
+     "year":2022,
+     "value":100.0
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":34.5
+    },
+    {
+     "year":2016,
+     "value":67.3
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":56.6
+    },
+    {
+     "year":2016,
+     "value":86.5
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2009,
+     "value":81.8
+    },
+    {
+     "year":2016,
+     "value":96.6
     }
    ]
   },
@@ -6108,6 +6183,15 @@
     {
      "year":2013,
      "value":77.93
+    }
+   ]
+  },
+  {
+   "indicator":"School enrollment, tertiary (% gross)",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":49.08
     }
    ]
   },

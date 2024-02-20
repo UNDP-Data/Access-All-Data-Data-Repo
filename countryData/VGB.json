@@ -964,6 +964,10 @@
     {
      "year":2020,
      "value":24.13
+    },
+    {
+     "year":2021,
+     "value":24.13
     }
    ]
   },
@@ -1629,6 +1633,14 @@
     {
      "year":2020,
      "value":99.86
+    },
+    {
+     "year":2021,
+     "value":99.86
+    },
+    {
+     "year":2022,
+     "value":99.86
     }
    ]
   },
@@ -1706,6 +1718,297 @@
    ]
   },
   {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1994,
+     "value":17.3
+    },
+    {
+     "year":1999,
+     "value":21.8
+    },
+    {
+     "year":2000,
+     "value":28.4
+    },
+    {
+     "year":2003,
+     "value":14.9
+    },
+    {
+     "year":2004,
+     "value":15.0
+    },
+    {
+     "year":2005,
+     "value":11.8
+    },
+    {
+     "year":2006,
+     "value":8.2
+    },
+    {
+     "year":2007,
+     "value":8.5
+    },
+    {
+     "year":2008,
+     "value":7.5
+    },
+    {
+     "year":2009,
+     "value":7.3
+    },
+    {
+     "year":2010,
+     "value":5.7
+    },
+    {
+     "year":2011,
+     "value":4.7
+    },
+    {
+     "year":2012,
+     "value":4.5
+    },
+    {
+     "year":2013,
+     "value":3.2
+    },
+    {
+     "year":2014,
+     "value":2.6
+    },
+    {
+     "year":2015,
+     "value":3.4
+    },
+    {
+     "year":2016,
+     "value":3.6
+    },
+    {
+     "year":2017,
+     "value":3.2
+    },
+    {
+     "year":2018,
+     "value":3.3
+    },
+    {
+     "year":2019,
+     "value":3.6
+    },
+    {
+     "year":2020,
+     "value":6.5
+    },
+    {
+     "year":2021,
+     "value":3.6
+    },
+    {
+     "year":2022,
+     "value":3.2
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1994,
+     "value":35.2
+    },
+    {
+     "year":1999,
+     "value":40.5
+    },
+    {
+     "year":2000,
+     "value":50.3
+    },
+    {
+     "year":2003,
+     "value":30.8
+    },
+    {
+     "year":2004,
+     "value":32.4
+    },
+    {
+     "year":2005,
+     "value":25.5
+    },
+    {
+     "year":2006,
+     "value":20.1
+    },
+    {
+     "year":2007,
+     "value":19.6
+    },
+    {
+     "year":2008,
+     "value":18.5
+    },
+    {
+     "year":2009,
+     "value":17.7
+    },
+    {
+     "year":2010,
+     "value":15.1
+    },
+    {
+     "year":2011,
+     "value":12.3
+    },
+    {
+     "year":2012,
+     "value":11.7
+    },
+    {
+     "year":2013,
+     "value":10.2
+    },
+    {
+     "year":2014,
+     "value":8.7
+    },
+    {
+     "year":2015,
+     "value":9.5
+    },
+    {
+     "year":2016,
+     "value":9.5
+    },
+    {
+     "year":2017,
+     "value":8.9
+    },
+    {
+     "year":2018,
+     "value":9.7
+    },
+    {
+     "year":2019,
+     "value":9.9
+    },
+    {
+     "year":2020,
+     "value":14.4
+    },
+    {
+     "year":2021,
+     "value":10.9
+    },
+    {
+     "year":2022,
+     "value":9.5
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":1994,
+     "value":64.9
+    },
+    {
+     "year":1999,
+     "value":67.8
+    },
+    {
+     "year":2000,
+     "value":75.9
+    },
+    {
+     "year":2003,
+     "value":57.8
+    },
+    {
+     "year":2004,
+     "value":58.9
+    },
+    {
+     "year":2005,
+     "value":50.6
+    },
+    {
+     "year":2006,
+     "value":45.8
+    },
+    {
+     "year":2007,
+     "value":44.9
+    },
+    {
+     "year":2008,
+     "value":42.3
+    },
+    {
+     "year":2009,
+     "value":43.2
+    },
+    {
+     "year":2010,
+     "value":38.8
+    },
+    {
+     "year":2011,
+     "value":34.7
+    },
+    {
+     "year":2012,
+     "value":31.4
+    },
+    {
+     "year":2013,
+     "value":31.2
+    },
+    {
+     "year":2014,
+     "value":27.6
+    },
+    {
+     "year":2015,
+     "value":28.8
+    },
+    {
+     "year":2016,
+     "value":28.2
+    },
+    {
+     "year":2017,
+     "value":27.1
+    },
+    {
+     "year":2018,
+     "value":27.8
+    },
+    {
+     "year":2019,
+     "value":29.7
+    },
+    {
+     "year":2020,
+     "value":34.6
+    },
+    {
+     "year":2021,
+     "value":31.7
+    },
+    {
+     "year":2022,
+     "value":29.9
+    }
+   ]
+  },
+  {
    "indicator":"Percentage of primary schools with access to the internet",
    "yearlyData":[
     {
@@ -1719,47 +2022,51 @@
    "yearlyData":[
     {
      "year":1999,
-     "value":60.32
+     "value":58.51
     },
     {
      "year":2000,
-     "value":52.82
+     "value":50.37
     },
     {
      "year":2001,
-     "value":46.78
+     "value":44.45
     },
     {
      "year":2002,
-     "value":50.53
+     "value":48.31
     },
     {
      "year":2004,
-     "value":70.69
+     "value":65.82
     },
     {
      "year":2009,
-     "value":74.02
+     "value":71.03
     },
     {
      "year":2015,
-     "value":42.26
+     "value":43.12
     },
     {
      "year":2016,
-     "value":41.35
+     "value":42.36
     },
     {
      "year":2018,
-     "value":16.25
+     "value":17.12
     },
     {
      "year":2019,
-     "value":24.81
+     "value":26.09
     },
     {
      "year":2021,
-     "value":30.16
+     "value":32.71
+    },
+    {
+     "year":2022,
+     "value":31.36
     }
    ]
   },
