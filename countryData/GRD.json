@@ -634,6 +634,10 @@
     {
      "year":2021,
      "value":32.72
+    },
+    {
+     "year":2022,
+     "value":32.14
     }
    ]
   },
@@ -758,131 +762,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":1.1
+     "value":1.07
     },
     {
      "year":1991,
-     "value":1.14
+     "value":1.1
     },
     {
      "year":1992,
-     "value":1.21
+     "value":1.16
     },
     {
      "year":1993,
-     "value":1.23
+     "value":1.18
     },
     {
      "year":1994,
-     "value":1.44
+     "value":1.39
     },
     {
      "year":1995,
-     "value":1.5
+     "value":1.44
     },
     {
      "year":1996,
-     "value":1.52
+     "value":1.47
     },
     {
      "year":1997,
-     "value":1.66
+     "value":1.6
     },
     {
      "year":1998,
-     "value":1.72
+     "value":1.66
     },
     {
      "year":1999,
-     "value":1.9
+     "value":1.82
     },
     {
      "year":2000,
-     "value":1.85
+     "value":1.77
     },
     {
      "year":2001,
-     "value":1.88
+     "value":1.8
     },
     {
      "year":2002,
-     "value":1.98
+     "value":1.9
     },
     {
      "year":2003,
-     "value":2.08
+     "value":1.99
     },
     {
      "year":2004,
-     "value":1.97
+     "value":1.87
     },
     {
      "year":2005,
-     "value":2.07
+     "value":1.96
     },
     {
      "year":2006,
-     "value":2.2
+     "value":2.08
     },
     {
      "year":2007,
-     "value":2.26
+     "value":2.13
     },
     {
      "year":2008,
-     "value":2.4
+     "value":2.25
     },
     {
      "year":2009,
-     "value":2.39
+     "value":2.23
     },
     {
      "year":2010,
-     "value":2.45
+     "value":2.28
     },
     {
      "year":2011,
-     "value":2.37
+     "value":2.2
     },
     {
      "year":2012,
-     "value":2.52
+     "value":2.34
     },
     {
      "year":2013,
-     "value":2.81
+     "value":2.6
     },
     {
      "year":2014,
-     "value":2.15
+     "value":1.99
     },
     {
      "year":2015,
-     "value":2.37
+     "value":2.19
     },
     {
      "year":2016,
-     "value":2.43
+     "value":2.23
     },
     {
      "year":2017,
-     "value":2.51
+     "value":2.3
     },
     {
      "year":2018,
-     "value":2.76
+     "value":2.53
     },
     {
      "year":2019,
-     "value":2.97
+     "value":2.69
     },
     {
      "year":2020,
-     "value":2.62
+     "value":2.34
     },
     {
      "year":2021,
-     "value":2.62
+     "value":2.65
+    },
+    {
+     "year":2022,
+     "value":2.65
     }
    ]
   },
@@ -1464,6 +1472,10 @@
     },
     {
      "year":2022,
+     "value":30.21
+    },
+    {
+     "year":2023,
      "value":30.21
     }
    ]
@@ -3581,132 +3593,36 @@
    "indicator":"Expected Years of Schooling, female (years)",
    "yearlyData":[
     {
-     "year":1990,
-     "value":16.19
-    },
-    {
-     "year":1991,
-     "value":16.29
-    },
-    {
-     "year":1992,
-     "value":16.4
-    },
-    {
-     "year":1993,
-     "value":16.5
-    },
-    {
-     "year":1994,
-     "value":16.61
-    },
-    {
-     "year":1995,
-     "value":16.72
-    },
-    {
-     "year":1996,
-     "value":16.83
-    },
-    {
-     "year":1997,
-     "value":16.93
-    },
-    {
-     "year":1998,
-     "value":17.04
-    },
-    {
-     "year":1999,
-     "value":17.15
-    },
-    {
-     "year":2000,
-     "value":17.27
-    },
-    {
-     "year":2001,
-     "value":17.38
-    },
-    {
-     "year":2002,
-     "value":17.49
-    },
-    {
-     "year":2003,
-     "value":17.6
-    },
-    {
-     "year":2004,
-     "value":17.72
-    },
-    {
-     "year":2005,
-     "value":17.83
-    },
-    {
-     "year":2006,
-     "value":17.95
-    },
-    {
-     "year":2007,
-     "value":18.06
-    },
-    {
-     "year":2008,
-     "value":18.18
-    },
-    {
-     "year":2009,
-     "value":18.3
-    },
-    {
-     "year":2010,
-     "value":18.42
-    },
-    {
-     "year":2011,
-     "value":18.54
-    },
-    {
-     "year":2012,
-     "value":18.66
-    },
-    {
-     "year":2013,
-     "value":18.78
-    },
-    {
-     "year":2014,
-     "value":18.9
-    },
-    {
      "year":2015,
-     "value":19.02
+     "value":16.88
     },
     {
      "year":2016,
-     "value":19.36
+     "value":17.21
     },
     {
      "year":2017,
-     "value":18.87
+     "value":16.68
     },
     {
      "year":2018,
-     "value":19.18
+     "value":17.05
     },
     {
      "year":2019,
-     "value":19.27
+     "value":17.09
     },
     {
      "year":2020,
-     "value":19.27
+     "value":17.13
     },
     {
      "year":2021,
-     "value":19.27
+     "value":17.13
+    },
+    {
+     "year":2022,
+     "value":17.13
     }
    ]
   },
@@ -3715,131 +3631,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":14.39
+     "value":14.93
     },
     {
      "year":1991,
-     "value":14.55
+     "value":15.0
     },
     {
      "year":1992,
-     "value":14.71
+     "value":15.07
     },
     {
      "year":1993,
-     "value":14.87
+     "value":15.14
     },
     {
      "year":1994,
-     "value":15.03
+     "value":15.21
     },
     {
      "year":1995,
-     "value":15.2
+     "value":15.28
     },
     {
      "year":1996,
-     "value":15.36
+     "value":15.35
     },
     {
      "year":1997,
-     "value":15.53
+     "value":15.42
     },
     {
      "year":1998,
-     "value":15.7
+     "value":15.5
     },
     {
      "year":1999,
-     "value":15.87
+     "value":15.57
     },
     {
      "year":2000,
-     "value":16.04
+     "value":15.64
     },
     {
      "year":2001,
-     "value":16.22
+     "value":15.72
     },
     {
      "year":2002,
-     "value":16.39
+     "value":15.79
     },
     {
      "year":2003,
-     "value":16.57
+     "value":15.86
     },
     {
      "year":2004,
-     "value":16.75
+     "value":15.94
     },
     {
      "year":2005,
-     "value":16.94
+     "value":16.01
     },
     {
      "year":2006,
-     "value":17.12
+     "value":16.09
     },
     {
      "year":2007,
-     "value":17.31
+     "value":16.16
     },
     {
      "year":2008,
-     "value":17.5
+     "value":16.24
     },
     {
      "year":2009,
-     "value":17.69
+     "value":16.31
     },
     {
      "year":2010,
-     "value":17.88
+     "value":16.39
     },
     {
      "year":2011,
-     "value":18.08
+     "value":16.47
     },
     {
      "year":2012,
-     "value":18.28
+     "value":16.55
     },
     {
      "year":2013,
-     "value":18.48
+     "value":16.62
     },
     {
      "year":2014,
-     "value":18.67
+     "value":16.7
     },
     {
      "year":2015,
-     "value":18.87
+     "value":16.78
     },
     {
      "year":2016,
-     "value":18.82
+     "value":16.72
     },
     {
      "year":2017,
-     "value":18.49
+     "value":16.38
     },
     {
      "year":2018,
-     "value":18.63
+     "value":16.59
     },
     {
      "year":2019,
-     "value":18.66
+     "value":16.59
     },
     {
      "year":2020,
-     "value":18.66
+     "value":16.58
     },
     {
      "year":2021,
-     "value":18.66
+     "value":16.58
+    },
+    {
+     "year":2022,
+     "value":16.58
     }
    ]
   },
@@ -3847,132 +3767,36 @@
    "indicator":"Expected Years of Schooling, male (years)",
    "yearlyData":[
     {
-     "year":1990,
-     "value":12.81
-    },
-    {
-     "year":1991,
-     "value":13.0
-    },
-    {
-     "year":1992,
-     "value":13.2
-    },
-    {
-     "year":1993,
-     "value":13.41
-    },
-    {
-     "year":1994,
-     "value":13.61
-    },
-    {
-     "year":1995,
-     "value":13.82
-    },
-    {
-     "year":1996,
-     "value":14.03
-    },
-    {
-     "year":1997,
-     "value":14.25
-    },
-    {
-     "year":1998,
-     "value":14.47
-    },
-    {
-     "year":1999,
-     "value":14.69
-    },
-    {
-     "year":2000,
-     "value":14.91
-    },
-    {
-     "year":2001,
-     "value":15.14
-    },
-    {
-     "year":2002,
-     "value":15.37
-    },
-    {
-     "year":2003,
-     "value":15.61
-    },
-    {
-     "year":2004,
-     "value":15.85
-    },
-    {
-     "year":2005,
-     "value":16.09
-    },
-    {
-     "year":2006,
-     "value":16.34
-    },
-    {
-     "year":2007,
-     "value":16.59
-    },
-    {
-     "year":2008,
-     "value":16.84
-    },
-    {
-     "year":2009,
-     "value":17.1
-    },
-    {
-     "year":2010,
-     "value":17.37
-    },
-    {
-     "year":2011,
-     "value":17.64
-    },
-    {
-     "year":2012,
-     "value":17.92
-    },
-    {
-     "year":2013,
-     "value":18.19
-    },
-    {
-     "year":2014,
-     "value":18.46
-    },
-    {
      "year":2015,
-     "value":18.73
+     "value":16.68
     },
     {
      "year":2016,
-     "value":18.29
+     "value":16.26
     },
     {
      "year":2017,
-     "value":18.12
+     "value":16.1
     },
     {
      "year":2018,
-     "value":18.09
+     "value":16.15
     },
     {
      "year":2019,
-     "value":18.08
+     "value":16.11
     },
     {
      "year":2020,
-     "value":18.08
+     "value":16.06
     },
     {
      "year":2021,
-     "value":18.08
+     "value":16.06
+    },
+    {
+     "year":2022,
+     "value":16.06
     }
    ]
   },
@@ -4013,6 +3837,40 @@
     {
      "year":2022,
      "value":5.6
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of women in managerial positions, %",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":36.82
+    },
+    {
+     "year":2019,
+     "value":37.07
+    },
+    {
+     "year":2020,
+     "value":35.97
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":33.07
+    },
+    {
+     "year":2019,
+     "value":23.61
+    },
+    {
+     "year":2020,
+     "value":27.93
     }
    ]
   },
@@ -5020,6 +4878,43 @@
    ]
   },
   {
+   "indicator":"Gender Development Index (value)",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":0.98
+    },
+    {
+     "year":2016,
+     "value":0.99
+    },
+    {
+     "year":2017,
+     "value":0.98
+    },
+    {
+     "year":2018,
+     "value":1.0
+    },
+    {
+     "year":2019,
+     "value":1.0
+    },
+    {
+     "year":2020,
+     "value":1.0
+    },
+    {
+     "year":2021,
+     "value":0.98
+    },
+    {
+     "year":2022,
+     "value":0.98
+    }
+   ]
+  },
+  {
    "indicator":"Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE)",
    "yearlyData":[
     {
@@ -5667,135 +5562,229 @@
    ]
   },
   {
+   "indicator":"Gross National Income Per Capita, female (2017 PPP$)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":9624.16
+    },
+    {
+     "year":2014,
+     "value":10250.3
+    },
+    {
+     "year":2015,
+     "value":9887.94
+    },
+    {
+     "year":2016,
+     "value":10341.46
+    },
+    {
+     "year":2017,
+     "value":10675.71
+    },
+    {
+     "year":2018,
+     "value":11976.23
+    },
+    {
+     "year":2019,
+     "value":12017.99
+    },
+    {
+     "year":2020,
+     "value":10658.93
+    },
+    {
+     "year":2021,
+     "value":9296.42
+    },
+    {
+     "year":2022,
+     "value":9774.72
+    }
+   ]
+  },
+  {
    "indicator":"Gross National Income Per Capita (2017 PPP$)",
    "yearlyData":[
     {
      "year":1990,
-     "value":8146.42
+     "value":7923.01
     },
     {
      "year":1991,
-     "value":8494.56
+     "value":8213.71
     },
     {
      "year":1992,
-     "value":8456.85
+     "value":8132.5
     },
     {
      "year":1993,
-     "value":8060.28
+     "value":7749.2
     },
     {
      "year":1994,
-     "value":8190.69
+     "value":7887.26
     },
     {
      "year":1995,
-     "value":8183.31
+     "value":7886.65
     },
     {
      "year":1996,
-     "value":8462.49
+     "value":8152.13
     },
     {
      "year":1997,
-     "value":8826.03
+     "value":8493.03
     },
     {
      "year":1998,
-     "value":9727.92
+     "value":9345.1
     },
     {
      "year":1999,
-     "value":10330.66
+     "value":9905.99
     },
     {
      "year":2000,
-     "value":10675.44
+     "value":10218.41
     },
     {
      "year":2001,
-     "value":10253.08
+     "value":9807.82
     },
     {
      "year":2002,
-     "value":10468.7
+     "value":10024.03
     },
     {
      "year":2003,
-     "value":11452.12
+     "value":10953.42
     },
     {
      "year":2004,
-     "value":11050.79
+     "value":10529.18
     },
     {
      "year":2005,
-     "value":13433.95
+     "value":12752.43
     },
     {
      "year":2006,
-     "value":12855.44
+     "value":12154.07
     },
     {
      "year":2007,
-     "value":13427.23
+     "value":12641.82
     },
     {
      "year":2008,
-     "value":13555.54
+     "value":12709.24
     },
     {
      "year":2009,
-     "value":12214.12
+     "value":11409.52
     },
     {
      "year":2010,
-     "value":12502.11
+     "value":11646.19
     },
     {
      "year":2011,
-     "value":12675.81
+     "value":11779.53
     },
     {
      "year":2012,
-     "value":12426.6
+     "value":11518.92
     },
     {
      "year":2013,
-     "value":12734.96
+     "value":11779.35
     },
     {
      "year":2014,
-     "value":12844.95
+     "value":11857.46
     },
     {
      "year":2015,
-     "value":13219.28
+     "value":12176.96
     },
     {
      "year":2016,
-     "value":13914.87
+     "value":12789.16
     },
     {
      "year":2017,
-     "value":14465.2
+     "value":13263.27
     },
     {
      "year":2018,
-     "value":14975.51
+     "value":13726.26
     },
     {
      "year":2019,
-     "value":14983.79
+     "value":13640.37
     },
     {
      "year":2020,
-     "value":12840.52
+     "value":12403.05
     },
     {
      "year":2021,
-     "value":13483.58
+     "value":12933.43
+    },
+    {
+     "year":2022,
+     "value":13593.25
+    }
+   ]
+  },
+  {
+   "indicator":"Gross National Income Per Capita, male (2017 PPP$)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":13903.45
+    },
+    {
+     "year":2014,
+     "value":13444.04
+    },
+    {
+     "year":2015,
+     "value":14440.75
+    },
+    {
+     "year":2016,
+     "value":15214.56
+    },
+    {
+     "year":2017,
+     "value":15831.97
+    },
+    {
+     "year":2018,
+     "value":15466.47
+    },
+    {
+     "year":2019,
+     "value":15256.35
+    },
+    {
+     "year":2020,
+     "value":14142.39
+    },
+    {
+     "year":2021,
+     "value":16564.44
+    },
+    {
+     "year":2022,
+     "value":17411.5
     }
    ]
   },
@@ -5984,31 +5973,105 @@
    ]
   },
   {
+   "indicator":"Human Development Index (female)",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":0.78
+    },
+    {
+     "year":2016,
+     "value":0.78
+    },
+    {
+     "year":2017,
+     "value":0.78
+    },
+    {
+     "year":2018,
+     "value":0.79
+    },
+    {
+     "year":2019,
+     "value":0.79
+    },
+    {
+     "year":2020,
+     "value":0.78
+    },
+    {
+     "year":2021,
+     "value":0.78
+    },
+    {
+     "year":2022,
+     "value":0.78
+    }
+   ]
+  },
+  {
+   "indicator":"Human Development Index (male)",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":0.79
+    },
+    {
+     "year":2016,
+     "value":0.79
+    },
+    {
+     "year":2017,
+     "value":0.79
+    },
+    {
+     "year":2018,
+     "value":0.79
+    },
+    {
+     "year":2019,
+     "value":0.79
+    },
+    {
+     "year":2020,
+     "value":0.79
+    },
+    {
+     "year":2021,
+     "value":0.8
+    },
+    {
+     "year":2022,
+     "value":0.8
+    }
+   ]
+  },
+  {
    "indicator":"Human development index (HDI)",
    "yearlyData":[
     {
      "year":2002,
-     "value":0.74
+     "value":0.76
     },
     {
      "year":2003,
-     "value":0.75
+     "value":0.76
     },
     {
      "year":2004,
-     "value":0.74
+     "value":0.75
     },
     {
      "year":2005,
-     "value":0.76
+     "value":0.77
     },
     {
      "year":2006,
-     "value":0.76
+     "value":0.77
     },
     {
      "year":2007,
-     "value":0.77
+     "value":0.78
     },
     {
      "year":2008,
@@ -6024,7 +6087,7 @@
     },
     {
      "year":2011,
-     "value":0.79
+     "value":0.78
     },
     {
      "year":2012,
@@ -6032,11 +6095,11 @@
     },
     {
      "year":2013,
-     "value":0.79
+     "value":0.78
     },
     {
      "year":2014,
-     "value":0.79
+     "value":0.78
     },
     {
      "year":2015,
@@ -6052,11 +6115,11 @@
     },
     {
      "year":2018,
-     "value":0.8
+     "value":0.79
     },
     {
      "year":2019,
-     "value":0.8
+     "value":0.79
     },
     {
      "year":2020,
@@ -6064,7 +6127,11 @@
     },
     {
      "year":2021,
-     "value":0.8
+     "value":0.79
+    },
+    {
+     "year":2022,
+     "value":0.79
     }
    ]
   },
@@ -6100,6 +6167,35 @@
     {
      "year":2022,
      "value":22400000.0
+    }
+   ]
+  },
+  {
+   "indicator":"Inequality in income",
+   "yearlyData":[
+    {
+     "year":2010,
+     "value":32.56
+    },
+    {
+     "year":2011,
+     "value":32.56
+    },
+    {
+     "year":2012,
+     "value":32.56
+    },
+    {
+     "year":2013,
+     "value":32.56
+    },
+    {
+     "year":2014,
+     "value":32.56
+    },
+    {
+     "year":2015,
+     "value":32.56
     }
    ]
   },
@@ -6153,6 +6249,10 @@
     {
      "year":2021,
      "value":9.63
+    },
+    {
+     "year":2022,
+     "value":9.23
     }
    ]
   },
@@ -6732,6 +6832,96 @@
    ]
   },
   {
+   "indicator":"Gender Inequality Index-Labour force participation rate, female (% ages 15 and older)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":62.1
+    },
+    {
+     "year":2014,
+     "value":68.3
+    },
+    {
+     "year":2015,
+     "value":65.4
+    },
+    {
+     "year":2016,
+     "value":62.01
+    },
+    {
+     "year":2017,
+     "value":58.62
+    },
+    {
+     "year":2018,
+     "value":55.23
+    },
+    {
+     "year":2019,
+     "value":57.64
+    },
+    {
+     "year":2020,
+     "value":46.58
+    },
+    {
+     "year":2021,
+     "value":37.65
+    },
+    {
+     "year":2022,
+     "value":37.65
+    }
+   ]
+  },
+  {
+   "indicator":"Gender Inequality Index-Labour force participation rate, male (% ages 15 and older)",
+   "yearlyData":[
+    {
+     "year":2013,
+     "value":72.4
+    },
+    {
+     "year":2014,
+     "value":72.3
+    },
+    {
+     "year":2015,
+     "value":77.1
+    },
+    {
+     "year":2016,
+     "value":73.67
+    },
+    {
+     "year":2017,
+     "value":70.25
+    },
+    {
+     "year":2018,
+     "value":66.82
+    },
+    {
+     "year":2019,
+     "value":70.18
+    },
+    {
+     "year":2020,
+     "value":61.74
+    },
+    {
+     "year":2021,
+     "value":54.31
+    },
+    {
+     "year":2022,
+     "value":54.31
+    }
+   ]
+  },
+  {
    "indicator":"Countries that have passed legislation on Universal Health Coverage (UHC) 2017",
    "yearlyData":[
     {
@@ -6867,7 +7057,7 @@
     },
     {
      "year":2001,
-     "value":75.43
+     "value":75.42
     },
     {
      "year":2002,
@@ -6891,7 +7081,7 @@
     },
     {
      "year":2007,
-     "value":77.35
+     "value":77.36
     },
     {
      "year":2008,
@@ -6911,7 +7101,7 @@
     },
     {
      "year":2012,
-     "value":77.89
+     "value":77.9
     },
     {
      "year":2013,
@@ -6948,6 +7138,10 @@
     {
      "year":2021,
      "value":77.9
+    },
+    {
+     "year":2022,
+     "value":78.3
     }
    ]
   },
@@ -6956,7 +7150,7 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":68.01
+     "value":68.02
     },
     {
      "year":1991,
@@ -7032,7 +7226,7 @@
     },
     {
      "year":2009,
-     "value":72.39
+     "value":72.4
     },
     {
      "year":2010,
@@ -7081,6 +7275,10 @@
     {
      "year":2021,
      "value":72.21
+    },
+    {
+     "year":2022,
+     "value":72.59
     }
    ]
   },
@@ -7121,7 +7319,7 @@
     },
     {
      "year":1998,
-     "value":72.8
+     "value":72.81
     },
     {
      "year":1999,
@@ -7173,7 +7371,7 @@
     },
     {
      "year":2011,
-     "value":75.29
+     "value":75.3
     },
     {
      "year":2012,
@@ -7197,7 +7395,7 @@
     },
     {
      "year":2017,
-     "value":74.77
+     "value":74.76
     },
     {
      "year":2018,
@@ -7214,6 +7412,10 @@
     {
      "year":2021,
      "value":74.94
+    },
+    {
+     "year":2022,
+     "value":75.33
     }
    ]
   },
@@ -7268,87 +7470,182 @@
    ]
   },
   {
+   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training, Male",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":19.83
+    },
+    {
+     "year":2019,
+     "value":24.25
+    },
+    {
+     "year":2020,
+     "value":29.91
+    }
+   ]
+  },
+  {
+   "indicator":"Mean Years of Schooling, female (years)",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":9.79
+    },
+    {
+     "year":2016,
+     "value":9.7
+    },
+    {
+     "year":2017,
+     "value":9.62
+    },
+    {
+     "year":2018,
+     "value":9.68
+    },
+    {
+     "year":2019,
+     "value":9.73
+    },
+    {
+     "year":2020,
+     "value":9.79
+    },
+    {
+     "year":2021,
+     "value":9.79
+    },
+    {
+     "year":2022,
+     "value":9.79
+    }
+   ]
+  },
+  {
+   "indicator":"Mean Years of Schooling, male (years)",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":9.62
+    },
+    {
+     "year":2016,
+     "value":9.72
+    },
+    {
+     "year":2017,
+     "value":9.82
+    },
+    {
+     "year":2018,
+     "value":9.86
+    },
+    {
+     "year":2019,
+     "value":9.89
+    },
+    {
+     "year":2020,
+     "value":9.92
+    },
+    {
+     "year":2021,
+     "value":9.92
+    },
+    {
+     "year":2022,
+     "value":9.92
+    }
+   ]
+  },
+  {
    "indicator":"Mean Years of Schooling (years)",
    "yearlyData":[
     {
      "year":2002,
-     "value":7.45
+     "value":9.61
     },
     {
      "year":2003,
-     "value":7.55
+     "value":9.62
     },
     {
      "year":2004,
-     "value":7.66
+     "value":9.63
     },
     {
      "year":2005,
-     "value":7.77
+     "value":9.64
     },
     {
      "year":2006,
-     "value":7.87
+     "value":9.64
     },
     {
      "year":2007,
-     "value":7.98
+     "value":9.65
     },
     {
      "year":2008,
-     "value":8.09
+     "value":9.66
     },
     {
      "year":2009,
-     "value":8.19
+     "value":9.66
     },
     {
      "year":2010,
-     "value":8.3
+     "value":9.67
     },
     {
      "year":2011,
-     "value":8.38
+     "value":9.68
     },
     {
      "year":2012,
-     "value":8.45
+     "value":9.69
     },
     {
      "year":2013,
-     "value":8.52
+     "value":9.69
     },
     {
      "year":2014,
-     "value":8.6
+     "value":9.7
     },
     {
      "year":2015,
-     "value":8.68
+     "value":9.71
     },
     {
      "year":2016,
-     "value":8.68
+     "value":9.71
     },
     {
      "year":2017,
-     "value":8.68
+     "value":9.72
     },
     {
      "year":2018,
-     "value":8.8
+     "value":9.77
     },
     {
      "year":2019,
-     "value":9.03
+     "value":9.81
     },
     {
      "year":2020,
-     "value":9.03
+     "value":9.86
     },
     {
      "year":2021,
-     "value":9.03
+     "value":9.86
+    },
+    {
+     "year":2022,
+     "value":9.86
     }
    ]
   },
@@ -7402,131 +7699,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":58.0
+     "value":47.06
     },
     {
      "year":1991,
-     "value":56.0
+     "value":46.53
     },
     {
      "year":1992,
-     "value":54.0
+     "value":43.52
     },
     {
      "year":1993,
-     "value":52.0
+     "value":58.29
     },
     {
      "year":1994,
-     "value":51.0
+     "value":57.21
     },
     {
      "year":1995,
-     "value":49.0
+     "value":54.84
     },
     {
      "year":1996,
-     "value":47.0
+     "value":53.46
     },
     {
      "year":1997,
-     "value":45.0
+     "value":52.08
     },
     {
      "year":1998,
-     "value":42.0
+     "value":42.17
     },
     {
      "year":1999,
-     "value":40.0
+     "value":40.16
     },
     {
      "year":2000,
-     "value":38.0
+     "value":42.09
     },
     {
      "year":2001,
-     "value":36.0
+     "value":40.31
     },
     {
      "year":2002,
-     "value":34.0
+     "value":36.44
     },
     {
      "year":2003,
-     "value":34.0
+     "value":34.23
     },
     {
      "year":2004,
-     "value":38.0
+     "value":40.93
     },
     {
      "year":2005,
-     "value":33.0
+     "value":31.88
     },
     {
      "year":2006,
-     "value":31.0
+     "value":30.14
     },
     {
      "year":2007,
-     "value":31.0
+     "value":29.15
     },
     {
      "year":2008,
-     "value":30.0
+     "value":28.57
     },
     {
      "year":2009,
-     "value":30.0
+     "value":27.08
     },
     {
      "year":2010,
-     "value":29.0
+     "value":27.34
     },
     {
      "year":2011,
-     "value":28.0
+     "value":26.81
     },
     {
      "year":2012,
-     "value":28.0
+     "value":26.12
     },
     {
      "year":2013,
-     "value":27.0
+     "value":25.22
     },
     {
      "year":2014,
-     "value":26.0
+     "value":24.37
     },
     {
      "year":2015,
-     "value":25.0
+     "value":23.37
     },
     {
      "year":2016,
-     "value":25.0
+     "value":23.19
     },
     {
      "year":2017,
-     "value":25.0
+     "value":23.78
     },
     {
      "year":2018,
-     "value":25.0
+     "value":21.08
     },
     {
      "year":2019,
-     "value":25.0
+     "value":20.48
     },
     {
      "year":2020,
-     "value":25.0
+     "value":21.14
     },
     {
      "year":2021,
-     "value":25.0
+     "value":21.14
+    },
+    {
+     "year":2022,
+     "value":21.14
     }
    ]
   },
@@ -7559,11 +7860,11 @@
     },
     {
      "year":2020,
-     "value":182.0
+     "value":190.0
     },
     {
      "year":2021,
-     "value":196.5
+     "value":197.0
     }
    ]
   },
@@ -7775,31 +8076,35 @@
    "yearlyData":[
     {
      "year":2011,
-     "value":36.0
+     "value":32.9
     },
     {
      "year":2012,
-     "value":35.8
+     "value":32.6
     },
     {
      "year":2013,
-     "value":38.1
+     "value":34.5
     },
     {
      "year":2014,
-     "value":38.0
+     "value":34.2
     },
     {
      "year":2015,
-     "value":37.8
+     "value":34.0
     },
     {
      "year":2016,
-     "value":35.8
+     "value":32.0
     },
     {
      "year":2017,
-     "value":35.7
+     "value":31.8
+    },
+    {
+     "year":2018,
+     "value":31.8
     }
    ]
   },
@@ -8182,6 +8487,10 @@
     {
      "year":2021,
      "value":32.14
+    },
+    {
+     "year":2022,
+     "value":31.03
     }
    ]
   },
@@ -8746,6 +9055,33 @@
     {
      "year":2017,
      "value":91.49
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":0.3
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":1.3
+    }
+   ]
+  },
+  {
+   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":13.8
     }
    ]
   },
@@ -11371,6 +11707,23 @@
    ]
   },
   {
+   "indicator":"Proportion of women in senior and middle management positions, %",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":49.45
+    },
+    {
+     "year":2019,
+     "value":33.28
+    },
+    {
+     "year":2020,
+     "value":36.3
+    }
+   ]
+  },
+  {
    "indicator":"Sex Workers-  Population size estimate (all ages)",
    "yearlyData":[
     {
@@ -11469,6 +11822,10 @@
     {
      "year":2021,
      "value":67.86
+    },
+    {
+     "year":2022,
+     "value":68.97
     }
    ]
   },
@@ -11766,11 +12123,11 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":3.82
+     "value":0.57
     },
     {
      "year":2001,
-     "value":0.0
+     "value":0.75
     },
     {
      "year":2002,
@@ -11778,11 +12135,11 @@
     },
     {
      "year":2003,
-     "value":2.57
+     "value":4.79
     },
     {
      "year":2004,
-     "value":0.93
+     "value":4.89
     },
     {
      "year":2005,
@@ -11794,7 +12151,7 @@
     },
     {
      "year":2007,
-     "value":3.31
+     "value":0.58
     },
     {
      "year":2008,
@@ -11802,7 +12159,7 @@
     },
     {
      "year":2009,
-     "value":0.52
+     "value":1.37
     },
     {
      "year":2010,
@@ -11818,7 +12175,7 @@
     },
     {
      "year":2013,
-     "value":1.12
+     "value":0.5
     },
     {
      "year":2014,
@@ -11826,7 +12183,7 @@
     },
     {
      "year":2015,
-     "value":0.27
+     "value":0.62
     },
     {
      "year":2016,
@@ -11838,7 +12195,7 @@
     },
     {
      "year":2018,
-     "value":0.0
+     "value":0.71
     },
     {
      "year":2019,
@@ -12404,6 +12761,23 @@
     {
      "year":2022,
      "value":46246.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training",
+   "yearlyData":[
+    {
+     "year":2018,
+     "value":26.94
+    },
+    {
+     "year":2019,
+     "value":23.93
+    },
+    {
+     "year":2020,
+     "value":28.91
     }
    ]
   },

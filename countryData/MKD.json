@@ -877,6 +877,10 @@
     {
      "year":2021,
      "value":16.37
+    },
+    {
+     "year":2022,
+     "value":16.12
     }
    ]
   },
@@ -1014,131 +1018,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":7.11
-    },
-    {
-     "year":1991,
-     "value":5.03
-    },
-    {
-     "year":1992,
-     "value":5.52
-    },
-    {
-     "year":1993,
-     "value":5.1
-    },
-    {
-     "year":1994,
-     "value":5.32
-    },
-    {
-     "year":1995,
-     "value":5.36
-    },
-    {
-     "year":1996,
-     "value":5.87
-    },
-    {
-     "year":1997,
-     "value":5.29
-    },
-    {
-     "year":1998,
-     "value":6.25
-    },
-    {
-     "year":1999,
-     "value":5.76
-    },
-    {
-     "year":2000,
-     "value":5.9
-    },
-    {
-     "year":2001,
-     "value":5.84
-    },
-    {
-     "year":2002,
-     "value":5.3
-    },
-    {
-     "year":2003,
-     "value":5.47
-    },
-    {
-     "year":2004,
-     "value":5.4
-    },
-    {
-     "year":2005,
      "value":5.43
     },
     {
-     "year":2006,
-     "value":5.25
-    },
-    {
-     "year":2007,
-     "value":4.54
-    },
-    {
-     "year":2008,
-     "value":4.5
-    },
-    {
-     "year":2009,
-     "value":4.15
-    },
-    {
-     "year":2010,
-     "value":4.11
-    },
-    {
-     "year":2011,
-     "value":4.44
-    },
-    {
-     "year":2012,
-     "value":4.21
-    },
-    {
-     "year":2013,
-     "value":3.74
-    },
-    {
-     "year":2014,
-     "value":3.59
-    },
-    {
-     "year":2015,
-     "value":3.38
-    },
-    {
-     "year":2016,
-     "value":3.36
-    },
-    {
-     "year":2017,
-     "value":3.6
-    },
-    {
-     "year":2018,
-     "value":3.37
-    },
-    {
-     "year":2019,
+     "year":1991,
      "value":3.83
     },
     {
+     "year":1992,
+     "value":4.16
+    },
+    {
+     "year":1993,
+     "value":3.81
+    },
+    {
+     "year":1994,
+     "value":3.99
+    },
+    {
+     "year":1995,
+     "value":3.99
+    },
+    {
+     "year":1996,
+     "value":4.72
+    },
+    {
+     "year":1997,
+     "value":4.21
+    },
+    {
+     "year":1998,
+     "value":4.79
+    },
+    {
+     "year":1999,
+     "value":4.34
+    },
+    {
+     "year":2000,
+     "value":4.15
+    },
+    {
+     "year":2001,
+     "value":4.04
+    },
+    {
+     "year":2002,
+     "value":3.79
+    },
+    {
+     "year":2003,
+     "value":4.12
+    },
+    {
+     "year":2004,
+     "value":3.96
+    },
+    {
+     "year":2005,
+     "value":4.14
+    },
+    {
+     "year":2006,
+     "value":4.16
+    },
+    {
+     "year":2007,
+     "value":4.33
+    },
+    {
+     "year":2008,
+     "value":4.28
+    },
+    {
+     "year":2009,
+     "value":3.94
+    },
+    {
+     "year":2010,
+     "value":3.91
+    },
+    {
+     "year":2011,
+     "value":4.21
+    },
+    {
+     "year":2012,
+     "value":4.04
+    },
+    {
+     "year":2013,
+     "value":3.56
+    },
+    {
+     "year":2014,
+     "value":3.42
+    },
+    {
+     "year":2015,
+     "value":3.21
+    },
+    {
+     "year":2016,
+     "value":3.15
+    },
+    {
+     "year":2017,
+     "value":3.39
+    },
+    {
+     "year":2018,
+     "value":3.16
+    },
+    {
+     "year":2019,
+     "value":3.62
+    },
+    {
      "year":2020,
-     "value":3.43
+     "value":3.29
     },
     {
      "year":2021,
-     "value":3.43
+     "value":3.66
+    },
+    {
+     "year":2022,
+     "value":3.66
     }
    ]
   },
@@ -2213,44 +2221,56 @@
    "indicator":"Coefficient of human inequality",
    "yearlyData":[
     {
+     "year":2010,
+     "value":17.73
+    },
+    {
      "year":2011,
-     "value":15.44
+     "value":15.48
     },
     {
      "year":2012,
-     "value":15.69
+     "value":14.95
     },
     {
      "year":2013,
-     "value":15.7
+     "value":14.19
     },
     {
      "year":2014,
-     "value":15.66
+     "value":13.37
     },
     {
      "year":2015,
-     "value":15.43
+     "value":12.85
     },
     {
      "year":2016,
-     "value":15.86
+     "value":13.26
+    },
+    {
+     "year":2017,
+     "value":12.58
     },
     {
      "year":2018,
-     "value":10.71
+     "value":11.44
     },
     {
      "year":2019,
-     "value":10.64
+     "value":10.76
     },
     {
      "year":2020,
-     "value":10.61
+     "value":11.05
     },
     {
      "year":2021,
-     "value":10.65
+     "value":11.09
+    },
+    {
+     "year":2022,
+     "value":11.08
     }
    ]
   },
@@ -2659,7 +2679,7 @@
     },
     {
      "year":2024,
-     "value":350520.0
+     "value":350579.0
     }
    ]
   },
@@ -2684,7 +2704,7 @@
     },
     {
      "year":2024,
-     "value":9971.0
+     "value":9977.0
     }
    ]
   },
@@ -4367,111 +4387,115 @@
    "yearlyData":[
     {
      "year":1995,
-     "value":10.9
+     "value":6.37
     },
     {
      "year":1996,
-     "value":10.92
+     "value":6.77
     },
     {
      "year":1997,
-     "value":9.92
+     "value":5.96
     },
     {
      "year":1998,
-     "value":12.86
+     "value":7.72
     },
     {
      "year":1999,
-     "value":12.26
+     "value":8.07
     },
     {
      "year":2000,
-     "value":12.59
+     "value":7.54
     },
     {
      "year":2001,
-     "value":12.37
+     "value":7.93
     },
     {
      "year":2002,
-     "value":13.18
+     "value":7.31
     },
     {
      "year":2003,
-     "value":13.66
+     "value":7.68
     },
     {
      "year":2004,
-     "value":14.27
+     "value":8.18
     },
     {
      "year":2005,
-     "value":13.59
+     "value":7.39
     },
     {
      "year":2006,
-     "value":10.89
+     "value":5.76
     },
     {
      "year":2007,
-     "value":10.97
+     "value":6.0
     },
     {
      "year":2008,
-     "value":11.37
+     "value":6.66
     },
     {
      "year":2009,
-     "value":10.1
+     "value":6.22
     },
     {
      "year":2010,
-     "value":9.21
+     "value":6.43
     },
     {
      "year":2011,
-     "value":10.66
+     "value":7.06
     },
     {
      "year":2012,
-     "value":10.23
+     "value":7.81
     },
     {
      "year":2013,
-     "value":9.73
+     "value":7.34
     },
     {
      "year":2014,
-     "value":9.67
+     "value":7.02
     },
     {
      "year":2015,
-     "value":9.32
+     "value":6.56
     },
     {
      "year":2016,
-     "value":10.3
+     "value":6.52
     },
     {
      "year":2017,
-     "value":9.31
+     "value":5.96
     },
     {
      "year":2018,
-     "value":8.47
+     "value":5.9
     },
     {
      "year":2019,
-     "value":8.55
+     "value":5.84
     },
     {
      "year":2020,
-     "value":8.27
+     "value":6.01
     },
     {
      "year":2021,
-     "value":8.18
+     "value":6.41
+    },
+    {
+     "year":2022,
+     "value":6.54
     }
    ]
   },
@@ -7207,59 +7231,59 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":10.22
+     "value":11.23
     },
     {
      "year":1991,
-     "value":10.35
+     "value":11.19
     },
     {
      "year":1992,
-     "value":10.47
+     "value":11.16
     },
     {
      "year":1993,
-     "value":10.6
+     "value":11.12
     },
     {
      "year":1994,
-     "value":10.74
+     "value":11.08
     },
     {
      "year":1995,
-     "value":10.97
+     "value":11.18
     },
     {
      "year":1996,
-     "value":11.13
+     "value":11.19
     },
     {
      "year":1997,
-     "value":11.21
+     "value":11.19
     },
     {
      "year":1998,
-     "value":11.3
+     "value":11.26
     },
     {
      "year":1999,
-     "value":11.46
+     "value":11.45
     },
     {
      "year":2000,
-     "value":11.53
+     "value":11.59
     },
     {
      "year":2001,
-     "value":11.64
-    },
-    {
-     "year":2002,
      "value":11.71
     },
     {
+     "year":2002,
+     "value":11.74
+    },
+    {
      "year":2003,
-     "value":11.73
+     "value":11.74
     },
     {
      "year":2004,
@@ -7267,71 +7291,75 @@
     },
     {
      "year":2005,
-     "value":11.89
+     "value":11.88
     },
     {
      "year":2006,
-     "value":11.95
+     "value":11.92
     },
     {
      "year":2007,
-     "value":12.02
+     "value":11.95
     },
     {
      "year":2008,
-     "value":12.86
+     "value":12.72
     },
     {
      "year":2009,
-     "value":12.84
+     "value":12.65
     },
     {
      "year":2010,
-     "value":12.86
+     "value":12.63
     },
     {
      "year":2011,
-     "value":12.93
+     "value":12.75
     },
     {
      "year":2012,
-     "value":13.0
+     "value":12.86
     },
     {
      "year":2013,
-     "value":13.04
+     "value":12.88
     },
     {
      "year":2014,
-     "value":13.06
+     "value":12.85
     },
     {
      "year":2015,
-     "value":13.51
+     "value":13.23
     },
     {
      "year":2016,
-     "value":13.65
+     "value":13.33
     },
     {
      "year":2017,
-     "value":13.79
+     "value":13.43
     },
     {
      "year":2018,
-     "value":13.72
+     "value":13.3
     },
     {
      "year":2019,
-     "value":13.86
+     "value":13.14
     },
     {
      "year":2020,
-     "value":13.86
+     "value":13.15
     },
     {
      "year":2021,
-     "value":13.86
+     "value":13.43
+    },
+    {
+     "year":2022,
+     "value":13.43
     }
    ]
   },
@@ -7340,39 +7368,39 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":10.35
+     "value":11.32
     },
     {
      "year":1991,
-     "value":10.44
+     "value":11.25
     },
     {
      "year":1992,
-     "value":10.54
+     "value":11.19
     },
     {
      "year":1993,
-     "value":10.63
-    },
-    {
-     "year":1994,
-     "value":10.72
-    },
-    {
-     "year":1995,
-     "value":10.93
-    },
-    {
-     "year":1996,
      "value":11.12
     },
     {
+     "year":1994,
+     "value":11.05
+    },
+    {
+     "year":1995,
+     "value":11.13
+    },
+    {
+     "year":1996,
+     "value":11.17
+    },
+    {
      "year":1997,
-     "value":11.2
+     "value":11.18
     },
     {
      "year":1998,
-     "value":11.32
+     "value":11.28
     },
     {
      "year":1999,
@@ -7380,19 +7408,19 @@
     },
     {
      "year":2000,
-     "value":11.53
+     "value":11.62
     },
     {
      "year":2001,
-     "value":11.59
+     "value":11.71
     },
     {
      "year":2002,
-     "value":11.63
+     "value":11.71
     },
     {
      "year":2003,
-     "value":11.64
+     "value":11.69
     },
     {
      "year":2004,
@@ -7400,71 +7428,75 @@
     },
     {
      "year":2005,
-     "value":11.79
+     "value":11.76
     },
     {
      "year":2006,
-     "value":11.89
+     "value":11.82
     },
     {
      "year":2007,
-     "value":11.98
+     "value":11.87
     },
     {
      "year":2008,
-     "value":12.88
+     "value":12.67
     },
     {
      "year":2009,
-     "value":12.85
+     "value":12.58
     },
     {
      "year":2010,
-     "value":12.84
+     "value":12.52
     },
     {
      "year":2011,
-     "value":12.88
+     "value":12.6
     },
     {
      "year":2012,
-     "value":12.92
+     "value":12.67
     },
     {
      "year":2013,
-     "value":12.94
+     "value":12.67
     },
     {
      "year":2014,
-     "value":12.96
+     "value":12.66
     },
     {
      "year":2015,
-     "value":13.33
+     "value":12.97
     },
     {
      "year":2016,
-     "value":13.46
+     "value":13.08
     },
     {
      "year":2017,
-     "value":13.59
+     "value":13.18
     },
     {
      "year":2018,
-     "value":13.51
+     "value":13.05
     },
     {
      "year":2019,
-     "value":13.62
+     "value":12.82
     },
     {
      "year":2020,
-     "value":13.62
+     "value":12.81
     },
     {
      "year":2021,
-     "value":13.62
+     "value":13.0
+    },
+    {
+     "year":2022,
+     "value":13.0
     }
    ]
   },
@@ -7473,131 +7505,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":10.48
+     "value":11.41
     },
     {
      "year":1991,
-     "value":10.54
+     "value":11.31
     },
     {
      "year":1992,
-     "value":10.59
+     "value":11.22
     },
     {
      "year":1993,
-     "value":10.65
+     "value":11.13
     },
     {
      "year":1994,
-     "value":10.71
+     "value":11.03
     },
     {
      "year":1995,
-     "value":10.89
+     "value":11.09
     },
     {
      "year":1996,
-     "value":11.1
+     "value":11.15
     },
     {
      "year":1997,
-     "value":11.19
+     "value":11.17
     },
     {
      "year":1998,
-     "value":11.34
+     "value":11.32
     },
     {
      "year":1999,
-     "value":11.45
+     "value":11.47
     },
     {
      "year":2000,
-     "value":11.53
+     "value":11.66
     },
     {
      "year":2001,
-     "value":11.55
+     "value":11.71
     },
     {
      "year":2002,
-     "value":11.56
+     "value":11.68
     },
     {
      "year":2003,
-     "value":11.56
+     "value":11.63
     },
     {
      "year":2004,
-     "value":11.55
+     "value":11.56
     },
     {
      "year":2005,
-     "value":11.7
+     "value":11.65
     },
     {
      "year":2006,
-     "value":11.83
+     "value":11.72
     },
     {
      "year":2007,
-     "value":11.95
+     "value":11.8
     },
     {
      "year":2008,
-     "value":12.9
+     "value":12.63
     },
     {
      "year":2009,
-     "value":12.86
+     "value":12.51
     },
     {
      "year":2010,
-     "value":12.82
+     "value":12.41
     },
     {
      "year":2011,
-     "value":12.83
+     "value":12.45
     },
     {
      "year":2012,
-     "value":12.84
+     "value":12.49
     },
     {
      "year":2013,
-     "value":12.84
+     "value":12.48
     },
     {
      "year":2014,
-     "value":12.87
+     "value":12.48
     },
     {
      "year":2015,
-     "value":13.16
+     "value":12.73
     },
     {
      "year":2016,
-     "value":13.27
+     "value":12.84
     },
     {
      "year":2017,
-     "value":13.39
+     "value":12.95
     },
     {
      "year":2018,
-     "value":13.3
+     "value":12.81
     },
     {
      "year":2019,
-     "value":13.4
+     "value":12.53
     },
     {
      "year":2020,
-     "value":13.4
+     "value":12.5
     },
     {
      "year":2021,
-     "value":13.4
+     "value":12.61
+    },
+    {
+     "year":2022,
+     "value":12.61
     }
    ]
   },
@@ -7863,83 +7899,87 @@
    "yearlyData":[
     {
      "year":2002,
-     "value":19.0
+     "value":19.03
     },
     {
      "year":2003,
-     "value":26.8
+     "value":26.84
     },
     {
      "year":2004,
-     "value":28.0
+     "value":28.03
     },
     {
      "year":2005,
-     "value":28.5
+     "value":28.51
     },
     {
      "year":2006,
-     "value":26.4
+     "value":26.44
     },
     {
      "year":2007,
-     "value":29.3
+     "value":29.31
     },
     {
      "year":2008,
-     "value":28.5
+     "value":28.54
     },
     {
      "year":2009,
-     "value":26.8
+     "value":26.76
     },
     {
      "year":2010,
-     "value":27.0
+     "value":26.96
     },
     {
      "year":2011,
-     "value":28.0
+     "value":27.98
     },
     {
      "year":2012,
-     "value":23.1
+     "value":23.07
     },
     {
      "year":2013,
-     "value":27.3
+     "value":27.31
     },
     {
      "year":2014,
-     "value":29.0
+     "value":29.02
     },
     {
      "year":2015,
-     "value":24.0
+     "value":23.97
     },
     {
      "year":2016,
-     "value":25.3
+     "value":25.27
     },
     {
      "year":2017,
-     "value":24.0
+     "value":23.98
     },
     {
      "year":2018,
-     "value":26.9
+     "value":26.89
     },
     {
      "year":2019,
-     "value":26.3
+     "value":26.26
     },
     {
      "year":2020,
-     "value":20.6
+     "value":20.58
     },
     {
      "year":2021,
-     "value":21.6
+     "value":21.57
+    },
+    {
+     "year":2022,
+     "value":28.55
     }
    ]
   },
@@ -8022,6 +8062,10 @@
     {
      "year":2021,
      "value":17.92
+    },
+    {
+     "year":2022,
+     "value":18.78
     }
    ]
   },
@@ -8882,11 +8926,11 @@
     },
     {
      "year":2003,
-     "value":0.93
+     "value":0.92
     },
     {
      "year":2004,
-     "value":0.93
+     "value":0.92
     },
     {
      "year":2005,
@@ -8894,19 +8938,19 @@
     },
     {
      "year":2006,
-     "value":0.92
+     "value":0.93
     },
     {
      "year":2007,
-     "value":0.92
+     "value":0.93
     },
     {
      "year":2008,
-     "value":0.92
+     "value":0.93
     },
     {
      "year":2009,
-     "value":0.92
+     "value":0.93
     },
     {
      "year":2010,
@@ -8914,11 +8958,11 @@
     },
     {
      "year":2011,
-     "value":0.93
+     "value":0.94
     },
     {
      "year":2012,
-     "value":0.93
+     "value":0.94
     },
     {
      "year":2013,
@@ -8926,7 +8970,7 @@
     },
     {
      "year":2014,
-     "value":0.94
+     "value":0.95
     },
     {
      "year":2015,
@@ -8946,15 +8990,19 @@
     },
     {
      "year":2019,
-     "value":0.94
+     "value":0.95
     },
     {
      "year":2020,
-     "value":0.94
+     "value":0.95
     },
     {
      "year":2021,
-     "value":0.94
+     "value":0.95
+    },
+    {
+     "year":2022,
+     "value":0.95
     }
    ]
   },
@@ -8976,7 +9024,7 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":0.42
+     "value":0.43
     },
     {
      "year":1991,
@@ -8984,19 +9032,19 @@
     },
     {
      "year":1992,
-     "value":0.41
+     "value":0.43
     },
     {
      "year":1993,
-     "value":0.41
+     "value":0.43
     },
     {
      "year":1994,
-     "value":0.42
+     "value":0.44
     },
     {
      "year":1995,
-     "value":0.42
+     "value":0.43
     },
     {
      "year":1996,
@@ -9004,11 +9052,11 @@
     },
     {
      "year":1997,
-     "value":0.41
+     "value":0.4
     },
     {
      "year":1998,
-     "value":0.4
+     "value":0.39
     },
     {
      "year":1999,
@@ -9020,11 +9068,11 @@
     },
     {
      "year":2001,
-     "value":0.32
+     "value":0.31
     },
     {
      "year":2002,
-     "value":0.25
+     "value":0.24
     },
     {
      "year":2003,
@@ -9032,7 +9080,7 @@
     },
     {
      "year":2004,
-     "value":0.22
+     "value":0.21
     },
     {
      "year":2005,
@@ -9076,7 +9124,7 @@
     },
     {
      "year":2015,
-     "value":0.16
+     "value":0.15
     },
     {
      "year":2016,
@@ -9100,6 +9148,10 @@
     },
     {
      "year":2021,
+     "value":0.14
+    },
+    {
+     "year":2022,
      "value":0.13
     }
    ]
@@ -9981,111 +10033,115 @@
    "yearlyData":[
     {
      "year":1995,
-     "value":5946.11
+     "value":5503.36
     },
     {
      "year":1996,
-     "value":5962.41
+     "value":5929.05
     },
     {
      "year":1997,
-     "value":5877.11
+     "value":5933.17
     },
     {
      "year":1998,
-     "value":6058.8
+     "value":6050.9
     },
     {
      "year":1999,
-     "value":6271.36
+     "value":6251.43
     },
     {
      "year":2000,
-     "value":6664.95
+     "value":6718.25
     },
     {
      "year":2001,
-     "value":6499.11
+     "value":6803.01
     },
     {
      "year":2002,
-     "value":6622.21
+     "value":6522.55
     },
     {
      "year":2003,
-     "value":6817.95
+     "value":6743.11
     },
     {
      "year":2004,
-     "value":7183.52
+     "value":6958.14
     },
     {
      "year":2005,
-     "value":7446.96
+     "value":7353.77
     },
     {
      "year":2006,
-     "value":7641.3
+     "value":7661.8
     },
     {
      "year":2007,
-     "value":7911.52
+     "value":7863.36
     },
     {
      "year":2008,
-     "value":8470.52
+     "value":8419.78
     },
     {
      "year":2009,
-     "value":8376.92
+     "value":8389.97
     },
     {
      "year":2010,
-     "value":8988.91
+     "value":8892.85
     },
     {
      "year":2011,
-     "value":9324.54
+     "value":9311.39
     },
     {
      "year":2012,
-     "value":9176.85
+     "value":9140.17
     },
     {
      "year":2013,
-     "value":9623.32
+     "value":9558.7
     },
     {
      "year":2014,
-     "value":10677.34
+     "value":10637.39
     },
     {
      "year":2015,
-     "value":10055.22
+     "value":10020.62
     },
     {
      "year":2016,
-     "value":10026.53
+     "value":9986.83
     },
     {
      "year":2017,
-     "value":10182.5
+     "value":10136.03
     },
     {
      "year":2018,
-     "value":10504.15
+     "value":10393.82
     },
     {
      "year":2019,
-     "value":11318.99
+     "value":11260.11
     },
     {
      "year":2020,
-     "value":10667.74
+     "value":10621.8
     },
     {
      "year":2021,
-     "value":11146.84
+     "value":11025.59
+    },
+    {
+     "year":2022,
+     "value":11525.75
     }
    ]
   },
@@ -10094,111 +10150,115 @@
    "yearlyData":[
     {
      "year":1995,
-     "value":8969.88
+     "value":8966.71
     },
     {
      "year":1996,
-     "value":9028.91
+     "value":9007.27
     },
     {
      "year":1997,
-     "value":9108.05
+     "value":9108.07
     },
     {
      "year":1998,
-     "value":9367.36
+     "value":9367.39
     },
     {
      "year":1999,
-     "value":9687.86
+     "value":9687.88
     },
     {
      "year":2000,
-     "value":10065.54
+     "value":10065.57
     },
     {
      "year":2001,
-     "value":9823.23
+     "value":9823.25
     },
     {
      "year":2002,
-     "value":10002.85
+     "value":10002.88
     },
     {
      "year":2003,
-     "value":10184.36
+     "value":10184.38
     },
     {
      "year":2004,
-     "value":10692.68
+     "value":10692.7
     },
     {
      "year":2005,
-     "value":11046.98
+     "value":11047.01
     },
     {
      "year":2006,
-     "value":11754.27
+     "value":11754.3
     },
     {
      "year":2007,
-     "value":11959.57
+     "value":11959.6
     },
     {
      "year":2008,
-     "value":13054.44
+     "value":13054.47
     },
     {
      "year":2009,
-     "value":13046.26
+     "value":13046.29
     },
     {
      "year":2010,
-     "value":13364.54
+     "value":13364.57
     },
     {
      "year":2011,
-     "value":13606.38
+     "value":13606.41
     },
     {
      "year":2012,
-     "value":13472.13
+     "value":13472.16
     },
     {
      "year":2013,
-     "value":13813.85
+     "value":13813.88
     },
     {
      "year":2014,
-     "value":14359.47
+     "value":14359.51
     },
     {
      "year":2015,
-     "value":14686.74
+     "value":14686.77
     },
     {
      "year":2016,
-     "value":14934.68
+     "value":14934.71
     },
     {
      "year":2017,
-     "value":15084.57
+     "value":15084.65
     },
     {
      "year":2018,
-     "value":15457.19
+     "value":15457.23
     },
     {
      "year":2019,
-     "value":15981.25
+     "value":15981.28
     },
     {
      "year":2020,
-     "value":15310.79
+     "value":15174.49
     },
     {
      "year":2021,
-     "value":15917.75
+     "value":15961.2
+    },
+    {
+     "year":2022,
+     "value":16395.75
     }
    ]
   },
@@ -10207,111 +10267,115 @@
    "yearlyData":[
     {
      "year":1995,
-     "value":11933.31
+     "value":12360.96
     },
     {
      "year":1996,
-     "value":12026.58
+     "value":12016.39
     },
     {
      "year":1997,
-     "value":12266.64
+     "value":12211.87
     },
     {
      "year":1998,
-     "value":12601.42
+     "value":12609.18
     },
     {
      "year":1999,
-     "value":13037.95
+     "value":13057.53
     },
     {
      "year":2000,
-     "value":13421.07
+     "value":13368.52
     },
     {
      "year":2001,
-     "value":13123.76
+     "value":12822.05
     },
     {
      "year":2002,
-     "value":13371.65
+     "value":13471.0
     },
     {
      "year":2003,
-     "value":13541.52
+     "value":13616.21
     },
     {
      "year":2004,
-     "value":14194.26
+     "value":14419.2
     },
     {
      "year":2005,
-     "value":14641.39
+     "value":14734.48
     },
     {
      "year":2006,
-     "value":15863.57
+     "value":15843.14
     },
     {
      "year":2007,
-     "value":16006.47
+     "value":16054.67
     },
     {
      "year":2008,
-     "value":17639.22
+     "value":17690.02
     },
     {
      "year":2009,
-     "value":17718.72
+     "value":17705.71
     },
     {
      "year":2010,
-     "value":17745.38
+     "value":17841.61
     },
     {
      "year":2011,
-     "value":17895.46
+     "value":17908.69
     },
     {
      "year":2012,
-     "value":17776.38
+     "value":17813.2
     },
     {
      "year":2013,
-     "value":18014.82
+     "value":18079.66
     },
     {
      "year":2014,
-     "value":18052.47
+     "value":18092.61
     },
     {
      "year":2015,
-     "value":19333.69
+     "value":19368.48
     },
     {
      "year":2016,
-     "value":19861.1
+     "value":19901.02
     },
     {
      "year":2017,
-     "value":20006.61
+     "value":20053.44
     },
     {
      "year":2018,
-     "value":20431.88
+     "value":20542.76
     },
     {
      "year":2019,
-     "value":20665.18
+     "value":20724.4
     },
     {
      "year":2020,
-     "value":19977.23
+     "value":19750.12
     },
     {
      "year":2021,
-     "value":20715.67
+     "value":20924.75
+    },
+    {
+     "year":2022,
+     "value":21296.31
     }
    ]
   },
@@ -10635,7 +10699,7 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":0.65
+     "value":0.64
     },
     {
      "year":2001,
@@ -10651,7 +10715,7 @@
     },
     {
      "year":2004,
-     "value":0.66
+     "value":0.67
     },
     {
      "year":2005,
@@ -10663,51 +10727,51 @@
     },
     {
      "year":2007,
-     "value":0.68
+     "value":0.69
     },
     {
      "year":2008,
-     "value":0.7
+     "value":0.71
     },
     {
      "year":2009,
-     "value":0.7
+     "value":0.71
     },
     {
      "year":2010,
-     "value":0.71
-    },
-    {
-     "year":2011,
-     "value":0.71
-    },
-    {
-     "year":2012,
-     "value":0.71
-    },
-    {
-     "year":2013,
      "value":0.72
     },
     {
-     "year":2014,
+     "year":2011,
+     "value":0.72
+    },
+    {
+     "year":2012,
      "value":0.73
     },
     {
-     "year":2015,
+     "year":2013,
      "value":0.74
+    },
+    {
+     "year":2014,
+     "value":0.75
+    },
+    {
+     "year":2015,
+     "value":0.75
     },
     {
      "year":2016,
-     "value":0.74
+     "value":0.76
     },
     {
      "year":2017,
-     "value":0.75
+     "value":0.76
     },
     {
      "year":2018,
-     "value":0.75
+     "value":0.77
     },
     {
      "year":2019,
@@ -10715,11 +10779,15 @@
     },
     {
      "year":2020,
-     "value":0.75
+     "value":0.74
     },
     {
      "year":2021,
-     "value":0.75
+     "value":0.74
+    },
+    {
+     "year":2022,
+     "value":0.74
     }
    ]
   },
@@ -10748,11 +10816,11 @@
     },
     {
      "year":2005,
-     "value":0.72
+     "value":0.73
     },
     {
      "year":2006,
-     "value":0.73
+     "value":0.74
     },
     {
      "year":2007,
@@ -10768,51 +10836,55 @@
     },
     {
      "year":2010,
-     "value":0.76
+     "value":0.77
     },
     {
      "year":2011,
-     "value":0.76
+     "value":0.77
     },
     {
      "year":2012,
-     "value":0.77
-    },
-    {
-     "year":2013,
-     "value":0.77
-    },
-    {
-     "year":2014,
-     "value":0.77
-    },
-    {
-     "year":2015,
      "value":0.78
     },
     {
-     "year":2016,
+     "year":2013,
+     "value":0.78
+    },
+    {
+     "year":2014,
      "value":0.79
+    },
+    {
+     "year":2015,
+     "value":0.8
+    },
+    {
+     "year":2016,
+     "value":0.8
     },
     {
      "year":2017,
-     "value":0.79
+     "value":0.81
     },
     {
      "year":2018,
-     "value":0.8
+     "value":0.82
     },
     {
      "year":2019,
-     "value":0.8
+     "value":0.81
     },
     {
      "year":2020,
-     "value":0.79
+     "value":0.78
     },
     {
      "year":2021,
-     "value":0.79
+     "value":0.78
+    },
+    {
+     "year":2022,
+     "value":0.78
     }
    ]
   },
@@ -10829,7 +10901,7 @@
     },
     {
      "year":1997,
-     "value":0.66
+     "value":0.65
     },
     {
      "year":1998,
@@ -10857,7 +10929,7 @@
     },
     {
      "year":2004,
-     "value":0.69
+     "value":0.7
     },
     {
      "year":2005,
@@ -10869,55 +10941,55 @@
     },
     {
      "year":2007,
-     "value":0.71
+     "value":0.72
     },
     {
      "year":2008,
-     "value":0.73
+     "value":0.74
     },
     {
      "year":2009,
-     "value":0.73
+     "value":0.74
     },
     {
      "year":2010,
-     "value":0.74
-    },
-    {
-     "year":2011,
-     "value":0.74
-    },
-    {
-     "year":2012,
-     "value":0.74
-    },
-    {
-     "year":2013,
      "value":0.75
     },
     {
-     "year":2014,
+     "year":2011,
+     "value":0.75
+    },
+    {
+     "year":2012,
      "value":0.76
+    },
+    {
+     "year":2013,
+     "value":0.76
+    },
+    {
+     "year":2014,
+     "value":0.77
     },
     {
      "year":2015,
-     "value":0.76
+     "value":0.78
     },
     {
      "year":2016,
-     "value":0.77
+     "value":0.78
     },
     {
      "year":2017,
-     "value":0.77
+     "value":0.79
     },
     {
      "year":2018,
-     "value":0.78
+     "value":0.8
     },
     {
      "year":2019,
-     "value":0.78
+     "value":0.79
     },
     {
      "year":2020,
@@ -10925,7 +10997,11 @@
     },
     {
      "year":2021,
-     "value":0.77
+     "value":0.76
+    },
+    {
+     "year":2022,
+     "value":0.76
     }
    ]
   },
@@ -11112,6 +11188,10 @@
     {
      "year":2021,
      "value":8.37
+    },
+    {
+     "year":2022,
+     "value":8.37
     }
    ]
   },
@@ -11119,44 +11199,56 @@
    "indicator":"Inequality in income",
    "yearlyData":[
     {
+     "year":2010,
+     "value":29.79
+    },
+    {
      "year":2011,
-     "value":30.07
+     "value":30.17
     },
     {
      "year":2012,
-     "value":30.07
+     "value":27.85
     },
     {
      "year":2013,
-     "value":30.07
+     "value":25.54
     },
     {
      "year":2014,
-     "value":30.07
+     "value":23.19
     },
     {
      "year":2015,
-     "value":30.07
+     "value":22.33
     },
     {
      "year":2016,
-     "value":30.07
+     "value":22.28
+    },
+    {
+     "year":2017,
+     "value":21.26
     },
     {
      "year":2018,
-     "value":19.16
+     "value":21.37
     },
     {
      "year":2019,
-     "value":19.16
+     "value":19.5
     },
     {
      "year":2020,
-     "value":19.16
+     "value":20.48
     },
     {
      "year":2021,
-     "value":19.16
+     "value":20.48
+    },
+    {
+     "year":2022,
+     "value":20.48
     }
    ]
   },
@@ -11210,6 +11302,10 @@
     {
      "year":2021,
      "value":4.42
+    },
+    {
+     "year":2022,
+     "value":4.38
     }
    ]
   },
@@ -11217,32 +11313,40 @@
    "indicator":"Inequality-adjusted HDI",
    "yearlyData":[
     {
+     "year":2010,
+     "value":0.61
+    },
+    {
      "year":2011,
-     "value":0.62
+     "value":0.63
     },
     {
      "year":2012,
-     "value":0.62
+     "value":0.64
     },
     {
      "year":2013,
-     "value":0.63
+     "value":0.65
     },
     {
      "year":2014,
-     "value":0.63
+     "value":0.66
     },
     {
      "year":2015,
-     "value":0.64
+     "value":0.67
     },
     {
      "year":2016,
-     "value":0.64
+     "value":0.68
+    },
+    {
+     "year":2017,
+     "value":0.69
     },
     {
      "year":2018,
-     "value":0.69
+     "value":0.7
     },
     {
      "year":2019,
@@ -11250,11 +11354,15 @@
     },
     {
      "year":2020,
-     "value":0.69
+     "value":0.68
     },
     {
      "year":2021,
-     "value":0.69
+     "value":0.68
+    },
+    {
+     "year":2022,
+     "value":0.68
     }
    ]
   },
@@ -13185,131 +13293,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":45.47
+     "value":45.69
     },
     {
      "year":1991,
-     "value":45.77
+     "value":45.69
     },
     {
      "year":1992,
-     "value":45.21
+     "value":43.13
     },
     {
      "year":1993,
-     "value":44.65
+     "value":40.56
     },
     {
      "year":1994,
-     "value":44.09
+     "value":38.0
     },
     {
      "year":1995,
-     "value":43.53
+     "value":40.48
     },
     {
      "year":1996,
-     "value":42.97
+     "value":42.95
     },
     {
      "year":1997,
-     "value":41.12
+     "value":41.2
     },
     {
      "year":1998,
-     "value":40.99
+     "value":42.2
     },
     {
      "year":1999,
-     "value":40.85
+     "value":40.83
     },
     {
      "year":2000,
-     "value":41.62
+     "value":41.7
     },
     {
      "year":2001,
-     "value":41.59
+     "value":45.5
     },
     {
      "year":2002,
-     "value":41.56
+     "value":41.46
     },
     {
      "year":2003,
-     "value":43.46
+     "value":43.39
     },
     {
      "year":2004,
-     "value":43.45
+     "value":43.09
     },
     {
      "year":2005,
-     "value":43.43
+     "value":42.78
     },
     {
      "year":2006,
-     "value":41.95
+     "value":41.61
     },
     {
      "year":2007,
-     "value":43.02
+     "value":42.89
     },
     {
      "year":2008,
-     "value":42.75
+     "value":42.56
     },
     {
      "year":2009,
-     "value":42.64
+     "value":42.56
     },
     {
      "year":2010,
-     "value":42.94
+     "value":41.16
     },
     {
      "year":2011,
-     "value":43.53
+     "value":43.39
     },
     {
      "year":2012,
-     "value":43.06
+     "value":42.85
     },
     {
      "year":2013,
-     "value":44.52
+     "value":44.18
     },
     {
      "year":2014,
-     "value":44.01
+     "value":43.77
     },
     {
      "year":2015,
-     "value":43.47
+     "value":43.38
     },
     {
      "year":2016,
-     "value":42.32
+     "value":42.42
     },
     {
      "year":2017,
-     "value":42.73
+     "value":42.7
     },
     {
      "year":2018,
-     "value":43.04
+     "value":42.39
     },
     {
      "year":2019,
-     "value":44.94
+     "value":44.62
     },
     {
      "year":2020,
-     "value":41.82
+     "value":43.7
     },
     {
      "year":2021,
-     "value":42.4
+     "value":42.88
+    },
+    {
+     "year":2022,
+     "value":42.22
     }
    ]
   },
@@ -13318,131 +13430,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":68.32
-    },
-    {
-     "year":1991,
-     "value":68.6
-    },
-    {
-     "year":1992,
-     "value":68.3
-    },
-    {
-     "year":1993,
-     "value":67.98
-    },
-    {
-     "year":1994,
-     "value":67.67
-    },
-    {
-     "year":1995,
-     "value":67.34
-    },
-    {
-     "year":1996,
-     "value":67.02
-    },
-    {
-     "year":1997,
-     "value":66.38
-    },
-    {
-     "year":1998,
-     "value":65.95
-    },
-    {
-     "year":1999,
-     "value":65.51
-    },
-    {
-     "year":2000,
-     "value":64.28
-    },
-    {
-     "year":2001,
-     "value":64.06
-    },
-    {
-     "year":2002,
-     "value":63.84
-    },
-    {
-     "year":2003,
-     "value":65.68
-    },
-    {
-     "year":2004,
-     "value":65.34
-    },
-    {
-     "year":2005,
-     "value":64.99
-    },
-    {
-     "year":2006,
-     "value":66.26
-    },
-    {
-     "year":2007,
-     "value":66.18
-    },
-    {
-     "year":2008,
-     "value":67.66
-    },
-    {
-     "year":2009,
      "value":68.49
     },
     {
-     "year":2010,
-     "value":68.61
+     "year":1991,
+     "value":68.49
     },
     {
-     "year":2011,
+     "year":1992,
+     "value":69.2
+    },
+    {
+     "year":1993,
+     "value":69.91
+    },
+    {
+     "year":1994,
+     "value":70.62
+    },
+    {
+     "year":1995,
+     "value":68.8
+    },
+    {
+     "year":1996,
+     "value":66.98
+    },
+    {
+     "year":1997,
+     "value":66.5
+    },
+    {
+     "year":1998,
+     "value":67.4
+    },
+    {
+     "year":1999,
+     "value":65.48
+    },
+    {
+     "year":2000,
+     "value":64.4
+    },
+    {
+     "year":2001,
+     "value":65.6
+    },
+    {
+     "year":2002,
+     "value":63.68
+    },
+    {
+     "year":2003,
+     "value":65.57
+    },
+    {
+     "year":2004,
+     "value":65.0
+    },
+    {
+     "year":2005,
+     "value":64.42
+    },
+    {
+     "year":2006,
+     "value":65.22
+    },
+    {
+     "year":2007,
+     "value":66.21
+    },
+    {
+     "year":2008,
      "value":67.58
     },
     {
+     "year":2009,
+     "value":67.86
+    },
+    {
+     "year":2010,
+     "value":66.52
+    },
+    {
+     "year":2011,
+     "value":67.19
+    },
+    {
      "year":2012,
-     "value":67.43
+     "value":67.28
     },
     {
      "year":2013,
-     "value":67.32
+     "value":67.17
     },
     {
      "year":2014,
-     "value":67.97
+     "value":67.83
     },
     {
      "year":2015,
-     "value":67.43
+     "value":67.47
     },
     {
      "year":2016,
-     "value":67.6
+     "value":67.98
     },
     {
      "year":2017,
-     "value":67.68
+     "value":67.78
     },
     {
      "year":2018,
-     "value":67.48
+     "value":67.35
     },
     {
      "year":2019,
-     "value":66.12
+     "value":66.04
     },
     {
      "year":2020,
-     "value":63.09
+     "value":65.32
     },
     {
      "year":2021,
-     "value":63.44
+     "value":65.48
+    },
+    {
+     "year":2022,
+     "value":64.14
     }
    ]
   },
@@ -13735,7 +13851,7 @@
     },
     {
      "year":2014,
-     "value":78.21
+     "value":78.2
     },
     {
      "year":2015,
@@ -13763,6 +13879,10 @@
     },
     {
      "year":2021,
+     "value":76.16
+    },
+    {
+     "year":2022,
      "value":76.16
     }
    ]
@@ -13820,7 +13940,7 @@
     },
     {
      "year":2002,
-     "value":70.65
+     "value":70.64
     },
     {
      "year":2003,
@@ -13897,6 +14017,10 @@
     {
      "year":2021,
      "value":71.66
+    },
+    {
+     "year":2022,
+     "value":71.73
     }
    ]
   },
@@ -13909,7 +14033,7 @@
     },
     {
      "year":1991,
-     "value":71.81
+     "value":71.82
     },
     {
      "year":1992,
@@ -13929,7 +14053,7 @@
     },
     {
      "year":1996,
-     "value":72.23
+     "value":72.24
     },
     {
      "year":1997,
@@ -14001,7 +14125,7 @@
     },
     {
      "year":2014,
-     "value":75.93
+     "value":75.94
     },
     {
      "year":2015,
@@ -14030,6 +14154,10 @@
     {
      "year":2021,
      "value":73.84
+    },
+    {
+     "year":2022,
+     "value":73.89
     }
    ]
   },
@@ -14305,6 +14433,10 @@
     {
      "year":2021,
      "value":18.78
+    },
+    {
+     "year":2022,
+     "value":18.13
     }
    ]
   },
@@ -14374,128 +14506,128 @@
    "indicator":"Material footprint per capita (tonnes)",
    "yearlyData":[
     {
-     "year":1991,
-     "value":3.22
-    },
-    {
      "year":1992,
-     "value":10.64
+     "value":7.69
     },
     {
      "year":1993,
-     "value":12.06
+     "value":7.35
     },
     {
      "year":1994,
-     "value":13.9
+     "value":10.55
     },
     {
      "year":1995,
-     "value":14.96
+     "value":10.73
     },
     {
      "year":1996,
-     "value":14.45
+     "value":10.34
     },
     {
      "year":1997,
-     "value":13.14
+     "value":8.98
     },
     {
      "year":1998,
-     "value":17.72
+     "value":13.06
     },
     {
      "year":1999,
-     "value":17.28
+     "value":14.74
     },
     {
      "year":2000,
-     "value":17.87
+     "value":13.72
     },
     {
      "year":2001,
-     "value":17.34
+     "value":14.77
     },
     {
      "year":2002,
-     "value":20.12
+     "value":13.65
     },
     {
      "year":2003,
-     "value":20.74
+     "value":14.21
     },
     {
      "year":2004,
-     "value":22.32
+     "value":15.67
     },
     {
      "year":2005,
-     "value":20.7
+     "value":13.17
     },
     {
      "year":2006,
-     "value":15.24
+     "value":8.48
     },
     {
      "year":2007,
-     "value":16.54
+     "value":8.97
     },
     {
      "year":2008,
-     "value":17.37
+     "value":10.74
     },
     {
      "year":2009,
-     "value":15.08
+     "value":10.19
     },
     {
      "year":2010,
-     "value":13.48
+     "value":10.86
     },
     {
      "year":2011,
-     "value":15.83
+     "value":11.96
     },
     {
      "year":2012,
-     "value":15.41
+     "value":14.5
     },
     {
      "year":2013,
-     "value":15.16
+     "value":14.04
     },
     {
      "year":2014,
-     "value":15.12
+     "value":13.54
     },
     {
      "year":2015,
-     "value":14.68
+     "value":12.69
     },
     {
      "year":2016,
-     "value":16.89
+     "value":12.49
     },
     {
      "year":2017,
-     "value":14.33
+     "value":10.45
     },
     {
      "year":2018,
-     "value":13.0
+     "value":11.0
     },
     {
      "year":2019,
-     "value":12.29
+     "value":9.66
     },
     {
      "year":2020,
-     "value":12.29
+     "value":10.8
     },
     {
      "year":2021,
-     "value":12.29
+     "value":11.37
+    },
+    {
+     "year":2022,
+     "value":11.63
     }
    ]
   },
@@ -14504,11 +14636,11 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":6.06
+     "value":5.87
     },
     {
      "year":2001,
-     "value":6.22
+     "value":6.12
     },
     {
      "year":2002,
@@ -14516,71 +14648,71 @@
     },
     {
      "year":2003,
-     "value":6.57
+     "value":6.69
     },
     {
      "year":2004,
-     "value":6.75
+     "value":6.99
     },
     {
      "year":2005,
-     "value":6.93
-    },
-    {
-     "year":2006,
-     "value":7.11
-    },
-    {
-     "year":2007,
      "value":7.29
     },
     {
+     "year":2006,
+     "value":7.59
+    },
+    {
+     "year":2007,
+     "value":7.89
+    },
+    {
      "year":2008,
-     "value":7.48
+     "value":8.19
     },
     {
      "year":2009,
-     "value":7.66
+     "value":8.49
     },
     {
      "year":2010,
-     "value":7.84
+     "value":8.79
     },
     {
      "year":2011,
-     "value":8.02
+     "value":9.09
     },
     {
      "year":2012,
-     "value":8.2
+     "value":9.39
     },
     {
      "year":2013,
-     "value":8.38
+     "value":9.7
     },
     {
      "year":2014,
-     "value":8.56
+     "value":10.0
     },
     {
      "year":2015,
-     "value":8.75
+     "value":10.3
     },
     {
      "year":2016,
-     "value":8.93
+     "value":10.6
     },
     {
      "year":2017,
-     "value":9.11
+     "value":10.9
     },
     {
      "year":2018,
-     "value":9.29
+     "value":11.2
     },
     {
      "year":2019,
-     "value":9.47
+     "value":10.43
     },
     {
      "year":2020,
@@ -14588,6 +14720,10 @@
     },
     {
      "year":2021,
+     "value":9.65
+    },
+    {
+     "year":2022,
      "value":9.65
     }
    ]
@@ -14597,11 +14733,11 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":7.57
+     "value":7.39
     },
     {
      "year":2001,
-     "value":7.72
+     "value":7.63
     },
     {
      "year":2002,
@@ -14609,71 +14745,71 @@
     },
     {
      "year":2003,
-     "value":8.04
+     "value":8.15
     },
     {
      "year":2004,
-     "value":8.2
+     "value":8.42
     },
     {
      "year":2005,
-     "value":8.36
-    },
-    {
-     "year":2006,
-     "value":8.53
-    },
-    {
-     "year":2007,
      "value":8.69
     },
     {
+     "year":2006,
+     "value":8.96
+    },
+    {
+     "year":2007,
+     "value":9.23
+    },
+    {
      "year":2008,
-     "value":8.85
-    },
-    {
-     "year":2009,
-     "value":9.02
-    },
-    {
-     "year":2010,
-     "value":9.18
-    },
-    {
-     "year":2011,
-     "value":9.34
-    },
-    {
-     "year":2012,
      "value":9.5
     },
     {
+     "year":2009,
+     "value":9.77
+    },
+    {
+     "year":2010,
+     "value":10.04
+    },
+    {
+     "year":2011,
+     "value":10.31
+    },
+    {
+     "year":2012,
+     "value":10.58
+    },
+    {
      "year":2013,
-     "value":9.67
+     "value":10.85
     },
     {
      "year":2014,
-     "value":9.83
+     "value":11.12
     },
     {
      "year":2015,
-     "value":9.99
+     "value":11.39
     },
     {
      "year":2016,
-     "value":10.16
+     "value":11.66
     },
     {
      "year":2017,
-     "value":10.32
+     "value":11.93
     },
     {
      "year":2018,
-     "value":10.48
+     "value":12.2
     },
     {
      "year":2019,
-     "value":10.64
+     "value":11.5
     },
     {
      "year":2020,
@@ -14681,6 +14817,10 @@
     },
     {
      "year":2021,
+     "value":10.81
+    },
+    {
+     "year":2022,
      "value":10.81
     }
    ]
@@ -14742,71 +14882,71 @@
     },
     {
      "year":2003,
-     "value":7.3
+     "value":7.41
     },
     {
      "year":2004,
-     "value":7.47
+     "value":7.69
     },
     {
      "year":2005,
-     "value":7.64
+     "value":7.98
     },
     {
      "year":2006,
-     "value":7.81
+     "value":8.26
     },
     {
      "year":2007,
-     "value":7.99
+     "value":8.55
     },
     {
      "year":2008,
-     "value":8.16
+     "value":8.83
     },
     {
      "year":2009,
-     "value":8.33
+     "value":9.12
     },
     {
      "year":2010,
-     "value":8.5
+     "value":9.4
     },
     {
      "year":2011,
-     "value":8.68
+     "value":9.69
     },
     {
      "year":2012,
-     "value":8.85
+     "value":9.97
     },
     {
      "year":2013,
-     "value":9.02
+     "value":10.26
     },
     {
      "year":2014,
-     "value":9.19
+     "value":10.55
     },
     {
      "year":2015,
-     "value":9.37
+     "value":10.83
     },
     {
      "year":2016,
-     "value":9.54
+     "value":11.12
     },
     {
      "year":2017,
-     "value":9.71
+     "value":11.4
     },
     {
      "year":2018,
-     "value":9.88
+     "value":11.69
     },
     {
      "year":2019,
-     "value":10.06
+     "value":10.96
     },
     {
      "year":2020,
@@ -14814,6 +14954,10 @@
     },
     {
      "year":2021,
+     "value":10.23
+    },
+    {
+     "year":2022,
      "value":10.23
     }
    ]
@@ -14889,7 +15033,7 @@
     },
     {
      "year":2002,
-     "value":7.95
+     "value":15.43
     },
     {
      "year":2003,
@@ -14917,51 +15061,55 @@
     },
     {
      "year":2009,
-     "value":14.6
+     "value":13.86
     },
     {
      "year":2010,
-     "value":19.5
+     "value":18.61
     },
     {
      "year":2011,
-     "value":15.48
+     "value":25.87
     },
     {
      "year":2012,
-     "value":23.52
+     "value":22.14
     },
     {
      "year":2013,
-     "value":15.35
+     "value":14.43
     },
     {
      "year":2014,
-     "value":23.03
+     "value":21.98
     },
     {
      "year":2015,
-     "value":29.61
+     "value":28.09
     },
     {
      "year":2016,
-     "value":31.64
+     "value":30.37
     },
     {
      "year":2017,
-     "value":31.98
+     "value":30.77
     },
     {
      "year":2018,
-     "value":33.73
+     "value":32.41
     },
     {
      "year":2019,
-     "value":33.73
+     "value":31.74
     },
     {
      "year":2020,
-     "value":33.73
+     "value":31.32
+    },
+    {
+     "year":2021,
+     "value":32.02
     }
    ]
   },
@@ -15088,131 +15236,135 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":16.0
+     "value":16.69
     },
     {
      "year":1991,
-     "value":15.0
+     "value":14.25
     },
     {
      "year":1992,
-     "value":14.0
+     "value":16.4
     },
     {
      "year":1993,
-     "value":14.0
+     "value":15.89
     },
     {
      "year":1994,
-     "value":14.0
+     "value":14.75
     },
     {
      "year":1995,
-     "value":15.0
+     "value":15.64
     },
     {
      "year":1996,
-     "value":16.0
+     "value":15.23
     },
     {
      "year":1997,
-     "value":15.0
+     "value":14.04
     },
     {
      "year":1998,
-     "value":15.0
+     "value":13.75
     },
     {
      "year":1999,
-     "value":14.0
+     "value":13.43
     },
     {
      "year":2000,
-     "value":13.0
+     "value":12.32
     },
     {
      "year":2001,
-     "value":12.0
+     "value":11.55
     },
     {
      "year":2002,
-     "value":12.0
+     "value":10.59
     },
     {
      "year":2003,
-     "value":10.0
+     "value":10.47
     },
     {
      "year":2004,
-     "value":11.0
+     "value":9.08
     },
     {
      "year":2005,
-     "value":10.0
+     "value":8.88
     },
     {
      "year":2006,
-     "value":10.0
+     "value":8.09
     },
     {
      "year":2007,
-     "value":10.0
+     "value":7.78
     },
     {
      "year":2008,
-     "value":8.0
+     "value":6.91
     },
     {
      "year":2009,
-     "value":8.0
+     "value":7.16
     },
     {
      "year":2010,
-     "value":8.0
+     "value":6.32
     },
     {
      "year":2011,
-     "value":8.0
+     "value":5.38
     },
     {
      "year":2012,
-     "value":8.0
+     "value":4.82
     },
     {
      "year":2013,
-     "value":8.0
+     "value":4.1
     },
     {
      "year":2014,
-     "value":8.0
+     "value":4.58
     },
     {
      "year":2015,
-     "value":8.0
+     "value":4.52
     },
     {
      "year":2016,
-     "value":8.0
+     "value":3.44
     },
     {
      "year":2017,
-     "value":7.0
+     "value":3.29
     },
     {
      "year":2018,
-     "value":7.0
+     "value":2.88
     },
     {
      "year":2019,
-     "value":7.0
+     "value":3.09
     },
     {
      "year":2020,
-     "value":7.0
+     "value":3.04
     },
     {
      "year":2021,
-     "value":7.0
+     "value":3.04
+    },
+    {
+     "year":2022,
+     "value":3.04
     }
    ]
   },
@@ -15266,6 +15418,10 @@
     {
      "year":2021,
      "value":199.46
+    },
+    {
+     "year":2022,
+     "value":199.43
     }
    ]
   },
@@ -15612,75 +15768,87 @@
    "yearlyData":[
     {
      "year":2000,
-     "value":50.6
+     "value":50.3
     },
     {
      "year":2001,
-     "value":49.4
+     "value":48.9
     },
     {
      "year":2002,
-     "value":48.4
+     "value":47.3
     },
     {
      "year":2003,
-     "value":48.1
-    },
-    {
-     "year":2004,
-     "value":47.7
-    },
-    {
-     "year":2005,
      "value":47.0
     },
     {
+     "year":2004,
+     "value":46.7
+    },
+    {
+     "year":2005,
+     "value":46.0
+    },
+    {
      "year":2006,
-     "value":46.3
+     "value":45.4
     },
     {
      "year":2007,
-     "value":45.6
-    },
-    {
-     "year":2008,
-     "value":45.5
-    },
-    {
-     "year":2009,
      "value":44.8
     },
     {
-     "year":2010,
-     "value":45.9
+     "year":2008,
+     "value":44.6
     },
     {
-     "year":2011,
-     "value":45.1
-    },
-    {
-     "year":2012,
-     "value":44.0
-    },
-    {
-     "year":2013,
-     "value":44.5
-    },
-    {
-     "year":2014,
-     "value":44.0
-    },
-    {
-     "year":2015,
+     "year":2009,
      "value":43.9
     },
     {
-     "year":2016,
+     "year":2010,
+     "value":45.1
+    },
+    {
+     "year":2011,
+     "value":44.2
+    },
+    {
+     "year":2012,
+     "value":43.2
+    },
+    {
+     "year":2013,
      "value":43.7
     },
     {
+     "year":2014,
+     "value":43.2
+    },
+    {
+     "year":2015,
+     "value":43.1
+    },
+    {
+     "year":2016,
+     "value":42.9
+    },
+    {
      "year":2017,
-     "value":42.8
+     "value":42.0
+    },
+    {
+     "year":2018,
+     "value":41.4
+    },
+    {
+     "year":2019,
+     "value":41.9
+    },
+    {
+     "year":2020,
+     "value":42.2
     }
    ]
   },
@@ -15969,44 +16137,56 @@
    "indicator":"Overall loss (%)",
    "yearlyData":[
     {
+     "year":2010,
+     "value":18.36
+    },
+    {
      "year":2011,
-     "value":16.06
+     "value":16.11
     },
     {
      "year":2012,
-     "value":16.29
+     "value":15.5
     },
     {
      "year":2013,
-     "value":16.27
+     "value":14.55
     },
     {
      "year":2014,
-     "value":16.29
+     "value":13.65
     },
     {
      "year":2015,
-     "value":16.14
+     "value":13.26
     },
     {
      "year":2016,
-     "value":16.56
+     "value":13.55
+    },
+    {
+     "year":2017,
+     "value":12.8
     },
     {
      "year":2018,
-     "value":10.91
+     "value":11.68
     },
     {
      "year":2019,
-     "value":10.84
+     "value":11.05
     },
     {
      "year":2020,
-     "value":10.85
+     "value":11.36
     },
     {
      "year":2021,
-     "value":10.91
+     "value":11.39
+    },
+    {
+     "year":2022,
+     "value":11.24
     }
    ]
   },
@@ -16139,6 +16319,10 @@
     },
     {
      "year":2021,
+     "value":41.67
+    },
+    {
+     "year":2022,
      "value":41.67
     }
    ]
@@ -16385,111 +16569,115 @@
    "yearlyData":[
     {
      "year":1995,
-     "value":0.57
+     "value":0.6
     },
     {
      "year":1996,
-     "value":0.58
+     "value":0.61
     },
     {
      "year":1997,
-     "value":0.59
+     "value":0.62
     },
     {
      "year":1998,
-     "value":0.58
+     "value":0.61
     },
     {
      "year":1999,
-     "value":0.59
+     "value":0.62
     },
     {
      "year":2000,
-     "value":0.59
+     "value":0.62
     },
     {
      "year":2001,
-     "value":0.6
+     "value":0.63
     },
     {
      "year":2002,
-     "value":0.59
+     "value":0.63
     },
     {
      "year":2003,
-     "value":0.59
+     "value":0.64
     },
     {
      "year":2004,
-     "value":0.6
+     "value":0.64
     },
     {
      "year":2005,
-     "value":0.6
-    },
-    {
-     "year":2006,
-     "value":0.63
-    },
-    {
-     "year":2007,
-     "value":0.63
-    },
-    {
-     "year":2008,
      "value":0.65
     },
     {
+     "year":2006,
+     "value":0.67
+    },
+    {
+     "year":2007,
+     "value":0.67
+    },
+    {
+     "year":2008,
+     "value":0.69
+    },
+    {
      "year":2009,
-     "value":0.66
+     "value":0.69
     },
     {
      "year":2010,
-     "value":0.67
-    },
-    {
-     "year":2011,
-     "value":0.66
-    },
-    {
-     "year":2012,
-     "value":0.67
-    },
-    {
-     "year":2013,
-     "value":0.68
-    },
-    {
-     "year":2014,
-     "value":0.68
-    },
-    {
-     "year":2015,
-     "value":0.69
-    },
-    {
-     "year":2016,
-     "value":0.69
-    },
-    {
-     "year":2017,
      "value":0.7
     },
     {
-     "year":2018,
+     "year":2011,
+     "value":0.7
+    },
+    {
+     "year":2012,
+     "value":0.7
+    },
+    {
+     "year":2013,
      "value":0.71
     },
     {
-     "year":2019,
+     "year":2014,
      "value":0.72
     },
     {
+     "year":2015,
+     "value":0.73
+    },
+    {
+     "year":2016,
+     "value":0.73
+    },
+    {
+     "year":2017,
+     "value":0.74
+    },
+    {
+     "year":2018,
+     "value":0.75
+    },
+    {
+     "year":2019,
+     "value":0.74
+    },
+    {
      "year":2020,
-     "value":0.71
+     "value":0.72
     },
     {
      "year":2021,
-     "value":0.71
+     "value":0.72
+    },
+    {
+     "year":2022,
+     "value":0.72
     }
    ]
   },
@@ -20672,51 +20860,51 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":28.69
+     "value":27.13
     },
     {
      "year":1991,
-     "value":29.51
+     "value":28.03
     },
     {
      "year":1992,
-     "value":30.35
+     "value":28.96
     },
     {
      "year":1993,
-     "value":31.21
+     "value":29.92
     },
     {
      "year":1994,
-     "value":32.1
+     "value":30.92
     },
     {
      "year":1995,
-     "value":33.01
+     "value":31.94
     },
     {
      "year":1996,
-     "value":33.95
+     "value":33.01
     },
     {
      "year":1997,
-     "value":34.91
+     "value":34.1
     },
     {
      "year":1998,
-     "value":35.9
+     "value":35.24
     },
     {
      "year":1999,
-     "value":36.92
+     "value":36.41
     },
     {
      "year":2000,
-     "value":37.97
+     "value":37.62
     },
     {
      "year":2001,
-     "value":39.05
+     "value":38.87
     },
     {
      "year":2002,
@@ -20724,71 +20912,71 @@
     },
     {
      "year":2003,
-     "value":41.37
+     "value":41.59
     },
     {
      "year":2004,
-     "value":42.58
+     "value":43.01
     },
     {
      "year":2005,
-     "value":43.78
+     "value":44.44
     },
     {
      "year":2006,
-     "value":44.99
+     "value":45.87
     },
     {
      "year":2007,
-     "value":46.2
+     "value":47.29
     },
     {
      "year":2008,
-     "value":47.41
+     "value":48.72
     },
     {
      "year":2009,
-     "value":48.62
+     "value":50.15
     },
     {
      "year":2010,
-     "value":49.82
+     "value":51.57
     },
     {
      "year":2011,
-     "value":51.03
+     "value":53.0
     },
     {
      "year":2012,
-     "value":52.24
+     "value":54.42
     },
     {
      "year":2013,
-     "value":53.45
+     "value":55.85
     },
     {
      "year":2014,
-     "value":54.66
+     "value":57.28
     },
     {
      "year":2015,
-     "value":55.86
+     "value":58.7
     },
     {
      "year":2016,
-     "value":57.07
+     "value":60.13
     },
     {
      "year":2017,
-     "value":58.28
+     "value":61.56
     },
     {
      "year":2018,
-     "value":59.49
+     "value":62.98
     },
     {
      "year":2019,
-     "value":60.69
+     "value":62.44
     },
     {
      "year":2020,
@@ -20796,6 +20984,10 @@
     },
     {
      "year":2021,
+     "value":61.9
+    },
+    {
+     "year":2022,
      "value":61.9
     }
    ]
@@ -20805,51 +20997,51 @@
    "yearlyData":[
     {
      "year":1990,
-     "value":44.47
+     "value":42.5
     },
     {
      "year":1991,
-     "value":45.31
+     "value":43.46
     },
     {
      "year":1992,
-     "value":46.16
+     "value":44.45
     },
     {
      "year":1993,
-     "value":47.02
+     "value":45.45
     },
     {
      "year":1994,
-     "value":47.91
+     "value":46.48
     },
     {
      "year":1995,
-     "value":48.81
+     "value":47.54
     },
     {
      "year":1996,
-     "value":49.72
+     "value":48.61
     },
     {
      "year":1997,
-     "value":50.66
+     "value":49.71
     },
     {
      "year":1998,
-     "value":51.61
+     "value":50.84
     },
     {
      "year":1999,
-     "value":52.58
+     "value":51.99
     },
     {
      "year":2000,
-     "value":53.57
+     "value":53.17
     },
     {
      "year":2001,
-     "value":54.58
+     "value":54.37
     },
     {
      "year":2002,
@@ -20857,71 +21049,71 @@
     },
     {
      "year":2003,
-     "value":56.69
+     "value":56.92
     },
     {
      "year":2004,
-     "value":57.77
+     "value":58.24
     },
     {
      "year":2005,
-     "value":58.86
+     "value":59.55
     },
     {
      "year":2006,
-     "value":59.94
+     "value":60.87
     },
     {
      "year":2007,
-     "value":61.03
+     "value":62.19
     },
     {
      "year":2008,
-     "value":62.11
+     "value":63.5
     },
     {
      "year":2009,
-     "value":63.19
+     "value":64.82
     },
     {
      "year":2010,
-     "value":64.28
+     "value":66.14
     },
     {
      "year":2011,
-     "value":65.36
+     "value":67.45
     },
     {
      "year":2012,
-     "value":66.45
+     "value":68.77
     },
     {
      "year":2013,
-     "value":67.53
+     "value":70.09
     },
     {
      "year":2014,
-     "value":68.62
+     "value":71.41
     },
     {
      "year":2015,
-     "value":69.7
+     "value":72.72
     },
     {
      "year":2016,
-     "value":70.79
+     "value":74.04
     },
     {
      "year":2017,
-     "value":71.87
+     "value":75.36
     },
     {
      "year":2018,
-     "value":72.96
+     "value":76.67
     },
     {
      "year":2019,
-     "value":74.04
+     "value":75.9
     },
     {
      "year":2020,
@@ -20929,6 +21121,10 @@
     },
     {
      "year":2021,
+     "value":75.13
+    },
+    {
+     "year":2022,
      "value":75.13
     }
    ]
@@ -21008,6 +21204,10 @@
     {
      "year":2021,
      "value":24.99
+    },
+    {
+     "year":2022,
+     "value":29.8
     }
    ]
   },
@@ -21176,6 +21376,10 @@
     },
     {
      "year":2021,
+     "value":58.33
+    },
+    {
+     "year":2022,
      "value":58.33
     }
    ]
@@ -24016,11 +24220,11 @@
    "yearlyData":[
     {
      "year":2015,
-     "value":24.54
+     "value":24.5
     },
     {
      "year":2016,
-     "value":17.58
+     "value":17.6
     }
    ]
   },
@@ -24276,7 +24480,7 @@
     },
     {
      "year":2002,
-     "value":4.87
+     "value":9.0
     },
     {
      "year":2003,
@@ -24288,7 +24492,7 @@
     },
     {
      "year":2005,
-     "value":11.57
+     "value":4.14
     },
     {
      "year":2006,
@@ -24308,15 +24512,15 @@
     },
     {
      "year":2010,
-     "value":5.82
+     "value":3.15
     },
     {
      "year":2011,
-     "value":5.91
+     "value":9.24
     },
     {
      "year":2012,
-     "value":4.92
+     "value":8.15
     },
     {
      "year":2013,
@@ -24336,7 +24540,7 @@
     },
     {
      "year":2017,
-     "value":7.23
+     "value":3.54
     },
     {
      "year":2018,
@@ -24344,7 +24548,7 @@
     },
     {
      "year":2019,
-     "value":7.15
+     "value":3.53
     }
    ]
   },
@@ -24459,7 +24663,7 @@
     },
     {
      "year":2024,
-     "value":2.84
+     "value":2.85
     }
    ]
   },
@@ -25065,6 +25269,10 @@
     {
      "year":2021,
      "value":18.36
+    },
+    {
+     "year":2022,
+     "value":18.45
     }
    ]
   },

@@ -543,6 +543,10 @@
     {
      "year":2021,
      "value":7.16
+    },
+    {
+     "year":2022,
+     "value":6.93
     }
    ]
   },
@@ -2385,6 +2389,417 @@
    ]
   },
   {
+   "indicator":"Expected Years of Schooling, female (years)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":17.06
+    },
+    {
+     "year":1991,
+     "value":17.2
+    },
+    {
+     "year":1992,
+     "value":17.34
+    },
+    {
+     "year":1993,
+     "value":17.58
+    },
+    {
+     "year":1994,
+     "value":17.82
+    },
+    {
+     "year":1995,
+     "value":17.89
+    },
+    {
+     "year":1996,
+     "value":18.47
+    },
+    {
+     "year":1997,
+     "value":18.26
+    },
+    {
+     "year":1998,
+     "value":18.31
+    },
+    {
+     "year":1999,
+     "value":18.36
+    },
+    {
+     "year":2000,
+     "value":18.41
+    },
+    {
+     "year":2001,
+     "value":18.46
+    },
+    {
+     "year":2002,
+     "value":18.51
+    },
+    {
+     "year":2003,
+     "value":18.56
+    },
+    {
+     "year":2004,
+     "value":18.61
+    },
+    {
+     "year":2005,
+     "value":18.65
+    },
+    {
+     "year":2006,
+     "value":18.7
+    },
+    {
+     "year":2007,
+     "value":18.75
+    },
+    {
+     "year":2008,
+     "value":18.8
+    },
+    {
+     "year":2009,
+     "value":18.85
+    },
+    {
+     "year":2010,
+     "value":18.9
+    },
+    {
+     "year":2011,
+     "value":18.95
+    },
+    {
+     "year":2012,
+     "value":19.0
+    },
+    {
+     "year":2013,
+     "value":19.04
+    },
+    {
+     "year":2014,
+     "value":19.09
+    },
+    {
+     "year":2015,
+     "value":19.14
+    },
+    {
+     "year":2016,
+     "value":19.19
+    },
+    {
+     "year":2017,
+     "value":19.24
+    },
+    {
+     "year":2018,
+     "value":19.29
+    },
+    {
+     "year":2019,
+     "value":19.34
+    },
+    {
+     "year":2020,
+     "value":19.39
+    },
+    {
+     "year":2021,
+     "value":19.39
+    },
+    {
+     "year":2022,
+     "value":19.39
+    }
+   ]
+  },
+  {
+   "indicator":"Expected Years of Schooling (years)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":16.49
+    },
+    {
+     "year":1991,
+     "value":16.87
+    },
+    {
+     "year":1992,
+     "value":17.25
+    },
+    {
+     "year":1993,
+     "value":17.52
+    },
+    {
+     "year":1994,
+     "value":17.79
+    },
+    {
+     "year":1995,
+     "value":17.89
+    },
+    {
+     "year":1996,
+     "value":18.14
+    },
+    {
+     "year":1997,
+     "value":17.86
+    },
+    {
+     "year":1998,
+     "value":17.89
+    },
+    {
+     "year":1999,
+     "value":17.93
+    },
+    {
+     "year":2000,
+     "value":17.96
+    },
+    {
+     "year":2001,
+     "value":18.0
+    },
+    {
+     "year":2002,
+     "value":18.04
+    },
+    {
+     "year":2003,
+     "value":18.07
+    },
+    {
+     "year":2004,
+     "value":18.11
+    },
+    {
+     "year":2005,
+     "value":18.15
+    },
+    {
+     "year":2006,
+     "value":18.18
+    },
+    {
+     "year":2007,
+     "value":18.22
+    },
+    {
+     "year":2008,
+     "value":18.25
+    },
+    {
+     "year":2009,
+     "value":18.29
+    },
+    {
+     "year":2010,
+     "value":18.33
+    },
+    {
+     "year":2011,
+     "value":18.36
+    },
+    {
+     "year":2012,
+     "value":18.4
+    },
+    {
+     "year":2013,
+     "value":18.44
+    },
+    {
+     "year":2014,
+     "value":18.47
+    },
+    {
+     "year":2015,
+     "value":18.51
+    },
+    {
+     "year":2016,
+     "value":18.55
+    },
+    {
+     "year":2017,
+     "value":18.58
+    },
+    {
+     "year":2018,
+     "value":18.62
+    },
+    {
+     "year":2019,
+     "value":18.65
+    },
+    {
+     "year":2020,
+     "value":18.69
+    },
+    {
+     "year":2021,
+     "value":18.69
+    },
+    {
+     "year":2022,
+     "value":18.69
+    }
+   ]
+  },
+  {
+   "indicator":"Expected Years of Schooling, male (years)",
+   "yearlyData":[
+    {
+     "year":1990,
+     "value":15.96
+    },
+    {
+     "year":1991,
+     "value":16.55
+    },
+    {
+     "year":1992,
+     "value":17.16
+    },
+    {
+     "year":1993,
+     "value":17.47
+    },
+    {
+     "year":1994,
+     "value":17.77
+    },
+    {
+     "year":1995,
+     "value":17.89
+    },
+    {
+     "year":1996,
+     "value":17.83
+    },
+    {
+     "year":1997,
+     "value":17.47
+    },
+    {
+     "year":1998,
+     "value":17.49
+    },
+    {
+     "year":1999,
+     "value":17.52
+    },
+    {
+     "year":2000,
+     "value":17.54
+    },
+    {
+     "year":2001,
+     "value":17.57
+    },
+    {
+     "year":2002,
+     "value":17.6
+    },
+    {
+     "year":2003,
+     "value":17.62
+    },
+    {
+     "year":2004,
+     "value":17.65
+    },
+    {
+     "year":2005,
+     "value":17.67
+    },
+    {
+     "year":2006,
+     "value":17.7
+    },
+    {
+     "year":2007,
+     "value":17.72
+    },
+    {
+     "year":2008,
+     "value":17.75
+    },
+    {
+     "year":2009,
+     "value":17.77
+    },
+    {
+     "year":2010,
+     "value":17.8
+    },
+    {
+     "year":2011,
+     "value":17.82
+    },
+    {
+     "year":2012,
+     "value":17.85
+    },
+    {
+     "year":2013,
+     "value":17.88
+    },
+    {
+     "year":2014,
+     "value":17.9
+    },
+    {
+     "year":2015,
+     "value":17.93
+    },
+    {
+     "year":2016,
+     "value":17.95
+    },
+    {
+     "year":2017,
+     "value":17.98
+    },
+    {
+     "year":2018,
+     "value":18.0
+    },
+    {
+     "year":2019,
+     "value":18.03
+    },
+    {
+     "year":2020,
+     "value":18.05
+    },
+    {
+     "year":2021,
+     "value":18.05
+    },
+    {
+     "year":2022,
+     "value":18.05
+    }
+   ]
+  },
+  {
    "indicator":"Expenditure on tertiary education (% of government expenditure on education)",
    "yearlyData":[
     {
@@ -3067,6 +3482,10 @@
     {
      "year":2021,
      "value":3.43
+    },
+    {
+     "year":2022,
+     "value":3.48
     }
    ]
   },
@@ -3203,6 +3622,80 @@
    ]
   },
   {
+   "indicator":"Gender Inequality Index-Labour force participation rate, female (% ages 15 and older)",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":39.8
+    },
+    {
+     "year":2016,
+     "value":39.8
+    },
+    {
+     "year":2017,
+     "value":40.11
+    },
+    {
+     "year":2018,
+     "value":40.21
+    },
+    {
+     "year":2019,
+     "value":40.44
+    },
+    {
+     "year":2020,
+     "value":39.97
+    },
+    {
+     "year":2021,
+     "value":39.51
+    },
+    {
+     "year":2022,
+     "value":39.51
+    }
+   ]
+  },
+  {
+   "indicator":"Gender Inequality Index-Labour force participation rate, male (% ages 15 and older)",
+   "yearlyData":[
+    {
+     "year":2015,
+     "value":57.19
+    },
+    {
+     "year":2016,
+     "value":57.19
+    },
+    {
+     "year":2017,
+     "value":57.43
+    },
+    {
+     "year":2018,
+     "value":57.53
+    },
+    {
+     "year":2019,
+     "value":57.74
+    },
+    {
+     "year":2020,
+     "value":57.16
+    },
+    {
+     "year":2021,
+     "value":56.61
+    },
+    {
+     "year":2022,
+     "value":56.61
+    }
+   ]
+  },
+  {
    "indicator":" Legislation and Financing (IHR SPAR)",
    "yearlyData":[
     {
@@ -3242,7 +3735,7 @@
     },
     {
      "year":1991,
-     "value":81.51
+     "value":81.5
     },
     {
      "year":1992,
@@ -3254,7 +3747,7 @@
     },
     {
      "year":1994,
-     "value":83.33
+     "value":83.34
     },
     {
      "year":1995,
@@ -3262,7 +3755,7 @@
     },
     {
      "year":1996,
-     "value":84.47
+     "value":84.46
     },
     {
      "year":1997,
@@ -3363,6 +3856,10 @@
     {
      "year":2021,
      "value":87.68
+    },
+    {
+     "year":2022,
+     "value":88.88
     }
    ]
   },
@@ -3399,7 +3896,7 @@
     },
     {
      "year":1997,
-     "value":75.55
+     "value":75.56
     },
     {
      "year":1998,
@@ -3496,6 +3993,10 @@
     {
      "year":2021,
      "value":84.34
+    },
+    {
+     "year":2022,
+     "value":85.06
     }
    ]
   },
@@ -3629,6 +4130,10 @@
     {
      "year":2021,
      "value":85.95
+    },
+    {
+     "year":2022,
+     "value":86.9
     }
    ]
   },
@@ -3709,6 +4214,10 @@
     {
      "year":2021,
      "value":200.0
+    },
+    {
+     "year":2022,
+     "value":200.0
     }
    ]
   },
@@ -3739,6 +4248,47 @@
     {
      "year":2019,
      "value":0.0
+    }
+   ]
+  },
+  {
+   "indicator":"Number of hospital beds per 10,000 people",
+   "yearlyData":[
+    {
+     "year":2006,
+     "value":147.8
+    },
+    {
+     "year":2007,
+     "value":146.4
+    },
+    {
+     "year":2008,
+     "value":147.8
+    },
+    {
+     "year":2009,
+     "value":151.8
+    },
+    {
+     "year":2010,
+     "value":158.8
+    },
+    {
+     "year":2011,
+     "value":183.2
+    },
+    {
+     "year":2012,
+     "value":178.4
+    },
+    {
+     "year":2013,
+     "value":223.0
+    },
+    {
+     "year":2014,
+     "value":220.2
     }
    ]
   },
@@ -3909,6 +4459,10 @@
     },
     {
      "year":2021,
+     "value":33.33
+    },
+    {
+     "year":2022,
      "value":33.33
     }
    ]
@@ -6298,6 +6852,10 @@
     },
     {
      "year":2021,
+     "value":66.67
+    },
+    {
+     "year":2022,
      "value":66.67
     }
    ]

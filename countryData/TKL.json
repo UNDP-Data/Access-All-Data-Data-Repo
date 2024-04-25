@@ -200,6 +200,10 @@
     {
      "year":2022,
      "value":0.0
+    },
+    {
+     "year":2023,
+     "value":0.0
     }
    ]
   },
@@ -1593,6 +1597,52 @@
    ]
   },
   {
+   "indicator":"Proportion of women in managerial positions, %",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":23.45
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":0.0
+    },
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":36.79
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":15.36
+    },
+    {
+     "year":2022,
+     "value":82.35
+    }
+   ]
+  },
+  {
    "indicator":"International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
    "yearlyData":[
     {
@@ -1996,6 +2046,15 @@
     {
      "year":2003,
      "value":1.5
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training, Male",
+   "yearlyData":[
+    {
+     "year":2022,
+     "value":73.39
     }
    ]
   },
@@ -3295,6 +3354,39 @@
    ]
   },
   {
+   "indicator":"Proportion of women in senior and middle management positions, %",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":21.09
+    },
+    {
+     "year":2017,
+     "value":0.0
+    },
+    {
+     "year":2018,
+     "value":0.0
+    },
+    {
+     "year":2019,
+     "value":0.0
+    },
+    {
+     "year":2020,
+     "value":0.0
+    },
+    {
+     "year":2021,
+     "value":0.0
+    },
+    {
+     "year":2022,
+     "value":36.54
+    }
+   ]
+  },
+  {
    "indicator":"COVID-19 Fatality Rate",
    "yearlyData":[
     {
@@ -3481,6 +3573,19 @@
     {
      "year":2021,
      "value":1837.0
+    }
+   ]
+  },
+  {
+   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training",
+   "yearlyData":[
+    {
+     "year":2016,
+     "value":9.1
+    },
+    {
+     "year":2022,
+     "value":77.43
     }
    ]
   }
