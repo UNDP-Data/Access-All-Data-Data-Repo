@@ -1,653 +1,653 @@
 {
- "Alpha-3 code":"MeN",
- "Country or Area":"Melanesia",
- "Latitude (average)":0.0,
- "Longitude (average)":0.0,
- "Group 1":"",
- "Group 2":"",
- "LDC":false,
- "LLDC":false,
- "SIDS":false,
- "Income group":"",
- "indicators":[
-  {
-   "indicator":"Proportion of women in managerial positions, %",
-   "yearlyData":[
+  "Alpha-3 code": "MeN",
+  "Country or Area": "Melanesia",
+  "Latitude (average)": 0.0,
+  "Longitude (average)": 0.0,
+  "Group 1": "",
+  "Group 2": "",
+  "LDC": false,
+  "LLDC": false,
+  "SIDS": false,
+  "Income group": "",
+  "indicators": [
     {
-     "year":2000,
-     "value":17.81
+      "indicator": "Proportion of women in managerial positions, %",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 17.81
+        },
+        {
+          "year": 2001,
+          "value": 18.2
+        },
+        {
+          "year": 2002,
+          "value": 18.56
+        },
+        {
+          "year": 2003,
+          "value": 18.97
+        },
+        {
+          "year": 2004,
+          "value": 19.36
+        },
+        {
+          "year": 2005,
+          "value": 20.38
+        },
+        {
+          "year": 2006,
+          "value": 20.95
+        },
+        {
+          "year": 2007,
+          "value": 21.55
+        },
+        {
+          "year": 2008,
+          "value": 22.19
+        },
+        {
+          "year": 2009,
+          "value": 22.98
+        },
+        {
+          "year": 2010,
+          "value": 23.28
+        },
+        {
+          "year": 2011,
+          "value": 23.18
+        },
+        {
+          "year": 2012,
+          "value": 23.6
+        },
+        {
+          "year": 2013,
+          "value": 24
+        },
+        {
+          "year": 2014,
+          "value": 24.35
+        },
+        {
+          "year": 2015,
+          "value": 25.57
+        },
+        {
+          "year": 2016,
+          "value": 26.59
+        },
+        {
+          "year": 2017,
+          "value": 26.76
+        },
+        {
+          "year": 2018,
+          "value": 27.19
+        },
+        {
+          "year": 2019,
+          "value": 27.64
+        },
+        {
+          "year": 2020,
+          "value": 27.97
+        },
+        {
+          "year": 2021,
+          "value": 28.18
+        },
+        {
+          "year": 2022,
+          "value": 26.36
+        }
+      ]
     },
     {
-     "year":2001,
-     "value":18.2
+      "indicator": "Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 35.09
+        },
+        {
+          "year": 2006,
+          "value": 35.26
+        },
+        {
+          "year": 2007,
+          "value": 35.5
+        },
+        {
+          "year": 2008,
+          "value": 35.87
+        },
+        {
+          "year": 2009,
+          "value": 36.11
+        },
+        {
+          "year": 2010,
+          "value": 36.33
+        },
+        {
+          "year": 2011,
+          "value": 36.34
+        },
+        {
+          "year": 2012,
+          "value": 36.35
+        },
+        {
+          "year": 2013,
+          "value": 36.36
+        },
+        {
+          "year": 2014,
+          "value": 36.37
+        },
+        {
+          "year": 2015,
+          "value": 36.47
+        },
+        {
+          "year": 2016,
+          "value": 36.58
+        },
+        {
+          "year": 2017,
+          "value": 36.58
+        },
+        {
+          "year": 2018,
+          "value": 36.37
+        },
+        {
+          "year": 2019,
+          "value": 36.34
+        },
+        {
+          "year": 2020,
+          "value": 36.69
+        },
+        {
+          "year": 2021,
+          "value": 36.72
+        },
+        {
+          "year": 2022,
+          "value": 36.55
+        },
+        {
+          "year": 2023,
+          "value": 36.47
+        }
+      ]
     },
     {
-     "year":2002,
-     "value":18.56
+      "indicator": "International migrant stock at mid-year (both sexes)",
+      "yearlyData": [
+        {
+          "year": 1990,
+          "value": 91200
+        },
+        {
+          "year": 1995,
+          "value": 96828
+        },
+        {
+          "year": 2000,
+          "value": 95281
+        },
+        {
+          "year": 2005,
+          "value": 103881
+        },
+        {
+          "year": 2010,
+          "value": 110691
+        },
+        {
+          "year": 2015,
+          "value": 119343
+        },
+        {
+          "year": 2020,
+          "value": 124073
+        }
+      ]
     },
     {
-     "year":2003,
-     "value":18.97
+      "indicator": "Proportion of youth (aged 15??4 years) not in education, employment or training, Male",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 27.21
+        },
+        {
+          "year": 2006,
+          "value": 27.51
+        },
+        {
+          "year": 2007,
+          "value": 27.79
+        },
+        {
+          "year": 2008,
+          "value": 28.21
+        },
+        {
+          "year": 2009,
+          "value": 28.49
+        },
+        {
+          "year": 2010,
+          "value": 28.89
+        },
+        {
+          "year": 2011,
+          "value": 29.3
+        },
+        {
+          "year": 2012,
+          "value": 29.37
+        },
+        {
+          "year": 2013,
+          "value": 29.44
+        },
+        {
+          "year": 2014,
+          "value": 29.41
+        },
+        {
+          "year": 2015,
+          "value": 29.35
+        },
+        {
+          "year": 2016,
+          "value": 29.32
+        },
+        {
+          "year": 2017,
+          "value": 29.32
+        },
+        {
+          "year": 2018,
+          "value": 29.29
+        },
+        {
+          "year": 2019,
+          "value": 29.19
+        },
+        {
+          "year": 2020,
+          "value": 29.7
+        },
+        {
+          "year": 2021,
+          "value": 29.67
+        },
+        {
+          "year": 2022,
+          "value": 29.44
+        },
+        {
+          "year": 2023,
+          "value": 29.34
+        }
+      ]
     },
     {
-     "year":2004,
-     "value":19.36
+      "indicator": "Proportion of medium and high-tech industry value added in total value added",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 10.19
+        },
+        {
+          "year": 2001,
+          "value": 8.18
+        },
+        {
+          "year": 2002,
+          "value": 8.4
+        },
+        {
+          "year": 2003,
+          "value": 8.24
+        },
+        {
+          "year": 2004,
+          "value": 8.26
+        },
+        {
+          "year": 2005,
+          "value": 9.52
+        },
+        {
+          "year": 2006,
+          "value": 9.16
+        },
+        {
+          "year": 2007,
+          "value": 7.04
+        },
+        {
+          "year": 2008,
+          "value": 6.76
+        },
+        {
+          "year": 2009,
+          "value": 7.66
+        },
+        {
+          "year": 2010,
+          "value": 7.87
+        },
+        {
+          "year": 2011,
+          "value": 7.69
+        },
+        {
+          "year": 2012,
+          "value": 7.79
+        },
+        {
+          "year": 2013,
+          "value": 7.19
+        },
+        {
+          "year": 2014,
+          "value": 7.13
+        },
+        {
+          "year": 2015,
+          "value": 7.06
+        },
+        {
+          "year": 2016,
+          "value": 7.11
+        },
+        {
+          "year": 2017,
+          "value": 7.71
+        },
+        {
+          "year": 2018,
+          "value": 7.76
+        },
+        {
+          "year": 2019,
+          "value": 8.04
+        },
+        {
+          "year": 2020,
+          "value": 7.87
+        },
+        {
+          "year": 2021,
+          "value": 7.87
+        }
+      ]
     },
     {
-     "year":2005,
-     "value":20.38
+      "indicator": "Population, total",
+      "yearlyData": [
+        {
+          "year": 1980,
+          "value": 4204009
+        },
+        {
+          "year": 1981,
+          "value": 4295577
+        },
+        {
+          "year": 1982,
+          "value": 4389715
+        },
+        {
+          "year": 1983,
+          "value": 4486676
+        },
+        {
+          "year": 1984,
+          "value": 4587443
+        },
+        {
+          "year": 1985,
+          "value": 4691689
+        },
+        {
+          "year": 1986,
+          "value": 4798348
+        },
+        {
+          "year": 1987,
+          "value": 4904423
+        },
+        {
+          "year": 1988,
+          "value": 5009515
+        },
+        {
+          "year": 1989,
+          "value": 5114795
+        },
+        {
+          "year": 1990,
+          "value": 5228631
+        },
+        {
+          "year": 1991,
+          "value": 5366808
+        },
+        {
+          "year": 1992,
+          "value": 5525548
+        },
+        {
+          "year": 1993,
+          "value": 5698967
+        },
+        {
+          "year": 1994,
+          "value": 5877438
+        },
+        {
+          "year": 1995,
+          "value": 6060212
+        },
+        {
+          "year": 1996,
+          "value": 6248160
+        },
+        {
+          "year": 1997,
+          "value": 6446445
+        },
+        {
+          "year": 1998,
+          "value": 6652260
+        },
+        {
+          "year": 1999,
+          "value": 6861271
+        },
+        {
+          "year": 2000,
+          "value": 7075907
+        },
+        {
+          "year": 2001,
+          "value": 7292884
+        },
+        {
+          "year": 2002,
+          "value": 7513564
+        },
+        {
+          "year": 2003,
+          "value": 7737980
+        },
+        {
+          "year": 2004,
+          "value": 7966910
+        },
+        {
+          "year": 2005,
+          "value": 8198523
+        },
+        {
+          "year": 2006,
+          "value": 8433478
+        },
+        {
+          "year": 2007,
+          "value": 8673096
+        },
+        {
+          "year": 2008,
+          "value": 8914994
+        },
+        {
+          "year": 2009,
+          "value": 9160502
+        },
+        {
+          "year": 2010,
+          "value": 9409039
+        },
+        {
+          "year": 2011,
+          "value": 9662384
+        },
+        {
+          "year": 2012,
+          "value": 9910236
+        },
+        {
+          "year": 2013,
+          "value": 10157729
+        },
+        {
+          "year": 2014,
+          "value": 10405017
+        },
+        {
+          "year": 2015,
+          "value": 10650611
+        },
+        {
+          "year": 2016,
+          "value": 10892398
+        },
+        {
+          "year": 2017,
+          "value": 11132818
+        },
+        {
+          "year": 2018,
+          "value": 11371254
+        },
+        {
+          "year": 2019,
+          "value": 11608046
+        },
+        {
+          "year": 2020,
+          "value": 11843397
+        },
+        {
+          "year": 2021,
+          "value": 12075284
+        }
+      ]
     },
     {
-     "year":2006,
-     "value":20.95
-    },
-    {
-     "year":2007,
-     "value":21.55
-    },
-    {
-     "year":2008,
-     "value":22.19
-    },
-    {
-     "year":2009,
-     "value":22.98
-    },
-    {
-     "year":2010,
-     "value":23.28
-    },
-    {
-     "year":2011,
-     "value":23.18
-    },
-    {
-     "year":2012,
-     "value":23.6
-    },
-    {
-     "year":2013,
-     "value":24.0
-    },
-    {
-     "year":2014,
-     "value":24.35
-    },
-    {
-     "year":2015,
-     "value":25.57
-    },
-    {
-     "year":2016,
-     "value":26.59
-    },
-    {
-     "year":2017,
-     "value":26.76
-    },
-    {
-     "year":2018,
-     "value":27.19
-    },
-    {
-     "year":2019,
-     "value":27.64
-    },
-    {
-     "year":2020,
-     "value":27.97
-    },
-    {
-     "year":2021,
-     "value":28.18
-    },
-    {
-     "year":2022,
-     "value":26.36
+      "indicator": "Proportion of youth (aged 15??4 years) not in education, employment or training",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 31.02
+        },
+        {
+          "year": 2006,
+          "value": 31.25
+        },
+        {
+          "year": 2007,
+          "value": 31.51
+        },
+        {
+          "year": 2008,
+          "value": 31.9
+        },
+        {
+          "year": 2009,
+          "value": 32.17
+        },
+        {
+          "year": 2010,
+          "value": 32.48
+        },
+        {
+          "year": 2011,
+          "value": 32.69
+        },
+        {
+          "year": 2012,
+          "value": 32.73
+        },
+        {
+          "year": 2013,
+          "value": 32.76
+        },
+        {
+          "year": 2014,
+          "value": 32.75
+        },
+        {
+          "year": 2015,
+          "value": 32.77
+        },
+        {
+          "year": 2016,
+          "value": 32.8
+        },
+        {
+          "year": 2017,
+          "value": 32.8
+        },
+        {
+          "year": 2018,
+          "value": 32.69
+        },
+        {
+          "year": 2019,
+          "value": 32.62
+        },
+        {
+          "year": 2020,
+          "value": 33.05
+        },
+        {
+          "year": 2021,
+          "value": 33.05
+        },
+        {
+          "year": 2022,
+          "value": 32.85
+        },
+        {
+          "year": 2023,
+          "value": 32.76
+        }
+      ]
     }
-   ]
-  },
-  {
-   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":35.09
-    },
-    {
-     "year":2006,
-     "value":35.26
-    },
-    {
-     "year":2007,
-     "value":35.5
-    },
-    {
-     "year":2008,
-     "value":35.87
-    },
-    {
-     "year":2009,
-     "value":36.11
-    },
-    {
-     "year":2010,
-     "value":36.33
-    },
-    {
-     "year":2011,
-     "value":36.34
-    },
-    {
-     "year":2012,
-     "value":36.35
-    },
-    {
-     "year":2013,
-     "value":36.36
-    },
-    {
-     "year":2014,
-     "value":36.37
-    },
-    {
-     "year":2015,
-     "value":36.47
-    },
-    {
-     "year":2016,
-     "value":36.58
-    },
-    {
-     "year":2017,
-     "value":36.58
-    },
-    {
-     "year":2018,
-     "value":36.37
-    },
-    {
-     "year":2019,
-     "value":36.34
-    },
-    {
-     "year":2020,
-     "value":36.69
-    },
-    {
-     "year":2021,
-     "value":36.72
-    },
-    {
-     "year":2022,
-     "value":36.55
-    },
-    {
-     "year":2023,
-     "value":36.47
-    }
-   ]
-  },
-  {
-   "indicator":"International migrant stock at mid-year (both sexes)",
-   "yearlyData":[
-    {
-     "year":1990,
-     "value":91200.0
-    },
-    {
-     "year":1995,
-     "value":96828.0
-    },
-    {
-     "year":2000,
-     "value":95281.0
-    },
-    {
-     "year":2005,
-     "value":103881.0
-    },
-    {
-     "year":2010,
-     "value":110691.0
-    },
-    {
-     "year":2015,
-     "value":119343.0
-    },
-    {
-     "year":2020,
-     "value":124073.0
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training, Male",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":27.21
-    },
-    {
-     "year":2006,
-     "value":27.51
-    },
-    {
-     "year":2007,
-     "value":27.79
-    },
-    {
-     "year":2008,
-     "value":28.21
-    },
-    {
-     "year":2009,
-     "value":28.49
-    },
-    {
-     "year":2010,
-     "value":28.89
-    },
-    {
-     "year":2011,
-     "value":29.3
-    },
-    {
-     "year":2012,
-     "value":29.37
-    },
-    {
-     "year":2013,
-     "value":29.44
-    },
-    {
-     "year":2014,
-     "value":29.41
-    },
-    {
-     "year":2015,
-     "value":29.35
-    },
-    {
-     "year":2016,
-     "value":29.32
-    },
-    {
-     "year":2017,
-     "value":29.32
-    },
-    {
-     "year":2018,
-     "value":29.29
-    },
-    {
-     "year":2019,
-     "value":29.19
-    },
-    {
-     "year":2020,
-     "value":29.7
-    },
-    {
-     "year":2021,
-     "value":29.67
-    },
-    {
-     "year":2022,
-     "value":29.44
-    },
-    {
-     "year":2023,
-     "value":29.34
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of medium and high-tech industry value added in total value added",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":10.19
-    },
-    {
-     "year":2001,
-     "value":8.18
-    },
-    {
-     "year":2002,
-     "value":8.4
-    },
-    {
-     "year":2003,
-     "value":8.24
-    },
-    {
-     "year":2004,
-     "value":8.26
-    },
-    {
-     "year":2005,
-     "value":9.52
-    },
-    {
-     "year":2006,
-     "value":9.16
-    },
-    {
-     "year":2007,
-     "value":7.04
-    },
-    {
-     "year":2008,
-     "value":6.76
-    },
-    {
-     "year":2009,
-     "value":7.66
-    },
-    {
-     "year":2010,
-     "value":7.87
-    },
-    {
-     "year":2011,
-     "value":7.69
-    },
-    {
-     "year":2012,
-     "value":7.79
-    },
-    {
-     "year":2013,
-     "value":7.19
-    },
-    {
-     "year":2014,
-     "value":7.13
-    },
-    {
-     "year":2015,
-     "value":7.06
-    },
-    {
-     "year":2016,
-     "value":7.11
-    },
-    {
-     "year":2017,
-     "value":7.71
-    },
-    {
-     "year":2018,
-     "value":7.76
-    },
-    {
-     "year":2019,
-     "value":8.04
-    },
-    {
-     "year":2020,
-     "value":7.87
-    },
-    {
-     "year":2021,
-     "value":7.87
-    }
-   ]
-  },
-  {
-   "indicator":"Population, total",
-   "yearlyData":[
-    {
-     "year":1980,
-     "value":4204009.0
-    },
-    {
-     "year":1981,
-     "value":4295577.0
-    },
-    {
-     "year":1982,
-     "value":4389715.0
-    },
-    {
-     "year":1983,
-     "value":4486676.0
-    },
-    {
-     "year":1984,
-     "value":4587443.0
-    },
-    {
-     "year":1985,
-     "value":4691689.0
-    },
-    {
-     "year":1986,
-     "value":4798348.0
-    },
-    {
-     "year":1987,
-     "value":4904423.0
-    },
-    {
-     "year":1988,
-     "value":5009515.0
-    },
-    {
-     "year":1989,
-     "value":5114795.0
-    },
-    {
-     "year":1990,
-     "value":5228631.0
-    },
-    {
-     "year":1991,
-     "value":5366808.0
-    },
-    {
-     "year":1992,
-     "value":5525548.0
-    },
-    {
-     "year":1993,
-     "value":5698967.0
-    },
-    {
-     "year":1994,
-     "value":5877438.0
-    },
-    {
-     "year":1995,
-     "value":6060212.0
-    },
-    {
-     "year":1996,
-     "value":6248160.0
-    },
-    {
-     "year":1997,
-     "value":6446445.0
-    },
-    {
-     "year":1998,
-     "value":6652260.0
-    },
-    {
-     "year":1999,
-     "value":6861271.0
-    },
-    {
-     "year":2000,
-     "value":7075907.0
-    },
-    {
-     "year":2001,
-     "value":7292884.0
-    },
-    {
-     "year":2002,
-     "value":7513564.0
-    },
-    {
-     "year":2003,
-     "value":7737980.0
-    },
-    {
-     "year":2004,
-     "value":7966910.0
-    },
-    {
-     "year":2005,
-     "value":8198523.0
-    },
-    {
-     "year":2006,
-     "value":8433478.0
-    },
-    {
-     "year":2007,
-     "value":8673096.0
-    },
-    {
-     "year":2008,
-     "value":8914994.0
-    },
-    {
-     "year":2009,
-     "value":9160502.0
-    },
-    {
-     "year":2010,
-     "value":9409039.0
-    },
-    {
-     "year":2011,
-     "value":9662384.0
-    },
-    {
-     "year":2012,
-     "value":9910236.0
-    },
-    {
-     "year":2013,
-     "value":10157729.0
-    },
-    {
-     "year":2014,
-     "value":10405017.0
-    },
-    {
-     "year":2015,
-     "value":10650611.0
-    },
-    {
-     "year":2016,
-     "value":10892398.0
-    },
-    {
-     "year":2017,
-     "value":11132818.0
-    },
-    {
-     "year":2018,
-     "value":11371254.0
-    },
-    {
-     "year":2019,
-     "value":11608046.0
-    },
-    {
-     "year":2020,
-     "value":11843397.0
-    },
-    {
-     "year":2021,
-     "value":12075284.0
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":31.02
-    },
-    {
-     "year":2006,
-     "value":31.25
-    },
-    {
-     "year":2007,
-     "value":31.51
-    },
-    {
-     "year":2008,
-     "value":31.9
-    },
-    {
-     "year":2009,
-     "value":32.17
-    },
-    {
-     "year":2010,
-     "value":32.48
-    },
-    {
-     "year":2011,
-     "value":32.69
-    },
-    {
-     "year":2012,
-     "value":32.73
-    },
-    {
-     "year":2013,
-     "value":32.76
-    },
-    {
-     "year":2014,
-     "value":32.75
-    },
-    {
-     "year":2015,
-     "value":32.77
-    },
-    {
-     "year":2016,
-     "value":32.8
-    },
-    {
-     "year":2017,
-     "value":32.8
-    },
-    {
-     "year":2018,
-     "value":32.69
-    },
-    {
-     "year":2019,
-     "value":32.62
-    },
-    {
-     "year":2020,
-     "value":33.05
-    },
-    {
-     "year":2021,
-     "value":33.05
-    },
-    {
-     "year":2022,
-     "value":32.85
-    },
-    {
-     "year":2023,
-     "value":32.76
-    }
-   ]
-  }
- ]
+  ]
 }

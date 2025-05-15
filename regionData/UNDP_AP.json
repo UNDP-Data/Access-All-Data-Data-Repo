@@ -1,4088 +1,4088 @@
 {
- "Alpha-3 code":"UNDP_AP",
- "Country or Area":"Asia & Pacific",
- "Latitude (average)":0.0,
- "Longitude (average)":0.0,
- "Group 1":"",
- "Group 2":"",
- "LDC":false,
- "LLDC":false,
- "SIDS":false,
- "Income group":"",
- "indicators":[
-  {
-   "indicator":"Informal employment by sex (thousands), Female",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":184291.03
-    },
-    {
-     "year":2019,
-     "value":202733.38
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex (thousands), Male",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":434524.75
-    },
-    {
-     "year":2019,
-     "value":447035.24
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex (thousands), Total",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":618852.08
-    },
-    {
-     "year":2019,
-     "value":649856.78
-    }
-   ]
-  },
-  {
-   "indicator":"Access to electricity, rural (% of rural population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":68.1
-    },
-    {
-     "year":2012,
-     "value":80.59
-    },
-    {
-     "year":2013,
-     "value":81.48
-    },
-    {
-     "year":2014,
-     "value":82.75
-    },
-    {
-     "year":2015,
-     "value":85.82
-    },
-    {
-     "year":2016,
-     "value":86.9
-    },
-    {
-     "year":2017,
-     "value":89.69
-    },
-    {
-     "year":2018,
-     "value":92.37
-    },
-    {
-     "year":2019,
-     "value":93.49
-    },
-    {
-     "year":2020,
-     "value":94.75
-    }
-   ]
-  },
-  {
-   "indicator":"Access to electricity, urban (% of urban population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":94.87
-    },
-    {
-     "year":2012,
-     "value":97.56
-    },
-    {
-     "year":2013,
-     "value":97.63
-    },
-    {
-     "year":2014,
-     "value":97.97
-    },
-    {
-     "year":2015,
-     "value":98.24
-    },
-    {
-     "year":2016,
-     "value":98.54
-    },
-    {
-     "year":2017,
-     "value":98.92
-    },
-    {
-     "year":2018,
-     "value":98.96
-    },
-    {
-     "year":2019,
-     "value":99.2
-    },
-    {
-     "year":2020,
-     "value":99.28
-    }
-   ]
-  },
-  {
-   "indicator":"Access to electricity (% of population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":76.46
-    },
-    {
-     "year":2012,
-     "value":87.77
-    },
-    {
-     "year":2013,
-     "value":88.42
-    },
-    {
-     "year":2014,
-     "value":89.4
-    },
-    {
-     "year":2015,
-     "value":91.34
-    },
-    {
-     "year":2016,
-     "value":92.15
-    },
-    {
-     "year":2017,
-     "value":93.92
-    },
-    {
-     "year":2018,
-     "value":95.44
-    },
-    {
-     "year":2019,
-     "value":96.15
-    },
-    {
-     "year":2020,
-     "value":96.92
-    }
-   ]
-  },
-  {
-   "indicator":"Access to clean fuels and technologies for cooking  (% of population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":30.4
-    },
-    {
-     "year":2012,
-     "value":48.58
-    },
-    {
-     "year":2013,
-     "value":50.72
-    },
-    {
-     "year":2014,
-     "value":53.38
-    },
-    {
-     "year":2015,
-     "value":55.86
-    },
-    {
-     "year":2016,
-     "value":58.23
-    },
-    {
-     "year":2017,
-     "value":61.12
-    },
-    {
-     "year":2018,
-     "value":63.8
-    },
-    {
-     "year":2019,
-     "value":66.34
-    },
-    {
-     "year":2020,
-     "value":68.75
-    }
-   ]
-  },
-  {
-   "indicator":"Individuals using the Internet (% of population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":1.26
-    },
-    {
-     "year":2001,
-     "value":1.9
-    },
-    {
-     "year":2002,
-     "value":3.2
-    },
-    {
-     "year":2003,
-     "value":4.15
-    },
-    {
-     "year":2004,
-     "value":4.92
-    },
-    {
-     "year":2005,
-     "value":5.86
-    },
-    {
-     "year":2006,
-     "value":7.06
-    },
-    {
-     "year":2007,
-     "value":9.77
-    },
-    {
-     "year":2008,
-     "value":12.59
-    },
-    {
-     "year":2009,
-     "value":15.32
-    },
-    {
-     "year":2010,
-     "value":19.0
-    },
-    {
-     "year":2011,
-     "value":21.75
-    },
-    {
-     "year":2012,
-     "value":23.97
-    },
-    {
-     "year":2013,
-     "value":26.0
-    },
-    {
-     "year":2014,
-     "value":28.14
-    },
-    {
-     "year":2015,
-     "value":30.39
-    },
-    {
-     "year":2016,
-     "value":33.27
-    },
-    {
-     "year":2017,
-     "value":35.53
-    },
-    {
-     "year":2018,
-     "value":39.42
-    },
-    {
-     "year":2019,
-     "value":45.71
-    },
-    {
-     "year":2020,
-     "value":53.87
-    },
-    {
-     "year":2021,
-     "value":57.45
-    }
-   ]
-  },
-  {
-   "indicator":"Primary energy consumption from coal, measured in terawatt-hours",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":10547.13
-    },
-    {
-     "year":2001,
-     "value":11049.11
-    },
-    {
-     "year":2002,
-     "value":11995.17
-    },
-    {
-     "year":2003,
-     "value":14017.81
-    },
-    {
-     "year":2004,
-     "value":16064.08
-    },
-    {
-     "year":2005,
-     "value":18601.21
-    },
-    {
-     "year":2006,
-     "value":20229.82
-    },
-    {
-     "year":2007,
-     "value":22123.96
-    },
-    {
-     "year":2008,
-     "value":22698.57
-    },
-    {
-     "year":2009,
-     "value":23831.15
-    },
-    {
-     "year":2010,
-     "value":24797.64
-    },
-    {
-     "year":2011,
-     "value":26841.13
-    },
-    {
-     "year":2012,
-     "value":27447.27
-    },
-    {
-     "year":2013,
-     "value":28102.14
-    },
-    {
-     "year":2014,
-     "value":28516.71
-    },
-    {
-     "year":2015,
-     "value":28315.09
-    },
-    {
-     "year":2016,
-     "value":27831.96
-    },
-    {
-     "year":2017,
-     "value":28325.33
-    },
-    {
-     "year":2018,
-     "value":29303.63
-    },
-    {
-     "year":2019,
-     "value":30184.83
-    },
-    {
-     "year":2020,
-     "value":30476.82
-    },
-    {
-     "year":2021,
-     "value":32024.22
-    },
-    {
-     "year":2022,
-     "value":32887.79
-    }
-   ]
-  },
-  {
-   "indicator":"Electricity generation from coal, measured in terawatt-hours",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":1538.49
-    },
-    {
-     "year":2001,
-     "value":1635.98
-    },
-    {
-     "year":2002,
-     "value":1814.65
-    },
-    {
-     "year":2003,
-     "value":2075.54
-    },
-    {
-     "year":2004,
-     "value":2312.82
-    },
-    {
-     "year":2005,
-     "value":2596.33
-    },
-    {
-     "year":2006,
-     "value":2959.7
-    },
-    {
-     "year":2007,
-     "value":3358.3
-    },
-    {
-     "year":2008,
-     "value":3447.95
-    },
-    {
-     "year":2009,
-     "value":3701.33
-    },
-    {
-     "year":2010,
-     "value":4079.15
-    },
-    {
-     "year":2011,
-     "value":4617.22
-    },
-    {
-     "year":2012,
-     "value":4792.83
-    },
-    {
-     "year":2013,
-     "value":5198.15
-    },
-    {
-     "year":2014,
-     "value":5453.6
-    },
-    {
-     "year":2015,
-     "value":5389.69
-    },
-    {
-     "year":2016,
-     "value":5612.8
-    },
-    {
-     "year":2017,
-     "value":5958.22
-    },
-    {
-     "year":2018,
-     "value":6429.12
-    },
-    {
-     "year":2019,
-     "value":6579.36
-    },
-    {
-     "year":2020,
-     "value":6612.68
-    },
-    {
-     "year":2021,
-     "value":7158.6
-    },
-    {
-     "year":2022,
-     "value":7341.84
-    },
-    {
-     "year":2023,
-     "value":7835.17
-    }
-   ]
-  },
-  {
-   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":7092.0
-    },
-    {
-     "year":2001,
-     "value":7382.62
-    },
-    {
-     "year":2002,
-     "value":8245.09
-    },
-    {
-     "year":2003,
-     "value":10510.24
-    },
-    {
-     "year":2004,
-     "value":13148.22
-    },
-    {
-     "year":2005,
-     "value":14710.15
-    },
-    {
-     "year":2006,
-     "value":19233.67
-    },
-    {
-     "year":2007,
-     "value":21760.3
-    },
-    {
-     "year":2008,
-     "value":20153.93
-    },
-    {
-     "year":2009,
-     "value":23308.49
-    },
-    {
-     "year":2010,
-     "value":25067.14
-    },
-    {
-     "year":2011,
-     "value":25281.11
-    },
-    {
-     "year":2012,
-     "value":26479.6
-    },
-    {
-     "year":2013,
-     "value":19638.84
-    },
-    {
-     "year":2014,
-     "value":20589.88
-    },
-    {
-     "year":2015,
-     "value":16919.23
-    },
-    {
-     "year":2016,
-     "value":17469.1
-    },
-    {
-     "year":2017,
-     "value":17280.67
-    },
-    {
-     "year":2018,
-     "value":17029.77
-    },
-    {
-     "year":2019,
-     "value":16761.3
-    },
-    {
-     "year":2020,
-     "value":12444.6
-    },
-    {
-     "year":2021,
-     "value":11601.14
-    }
-   ]
-  },
-  {
-   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Total",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":137118.4
-    },
-    {
-     "year":2001,
-     "value":108815.15
-    },
-    {
-     "year":2002,
-     "value":90849.69
-    },
-    {
-     "year":2003,
-     "value":94513.92
-    },
-    {
-     "year":2004,
-     "value":67015.73
-    },
-    {
-     "year":2005,
-     "value":47514.89
-    },
-    {
-     "year":2006,
-     "value":42289.16
-    },
-    {
-     "year":2007,
-     "value":33126.1
-    },
-    {
-     "year":2008,
-     "value":24482.77
-    },
-    {
-     "year":2009,
-     "value":25337.39
-    },
-    {
-     "year":2010,
-     "value":27050.14
-    },
-    {
-     "year":2011,
-     "value":25984.91
-    },
-    {
-     "year":2012,
-     "value":26980.0
-    },
-    {
-     "year":2013,
-     "value":19606.64
-    },
-    {
-     "year":2014,
-     "value":20990.28
-    },
-    {
-     "year":2015,
-     "value":17157.73
-    },
-    {
-     "year":2016,
-     "value":17745.1
-    },
-    {
-     "year":2017,
-     "value":17356.17
-    },
-    {
-     "year":2018,
-     "value":17305.97
-    },
-    {
-     "year":2019,
-     "value":16884.9
-    },
-    {
-     "year":2020,
-     "value":12565.9
-    },
-    {
-     "year":2021,
-     "value":11706.84
-    }
-   ]
-  },
-  {
-   "indicator":"Cumulative Number of COVID-19 Cases",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":14299913.0
-    },
-    {
-     "year":2021,
-     "value":61195705.0
-    },
-    {
-     "year":2022,
-     "value":157188386.0
-    },
-    {
-     "year":2023,
-     "value":195851494.0
-    }
-   ]
-  },
-  {
-   "indicator":"Cumulative Number of COVID-19 Deaths",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":262853.0
-    },
-    {
-     "year":2021,
-     "value":1014022.0
-    },
-    {
-     "year":2022,
-     "value":1180064.0
-    },
-    {
-     "year":2023,
-     "value":1272706.0
-    }
-   ]
-  },
-  {
-   "indicator":"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2009,
-     "value":4.86
-    }
-   ]
-  },
-  {
-   "indicator":"Installed renewable electricity-generating capacity (watts per capita)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":40.77
-    },
-    {
-     "year":2001,
-     "value":41.83
-    },
-    {
-     "year":2002,
-     "value":43.02
-    },
-    {
-     "year":2003,
-     "value":46.92
-    },
-    {
-     "year":2004,
-     "value":50.75
-    },
-    {
-     "year":2005,
-     "value":55.02
-    },
-    {
-     "year":2006,
-     "value":59.85
-    },
-    {
-     "year":2007,
-     "value":65.71
-    },
-    {
-     "year":2008,
-     "value":73.9
-    },
-    {
-     "year":2009,
-     "value":82.68
-    },
-    {
-     "year":2010,
-     "value":91.52
-    },
-    {
-     "year":2011,
-     "value":102.24
-    },
-    {
-     "year":2012,
-     "value":112.63
-    },
-    {
-     "year":2013,
-     "value":128.73
-    },
-    {
-     "year":2014,
-     "value":144.8
-    },
-    {
-     "year":2015,
-     "value":162.93
-    },
-    {
-     "year":2016,
-     "value":181.56
-    },
-    {
-     "year":2017,
-     "value":204.31
-    },
-    {
-     "year":2018,
-     "value":225.73
-    },
-    {
-     "year":2019,
-     "value":243.85
-    },
-    {
-     "year":2020,
-     "value":279.54
-    }
-   ]
-  },
-  {
-   "indicator":"GHG emission",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":9029.91
-    },
-    {
-     "year":2001,
-     "value":9336.69
-    },
-    {
-     "year":2002,
-     "value":10204.23
-    },
-    {
-     "year":2003,
-     "value":10683.39
-    },
-    {
-     "year":2004,
-     "value":12041.61
-    },
-    {
-     "year":2005,
-     "value":12689.87
-    },
-    {
-     "year":2006,
-     "value":13967.75
-    },
-    {
-     "year":2007,
-     "value":14288.97
-    },
-    {
-     "year":2008,
-     "value":14664.94
-    },
-    {
-     "year":2009,
-     "value":15849.3
-    },
-    {
-     "year":2010,
-     "value":16513.01
-    },
-    {
-     "year":2011,
-     "value":17475.5
-    },
-    {
-     "year":2012,
-     "value":17993.47
-    },
-    {
-     "year":2013,
-     "value":18569.48
-    },
-    {
-     "year":2014,
-     "value":19325.21
-    },
-    {
-     "year":2015,
-     "value":19312.28
-    },
-    {
-     "year":2016,
-     "value":19149.83
-    },
-    {
-     "year":2017,
-     "value":19663.21
-    },
-    {
-     "year":2018,
-     "value":20695.37
-    },
-    {
-     "year":2019,
-     "value":21223.31
-    },
-    {
-     "year":2020,
-     "value":20777.35
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 15-24",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":16992.66
-    },
-    {
-     "year":2019,
-     "value":17936.27
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 15-64",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":147989.64
-    },
-    {
-     "year":2019,
-     "value":161531.85
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 15 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":154642.8
-    },
-    {
-     "year":2019,
-     "value":169103.14
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Female, 25 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":137650.21
-    },
-    {
-     "year":2019,
-     "value":151166.87
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 15-24",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":52086.22
-    },
-    {
-     "year":2019,
-     "value":53543.55
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 15-64",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":356599.79
-    },
-    {
-     "year":2019,
-     "value":364135.9
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 15 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":376294.93
-    },
-    {
-     "year":2019,
-     "value":385085.17
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Male, 25 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":324208.71
-    },
-    {
-     "year":2019,
-     "value":331541.62
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 15-24",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":69082.59
-    },
-    {
-     "year":2019,
-     "value":71479.82
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 15-64",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":504624.75
-    },
-    {
-     "year":2019,
-     "value":525751.95
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 15 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":530973.25
-    },
-    {
-     "year":2019,
-     "value":554274.77
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and age (thousands), Total, 25 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":461890.66
-    },
-    {
-     "year":2019,
-     "value":482794.95
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Female, Agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":91711.11
-    },
-    {
-     "year":2019,
-     "value":102555.08
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Female, Non-agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":62931.95
-    },
-    {
-     "year":2019,
-     "value":66548.06
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Male, Agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":175477.34
-    },
-    {
-     "year":2019,
-     "value":173140.19
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Male, Non-agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":200817.59
-    },
-    {
-     "year":2019,
-     "value":211944.98
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Total, Agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":267200.18
-    },
-    {
-     "year":2019,
-     "value":275764.57
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and economic activity (thousands), Total, Non-agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":263773.53
-    },
-    {
-     "year":2019,
-     "value":278510.19
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Female, Employees",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":24788.84
-    },
-    {
-     "year":2019,
-     "value":24765.94
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Female, Self-employed",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":128473.42
-    },
-    {
-     "year":2019,
-     "value":142915.89
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Male, Employees",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":71907.64
-    },
-    {
-     "year":2019,
-     "value":72806.41
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Male, Self-employed",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":300564.61
-    },
-    {
-     "year":2019,
-     "value":308494.26
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Total, Employees",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":96718.95
-    },
-    {
-     "year":2019,
-     "value":97574.97
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex and status in employment (thousands), Total, Self-employed",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":429051.46
-    },
-    {
-     "year":2019,
-     "value":451494.0
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex (thousands), Female",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":154642.8
-    },
-    {
-     "year":2019,
-     "value":169103.14
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex (thousands), Male",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":376294.93
-    },
-    {
-     "year":2019,
-     "value":385085.17
-    }
-   ]
-  },
-  {
-   "indicator":"Employement outside the Formal Sector by sex (thousands), Total",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":530973.25
-    },
-    {
-     "year":2019,
-     "value":554274.77
-    }
-   ]
-  },
-  {
-   "indicator":"Primary energy consumption per capita, measured in kilowatt-hours",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":6541.06
-    },
-    {
-     "year":2001,
-     "value":6758.44
-    },
-    {
-     "year":2002,
-     "value":7123.03
-    },
-    {
-     "year":2003,
-     "value":7820.4
-    },
-    {
-     "year":2004,
-     "value":8746.15
-    },
-    {
-     "year":2005,
-     "value":9533.07
-    },
-    {
-     "year":2006,
-     "value":10146.61
-    },
-    {
-     "year":2007,
-     "value":10831.53
-    },
-    {
-     "year":2008,
-     "value":11141.62
-    },
-    {
-     "year":2009,
-     "value":11479.95
-    },
-    {
-     "year":2010,
-     "value":12046.6
-    },
-    {
-     "year":2011,
-     "value":12701.37
-    },
-    {
-     "year":2012,
-     "value":13070.0
-    },
-    {
-     "year":2013,
-     "value":13364.33
-    },
-    {
-     "year":2014,
-     "value":13665.03
-    },
-    {
-     "year":2015,
-     "value":13797.39
-    },
-    {
-     "year":2016,
-     "value":13933.74
-    },
-    {
-     "year":2017,
-     "value":14332.89
-    },
-    {
-     "year":2018,
-     "value":14908.42
-    },
-    {
-     "year":2019,
-     "value":15414.16
-    },
-    {
-     "year":2020,
-     "value":15419.14
-    },
-    {
-     "year":2021,
-     "value":16139.97
-    },
-    {
-     "year":2022,
-     "value":16431.77
-    }
-   ]
-  },
-  {
-   "indicator":"Estimated number of people (all ages) living with HIV",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":1378850.0
-    },
-    {
-     "year":2001,
-     "value":1456540.0
-    },
-    {
-     "year":2002,
-     "value":1512700.0
-    },
-    {
-     "year":2003,
-     "value":1562080.0
-    },
-    {
-     "year":2004,
-     "value":1622810.0
-    },
-    {
-     "year":2005,
-     "value":1687140.0
-    },
-    {
-     "year":2006,
-     "value":1737650.0
-    },
-    {
-     "year":2007,
-     "value":1802440.0
-    },
-    {
-     "year":2008,
-     "value":1863820.0
-    },
-    {
-     "year":2009,
-     "value":1907980.0
-    },
-    {
-     "year":2010,
-     "value":1961060.0
-    },
-    {
-     "year":2011,
-     "value":2019070.0
-    },
-    {
-     "year":2012,
-     "value":2051700.0
-    },
-    {
-     "year":2013,
-     "value":2093130.0
-    },
-    {
-     "year":2014,
-     "value":2125170.0
-    },
-    {
-     "year":2015,
-     "value":2168100.0
-    },
-    {
-     "year":2016,
-     "value":2192420.0
-    },
-    {
-     "year":2017,
-     "value":2238860.0
-    },
-    {
-     "year":2018,
-     "value":2267180.0
-    },
-    {
-     "year":2019,
-     "value":2303490.0
-    },
-    {
-     "year":2020,
-     "value":2338910.0
-    },
-    {
-     "year":2021,
-     "value":2395120.0
-    },
-    {
-     "year":2022,
-     "value":4932330.0
-    }
-   ]
-  },
-  {
-   "indicator":"International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":1087.22
-    },
-    {
-     "year":2001,
-     "value":1455.48
-    },
-    {
-     "year":2002,
-     "value":1406.44
-    },
-    {
-     "year":2003,
-     "value":1456.75
-    },
-    {
-     "year":2004,
-     "value":2100.41
-    },
-    {
-     "year":2005,
-     "value":1153.92
-    },
-    {
-     "year":2006,
-     "value":1147.39
-    },
-    {
-     "year":2007,
-     "value":1879.92
-    },
-    {
-     "year":2008,
-     "value":1243.9
-    },
-    {
-     "year":2009,
-     "value":1625.0
-    },
-    {
-     "year":2010,
-     "value":1954.19
-    },
-    {
-     "year":2011,
-     "value":5477.04
-    },
-    {
-     "year":2012,
-     "value":3431.8
-    },
-    {
-     "year":2013,
-     "value":3623.1
-    },
-    {
-     "year":2014,
-     "value":3803.18
-    },
-    {
-     "year":2015,
-     "value":3070.05
-    },
-    {
-     "year":2016,
-     "value":6692.03
-    },
-    {
-     "year":2017,
-     "value":8332.47
-    },
-    {
-     "year":2018,
-     "value":5060.87
-    },
-    {
-     "year":2019,
-     "value":2621.95
-    }
-   ]
-  },
-  {
-   "indicator":"GDP per capita, PPP (current international $)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":3017.74
-    },
-    {
-     "year":2001,
-     "value":3208.73
-    },
-    {
-     "year":2002,
-     "value":3421.89
-    },
-    {
-     "year":2003,
-     "value":3723.97
-    },
-    {
-     "year":2004,
-     "value":4081.16
-    },
-    {
-     "year":2005,
-     "value":4508.45
-    },
-    {
-     "year":2006,
-     "value":5017.64
-    },
-    {
-     "year":2007,
-     "value":5614.88
-    },
-    {
-     "year":2008,
-     "value":6014.13
-    },
-    {
-     "year":2009,
-     "value":6397.58
-    },
-    {
-     "year":2010,
-     "value":6976.14
-    },
-    {
-     "year":2011,
-     "value":7544.37
-    },
-    {
-     "year":2012,
-     "value":8072.5
-    },
-    {
-     "year":2013,
-     "value":8447.95
-    },
-    {
-     "year":2014,
-     "value":8787.94
-    },
-    {
-     "year":2015,
-     "value":9012.67
-    },
-    {
-     "year":2016,
-     "value":9451.73
-    },
-    {
-     "year":2017,
-     "value":9959.16
-    },
-    {
-     "year":2018,
-     "value":10721.55
-    },
-    {
-     "year":2019,
-     "value":11352.72
-    },
-    {
-     "year":2020,
-     "value":11334.99
-    },
-    {
-     "year":2021,
-     "value":12633.67
-    },
-    {
-     "year":2022,
-     "value":14029.32
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Female, 15-24",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":23694.19
-    },
-    {
-     "year":2019,
-     "value":25481.15
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Female, 15-64",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":177278.87
-    },
-    {
-     "year":2019,
-     "value":194657.24
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Female, 15 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":184291.03
-    },
-    {
-     "year":2019,
-     "value":202733.38
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Female, 25 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":160596.84
-    },
-    {
-     "year":2019,
-     "value":177252.23
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Male, 15-24",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":64624.95
-    },
-    {
-     "year":2019,
-     "value":66575.64
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Male, 15-64",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":413901.62
-    },
-    {
-     "year":2019,
-     "value":425119.43
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Male, 15 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":434524.75
-    },
-    {
-     "year":2019,
-     "value":447035.24
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Male, 25 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":369899.79
-    },
-    {
-     "year":2019,
-     "value":380459.6
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Total, 15-24",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":88322.86
-    },
-    {
-     "year":2019,
-     "value":92056.79
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Total, 15-64",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":591216.79
-    },
-    {
-     "year":2019,
-     "value":619862.58
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Total, 15 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":618852.08
-    },
-    {
-     "year":2019,
-     "value":649856.78
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and age (thousands), Total, 25 and above",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":530529.23
-    },
-    {
-     "year":2019,
-     "value":557799.99
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and economic activity (thousands), Female, Agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":94512.64
-    },
-    {
-     "year":2019,
-     "value":105658.56
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and economic activity (thousands), Female, Non-agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":89778.61
-    },
-    {
-     "year":2019,
-     "value":97074.81
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and economic activity (thousands), Male, Agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":178974.75
-    },
-    {
-     "year":2019,
-     "value":176823.33
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and economic activity (thousands), Male, Non-agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":255550.0
-    },
-    {
-     "year":2019,
-     "value":270211.92
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and economic activity (thousands), Total, Agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":273499.06
-    },
-    {
-     "year":2019,
-     "value":282551.2
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and economic activity (thousands), Total, Non-agriculture",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":345353.18
-    },
-    {
-     "year":2019,
-     "value":367305.58
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and status in employment (thousands), Female, Employees",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":48704.33
-    },
-    {
-     "year":2019,
-     "value":51804.67
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and status in employment (thousands), Female, Self-employed",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":133867.39
-    },
-    {
-     "year":2019,
-     "value":149030.7
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and status in employment (thousands), Male, Employees",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":125408.04
-    },
-    {
-     "year":2019,
-     "value":129979.52
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and status in employment (thousands), Male, Self-employed",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":304435.58
-    },
-    {
-     "year":2019,
-     "value":312454.28
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and status in employment (thousands), Total, Employees",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":174135.11
-    },
-    {
-     "year":2019,
-     "value":181788.5
-    }
-   ]
-  },
-  {
-   "indicator":"Informal employment by sex and status in employment (thousands), Total, Self-employed",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":438316.05
-    },
-    {
-     "year":2019,
-     "value":461568.83
-    }
-   ]
-  },
-  {
-   "indicator":"Installed electricity capacity (MW) by Country\/area",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2011,
-     "value":2715458.79
-    },
-    {
-     "year":2012,
-     "value":2921608.3599999999
-    },
-    {
-     "year":2013,
-     "value":3145119.3799999999
-    },
-    {
-     "year":2014,
-     "value":3377080.6400000001
-    },
-    {
-     "year":2015,
-     "value":3673230.0499999998
-    },
-    {
-     "year":2016,
-     "value":3906341.8900000001
-    },
-    {
-     "year":2017,
-     "value":4154587.7000000002
-    },
-    {
-     "year":2018,
-     "value":4439431.5099999998
-    },
-    {
-     "year":2019,
-     "value":4665567.9100000001
-    },
-    {
-     "year":2020,
-     "value":4948712.0700000003
-    }
-   ]
-  },
-  {
-   "indicator":"International migrant stock at mid-year (both sexes)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":17991260.0
-    },
-    {
-     "year":2005,
-     "value":18403022.0
-    },
-    {
-     "year":2010,
-     "value":21123995.0
-    },
-    {
-     "year":2015,
-     "value":22147554.0
-    },
-    {
-     "year":2020,
-     "value":22572068.0
-    }
-   ]
-  },
-  {
-   "indicator":"Internet users, total (% of population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":1.27
-    },
-    {
-     "year":2001,
-     "value":1.91
-    },
-    {
-     "year":2002,
-     "value":3.22
-    },
-    {
-     "year":2003,
-     "value":4.18
-    },
-    {
-     "year":2004,
-     "value":4.96
-    },
-    {
-     "year":2005,
-     "value":5.9
-    },
-    {
-     "year":2006,
-     "value":7.1
-    },
-    {
-     "year":2007,
-     "value":9.83
-    },
-    {
-     "year":2008,
-     "value":12.68
-    },
-    {
-     "year":2009,
-     "value":15.43
-    },
-    {
-     "year":2010,
-     "value":19.13
-    },
-    {
-     "year":2011,
-     "value":21.91
-    },
-    {
-     "year":2012,
-     "value":24.14
-    },
-    {
-     "year":2013,
-     "value":26.18
-    },
-    {
-     "year":2014,
-     "value":28.33
-    },
-    {
-     "year":2015,
-     "value":30.57
-    },
-    {
-     "year":2016,
-     "value":33.45
-    },
-    {
-     "year":2017,
-     "value":35.7
-    },
-    {
-     "year":2018,
-     "value":39.44
-    },
-    {
-     "year":2019,
-     "value":45.32
-    },
-    {
-     "year":2020,
-     "value":53.53
-    }
-   ]
-  },
-  {
-   "indicator":"Domestic material consumption per capita, by type of raw material (tonnes), Total or No breakdown",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":6.23
-    },
-    {
-     "year":2001,
-     "value":6.34
-    },
-    {
-     "year":2002,
-     "value":6.54
-    },
-    {
-     "year":2003,
-     "value":6.98
-    },
-    {
-     "year":2004,
-     "value":7.38
-    },
-    {
-     "year":2005,
-     "value":7.74
-    },
-    {
-     "year":2006,
-     "value":8.25
-    },
-    {
-     "year":2007,
-     "value":8.74
-    },
-    {
-     "year":2008,
-     "value":8.96
-    },
-    {
-     "year":2009,
-     "value":9.63
-    },
-    {
-     "year":2010,
-     "value":10.32
-    },
-    {
-     "year":2011,
-     "value":11.1
-    },
-    {
-     "year":2012,
-     "value":11.62
-    },
-    {
-     "year":2013,
-     "value":12.0
-    },
-    {
-     "year":2014,
-     "value":12.17
-    },
-    {
-     "year":2015,
-     "value":11.96
-    },
-    {
-     "year":2016,
-     "value":11.89
-    },
-    {
-     "year":2017,
-     "value":11.89
-    },
-    {
-     "year":2018,
-     "value":11.7
-    },
-    {
-     "year":2019,
-     "value":11.93
-    }
-   ]
-  },
-  {
-   "indicator":"Natural capital",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2018,
-     "value":157101.0
-    }
-   ]
-  },
-  {
-   "indicator":"Number of hospital beds per 10,000 people",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":361.2
-    },
-    {
-     "year":2001,
-     "value":433.25
-    },
-    {
-     "year":2002,
-     "value":391.1
-    },
-    {
-     "year":2003,
-     "value":391.29
-    },
-    {
-     "year":2004,
-     "value":390.81
-    },
-    {
-     "year":2005,
-     "value":575.08
-    },
-    {
-     "year":2006,
-     "value":617.37
-    },
-    {
-     "year":2007,
-     "value":609.32
-    },
-    {
-     "year":2008,
-     "value":605.73
-    },
-    {
-     "year":2009,
-     "value":685.98
-    },
-    {
-     "year":2010,
-     "value":755.25
-    },
-    {
-     "year":2011,
-     "value":618.2
-    },
-    {
-     "year":2012,
-     "value":624.49
-    },
-    {
-     "year":2013,
-     "value":591.54
-    },
-    {
-     "year":2014,
-     "value":595.43
-    },
-    {
-     "year":2015,
-     "value":599.42
-    },
-    {
-     "year":2016,
-     "value":599.4
-    },
-    {
-     "year":2017,
-     "value":605.23
-    },
-    {
-     "year":2018,
-     "value":505.87
-    },
-    {
-     "year":2019,
-     "value":535.9
-    },
-    {
-     "year":2020,
-     "value":526.73
-    }
-   ]
-  },
-  {
-   "indicator":"Number of New Limited Liability Companies",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2006,
-     "value":341626.0
-    },
-    {
-     "year":2007,
-     "value":366637.0
-    },
-    {
-     "year":2008,
-     "value":395431.0
-    },
-    {
-     "year":2009,
-     "value":377878.0
-    },
-    {
-     "year":2010,
-     "value":440692.0
-    },
-    {
-     "year":2011,
-     "value":475930.0
-    },
-    {
-     "year":2012,
-     "value":494143.0
-    },
-    {
-     "year":2013,
-     "value":517030.0
-    },
-    {
-     "year":2014,
-     "value":584557.0
-    },
-    {
-     "year":2015,
-     "value":631660.0
-    },
-    {
-     "year":2016,
-     "value":705822.0
-    },
-    {
-     "year":2017,
-     "value":746849.0
-    },
-    {
-     "year":2018,
-     "value":794156.0
-    },
-    {
-     "year":2019,
-     "value":801964.0
-    },
-    {
-     "year":2020,
-     "value":868521.0
-    }
-   ]
-  },
-  {
-   "indicator":"Nurses and midwives per 10,000 people",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":10.85
-    },
-    {
-     "year":2001,
-     "value":10.95
-    },
-    {
-     "year":2003,
-     "value":11.15
-    },
-    {
-     "year":2004,
-     "value":11.36
-    },
-    {
-     "year":2005,
-     "value":11.6
-    },
-    {
-     "year":2006,
-     "value":12.3
-    },
-    {
-     "year":2007,
-     "value":13.37
-    },
-    {
-     "year":2008,
-     "value":14.59
-    },
-    {
-     "year":2009,
-     "value":16.08
-    },
-    {
-     "year":2010,
-     "value":17.58
-    },
-    {
-     "year":2011,
-     "value":18.79
-    },
-    {
-     "year":2012,
-     "value":19.98
-    },
-    {
-     "year":2014,
-     "value":21.55
-    },
-    {
-     "year":2015,
-     "value":21.94
-    },
-    {
-     "year":2016,
-     "value":22.15
-    },
-    {
-     "year":2017,
-     "value":22.27
-    },
-    {
-     "year":2018,
-     "value":22.52
-    },
-    {
-     "year":2019,
-     "value":23.2
-    },
-    {
-     "year":2020,
-     "value":24.03
-    }
-   ]
-  },
-  {
-   "indicator":"Installed electricity capacity (MW) by Country\/area Off-grid",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2011,
-     "value":11819.03
-    },
-    {
-     "year":2012,
-     "value":12402.66
-    },
-    {
-     "year":2013,
-     "value":12993.96
-    },
-    {
-     "year":2014,
-     "value":11962.49
-    },
-    {
-     "year":2015,
-     "value":12703.66
-    },
-    {
-     "year":2016,
-     "value":13321.76
-    },
-    {
-     "year":2017,
-     "value":14671.71
-    },
-    {
-     "year":2018,
-     "value":17326.58
-    },
-    {
-     "year":2019,
-     "value":17439.23
-    },
-    {
-     "year":2020,
-     "value":18052.31
-    }
-   ]
-  },
-  {
-   "indicator":"Physicians per 10,000 people",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2001,
-     "value":9.48
-    },
-    {
-     "year":2003,
-     "value":9.02
-    },
-    {
-     "year":2004,
-     "value":9.19
-    },
-    {
-     "year":2005,
-     "value":9.42
-    },
-    {
-     "year":2006,
-     "value":9.52
-    },
-    {
-     "year":2007,
-     "value":9.59
-    },
-    {
-     "year":2008,
-     "value":9.93
-    },
-    {
-     "year":2009,
-     "value":10.48
-    },
-    {
-     "year":2010,
-     "value":10.84
-    },
-    {
-     "year":2012,
-     "value":11.72
-    },
-    {
-     "year":2014,
-     "value":10.26
-    },
-    {
-     "year":2015,
-     "value":10.58
-    },
-    {
-     "year":2016,
-     "value":11.03
-    },
-    {
-     "year":2017,
-     "value":11.72
-    },
-    {
-     "year":2018,
-     "value":12.33
-    },
-    {
-     "year":2019,
-     "value":13.14
-    },
-    {
-     "year":2020,
-     "value":13.97
-    }
-   ]
-  },
-  {
-   "indicator":"Air pollution deaths from fossil fuels, 2015",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2015,
-     "value":2537591.0
-    }
-   ]
-  },
-  {
-   "indicator":"Population ages 65 and above (% of total population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":5.43
-    },
-    {
-     "year":2001,
-     "value":5.54
-    },
-    {
-     "year":2002,
-     "value":5.65
-    },
-    {
-     "year":2003,
-     "value":5.76
-    },
-    {
-     "year":2004,
-     "value":5.86
-    },
-    {
-     "year":2005,
-     "value":5.95
-    },
-    {
-     "year":2006,
-     "value":6.05
-    },
-    {
-     "year":2007,
-     "value":6.14
-    },
-    {
-     "year":2008,
-     "value":6.22
-    },
-    {
-     "year":2009,
-     "value":6.31
-    },
-    {
-     "year":2010,
-     "value":6.41
-    },
-    {
-     "year":2011,
-     "value":6.52
-    },
-    {
-     "year":2012,
-     "value":6.65
-    },
-    {
-     "year":2013,
-     "value":6.8
-    },
-    {
-     "year":2014,
-     "value":6.99
-    },
-    {
-     "year":2015,
-     "value":7.22
-    },
-    {
-     "year":2016,
-     "value":7.47
-    },
-    {
-     "year":2017,
-     "value":7.75
-    },
-    {
-     "year":2018,
-     "value":8.05
-    },
-    {
-     "year":2019,
-     "value":8.36
-    },
-    {
-     "year":2020,
-     "value":8.68
-    },
-    {
-     "year":2021,
-     "value":8.95
-    },
-    {
-     "year":2022,
-     "value":9.22
-    }
-   ]
-  },
-  {
-   "indicator":"Population covered by at least one social protection benefit",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2016,
-     "value":39.53
-    },
-    {
-     "year":2020,
-     "value":41.16
-    }
-   ]
-  },
-  {
-   "indicator":"Population living in slums (% of urban population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":44.97
-    },
-    {
-     "year":2002,
-     "value":43.57
-    },
-    {
-     "year":2004,
-     "value":42.1
-    },
-    {
-     "year":2005,
-     "value":35.69
-    },
-    {
-     "year":2006,
-     "value":40.74
-    },
-    {
-     "year":2008,
-     "value":39.43
-    },
-    {
-     "year":2010,
-     "value":37.97
-    },
-    {
-     "year":2012,
-     "value":35.79
-    },
-    {
-     "year":2014,
-     "value":34.47
-    },
-    {
-     "year":2016,
-     "value":33.64
-    },
-    {
-     "year":2018,
-     "value":33.24
-    },
-    {
-     "year":2020,
-     "value":33.23
-    }
-   ]
-  },
-  {
-   "indicator":"Population using at least basic drinking-water services (%)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":80.15
-    },
-    {
-     "year":2001,
-     "value":80.66
-    },
-    {
-     "year":2002,
-     "value":81.48
-    },
-    {
-     "year":2003,
-     "value":82.28
-    },
-    {
-     "year":2004,
-     "value":83.08
-    },
-    {
-     "year":2005,
-     "value":83.83
-    },
-    {
-     "year":2006,
-     "value":84.58
-    },
-    {
-     "year":2007,
-     "value":85.33
-    },
-    {
-     "year":2008,
-     "value":86.06
-    },
-    {
-     "year":2009,
-     "value":86.76
-    },
-    {
-     "year":2010,
-     "value":87.46
-    },
-    {
-     "year":2011,
-     "value":88.13
-    },
-    {
-     "year":2012,
-     "value":88.78
-    },
-    {
-     "year":2013,
-     "value":89.43
-    },
-    {
-     "year":2014,
-     "value":90.06
-    },
-    {
-     "year":2015,
-     "value":90.68
-    },
-    {
-     "year":2016,
-     "value":91.28
-    },
-    {
-     "year":2017,
-     "value":91.87
-    },
-    {
-     "year":2018,
-     "value":92.45
-    },
-    {
-     "year":2019,
-     "value":93.02
-    },
-    {
-     "year":2020,
-     "value":93.57
-    },
-    {
-     "year":2021,
-     "value":94.18
-    },
-    {
-     "year":2022,
-     "value":94.82
-    }
-   ]
-  },
-  {
-   "indicator":"Population using at least basic drinking-water services (%)::Rural",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":72.9
-    },
-    {
-     "year":2001,
-     "value":73.37
-    },
-    {
-     "year":2002,
-     "value":74.32
-    },
-    {
-     "year":2003,
-     "value":75.24
-    },
-    {
-     "year":2004,
-     "value":76.18
-    },
-    {
-     "year":2005,
-     "value":77.1
-    },
-    {
-     "year":2006,
-     "value":78.02
-    },
-    {
-     "year":2007,
-     "value":78.93
-    },
-    {
-     "year":2008,
-     "value":79.84
-    },
-    {
-     "year":2009,
-     "value":80.74
-    },
-    {
-     "year":2010,
-     "value":81.63
-    },
-    {
-     "year":2011,
-     "value":82.52
-    },
-    {
-     "year":2012,
-     "value":83.39
-    },
-    {
-     "year":2013,
-     "value":84.26
-    },
-    {
-     "year":2014,
-     "value":85.13
-    },
-    {
-     "year":2015,
-     "value":86.0
-    },
-    {
-     "year":2016,
-     "value":86.86
-    },
-    {
-     "year":2017,
-     "value":87.72
-    },
-    {
-     "year":2018,
-     "value":88.58
-    },
-    {
-     "year":2019,
-     "value":89.43
-    },
-    {
-     "year":2020,
-     "value":90.26
-    },
-    {
-     "year":2021,
-     "value":91.26
-    },
-    {
-     "year":2022,
-     "value":92.33
-    }
-   ]
-  },
-  {
-   "indicator":"Population using at least basic drinking-water services (%)::Urban",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":94.67
-    },
-    {
-     "year":2001,
-     "value":94.8
-    },
-    {
-     "year":2002,
-     "value":94.94
-    },
-    {
-     "year":2003,
-     "value":95.09
-    },
-    {
-     "year":2004,
-     "value":95.23
-    },
-    {
-     "year":2005,
-     "value":95.3
-    },
-    {
-     "year":2006,
-     "value":95.43
-    },
-    {
-     "year":2007,
-     "value":95.56
-    },
-    {
-     "year":2008,
-     "value":95.69
-    },
-    {
-     "year":2009,
-     "value":95.82
-    },
-    {
-     "year":2010,
-     "value":95.95
-    },
-    {
-     "year":2011,
-     "value":96.07
-    },
-    {
-     "year":2012,
-     "value":96.2
-    },
-    {
-     "year":2013,
-     "value":96.32
-    },
-    {
-     "year":2014,
-     "value":96.45
-    },
-    {
-     "year":2015,
-     "value":96.57
-    },
-    {
-     "year":2016,
-     "value":96.7
-    },
-    {
-     "year":2017,
-     "value":96.82
-    },
-    {
-     "year":2018,
-     "value":96.95
-    },
-    {
-     "year":2019,
-     "value":97.07
-    },
-    {
-     "year":2020,
-     "value":97.19
-    },
-    {
-     "year":2021,
-     "value":97.3
-    },
-    {
-     "year":2022,
-     "value":97.4
-    }
-   ]
-  },
-  {
-   "indicator":"Population using at least basic sanitation services (%)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":40.45
-    },
-    {
-     "year":2001,
-     "value":41.91
-    },
-    {
-     "year":2002,
-     "value":43.96
-    },
-    {
-     "year":2003,
-     "value":46.02
-    },
-    {
-     "year":2004,
-     "value":48.09
-    },
-    {
-     "year":2005,
-     "value":50.17
-    },
-    {
-     "year":2006,
-     "value":52.24
-    },
-    {
-     "year":2007,
-     "value":54.34
-    },
-    {
-     "year":2008,
-     "value":56.44
-    },
-    {
-     "year":2009,
-     "value":58.54
-    },
-    {
-     "year":2010,
-     "value":60.63
-    },
-    {
-     "year":2011,
-     "value":62.71
-    },
-    {
-     "year":2012,
-     "value":64.79
-    },
-    {
-     "year":2013,
-     "value":66.87
-    },
-    {
-     "year":2014,
-     "value":68.95
-    },
-    {
-     "year":2015,
-     "value":71.03
-    },
-    {
-     "year":2016,
-     "value":73.1
-    },
-    {
-     "year":2017,
-     "value":75.14
-    },
-    {
-     "year":2018,
-     "value":77.13
-    },
-    {
-     "year":2019,
-     "value":79.1
-    },
-    {
-     "year":2020,
-     "value":81.05
-    },
-    {
-     "year":2021,
-     "value":82.98
-    },
-    {
-     "year":2022,
-     "value":84.8
-    }
-   ]
-  },
-  {
-   "indicator":"Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":27.29
-    },
-    {
-     "year":2010,
-     "value":17.92
-    },
-    {
-     "year":2011,
-     "value":14.5
-    },
-    {
-     "year":2012,
-     "value":12.54
-    },
-    {
-     "year":2013,
-     "value":9.73
-    },
-    {
-     "year":2015,
-     "value":8.69
-    },
-    {
-     "year":2016,
-     "value":8.18
-    },
-    {
-     "year":2017,
-     "value":6.35
-    },
-    {
-     "year":2018,
-     "value":5.28
-    },
-    {
-     "year":2019,
-     "value":5.79
-    },
-    {
-     "year":2020,
-     "value":6.51
-    }
-   ]
-  },
-  {
-   "indicator":"Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":59.15
-    },
-    {
-     "year":2010,
-     "value":46.7
-    },
-    {
-     "year":2011,
-     "value":42.73
-    },
-    {
-     "year":2012,
-     "value":40.14
-    },
-    {
-     "year":2013,
-     "value":36.32
-    },
-    {
-     "year":2015,
-     "value":33.16
-    },
-    {
-     "year":2016,
-     "value":31.72
-    },
-    {
-     "year":2017,
-     "value":28.97
-    },
-    {
-     "year":2018,
-     "value":25.27
-    },
-    {
-     "year":2019,
-     "value":23.21
-    },
-    {
-     "year":2020,
-     "value":24.1
-    }
-   ]
-  },
-  {
-   "indicator":"Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":83.66
-    },
-    {
-     "year":2010,
-     "value":74.77
-    },
-    {
-     "year":2011,
-     "value":72.32
-    },
-    {
-     "year":2012,
-     "value":69.94
-    },
-    {
-     "year":2013,
-     "value":66.86
-    },
-    {
-     "year":2015,
-     "value":62.76
-    },
-    {
-     "year":2016,
-     "value":60.76
-    },
-    {
-     "year":2017,
-     "value":58.4
-    },
-    {
-     "year":2018,
-     "value":55.82
-    },
-    {
-     "year":2019,
-     "value":53.81
-    },
-    {
-     "year":2020,
-     "value":54.49
-    }
-   ]
-  },
-  {
-   "indicator":"Prevalence of Mental health disorders: Both (age-standardized percent)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":13.12
-    },
-    {
-     "year":2001,
-     "value":13.11
-    },
-    {
-     "year":2002,
-     "value":13.11
-    },
-    {
-     "year":2003,
-     "value":13.1
-    },
-    {
-     "year":2004,
-     "value":13.09
-    },
-    {
-     "year":2005,
-     "value":13.09
-    },
-    {
-     "year":2006,
-     "value":13.07
-    },
-    {
-     "year":2007,
-     "value":13.04
-    },
-    {
-     "year":2008,
-     "value":13.02
-    },
-    {
-     "year":2009,
-     "value":13.0
-    },
-    {
-     "year":2010,
-     "value":12.97
-    },
-    {
-     "year":2011,
-     "value":12.95
-    },
-    {
-     "year":2012,
-     "value":12.94
-    },
-    {
-     "year":2013,
-     "value":12.92
-    },
-    {
-     "year":2014,
-     "value":12.9
-    },
-    {
-     "year":2015,
-     "value":12.89
-    },
-    {
-     "year":2016,
-     "value":12.87
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2007,
-     "value":2.27
-    }
-   ]
-  },
-  {
-   "indicator":"Refugee population by country or territory of asylum",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":4785447.6900000004
-    },
-    {
-     "year":2001,
-     "value":4940577.0
-    },
-    {
-     "year":2002,
-     "value":3367667.3100000001
-    },
-    {
-     "year":2003,
-     "value":2866555.0
-    },
-    {
-     "year":2004,
-     "value":3101164.0
-    },
-    {
-     "year":2005,
-     "value":2810386.0
-    },
-    {
-     "year":2006,
-     "value":2810190.4399999999
-    },
-    {
-     "year":2007,
-     "value":3790896.3500000001
-    },
-    {
-     "year":2008,
-     "value":3562652.27
-    },
-    {
-     "year":2009,
-     "value":3819357.1800000002
-    },
-    {
-     "year":2010,
-     "value":3976515.0899999999
-    },
-    {
-     "year":2011,
-     "value":3568345.1699999999
-    },
-    {
-     "year":2012,
-     "value":3482907.3199999998
-    },
-    {
-     "year":2013,
-     "value":3504846.8999999999
-    },
-    {
-     "year":2014,
-     "value":3804470.0
-    },
-    {
-     "year":2015,
-     "value":3784717.7400000002
-    },
-    {
-     "year":2016,
-     "value":3425949.4900000002
-    },
-    {
-     "year":2017,
-     "value":4151656.23
-    },
-    {
-     "year":2018,
-     "value":4147588.3199999998
-    },
-    {
-     "year":2019,
-     "value":4093290.3100000001
-    },
-    {
-     "year":2020,
-     "value":3945945.8100000001
-    },
-    {
-     "year":2021,
-     "value":4067830.8199999998
-    },
-    {
-     "year":2022,
-     "value":6686918.0
-    }
-   ]
-  },
-  {
-   "indicator":"Renewable internal freshwater resources per capita (cubic meters)",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":3310.88
-    },
-    {
-     "year":2001,
-     "value":3265.79
-    },
-    {
-     "year":2002,
-     "value":3222.64
-    },
-    {
-     "year":2003,
-     "value":3181.54
-    },
-    {
-     "year":2004,
-     "value":3141.35
-    },
-    {
-     "year":2005,
-     "value":3103.69
-    },
-    {
-     "year":2006,
-     "value":3067.82
-    },
-    {
-     "year":2007,
-     "value":3033.82
-    },
-    {
-     "year":2008,
-     "value":3000.89
-    },
-    {
-     "year":2009,
-     "value":2968.37
-    },
-    {
-     "year":2010,
-     "value":2936.23
-    },
-    {
-     "year":2011,
-     "value":2904.23
-    },
-    {
-     "year":2012,
-     "value":2872.14
-    },
-    {
-     "year":2013,
-     "value":2841.37
-    },
-    {
-     "year":2014,
-     "value":2811.89
-    },
-    {
-     "year":2015,
-     "value":2783.87
-    },
-    {
-     "year":2016,
-     "value":2756.74
-    },
-    {
-     "year":2017,
-     "value":2729.95
-    },
-    {
-     "year":2018,
-     "value":2705.31
-    },
-    {
-     "year":2019,
-     "value":2682.79
-    },
-    {
-     "year":2020,
-     "value":2662.12
-    }
-   ]
-  },
-  {
-   "indicator":"Electricity generation from solar, measured in terawatt-hours",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":0.03
-    },
-    {
-     "year":2001,
-     "value":0.04
-    },
-    {
-     "year":2002,
-     "value":0.06
-    },
-    {
-     "year":2003,
-     "value":0.08
-    },
-    {
-     "year":2004,
-     "value":0.1
-    },
-    {
-     "year":2005,
-     "value":0.11
-    },
-    {
-     "year":2006,
-     "value":0.16
-    },
-    {
-     "year":2007,
-     "value":0.24
-    },
-    {
-     "year":2008,
-     "value":0.29
-    },
-    {
-     "year":2009,
-     "value":0.45
-    },
-    {
-     "year":2010,
-     "value":0.99
-    },
-    {
-     "year":2011,
-     "value":3.66
-    },
-    {
-     "year":2012,
-     "value":6.44
-    },
-    {
-     "year":2013,
-     "value":13.6
-    },
-    {
-     "year":2014,
-     "value":31.15
-    },
-    {
-     "year":2015,
-     "value":49.63
-    },
-    {
-     "year":2016,
-     "value":84.33
-    },
-    {
-     "year":2017,
-     "value":147.28
-    },
-    {
-     "year":2018,
-     "value":222.03
-    },
-    {
-     "year":2019,
-     "value":286.33
-    },
-    {
-     "year":2020,
-     "value":342.72
-    },
-    {
-     "year":2021,
-     "value":434.65
-    },
-    {
-     "year":2022,
-     "value":563.9
-    },
-    {
-     "year":2023,
-     "value":739.96
-    }
-   ]
-  },
-  {
-   "indicator":"COVID-19 Fatality Rate",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":1.84
-    },
-    {
-     "year":2021,
-     "value":1.66
-    },
-    {
-     "year":2022,
-     "value":0.75
-    },
-    {
-     "year":2023,
-     "value":0.65
-    }
-   ]
-  },
-  {
-   "indicator":"Fiscal Response",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2021,
-     "value":1674319322860.0
-    }
-   ]
-  },
-  {
-   "indicator":"Population, total",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":3295348404.0
-    },
-    {
-     "year":2001,
-     "value":3340453412.0
-    },
-    {
-     "year":2002,
-     "value":3384930916.0
-    },
-    {
-     "year":2003,
-     "value":3428617808.0
-    },
-    {
-     "year":2004,
-     "value":3471709139.0
-    },
-    {
-     "year":2005,
-     "value":3514124002.0
-    },
-    {
-     "year":2006,
-     "value":3555826574.0
-    },
-    {
-     "year":2007,
-     "value":3596760996.0
-    },
-    {
-     "year":2008,
-     "value":3637540982.0
-    },
-    {
-     "year":2009,
-     "value":3679053264.0
-    },
-    {
-     "year":2010,
-     "value":3721163164.0
-    },
-    {
-     "year":2011,
-     "value":3763262367.0
-    },
-    {
-     "year":2012,
-     "value":3805464236.0
-    },
-    {
-     "year":2013,
-     "value":3846972050.0
-    },
-    {
-     "year":2014,
-     "value":3887584623.0
-    },
-    {
-     "year":2015,
-     "value":3927031955.0
-    },
-    {
-     "year":2016,
-     "value":3965800926.0
-    },
-    {
-     "year":2017,
-     "value":4004623315.0
-    },
-    {
-     "year":2018,
-     "value":4041157422.0
-    },
-    {
-     "year":2019,
-     "value":4074836918.0
-    },
-    {
-     "year":2020,
-     "value":4106190270.0
-    },
-    {
-     "year":2021,
-     "value":4133013306.0
-    },
-    {
-     "year":2022,
-     "value":4156811533.0
-    },
-    {
-     "year":2023,
-     "value":4182690551.0
-    }
-   ]
-  },
-  {
-   "indicator":"Rural Population, total",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":2196955600.0
-    },
-    {
-     "year":2001,
-     "value":2204707428.0
-    },
-    {
-     "year":2002,
-     "value":2209292589.0
-    },
-    {
-     "year":2003,
-     "value":2212397533.0
-    },
-    {
-     "year":2004,
-     "value":2213861285.0
-    },
-    {
-     "year":2005,
-     "value":2214061018.0
-    },
-    {
-     "year":2006,
-     "value":2213327845.0
-    },
-    {
-     "year":2007,
-     "value":2211298567.0
-    },
-    {
-     "year":2008,
-     "value":2208344632.0
-    },
-    {
-     "year":2009,
-     "value":2205108488.0
-    },
-    {
-     "year":2010,
-     "value":2201572474.0
-    },
-    {
-     "year":2011,
-     "value":2199395325.0
-    },
-    {
-     "year":2012,
-     "value":2197694184.0
-    },
-    {
-     "year":2013,
-     "value":2194832450.0
-    },
-    {
-     "year":2014,
-     "value":2190733137.0
-    },
-    {
-     "year":2015,
-     "value":2185267162.0
-    },
-    {
-     "year":2016,
-     "value":2179128660.0
-    },
-    {
-     "year":2017,
-     "value":2172783871.0
-    },
-    {
-     "year":2018,
-     "value":2165112445.0
-    },
-    {
-     "year":2019,
-     "value":2156211928.0
-    },
-    {
-     "year":2020,
-     "value":2146380016.0
-    },
-    {
-     "year":2021,
-     "value":2134424338.0
-    },
-    {
-     "year":2022,
-     "value":2120491561.0
-    }
-   ]
-  },
-  {
-   "indicator":"Urban Population, total",
-   "isPreAggregated":"False",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":1096913021.0
-    },
-    {
-     "year":2001,
-     "value":1134873077.0
-    },
-    {
-     "year":2002,
-     "value":1175111365.0
-    },
-    {
-     "year":2003,
-     "value":1215635319.0
-    },
-    {
-     "year":2004,
-     "value":1257002409.0
-    },
-    {
-     "year":2005,
-     "value":1298816543.0
-    },
-    {
-     "year":2006,
-     "value":1340346943.0
-    },
-    {
-     "year":2007,
-     "value":1381759547.0
-    },
-    {
-     "year":2008,
-     "value":1423685195.0
-    },
-    {
-     "year":2009,
-     "value":1466056051.0
-    },
-    {
-     "year":2010,
-     "value":1509017464.0
-    },
-    {
-     "year":2011,
-     "value":1551708908.0
-    },
-    {
-     "year":2012,
-     "value":1595330666.0
-    },
-    {
-     "year":2013,
-     "value":1639200398.0
-    },
-    {
-     "year":2014,
-     "value":1683421039.0
-    },
-    {
-     "year":2015,
-     "value":1727794329.0
-    },
-    {
-     "year":2016,
-     "value":1772467935.0
-    },
-    {
-     "year":2017,
-     "value":1817626254.0
-    },
-    {
-     "year":2018,
-     "value":1861648938.0
-    },
-    {
-     "year":2019,
-     "value":1904496462.0
-    },
-    {
-     "year":2020,
-     "value":1945960331.0
-    },
-    {
-     "year":2021,
-     "value":1984950569.0
-    },
-    {
-     "year":2022,
-     "value":2022617827.0
-    }
-   ]
-  }
- ]
+  "Alpha-3 code": "UNDP_AP",
+  "Country or Area": "Asia & Pacific",
+  "Latitude (average)": 0.0,
+  "Longitude (average)": 0.0,
+  "Group 1": "",
+  "Group 2": "",
+  "LDC": false,
+  "LLDC": false,
+  "SIDS": false,
+  "Income group": "",
+  "indicators": [
+    {
+      "indicator": "Informal employment by sex (thousands), Female",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 184291.03
+        },
+        {
+          "year": 2019,
+          "value": 202733.38
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex (thousands), Male",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 434524.75
+        },
+        {
+          "year": 2019,
+          "value": 447035.24
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex (thousands), Total",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 618852.08
+        },
+        {
+          "year": 2019,
+          "value": 649856.78
+        }
+      ]
+    },
+    {
+      "indicator": "Access to electricity, rural (% of rural population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 68.1
+        },
+        {
+          "year": 2012,
+          "value": 80.59
+        },
+        {
+          "year": 2013,
+          "value": 81.48
+        },
+        {
+          "year": 2014,
+          "value": 82.75
+        },
+        {
+          "year": 2015,
+          "value": 85.82
+        },
+        {
+          "year": 2016,
+          "value": 86.9
+        },
+        {
+          "year": 2017,
+          "value": 89.69
+        },
+        {
+          "year": 2018,
+          "value": 92.37
+        },
+        {
+          "year": 2019,
+          "value": 93.49
+        },
+        {
+          "year": 2020,
+          "value": 94.75
+        }
+      ]
+    },
+    {
+      "indicator": "Access to electricity, urban (% of urban population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 94.87
+        },
+        {
+          "year": 2012,
+          "value": 97.56
+        },
+        {
+          "year": 2013,
+          "value": 97.63
+        },
+        {
+          "year": 2014,
+          "value": 97.97
+        },
+        {
+          "year": 2015,
+          "value": 98.24
+        },
+        {
+          "year": 2016,
+          "value": 98.54
+        },
+        {
+          "year": 2017,
+          "value": 98.92
+        },
+        {
+          "year": 2018,
+          "value": 98.96
+        },
+        {
+          "year": 2019,
+          "value": 99.2
+        },
+        {
+          "year": 2020,
+          "value": 99.28
+        }
+      ]
+    },
+    {
+      "indicator": "Access to electricity (% of population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 76.46
+        },
+        {
+          "year": 2012,
+          "value": 87.77
+        },
+        {
+          "year": 2013,
+          "value": 88.42
+        },
+        {
+          "year": 2014,
+          "value": 89.4
+        },
+        {
+          "year": 2015,
+          "value": 91.34
+        },
+        {
+          "year": 2016,
+          "value": 92.15
+        },
+        {
+          "year": 2017,
+          "value": 93.92
+        },
+        {
+          "year": 2018,
+          "value": 95.44
+        },
+        {
+          "year": 2019,
+          "value": 96.15
+        },
+        {
+          "year": 2020,
+          "value": 96.92
+        }
+      ]
+    },
+    {
+      "indicator": "Access to clean fuels and technologies for cooking  (% of population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 30.4
+        },
+        {
+          "year": 2012,
+          "value": 48.58
+        },
+        {
+          "year": 2013,
+          "value": 50.72
+        },
+        {
+          "year": 2014,
+          "value": 53.38
+        },
+        {
+          "year": 2015,
+          "value": 55.86
+        },
+        {
+          "year": 2016,
+          "value": 58.23
+        },
+        {
+          "year": 2017,
+          "value": 61.12
+        },
+        {
+          "year": 2018,
+          "value": 63.8
+        },
+        {
+          "year": 2019,
+          "value": 66.34
+        },
+        {
+          "year": 2020,
+          "value": 68.75
+        }
+      ]
+    },
+    {
+      "indicator": "Individuals using the Internet (% of population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 1.26
+        },
+        {
+          "year": 2001,
+          "value": 1.9
+        },
+        {
+          "year": 2002,
+          "value": 3.2
+        },
+        {
+          "year": 2003,
+          "value": 4.15
+        },
+        {
+          "year": 2004,
+          "value": 4.92
+        },
+        {
+          "year": 2005,
+          "value": 5.86
+        },
+        {
+          "year": 2006,
+          "value": 7.06
+        },
+        {
+          "year": 2007,
+          "value": 9.77
+        },
+        {
+          "year": 2008,
+          "value": 12.59
+        },
+        {
+          "year": 2009,
+          "value": 15.32
+        },
+        {
+          "year": 2010,
+          "value": 19
+        },
+        {
+          "year": 2011,
+          "value": 21.75
+        },
+        {
+          "year": 2012,
+          "value": 23.97
+        },
+        {
+          "year": 2013,
+          "value": 26
+        },
+        {
+          "year": 2014,
+          "value": 28.14
+        },
+        {
+          "year": 2015,
+          "value": 30.39
+        },
+        {
+          "year": 2016,
+          "value": 33.27
+        },
+        {
+          "year": 2017,
+          "value": 35.53
+        },
+        {
+          "year": 2018,
+          "value": 39.42
+        },
+        {
+          "year": 2019,
+          "value": 45.71
+        },
+        {
+          "year": 2020,
+          "value": 53.87
+        },
+        {
+          "year": 2021,
+          "value": 57.45
+        }
+      ]
+    },
+    {
+      "indicator": "Primary energy consumption from coal, measured in terawatt-hours",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 10547.13
+        },
+        {
+          "year": 2001,
+          "value": 11049.11
+        },
+        {
+          "year": 2002,
+          "value": 11995.17
+        },
+        {
+          "year": 2003,
+          "value": 14017.81
+        },
+        {
+          "year": 2004,
+          "value": 16064.08
+        },
+        {
+          "year": 2005,
+          "value": 18601.21
+        },
+        {
+          "year": 2006,
+          "value": 20229.82
+        },
+        {
+          "year": 2007,
+          "value": 22123.96
+        },
+        {
+          "year": 2008,
+          "value": 22698.57
+        },
+        {
+          "year": 2009,
+          "value": 23831.15
+        },
+        {
+          "year": 2010,
+          "value": 24797.64
+        },
+        {
+          "year": 2011,
+          "value": 26841.13
+        },
+        {
+          "year": 2012,
+          "value": 27447.27
+        },
+        {
+          "year": 2013,
+          "value": 28102.14
+        },
+        {
+          "year": 2014,
+          "value": 28516.71
+        },
+        {
+          "year": 2015,
+          "value": 28315.09
+        },
+        {
+          "year": 2016,
+          "value": 27831.96
+        },
+        {
+          "year": 2017,
+          "value": 28325.33
+        },
+        {
+          "year": 2018,
+          "value": 29303.63
+        },
+        {
+          "year": 2019,
+          "value": 30184.83
+        },
+        {
+          "year": 2020,
+          "value": 30476.82
+        },
+        {
+          "year": 2021,
+          "value": 32024.22
+        },
+        {
+          "year": 2022,
+          "value": 32887.79
+        }
+      ]
+    },
+    {
+      "indicator": "Electricity generation from coal, measured in terawatt-hours",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 1538.49
+        },
+        {
+          "year": 2001,
+          "value": 1635.98
+        },
+        {
+          "year": 2002,
+          "value": 1814.65
+        },
+        {
+          "year": 2003,
+          "value": 2075.54
+        },
+        {
+          "year": 2004,
+          "value": 2312.82
+        },
+        {
+          "year": 2005,
+          "value": 2596.33
+        },
+        {
+          "year": 2006,
+          "value": 2959.7
+        },
+        {
+          "year": 2007,
+          "value": 3358.3
+        },
+        {
+          "year": 2008,
+          "value": 3447.95
+        },
+        {
+          "year": 2009,
+          "value": 3701.33
+        },
+        {
+          "year": 2010,
+          "value": 4079.15
+        },
+        {
+          "year": 2011,
+          "value": 4617.22
+        },
+        {
+          "year": 2012,
+          "value": 4792.83
+        },
+        {
+          "year": 2013,
+          "value": 5198.15
+        },
+        {
+          "year": 2014,
+          "value": 5453.6
+        },
+        {
+          "year": 2015,
+          "value": 5389.69
+        },
+        {
+          "year": 2016,
+          "value": 5612.8
+        },
+        {
+          "year": 2017,
+          "value": 5958.22
+        },
+        {
+          "year": 2018,
+          "value": 6429.12
+        },
+        {
+          "year": 2019,
+          "value": 6579.36
+        },
+        {
+          "year": 2020,
+          "value": 6612.68
+        },
+        {
+          "year": 2021,
+          "value": 7158.6
+        },
+        {
+          "year": 2022,
+          "value": 7341.84
+        },
+        {
+          "year": 2023,
+          "value": 7835.17
+        }
+      ]
+    },
+    {
+      "indicator": "Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 7092
+        },
+        {
+          "year": 2001,
+          "value": 7382.62
+        },
+        {
+          "year": 2002,
+          "value": 8245.09
+        },
+        {
+          "year": 2003,
+          "value": 10510.24
+        },
+        {
+          "year": 2004,
+          "value": 13148.22
+        },
+        {
+          "year": 2005,
+          "value": 14710.15
+        },
+        {
+          "year": 2006,
+          "value": 19233.67
+        },
+        {
+          "year": 2007,
+          "value": 21760.3
+        },
+        {
+          "year": 2008,
+          "value": 20153.93
+        },
+        {
+          "year": 2009,
+          "value": 23308.49
+        },
+        {
+          "year": 2010,
+          "value": 25067.14
+        },
+        {
+          "year": 2011,
+          "value": 25281.11
+        },
+        {
+          "year": 2012,
+          "value": 26479.6
+        },
+        {
+          "year": 2013,
+          "value": 19638.84
+        },
+        {
+          "year": 2014,
+          "value": 20589.88
+        },
+        {
+          "year": 2015,
+          "value": 16919.23
+        },
+        {
+          "year": 2016,
+          "value": 17469.1
+        },
+        {
+          "year": 2017,
+          "value": 17280.67
+        },
+        {
+          "year": 2018,
+          "value": 17029.77
+        },
+        {
+          "year": 2019,
+          "value": 16761.3
+        },
+        {
+          "year": 2020,
+          "value": 12444.6
+        },
+        {
+          "year": 2021,
+          "value": 11601.14
+        }
+      ]
+    },
+    {
+      "indicator": "Consumption of controlled substance (zero-filled) - Chemical: Total",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 137118.4
+        },
+        {
+          "year": 2001,
+          "value": 108815.15
+        },
+        {
+          "year": 2002,
+          "value": 90849.69
+        },
+        {
+          "year": 2003,
+          "value": 94513.92
+        },
+        {
+          "year": 2004,
+          "value": 67015.73
+        },
+        {
+          "year": 2005,
+          "value": 47514.89
+        },
+        {
+          "year": 2006,
+          "value": 42289.16
+        },
+        {
+          "year": 2007,
+          "value": 33126.1
+        },
+        {
+          "year": 2008,
+          "value": 24482.77
+        },
+        {
+          "year": 2009,
+          "value": 25337.39
+        },
+        {
+          "year": 2010,
+          "value": 27050.14
+        },
+        {
+          "year": 2011,
+          "value": 25984.91
+        },
+        {
+          "year": 2012,
+          "value": 26980
+        },
+        {
+          "year": 2013,
+          "value": 19606.64
+        },
+        {
+          "year": 2014,
+          "value": 20990.28
+        },
+        {
+          "year": 2015,
+          "value": 17157.73
+        },
+        {
+          "year": 2016,
+          "value": 17745.1
+        },
+        {
+          "year": 2017,
+          "value": 17356.17
+        },
+        {
+          "year": 2018,
+          "value": 17305.97
+        },
+        {
+          "year": 2019,
+          "value": 16884.9
+        },
+        {
+          "year": 2020,
+          "value": 12565.9
+        },
+        {
+          "year": 2021,
+          "value": 11706.84
+        }
+      ]
+    },
+    {
+      "indicator": "Cumulative Number of COVID-19 Cases",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 14299913
+        },
+        {
+          "year": 2021,
+          "value": 61195705
+        },
+        {
+          "year": 2022,
+          "value": 157188386
+        },
+        {
+          "year": 2023,
+          "value": 195851494
+        }
+      ]
+    },
+    {
+      "indicator": "Cumulative Number of COVID-19 Deaths",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 262853
+        },
+        {
+          "year": 2021,
+          "value": 1014022
+        },
+        {
+          "year": 2022,
+          "value": 1180064
+        },
+        {
+          "year": 2023,
+          "value": 1272706
+        }
+      ]
+    },
+    {
+      "indicator": "Droughts, floods, extreme temperatures (% of population, average 1990-2009)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2009,
+          "value": 4.86
+        }
+      ]
+    },
+    {
+      "indicator": "Installed renewable electricity-generating capacity (watts per capita)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 40.77
+        },
+        {
+          "year": 2001,
+          "value": 41.83
+        },
+        {
+          "year": 2002,
+          "value": 43.02
+        },
+        {
+          "year": 2003,
+          "value": 46.92
+        },
+        {
+          "year": 2004,
+          "value": 50.75
+        },
+        {
+          "year": 2005,
+          "value": 55.02
+        },
+        {
+          "year": 2006,
+          "value": 59.85
+        },
+        {
+          "year": 2007,
+          "value": 65.71
+        },
+        {
+          "year": 2008,
+          "value": 73.9
+        },
+        {
+          "year": 2009,
+          "value": 82.68
+        },
+        {
+          "year": 2010,
+          "value": 91.52
+        },
+        {
+          "year": 2011,
+          "value": 102.24
+        },
+        {
+          "year": 2012,
+          "value": 112.63
+        },
+        {
+          "year": 2013,
+          "value": 128.73
+        },
+        {
+          "year": 2014,
+          "value": 144.8
+        },
+        {
+          "year": 2015,
+          "value": 162.93
+        },
+        {
+          "year": 2016,
+          "value": 181.56
+        },
+        {
+          "year": 2017,
+          "value": 204.31
+        },
+        {
+          "year": 2018,
+          "value": 225.73
+        },
+        {
+          "year": 2019,
+          "value": 243.85
+        },
+        {
+          "year": 2020,
+          "value": 279.54
+        }
+      ]
+    },
+    {
+      "indicator": "GHG emission",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 9029.91
+        },
+        {
+          "year": 2001,
+          "value": 9336.69
+        },
+        {
+          "year": 2002,
+          "value": 10204.23
+        },
+        {
+          "year": 2003,
+          "value": 10683.39
+        },
+        {
+          "year": 2004,
+          "value": 12041.61
+        },
+        {
+          "year": 2005,
+          "value": 12689.87
+        },
+        {
+          "year": 2006,
+          "value": 13967.75
+        },
+        {
+          "year": 2007,
+          "value": 14288.97
+        },
+        {
+          "year": 2008,
+          "value": 14664.94
+        },
+        {
+          "year": 2009,
+          "value": 15849.3
+        },
+        {
+          "year": 2010,
+          "value": 16513.01
+        },
+        {
+          "year": 2011,
+          "value": 17475.5
+        },
+        {
+          "year": 2012,
+          "value": 17993.47
+        },
+        {
+          "year": 2013,
+          "value": 18569.48
+        },
+        {
+          "year": 2014,
+          "value": 19325.21
+        },
+        {
+          "year": 2015,
+          "value": 19312.28
+        },
+        {
+          "year": 2016,
+          "value": 19149.83
+        },
+        {
+          "year": 2017,
+          "value": 19663.21
+        },
+        {
+          "year": 2018,
+          "value": 20695.37
+        },
+        {
+          "year": 2019,
+          "value": 21223.31
+        },
+        {
+          "year": 2020,
+          "value": 20777.35
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Female, 15-24",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 16992.66
+        },
+        {
+          "year": 2019,
+          "value": 17936.27
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Female, 15-64",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 147989.64
+        },
+        {
+          "year": 2019,
+          "value": 161531.85
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Female, 15 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 154642.8
+        },
+        {
+          "year": 2019,
+          "value": 169103.14
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Female, 25 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 137650.21
+        },
+        {
+          "year": 2019,
+          "value": 151166.87
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Male, 15-24",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 52086.22
+        },
+        {
+          "year": 2019,
+          "value": 53543.55
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Male, 15-64",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 356599.79
+        },
+        {
+          "year": 2019,
+          "value": 364135.9
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Male, 15 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 376294.93
+        },
+        {
+          "year": 2019,
+          "value": 385085.17
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Male, 25 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 324208.71
+        },
+        {
+          "year": 2019,
+          "value": 331541.62
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Total, 15-24",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 69082.59
+        },
+        {
+          "year": 2019,
+          "value": 71479.82
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Total, 15-64",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 504624.75
+        },
+        {
+          "year": 2019,
+          "value": 525751.95
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Total, 15 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 530973.25
+        },
+        {
+          "year": 2019,
+          "value": 554274.77
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and age (thousands), Total, 25 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 461890.66
+        },
+        {
+          "year": 2019,
+          "value": 482794.95
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and economic activity (thousands), Female, Agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 91711.11
+        },
+        {
+          "year": 2019,
+          "value": 102555.08
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and economic activity (thousands), Female, Non-agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 62931.95
+        },
+        {
+          "year": 2019,
+          "value": 66548.06
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and economic activity (thousands), Male, Agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 175477.34
+        },
+        {
+          "year": 2019,
+          "value": 173140.19
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and economic activity (thousands), Male, Non-agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 200817.59
+        },
+        {
+          "year": 2019,
+          "value": 211944.98
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and economic activity (thousands), Total, Agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 267200.18
+        },
+        {
+          "year": 2019,
+          "value": 275764.57
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and economic activity (thousands), Total, Non-agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 263773.53
+        },
+        {
+          "year": 2019,
+          "value": 278510.19
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and status in employment (thousands), Female, Employees",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 24788.84
+        },
+        {
+          "year": 2019,
+          "value": 24765.94
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and status in employment (thousands), Female, Self-employed",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 128473.42
+        },
+        {
+          "year": 2019,
+          "value": 142915.89
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and status in employment (thousands), Male, Employees",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 71907.64
+        },
+        {
+          "year": 2019,
+          "value": 72806.41
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and status in employment (thousands), Male, Self-employed",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 300564.61
+        },
+        {
+          "year": 2019,
+          "value": 308494.26
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and status in employment (thousands), Total, Employees",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 96718.95
+        },
+        {
+          "year": 2019,
+          "value": 97574.97
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex and status in employment (thousands), Total, Self-employed",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 429051.46
+        },
+        {
+          "year": 2019,
+          "value": 451494
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex (thousands), Female",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 154642.8
+        },
+        {
+          "year": 2019,
+          "value": 169103.14
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex (thousands), Male",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 376294.93
+        },
+        {
+          "year": 2019,
+          "value": 385085.17
+        }
+      ]
+    },
+    {
+      "indicator": "Employement outside the Formal Sector by sex (thousands), Total",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 530973.25
+        },
+        {
+          "year": 2019,
+          "value": 554274.77
+        }
+      ]
+    },
+    {
+      "indicator": "Primary energy consumption per capita, measured in kilowatt-hours",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 6541.06
+        },
+        {
+          "year": 2001,
+          "value": 6758.44
+        },
+        {
+          "year": 2002,
+          "value": 7123.03
+        },
+        {
+          "year": 2003,
+          "value": 7820.4
+        },
+        {
+          "year": 2004,
+          "value": 8746.15
+        },
+        {
+          "year": 2005,
+          "value": 9533.07
+        },
+        {
+          "year": 2006,
+          "value": 10146.61
+        },
+        {
+          "year": 2007,
+          "value": 10831.53
+        },
+        {
+          "year": 2008,
+          "value": 11141.62
+        },
+        {
+          "year": 2009,
+          "value": 11479.95
+        },
+        {
+          "year": 2010,
+          "value": 12046.6
+        },
+        {
+          "year": 2011,
+          "value": 12701.37
+        },
+        {
+          "year": 2012,
+          "value": 13070
+        },
+        {
+          "year": 2013,
+          "value": 13364.33
+        },
+        {
+          "year": 2014,
+          "value": 13665.03
+        },
+        {
+          "year": 2015,
+          "value": 13797.39
+        },
+        {
+          "year": 2016,
+          "value": 13933.74
+        },
+        {
+          "year": 2017,
+          "value": 14332.89
+        },
+        {
+          "year": 2018,
+          "value": 14908.42
+        },
+        {
+          "year": 2019,
+          "value": 15414.16
+        },
+        {
+          "year": 2020,
+          "value": 15419.14
+        },
+        {
+          "year": 2021,
+          "value": 16139.97
+        },
+        {
+          "year": 2022,
+          "value": 16431.77
+        }
+      ]
+    },
+    {
+      "indicator": "Estimated number of people (all ages) living with HIV",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 1378850
+        },
+        {
+          "year": 2001,
+          "value": 1456540
+        },
+        {
+          "year": 2002,
+          "value": 1512700
+        },
+        {
+          "year": 2003,
+          "value": 1562080
+        },
+        {
+          "year": 2004,
+          "value": 1622810
+        },
+        {
+          "year": 2005,
+          "value": 1687140
+        },
+        {
+          "year": 2006,
+          "value": 1737650
+        },
+        {
+          "year": 2007,
+          "value": 1802440
+        },
+        {
+          "year": 2008,
+          "value": 1863820
+        },
+        {
+          "year": 2009,
+          "value": 1907980
+        },
+        {
+          "year": 2010,
+          "value": 1961060
+        },
+        {
+          "year": 2011,
+          "value": 2019070
+        },
+        {
+          "year": 2012,
+          "value": 2051700
+        },
+        {
+          "year": 2013,
+          "value": 2093130
+        },
+        {
+          "year": 2014,
+          "value": 2125170
+        },
+        {
+          "year": 2015,
+          "value": 2168100
+        },
+        {
+          "year": 2016,
+          "value": 2192420
+        },
+        {
+          "year": 2017,
+          "value": 2238860
+        },
+        {
+          "year": 2018,
+          "value": 2267180
+        },
+        {
+          "year": 2019,
+          "value": 2303490
+        },
+        {
+          "year": 2020,
+          "value": 2338910
+        },
+        {
+          "year": 2021,
+          "value": 2395120
+        },
+        {
+          "year": 2022,
+          "value": 4932330
+        }
+      ]
+    },
+    {
+      "indicator": "International financial flows to developing countries in support of clean energy (Millions of constant US$) - All Renewables",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 1087.22
+        },
+        {
+          "year": 2001,
+          "value": 1455.48
+        },
+        {
+          "year": 2002,
+          "value": 1406.44
+        },
+        {
+          "year": 2003,
+          "value": 1456.75
+        },
+        {
+          "year": 2004,
+          "value": 2100.41
+        },
+        {
+          "year": 2005,
+          "value": 1153.92
+        },
+        {
+          "year": 2006,
+          "value": 1147.39
+        },
+        {
+          "year": 2007,
+          "value": 1879.92
+        },
+        {
+          "year": 2008,
+          "value": 1243.9
+        },
+        {
+          "year": 2009,
+          "value": 1625
+        },
+        {
+          "year": 2010,
+          "value": 1954.19
+        },
+        {
+          "year": 2011,
+          "value": 5477.04
+        },
+        {
+          "year": 2012,
+          "value": 3431.8
+        },
+        {
+          "year": 2013,
+          "value": 3623.1
+        },
+        {
+          "year": 2014,
+          "value": 3803.18
+        },
+        {
+          "year": 2015,
+          "value": 3070.05
+        },
+        {
+          "year": 2016,
+          "value": 6692.03
+        },
+        {
+          "year": 2017,
+          "value": 8332.47
+        },
+        {
+          "year": 2018,
+          "value": 5060.87
+        },
+        {
+          "year": 2019,
+          "value": 2621.95
+        }
+      ]
+    },
+    {
+      "indicator": "GDP per capita, PPP (current international $)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 3017.74
+        },
+        {
+          "year": 2001,
+          "value": 3208.73
+        },
+        {
+          "year": 2002,
+          "value": 3421.89
+        },
+        {
+          "year": 2003,
+          "value": 3723.97
+        },
+        {
+          "year": 2004,
+          "value": 4081.16
+        },
+        {
+          "year": 2005,
+          "value": 4508.45
+        },
+        {
+          "year": 2006,
+          "value": 5017.64
+        },
+        {
+          "year": 2007,
+          "value": 5614.88
+        },
+        {
+          "year": 2008,
+          "value": 6014.13
+        },
+        {
+          "year": 2009,
+          "value": 6397.58
+        },
+        {
+          "year": 2010,
+          "value": 6976.14
+        },
+        {
+          "year": 2011,
+          "value": 7544.37
+        },
+        {
+          "year": 2012,
+          "value": 8072.5
+        },
+        {
+          "year": 2013,
+          "value": 8447.95
+        },
+        {
+          "year": 2014,
+          "value": 8787.94
+        },
+        {
+          "year": 2015,
+          "value": 9012.67
+        },
+        {
+          "year": 2016,
+          "value": 9451.73
+        },
+        {
+          "year": 2017,
+          "value": 9959.16
+        },
+        {
+          "year": 2018,
+          "value": 10721.55
+        },
+        {
+          "year": 2019,
+          "value": 11352.72
+        },
+        {
+          "year": 2020,
+          "value": 11334.99
+        },
+        {
+          "year": 2021,
+          "value": 12633.67
+        },
+        {
+          "year": 2022,
+          "value": 14029.32
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Female, 15-24",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 23694.19
+        },
+        {
+          "year": 2019,
+          "value": 25481.15
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Female, 15-64",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 177278.87
+        },
+        {
+          "year": 2019,
+          "value": 194657.24
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Female, 15 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 184291.03
+        },
+        {
+          "year": 2019,
+          "value": 202733.38
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Female, 25 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 160596.84
+        },
+        {
+          "year": 2019,
+          "value": 177252.23
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Male, 15-24",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 64624.95
+        },
+        {
+          "year": 2019,
+          "value": 66575.64
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Male, 15-64",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 413901.62
+        },
+        {
+          "year": 2019,
+          "value": 425119.43
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Male, 15 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 434524.75
+        },
+        {
+          "year": 2019,
+          "value": 447035.24
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Male, 25 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 369899.79
+        },
+        {
+          "year": 2019,
+          "value": 380459.6
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Total, 15-24",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 88322.86
+        },
+        {
+          "year": 2019,
+          "value": 92056.79
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Total, 15-64",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 591216.79
+        },
+        {
+          "year": 2019,
+          "value": 619862.58
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Total, 15 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 618852.08
+        },
+        {
+          "year": 2019,
+          "value": 649856.78
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and age (thousands), Total, 25 and above",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 530529.23
+        },
+        {
+          "year": 2019,
+          "value": 557799.99
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and economic activity (thousands), Female, Agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 94512.64
+        },
+        {
+          "year": 2019,
+          "value": 105658.56
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and economic activity (thousands), Female, Non-agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 89778.61
+        },
+        {
+          "year": 2019,
+          "value": 97074.81
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and economic activity (thousands), Male, Agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 178974.75
+        },
+        {
+          "year": 2019,
+          "value": 176823.33
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and economic activity (thousands), Male, Non-agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 255550
+        },
+        {
+          "year": 2019,
+          "value": 270211.92
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and economic activity (thousands), Total, Agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 273499.06
+        },
+        {
+          "year": 2019,
+          "value": 282551.2
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and economic activity (thousands), Total, Non-agriculture",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 345353.18
+        },
+        {
+          "year": 2019,
+          "value": 367305.58
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and status in employment (thousands), Female, Employees",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 48704.33
+        },
+        {
+          "year": 2019,
+          "value": 51804.67
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and status in employment (thousands), Female, Self-employed",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 133867.39
+        },
+        {
+          "year": 2019,
+          "value": 149030.7
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and status in employment (thousands), Male, Employees",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 125408.04
+        },
+        {
+          "year": 2019,
+          "value": 129979.52
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and status in employment (thousands), Male, Self-employed",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 304435.58
+        },
+        {
+          "year": 2019,
+          "value": 312454.28
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and status in employment (thousands), Total, Employees",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 174135.11
+        },
+        {
+          "year": 2019,
+          "value": 181788.5
+        }
+      ]
+    },
+    {
+      "indicator": "Informal employment by sex and status in employment (thousands), Total, Self-employed",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 438316.05
+        },
+        {
+          "year": 2019,
+          "value": 461568.83
+        }
+      ]
+    },
+    {
+      "indicator": "Installed electricity capacity (MW) by Country/area",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2011,
+          "value": 2715458.79
+        },
+        {
+          "year": 2012,
+          "value": 2921608.36
+        },
+        {
+          "year": 2013,
+          "value": 3145119.38
+        },
+        {
+          "year": 2014,
+          "value": 3377080.64
+        },
+        {
+          "year": 2015,
+          "value": 3673230.05
+        },
+        {
+          "year": 2016,
+          "value": 3906341.89
+        },
+        {
+          "year": 2017,
+          "value": 4154587.7
+        },
+        {
+          "year": 2018,
+          "value": 4439431.51
+        },
+        {
+          "year": 2019,
+          "value": 4665567.91
+        },
+        {
+          "year": 2020,
+          "value": 4948712.07
+        }
+      ]
+    },
+    {
+      "indicator": "International migrant stock at mid-year (both sexes)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 17991260
+        },
+        {
+          "year": 2005,
+          "value": 18403022
+        },
+        {
+          "year": 2010,
+          "value": 21123995
+        },
+        {
+          "year": 2015,
+          "value": 22147554
+        },
+        {
+          "year": 2020,
+          "value": 22572068
+        }
+      ]
+    },
+    {
+      "indicator": "Internet users, total (% of population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 1.27
+        },
+        {
+          "year": 2001,
+          "value": 1.91
+        },
+        {
+          "year": 2002,
+          "value": 3.22
+        },
+        {
+          "year": 2003,
+          "value": 4.18
+        },
+        {
+          "year": 2004,
+          "value": 4.96
+        },
+        {
+          "year": 2005,
+          "value": 5.9
+        },
+        {
+          "year": 2006,
+          "value": 7.1
+        },
+        {
+          "year": 2007,
+          "value": 9.83
+        },
+        {
+          "year": 2008,
+          "value": 12.68
+        },
+        {
+          "year": 2009,
+          "value": 15.43
+        },
+        {
+          "year": 2010,
+          "value": 19.13
+        },
+        {
+          "year": 2011,
+          "value": 21.91
+        },
+        {
+          "year": 2012,
+          "value": 24.14
+        },
+        {
+          "year": 2013,
+          "value": 26.18
+        },
+        {
+          "year": 2014,
+          "value": 28.33
+        },
+        {
+          "year": 2015,
+          "value": 30.57
+        },
+        {
+          "year": 2016,
+          "value": 33.45
+        },
+        {
+          "year": 2017,
+          "value": 35.7
+        },
+        {
+          "year": 2018,
+          "value": 39.44
+        },
+        {
+          "year": 2019,
+          "value": 45.32
+        },
+        {
+          "year": 2020,
+          "value": 53.53
+        }
+      ]
+    },
+    {
+      "indicator": "Domestic material consumption per capita, by type of raw material (tonnes), Total or No breakdown",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 6.23
+        },
+        {
+          "year": 2001,
+          "value": 6.34
+        },
+        {
+          "year": 2002,
+          "value": 6.54
+        },
+        {
+          "year": 2003,
+          "value": 6.98
+        },
+        {
+          "year": 2004,
+          "value": 7.38
+        },
+        {
+          "year": 2005,
+          "value": 7.74
+        },
+        {
+          "year": 2006,
+          "value": 8.25
+        },
+        {
+          "year": 2007,
+          "value": 8.74
+        },
+        {
+          "year": 2008,
+          "value": 8.96
+        },
+        {
+          "year": 2009,
+          "value": 9.63
+        },
+        {
+          "year": 2010,
+          "value": 10.32
+        },
+        {
+          "year": 2011,
+          "value": 11.1
+        },
+        {
+          "year": 2012,
+          "value": 11.62
+        },
+        {
+          "year": 2013,
+          "value": 12
+        },
+        {
+          "year": 2014,
+          "value": 12.17
+        },
+        {
+          "year": 2015,
+          "value": 11.96
+        },
+        {
+          "year": 2016,
+          "value": 11.89
+        },
+        {
+          "year": 2017,
+          "value": 11.89
+        },
+        {
+          "year": 2018,
+          "value": 11.7
+        },
+        {
+          "year": 2019,
+          "value": 11.93
+        }
+      ]
+    },
+    {
+      "indicator": "Natural capital",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2018,
+          "value": 157101
+        }
+      ]
+    },
+    {
+      "indicator": "Number of hospital beds per 10,000 people",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 361.2
+        },
+        {
+          "year": 2001,
+          "value": 433.25
+        },
+        {
+          "year": 2002,
+          "value": 391.1
+        },
+        {
+          "year": 2003,
+          "value": 391.29
+        },
+        {
+          "year": 2004,
+          "value": 390.81
+        },
+        {
+          "year": 2005,
+          "value": 575.08
+        },
+        {
+          "year": 2006,
+          "value": 617.37
+        },
+        {
+          "year": 2007,
+          "value": 609.32
+        },
+        {
+          "year": 2008,
+          "value": 605.73
+        },
+        {
+          "year": 2009,
+          "value": 685.98
+        },
+        {
+          "year": 2010,
+          "value": 755.25
+        },
+        {
+          "year": 2011,
+          "value": 618.2
+        },
+        {
+          "year": 2012,
+          "value": 624.49
+        },
+        {
+          "year": 2013,
+          "value": 591.54
+        },
+        {
+          "year": 2014,
+          "value": 595.43
+        },
+        {
+          "year": 2015,
+          "value": 599.42
+        },
+        {
+          "year": 2016,
+          "value": 599.4
+        },
+        {
+          "year": 2017,
+          "value": 605.23
+        },
+        {
+          "year": 2018,
+          "value": 505.87
+        },
+        {
+          "year": 2019,
+          "value": 535.9
+        },
+        {
+          "year": 2020,
+          "value": 526.73
+        }
+      ]
+    },
+    {
+      "indicator": "Number of New Limited Liability Companies",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2006,
+          "value": 341626
+        },
+        {
+          "year": 2007,
+          "value": 366637
+        },
+        {
+          "year": 2008,
+          "value": 395431
+        },
+        {
+          "year": 2009,
+          "value": 377878
+        },
+        {
+          "year": 2010,
+          "value": 440692
+        },
+        {
+          "year": 2011,
+          "value": 475930
+        },
+        {
+          "year": 2012,
+          "value": 494143
+        },
+        {
+          "year": 2013,
+          "value": 517030
+        },
+        {
+          "year": 2014,
+          "value": 584557
+        },
+        {
+          "year": 2015,
+          "value": 631660
+        },
+        {
+          "year": 2016,
+          "value": 705822
+        },
+        {
+          "year": 2017,
+          "value": 746849
+        },
+        {
+          "year": 2018,
+          "value": 794156
+        },
+        {
+          "year": 2019,
+          "value": 801964
+        },
+        {
+          "year": 2020,
+          "value": 868521
+        }
+      ]
+    },
+    {
+      "indicator": "Nurses and midwives per 10,000 people",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 10.85
+        },
+        {
+          "year": 2001,
+          "value": 10.95
+        },
+        {
+          "year": 2003,
+          "value": 11.15
+        },
+        {
+          "year": 2004,
+          "value": 11.36
+        },
+        {
+          "year": 2005,
+          "value": 11.6
+        },
+        {
+          "year": 2006,
+          "value": 12.3
+        },
+        {
+          "year": 2007,
+          "value": 13.37
+        },
+        {
+          "year": 2008,
+          "value": 14.59
+        },
+        {
+          "year": 2009,
+          "value": 16.08
+        },
+        {
+          "year": 2010,
+          "value": 17.58
+        },
+        {
+          "year": 2011,
+          "value": 18.79
+        },
+        {
+          "year": 2012,
+          "value": 19.98
+        },
+        {
+          "year": 2014,
+          "value": 21.55
+        },
+        {
+          "year": 2015,
+          "value": 21.94
+        },
+        {
+          "year": 2016,
+          "value": 22.15
+        },
+        {
+          "year": 2017,
+          "value": 22.27
+        },
+        {
+          "year": 2018,
+          "value": 22.52
+        },
+        {
+          "year": 2019,
+          "value": 23.2
+        },
+        {
+          "year": 2020,
+          "value": 24.03
+        }
+      ]
+    },
+    {
+      "indicator": "Installed electricity capacity (MW) by Country/area Off-grid",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2011,
+          "value": 11819.03
+        },
+        {
+          "year": 2012,
+          "value": 12402.66
+        },
+        {
+          "year": 2013,
+          "value": 12993.96
+        },
+        {
+          "year": 2014,
+          "value": 11962.49
+        },
+        {
+          "year": 2015,
+          "value": 12703.66
+        },
+        {
+          "year": 2016,
+          "value": 13321.76
+        },
+        {
+          "year": 2017,
+          "value": 14671.71
+        },
+        {
+          "year": 2018,
+          "value": 17326.58
+        },
+        {
+          "year": 2019,
+          "value": 17439.23
+        },
+        {
+          "year": 2020,
+          "value": 18052.31
+        }
+      ]
+    },
+    {
+      "indicator": "Physicians per 10,000 people",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2001,
+          "value": 9.48
+        },
+        {
+          "year": 2003,
+          "value": 9.02
+        },
+        {
+          "year": 2004,
+          "value": 9.19
+        },
+        {
+          "year": 2005,
+          "value": 9.42
+        },
+        {
+          "year": 2006,
+          "value": 9.52
+        },
+        {
+          "year": 2007,
+          "value": 9.59
+        },
+        {
+          "year": 2008,
+          "value": 9.93
+        },
+        {
+          "year": 2009,
+          "value": 10.48
+        },
+        {
+          "year": 2010,
+          "value": 10.84
+        },
+        {
+          "year": 2012,
+          "value": 11.72
+        },
+        {
+          "year": 2014,
+          "value": 10.26
+        },
+        {
+          "year": 2015,
+          "value": 10.58
+        },
+        {
+          "year": 2016,
+          "value": 11.03
+        },
+        {
+          "year": 2017,
+          "value": 11.72
+        },
+        {
+          "year": 2018,
+          "value": 12.33
+        },
+        {
+          "year": 2019,
+          "value": 13.14
+        },
+        {
+          "year": 2020,
+          "value": 13.97
+        }
+      ]
+    },
+    {
+      "indicator": "Air pollution deaths from fossil fuels, 2015",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2015,
+          "value": 2537591
+        }
+      ]
+    },
+    {
+      "indicator": "Population ages 65 and above (% of total population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 5.43
+        },
+        {
+          "year": 2001,
+          "value": 5.54
+        },
+        {
+          "year": 2002,
+          "value": 5.65
+        },
+        {
+          "year": 2003,
+          "value": 5.76
+        },
+        {
+          "year": 2004,
+          "value": 5.86
+        },
+        {
+          "year": 2005,
+          "value": 5.95
+        },
+        {
+          "year": 2006,
+          "value": 6.05
+        },
+        {
+          "year": 2007,
+          "value": 6.14
+        },
+        {
+          "year": 2008,
+          "value": 6.22
+        },
+        {
+          "year": 2009,
+          "value": 6.31
+        },
+        {
+          "year": 2010,
+          "value": 6.41
+        },
+        {
+          "year": 2011,
+          "value": 6.52
+        },
+        {
+          "year": 2012,
+          "value": 6.65
+        },
+        {
+          "year": 2013,
+          "value": 6.8
+        },
+        {
+          "year": 2014,
+          "value": 6.99
+        },
+        {
+          "year": 2015,
+          "value": 7.22
+        },
+        {
+          "year": 2016,
+          "value": 7.47
+        },
+        {
+          "year": 2017,
+          "value": 7.75
+        },
+        {
+          "year": 2018,
+          "value": 8.05
+        },
+        {
+          "year": 2019,
+          "value": 8.36
+        },
+        {
+          "year": 2020,
+          "value": 8.68
+        },
+        {
+          "year": 2021,
+          "value": 8.95
+        },
+        {
+          "year": 2022,
+          "value": 9.22
+        }
+      ]
+    },
+    {
+      "indicator": "Population covered by at least one social protection benefit",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2016,
+          "value": 39.53
+        },
+        {
+          "year": 2020,
+          "value": 41.16
+        }
+      ]
+    },
+    {
+      "indicator": "Population living in slums (% of urban population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 44.97
+        },
+        {
+          "year": 2002,
+          "value": 43.57
+        },
+        {
+          "year": 2004,
+          "value": 42.1
+        },
+        {
+          "year": 2005,
+          "value": 35.69
+        },
+        {
+          "year": 2006,
+          "value": 40.74
+        },
+        {
+          "year": 2008,
+          "value": 39.43
+        },
+        {
+          "year": 2010,
+          "value": 37.97
+        },
+        {
+          "year": 2012,
+          "value": 35.79
+        },
+        {
+          "year": 2014,
+          "value": 34.47
+        },
+        {
+          "year": 2016,
+          "value": 33.64
+        },
+        {
+          "year": 2018,
+          "value": 33.24
+        },
+        {
+          "year": 2020,
+          "value": 33.23
+        }
+      ]
+    },
+    {
+      "indicator": "Population using at least basic drinking-water services (%)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 80.15
+        },
+        {
+          "year": 2001,
+          "value": 80.66
+        },
+        {
+          "year": 2002,
+          "value": 81.48
+        },
+        {
+          "year": 2003,
+          "value": 82.28
+        },
+        {
+          "year": 2004,
+          "value": 83.08
+        },
+        {
+          "year": 2005,
+          "value": 83.83
+        },
+        {
+          "year": 2006,
+          "value": 84.58
+        },
+        {
+          "year": 2007,
+          "value": 85.33
+        },
+        {
+          "year": 2008,
+          "value": 86.06
+        },
+        {
+          "year": 2009,
+          "value": 86.76
+        },
+        {
+          "year": 2010,
+          "value": 87.46
+        },
+        {
+          "year": 2011,
+          "value": 88.13
+        },
+        {
+          "year": 2012,
+          "value": 88.78
+        },
+        {
+          "year": 2013,
+          "value": 89.43
+        },
+        {
+          "year": 2014,
+          "value": 90.06
+        },
+        {
+          "year": 2015,
+          "value": 90.68
+        },
+        {
+          "year": 2016,
+          "value": 91.28
+        },
+        {
+          "year": 2017,
+          "value": 91.87
+        },
+        {
+          "year": 2018,
+          "value": 92.45
+        },
+        {
+          "year": 2019,
+          "value": 93.02
+        },
+        {
+          "year": 2020,
+          "value": 93.57
+        },
+        {
+          "year": 2021,
+          "value": 94.18
+        },
+        {
+          "year": 2022,
+          "value": 94.82
+        }
+      ]
+    },
+    {
+      "indicator": "Population using at least basic drinking-water services (%)::Rural",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 72.9
+        },
+        {
+          "year": 2001,
+          "value": 73.37
+        },
+        {
+          "year": 2002,
+          "value": 74.32
+        },
+        {
+          "year": 2003,
+          "value": 75.24
+        },
+        {
+          "year": 2004,
+          "value": 76.18
+        },
+        {
+          "year": 2005,
+          "value": 77.1
+        },
+        {
+          "year": 2006,
+          "value": 78.02
+        },
+        {
+          "year": 2007,
+          "value": 78.93
+        },
+        {
+          "year": 2008,
+          "value": 79.84
+        },
+        {
+          "year": 2009,
+          "value": 80.74
+        },
+        {
+          "year": 2010,
+          "value": 81.63
+        },
+        {
+          "year": 2011,
+          "value": 82.52
+        },
+        {
+          "year": 2012,
+          "value": 83.39
+        },
+        {
+          "year": 2013,
+          "value": 84.26
+        },
+        {
+          "year": 2014,
+          "value": 85.13
+        },
+        {
+          "year": 2015,
+          "value": 86
+        },
+        {
+          "year": 2016,
+          "value": 86.86
+        },
+        {
+          "year": 2017,
+          "value": 87.72
+        },
+        {
+          "year": 2018,
+          "value": 88.58
+        },
+        {
+          "year": 2019,
+          "value": 89.43
+        },
+        {
+          "year": 2020,
+          "value": 90.26
+        },
+        {
+          "year": 2021,
+          "value": 91.26
+        },
+        {
+          "year": 2022,
+          "value": 92.33
+        }
+      ]
+    },
+    {
+      "indicator": "Population using at least basic drinking-water services (%)::Urban",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 94.67
+        },
+        {
+          "year": 2001,
+          "value": 94.8
+        },
+        {
+          "year": 2002,
+          "value": 94.94
+        },
+        {
+          "year": 2003,
+          "value": 95.09
+        },
+        {
+          "year": 2004,
+          "value": 95.23
+        },
+        {
+          "year": 2005,
+          "value": 95.3
+        },
+        {
+          "year": 2006,
+          "value": 95.43
+        },
+        {
+          "year": 2007,
+          "value": 95.56
+        },
+        {
+          "year": 2008,
+          "value": 95.69
+        },
+        {
+          "year": 2009,
+          "value": 95.82
+        },
+        {
+          "year": 2010,
+          "value": 95.95
+        },
+        {
+          "year": 2011,
+          "value": 96.07
+        },
+        {
+          "year": 2012,
+          "value": 96.2
+        },
+        {
+          "year": 2013,
+          "value": 96.32
+        },
+        {
+          "year": 2014,
+          "value": 96.45
+        },
+        {
+          "year": 2015,
+          "value": 96.57
+        },
+        {
+          "year": 2016,
+          "value": 96.7
+        },
+        {
+          "year": 2017,
+          "value": 96.82
+        },
+        {
+          "year": 2018,
+          "value": 96.95
+        },
+        {
+          "year": 2019,
+          "value": 97.07
+        },
+        {
+          "year": 2020,
+          "value": 97.19
+        },
+        {
+          "year": 2021,
+          "value": 97.3
+        },
+        {
+          "year": 2022,
+          "value": 97.4
+        }
+      ]
+    },
+    {
+      "indicator": "Population using at least basic sanitation services (%)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 40.45
+        },
+        {
+          "year": 2001,
+          "value": 41.91
+        },
+        {
+          "year": 2002,
+          "value": 43.96
+        },
+        {
+          "year": 2003,
+          "value": 46.02
+        },
+        {
+          "year": 2004,
+          "value": 48.09
+        },
+        {
+          "year": 2005,
+          "value": 50.17
+        },
+        {
+          "year": 2006,
+          "value": 52.24
+        },
+        {
+          "year": 2007,
+          "value": 54.34
+        },
+        {
+          "year": 2008,
+          "value": 56.44
+        },
+        {
+          "year": 2009,
+          "value": 58.54
+        },
+        {
+          "year": 2010,
+          "value": 60.63
+        },
+        {
+          "year": 2011,
+          "value": 62.71
+        },
+        {
+          "year": 2012,
+          "value": 64.79
+        },
+        {
+          "year": 2013,
+          "value": 66.87
+        },
+        {
+          "year": 2014,
+          "value": 68.95
+        },
+        {
+          "year": 2015,
+          "value": 71.03
+        },
+        {
+          "year": 2016,
+          "value": 73.1
+        },
+        {
+          "year": 2017,
+          "value": 75.14
+        },
+        {
+          "year": 2018,
+          "value": 77.13
+        },
+        {
+          "year": 2019,
+          "value": 79.1
+        },
+        {
+          "year": 2020,
+          "value": 81.05
+        },
+        {
+          "year": 2021,
+          "value": 82.98
+        },
+        {
+          "year": 2022,
+          "value": 84.8
+        }
+      ]
+    },
+    {
+      "indicator": "Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 27.29
+        },
+        {
+          "year": 2010,
+          "value": 17.92
+        },
+        {
+          "year": 2011,
+          "value": 14.5
+        },
+        {
+          "year": 2012,
+          "value": 12.54
+        },
+        {
+          "year": 2013,
+          "value": 9.73
+        },
+        {
+          "year": 2015,
+          "value": 8.69
+        },
+        {
+          "year": 2016,
+          "value": 8.18
+        },
+        {
+          "year": 2017,
+          "value": 6.35
+        },
+        {
+          "year": 2018,
+          "value": 5.28
+        },
+        {
+          "year": 2019,
+          "value": 5.79
+        },
+        {
+          "year": 2020,
+          "value": 6.51
+        }
+      ]
+    },
+    {
+      "indicator": "Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 59.15
+        },
+        {
+          "year": 2010,
+          "value": 46.7
+        },
+        {
+          "year": 2011,
+          "value": 42.73
+        },
+        {
+          "year": 2012,
+          "value": 40.14
+        },
+        {
+          "year": 2013,
+          "value": 36.32
+        },
+        {
+          "year": 2015,
+          "value": 33.16
+        },
+        {
+          "year": 2016,
+          "value": 31.72
+        },
+        {
+          "year": 2017,
+          "value": 28.97
+        },
+        {
+          "year": 2018,
+          "value": 25.27
+        },
+        {
+          "year": 2019,
+          "value": 23.21
+        },
+        {
+          "year": 2020,
+          "value": 24.1
+        }
+      ]
+    },
+    {
+      "indicator": "Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 83.66
+        },
+        {
+          "year": 2010,
+          "value": 74.77
+        },
+        {
+          "year": 2011,
+          "value": 72.32
+        },
+        {
+          "year": 2012,
+          "value": 69.94
+        },
+        {
+          "year": 2013,
+          "value": 66.86
+        },
+        {
+          "year": 2015,
+          "value": 62.76
+        },
+        {
+          "year": 2016,
+          "value": 60.76
+        },
+        {
+          "year": 2017,
+          "value": 58.4
+        },
+        {
+          "year": 2018,
+          "value": 55.82
+        },
+        {
+          "year": 2019,
+          "value": 53.81
+        },
+        {
+          "year": 2020,
+          "value": 54.49
+        }
+      ]
+    },
+    {
+      "indicator": "Prevalence of Mental health disorders: Both (age-standardized percent)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 13.12
+        },
+        {
+          "year": 2001,
+          "value": 13.11
+        },
+        {
+          "year": 2002,
+          "value": 13.11
+        },
+        {
+          "year": 2003,
+          "value": 13.1
+        },
+        {
+          "year": 2004,
+          "value": 13.09
+        },
+        {
+          "year": 2005,
+          "value": 13.09
+        },
+        {
+          "year": 2006,
+          "value": 13.07
+        },
+        {
+          "year": 2007,
+          "value": 13.04
+        },
+        {
+          "year": 2008,
+          "value": 13.02
+        },
+        {
+          "year": 2009,
+          "value": 13
+        },
+        {
+          "year": 2010,
+          "value": 12.97
+        },
+        {
+          "year": 2011,
+          "value": 12.95
+        },
+        {
+          "year": 2012,
+          "value": 12.94
+        },
+        {
+          "year": 2013,
+          "value": 12.92
+        },
+        {
+          "year": 2014,
+          "value": 12.9
+        },
+        {
+          "year": 2015,
+          "value": 12.89
+        },
+        {
+          "year": 2016,
+          "value": 12.87
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2007,
+          "value": 2.27
+        }
+      ]
+    },
+    {
+      "indicator": "Refugee population by country or territory of asylum",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 4785447.69
+        },
+        {
+          "year": 2001,
+          "value": 4940577
+        },
+        {
+          "year": 2002,
+          "value": 3367667.31
+        },
+        {
+          "year": 2003,
+          "value": 2866555
+        },
+        {
+          "year": 2004,
+          "value": 3101164
+        },
+        {
+          "year": 2005,
+          "value": 2810386
+        },
+        {
+          "year": 2006,
+          "value": 2810190.44
+        },
+        {
+          "year": 2007,
+          "value": 3790896.35
+        },
+        {
+          "year": 2008,
+          "value": 3562652.27
+        },
+        {
+          "year": 2009,
+          "value": 3819357.18
+        },
+        {
+          "year": 2010,
+          "value": 3976515.09
+        },
+        {
+          "year": 2011,
+          "value": 3568345.17
+        },
+        {
+          "year": 2012,
+          "value": 3482907.32
+        },
+        {
+          "year": 2013,
+          "value": 3504846.9
+        },
+        {
+          "year": 2014,
+          "value": 3804470
+        },
+        {
+          "year": 2015,
+          "value": 3784717.74
+        },
+        {
+          "year": 2016,
+          "value": 3425949.49
+        },
+        {
+          "year": 2017,
+          "value": 4151656.23
+        },
+        {
+          "year": 2018,
+          "value": 4147588.32
+        },
+        {
+          "year": 2019,
+          "value": 4093290.31
+        },
+        {
+          "year": 2020,
+          "value": 3945945.81
+        },
+        {
+          "year": 2021,
+          "value": 4067830.82
+        },
+        {
+          "year": 2022,
+          "value": 6686918
+        }
+      ]
+    },
+    {
+      "indicator": "Renewable internal freshwater resources per capita (cubic meters)",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 3310.88
+        },
+        {
+          "year": 2001,
+          "value": 3265.79
+        },
+        {
+          "year": 2002,
+          "value": 3222.64
+        },
+        {
+          "year": 2003,
+          "value": 3181.54
+        },
+        {
+          "year": 2004,
+          "value": 3141.35
+        },
+        {
+          "year": 2005,
+          "value": 3103.69
+        },
+        {
+          "year": 2006,
+          "value": 3067.82
+        },
+        {
+          "year": 2007,
+          "value": 3033.82
+        },
+        {
+          "year": 2008,
+          "value": 3000.89
+        },
+        {
+          "year": 2009,
+          "value": 2968.37
+        },
+        {
+          "year": 2010,
+          "value": 2936.23
+        },
+        {
+          "year": 2011,
+          "value": 2904.23
+        },
+        {
+          "year": 2012,
+          "value": 2872.14
+        },
+        {
+          "year": 2013,
+          "value": 2841.37
+        },
+        {
+          "year": 2014,
+          "value": 2811.89
+        },
+        {
+          "year": 2015,
+          "value": 2783.87
+        },
+        {
+          "year": 2016,
+          "value": 2756.74
+        },
+        {
+          "year": 2017,
+          "value": 2729.95
+        },
+        {
+          "year": 2018,
+          "value": 2705.31
+        },
+        {
+          "year": 2019,
+          "value": 2682.79
+        },
+        {
+          "year": 2020,
+          "value": 2662.12
+        }
+      ]
+    },
+    {
+      "indicator": "Electricity generation from solar, measured in terawatt-hours",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 0.03
+        },
+        {
+          "year": 2001,
+          "value": 0.04
+        },
+        {
+          "year": 2002,
+          "value": 0.06
+        },
+        {
+          "year": 2003,
+          "value": 0.08
+        },
+        {
+          "year": 2004,
+          "value": 0.1
+        },
+        {
+          "year": 2005,
+          "value": 0.11
+        },
+        {
+          "year": 2006,
+          "value": 0.16
+        },
+        {
+          "year": 2007,
+          "value": 0.24
+        },
+        {
+          "year": 2008,
+          "value": 0.29
+        },
+        {
+          "year": 2009,
+          "value": 0.45
+        },
+        {
+          "year": 2010,
+          "value": 0.99
+        },
+        {
+          "year": 2011,
+          "value": 3.66
+        },
+        {
+          "year": 2012,
+          "value": 6.44
+        },
+        {
+          "year": 2013,
+          "value": 13.6
+        },
+        {
+          "year": 2014,
+          "value": 31.15
+        },
+        {
+          "year": 2015,
+          "value": 49.63
+        },
+        {
+          "year": 2016,
+          "value": 84.33
+        },
+        {
+          "year": 2017,
+          "value": 147.28
+        },
+        {
+          "year": 2018,
+          "value": 222.03
+        },
+        {
+          "year": 2019,
+          "value": 286.33
+        },
+        {
+          "year": 2020,
+          "value": 342.72
+        },
+        {
+          "year": 2021,
+          "value": 434.65
+        },
+        {
+          "year": 2022,
+          "value": 563.9
+        },
+        {
+          "year": 2023,
+          "value": 739.96
+        }
+      ]
+    },
+    {
+      "indicator": "COVID-19 Fatality Rate",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 1.84
+        },
+        {
+          "year": 2021,
+          "value": 1.66
+        },
+        {
+          "year": 2022,
+          "value": 0.75
+        },
+        {
+          "year": 2023,
+          "value": 0.65
+        }
+      ]
+    },
+    {
+      "indicator": "Fiscal Response",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2021,
+          "value": 1674319322860
+        }
+      ]
+    },
+    {
+      "indicator": "Population, total",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 3295348404
+        },
+        {
+          "year": 2001,
+          "value": 3340453412
+        },
+        {
+          "year": 2002,
+          "value": 3384930916
+        },
+        {
+          "year": 2003,
+          "value": 3428617808
+        },
+        {
+          "year": 2004,
+          "value": 3471709139
+        },
+        {
+          "year": 2005,
+          "value": 3514124002
+        },
+        {
+          "year": 2006,
+          "value": 3555826574
+        },
+        {
+          "year": 2007,
+          "value": 3596760996
+        },
+        {
+          "year": 2008,
+          "value": 3637540982
+        },
+        {
+          "year": 2009,
+          "value": 3679053264
+        },
+        {
+          "year": 2010,
+          "value": 3721163164
+        },
+        {
+          "year": 2011,
+          "value": 3763262367
+        },
+        {
+          "year": 2012,
+          "value": 3805464236
+        },
+        {
+          "year": 2013,
+          "value": 3846972050
+        },
+        {
+          "year": 2014,
+          "value": 3887584623
+        },
+        {
+          "year": 2015,
+          "value": 3927031955
+        },
+        {
+          "year": 2016,
+          "value": 3965800926
+        },
+        {
+          "year": 2017,
+          "value": 4004623315
+        },
+        {
+          "year": 2018,
+          "value": 4041157422
+        },
+        {
+          "year": 2019,
+          "value": 4074836918
+        },
+        {
+          "year": 2020,
+          "value": 4106190270
+        },
+        {
+          "year": 2021,
+          "value": 4133013306
+        },
+        {
+          "year": 2022,
+          "value": 4156811533
+        },
+        {
+          "year": 2023,
+          "value": 4182690551
+        }
+      ]
+    },
+    {
+      "indicator": "Rural Population, total",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 2196955600
+        },
+        {
+          "year": 2001,
+          "value": 2204707428
+        },
+        {
+          "year": 2002,
+          "value": 2209292589
+        },
+        {
+          "year": 2003,
+          "value": 2212397533
+        },
+        {
+          "year": 2004,
+          "value": 2213861285
+        },
+        {
+          "year": 2005,
+          "value": 2214061018
+        },
+        {
+          "year": 2006,
+          "value": 2213327845
+        },
+        {
+          "year": 2007,
+          "value": 2211298567
+        },
+        {
+          "year": 2008,
+          "value": 2208344632
+        },
+        {
+          "year": 2009,
+          "value": 2205108488
+        },
+        {
+          "year": 2010,
+          "value": 2201572474
+        },
+        {
+          "year": 2011,
+          "value": 2199395325
+        },
+        {
+          "year": 2012,
+          "value": 2197694184
+        },
+        {
+          "year": 2013,
+          "value": 2194832450
+        },
+        {
+          "year": 2014,
+          "value": 2190733137
+        },
+        {
+          "year": 2015,
+          "value": 2185267162
+        },
+        {
+          "year": 2016,
+          "value": 2179128660
+        },
+        {
+          "year": 2017,
+          "value": 2172783871
+        },
+        {
+          "year": 2018,
+          "value": 2165112445
+        },
+        {
+          "year": 2019,
+          "value": 2156211928
+        },
+        {
+          "year": 2020,
+          "value": 2146380016
+        },
+        {
+          "year": 2021,
+          "value": 2134424338
+        },
+        {
+          "year": 2022,
+          "value": 2120491561
+        }
+      ]
+    },
+    {
+      "indicator": "Urban Population, total",
+      "isPreAggregated": "False",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 1096913021
+        },
+        {
+          "year": 2001,
+          "value": 1134873077
+        },
+        {
+          "year": 2002,
+          "value": 1175111365
+        },
+        {
+          "year": 2003,
+          "value": 1215635319
+        },
+        {
+          "year": 2004,
+          "value": 1257002409
+        },
+        {
+          "year": 2005,
+          "value": 1298816543
+        },
+        {
+          "year": 2006,
+          "value": 1340346943
+        },
+        {
+          "year": 2007,
+          "value": 1381759547
+        },
+        {
+          "year": 2008,
+          "value": 1423685195
+        },
+        {
+          "year": 2009,
+          "value": 1466056051
+        },
+        {
+          "year": 2010,
+          "value": 1509017464
+        },
+        {
+          "year": 2011,
+          "value": 1551708908
+        },
+        {
+          "year": 2012,
+          "value": 1595330666
+        },
+        {
+          "year": 2013,
+          "value": 1639200398
+        },
+        {
+          "year": 2014,
+          "value": 1683421039
+        },
+        {
+          "year": 2015,
+          "value": 1727794329
+        },
+        {
+          "year": 2016,
+          "value": 1772467935
+        },
+        {
+          "year": 2017,
+          "value": 1817626254
+        },
+        {
+          "year": 2018,
+          "value": 1861648938
+        },
+        {
+          "year": 2019,
+          "value": 1904496462
+        },
+        {
+          "year": 2020,
+          "value": 1945960331
+        },
+        {
+          "year": 2021,
+          "value": 1984950569
+        },
+        {
+          "year": 2022,
+          "value": 2022617827
+        }
+      ]
+    }
+  ]
 }

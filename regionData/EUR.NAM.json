@@ -1,1034 +1,1034 @@
 {
- "Alpha-3 code":"EUR.NAM",
- "Country or Area":"Europe and Northern America",
- "Latitude (average)":0.0,
- "Longitude (average)":0.0,
- "Group 1":"",
- "Group 2":"",
- "LDC":false,
- "LLDC":false,
- "SIDS":false,
- "Income group":"",
- "indicators":[
-  {
-   "indicator":"Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
-   "yearlyData":[
+  "Alpha-3 code": "EUR.NAM",
+  "Country or Area": "Europe and Northern America",
+  "Latitude (average)": 0.0,
+  "Longitude (average)": 0.0,
+  "Group 1": "",
+  "Group 2": "",
+  "LDC": false,
+  "LLDC": false,
+  "SIDS": false,
+  "Income group": "",
+  "indicators": [
     {
-     "year":2022,
-     "value":74.0
+      "indicator": "Abortion: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 74
+        }
+      ]
+    },
+    {
+      "indicator": "Contraceptive Services: Laws & Regulations",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 83
+        }
+      ]
+    },
+    {
+      "indicator": "Coverage of protected areas in relation to marine areas",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 37.48
+        },
+        {
+          "year": 2001,
+          "value": 39.57
+        },
+        {
+          "year": 2002,
+          "value": 40.69
+        },
+        {
+          "year": 2003,
+          "value": 41.19
+        },
+        {
+          "year": 2004,
+          "value": 43.97
+        },
+        {
+          "year": 2005,
+          "value": 45.63
+        },
+        {
+          "year": 2006,
+          "value": 47.11
+        },
+        {
+          "year": 2007,
+          "value": 48.19
+        },
+        {
+          "year": 2008,
+          "value": 49.5
+        },
+        {
+          "year": 2009,
+          "value": 50.62
+        },
+        {
+          "year": 2010,
+          "value": 52.4
+        },
+        {
+          "year": 2011,
+          "value": 53.61
+        },
+        {
+          "year": 2012,
+          "value": 54.23
+        },
+        {
+          "year": 2013,
+          "value": 55.62
+        },
+        {
+          "year": 2014,
+          "value": 57.72
+        },
+        {
+          "year": 2015,
+          "value": 58
+        },
+        {
+          "year": 2016,
+          "value": 58.6
+        },
+        {
+          "year": 2017,
+          "value": 59.13
+        },
+        {
+          "year": 2018,
+          "value": 59.47
+        },
+        {
+          "year": 2019,
+          "value": 60.18
+        },
+        {
+          "year": 2020,
+          "value": 60.42
+        },
+        {
+          "year": 2021,
+          "value": 60.58
+        },
+        {
+          "year": 2022,
+          "value": 60.6
+        },
+        {
+          "year": 2023,
+          "value": 60.6
+        }
+      ]
+    },
+    {
+      "indicator": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 87
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of women in managerial positions, %",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 33.28
+        },
+        {
+          "year": 2001,
+          "value": 33.57
+        },
+        {
+          "year": 2002,
+          "value": 34.07
+        },
+        {
+          "year": 2003,
+          "value": 34.88
+        },
+        {
+          "year": 2004,
+          "value": 35.21
+        },
+        {
+          "year": 2005,
+          "value": 35.83
+        },
+        {
+          "year": 2006,
+          "value": 35.75
+        },
+        {
+          "year": 2007,
+          "value": 36.42
+        },
+        {
+          "year": 2008,
+          "value": 36.23
+        },
+        {
+          "year": 2009,
+          "value": 36.54
+        },
+        {
+          "year": 2010,
+          "value": 37.15
+        },
+        {
+          "year": 2011,
+          "value": 37.22
+        },
+        {
+          "year": 2012,
+          "value": 37.17
+        },
+        {
+          "year": 2013,
+          "value": 36.54
+        },
+        {
+          "year": 2014,
+          "value": 36.49
+        },
+        {
+          "year": 2015,
+          "value": 36.96
+        },
+        {
+          "year": 2016,
+          "value": 37.35
+        },
+        {
+          "year": 2017,
+          "value": 37.57
+        },
+        {
+          "year": 2018,
+          "value": 37.79
+        },
+        {
+          "year": 2019,
+          "value": 38.26
+        },
+        {
+          "year": 2020,
+          "value": 38.72
+        },
+        {
+          "year": 2021,
+          "value": 39.19
+        },
+        {
+          "year": 2022,
+          "value": 38.63
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 15.71
+        },
+        {
+          "year": 2006,
+          "value": 15.17
+        },
+        {
+          "year": 2007,
+          "value": 14.62
+        },
+        {
+          "year": 2008,
+          "value": 14.38
+        },
+        {
+          "year": 2009,
+          "value": 15.23
+        },
+        {
+          "year": 2010,
+          "value": 15.3
+        },
+        {
+          "year": 2011,
+          "value": 14.76
+        },
+        {
+          "year": 2012,
+          "value": 14.48
+        },
+        {
+          "year": 2013,
+          "value": 14.59
+        },
+        {
+          "year": 2014,
+          "value": 14.2
+        },
+        {
+          "year": 2015,
+          "value": 13.45
+        },
+        {
+          "year": 2016,
+          "value": 13.05
+        },
+        {
+          "year": 2017,
+          "value": 12.25
+        },
+        {
+          "year": 2018,
+          "value": 12.04
+        },
+        {
+          "year": 2019,
+          "value": 11.5
+        },
+        {
+          "year": 2020,
+          "value": 13.34
+        },
+        {
+          "year": 2021,
+          "value": 12.33
+        },
+        {
+          "year": 2022,
+          "value": 11.45
+        },
+        {
+          "year": 2023,
+          "value": 10.88
+        }
+      ]
+    },
+    {
+      "indicator": "Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 90
+        }
+      ]
+    },
+    {
+      "indicator": "HIV Confidentiality",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 94
+        }
+      ]
+    },
+    {
+      "indicator": "HIV Treatment and Care Services",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 94
+        }
+      ]
+    },
+    {
+      "indicator": "International migrant stock at mid-year (both sexes)",
+      "yearlyData": [
+        {
+          "year": 1990,
+          "value": 77218633
+        },
+        {
+          "year": 1995,
+          "value": 86830775
+        },
+        {
+          "year": 2000,
+          "value": 97210503
+        },
+        {
+          "year": 2005,
+          "value": 108948820
+        },
+        {
+          "year": 2010,
+          "value": 121597684
+        },
+        {
+          "year": 2015,
+          "value": 130392824
+        },
+        {
+          "year": 2020,
+          "value": 145414863
+        }
+      ]
+    },
+    {
+      "indicator": "Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 88
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of youth (aged 15??4 years) not in education, employment or training, Male",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 11.93
+        },
+        {
+          "year": 2006,
+          "value": 11.28
+        },
+        {
+          "year": 2007,
+          "value": 10.92
+        },
+        {
+          "year": 2008,
+          "value": 10.99
+        },
+        {
+          "year": 2009,
+          "value": 13.23
+        },
+        {
+          "year": 2010,
+          "value": 13.33
+        },
+        {
+          "year": 2011,
+          "value": 12.92
+        },
+        {
+          "year": 2012,
+          "value": 12.86
+        },
+        {
+          "year": 2013,
+          "value": 13.01
+        },
+        {
+          "year": 2014,
+          "value": 12.5
+        },
+        {
+          "year": 2015,
+          "value": 11.96
+        },
+        {
+          "year": 2016,
+          "value": 11.7
+        },
+        {
+          "year": 2017,
+          "value": 10.94
+        },
+        {
+          "year": 2018,
+          "value": 10.66
+        },
+        {
+          "year": 2019,
+          "value": 10.32
+        },
+        {
+          "year": 2020,
+          "value": 12.53
+        },
+        {
+          "year": 2021,
+          "value": 11.43
+        },
+        {
+          "year": 2022,
+          "value": 10.53
+        },
+        {
+          "year": 2023,
+          "value": 10.29
+        }
+      ]
+    },
+    {
+      "indicator": "Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 86
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of medium and high-tech industry value added in total value added",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 46.52
+        },
+        {
+          "year": 2001,
+          "value": 45.51
+        },
+        {
+          "year": 2002,
+          "value": 45.71
+        },
+        {
+          "year": 2003,
+          "value": 45.64
+        },
+        {
+          "year": 2004,
+          "value": 45.06
+        },
+        {
+          "year": 2005,
+          "value": 44.83
+        },
+        {
+          "year": 2006,
+          "value": 44.99
+        },
+        {
+          "year": 2007,
+          "value": 45.37
+        },
+        {
+          "year": 2008,
+          "value": 45.7
+        },
+        {
+          "year": 2009,
+          "value": 45.15
+        },
+        {
+          "year": 2010,
+          "value": 46.24
+        },
+        {
+          "year": 2011,
+          "value": 46.07
+        },
+        {
+          "year": 2012,
+          "value": 46.75
+        },
+        {
+          "year": 2013,
+          "value": 46.89
+        },
+        {
+          "year": 2014,
+          "value": 47.73
+        },
+        {
+          "year": 2015,
+          "value": 47.99
+        },
+        {
+          "year": 2016,
+          "value": 48
+        },
+        {
+          "year": 2017,
+          "value": 48.22
+        },
+        {
+          "year": 2018,
+          "value": 47.56
+        },
+        {
+          "year": 2019,
+          "value": 47.31
+        },
+        {
+          "year": 2020,
+          "value": 47.17
+        },
+        {
+          "year": 2021,
+          "value": 45.66
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of population covered by a mobile network, by technology",
+      "yearlyData": [
+        {
+          "year": 2015,
+          "value": 177.1
+        },
+        {
+          "year": 2016,
+          "value": 182.88
+        },
+        {
+          "year": 2017,
+          "value": 185.39
+        },
+        {
+          "year": 2018,
+          "value": 187.2
+        },
+        {
+          "year": 2019,
+          "value": 194.52
+        },
+        {
+          "year": 2020,
+          "value": 195.42
+        },
+        {
+          "year": 2021,
+          "value": 196.98
+        },
+        {
+          "year": 2022,
+          "value": 197.26
+        },
+        {
+          "year": 2023,
+          "value": 198.55
+        }
+      ]
+    },
+    {
+      "indicator": "Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average)",
+      "yearlyData": [
+        {
+          "year": 2014,
+          "value": 9.3
+        },
+        {
+          "year": 2015,
+          "value": 9.3
+        },
+        {
+          "year": 2016,
+          "value": 8.7
+        },
+        {
+          "year": 2017,
+          "value": 8.4
+        },
+        {
+          "year": 2018,
+          "value": 7.6
+        },
+        {
+          "year": 2019,
+          "value": 7.1
+        },
+        {
+          "year": 2020,
+          "value": 7.8
+        },
+        {
+          "year": 2021,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "indicator": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 21.9
+        },
+        {
+          "year": 2005,
+          "value": 20.3
+        },
+        {
+          "year": 2010,
+          "value": 17.3
+        },
+        {
+          "year": 2015,
+          "value": 15.9
+        },
+        {
+          "year": 2019,
+          "value": 15
+        }
+      ]
+    },
+    {
+      "indicator": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 15.6
+        },
+        {
+          "year": 2005,
+          "value": 14.5
+        },
+        {
+          "year": 2010,
+          "value": 12.4
+        },
+        {
+          "year": 2015,
+          "value": 11.4
+        },
+        {
+          "year": 2019,
+          "value": 10.9
+        }
+      ]
+    },
+    {
+      "indicator": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 28.5
+        },
+        {
+          "year": 2005,
+          "value": 26.6
+        },
+        {
+          "year": 2010,
+          "value": 22.6
+        },
+        {
+          "year": 2015,
+          "value": 20.6
+        },
+        {
+          "year": 2019,
+          "value": 19.4
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of forest area with a long-term management plan",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 80.68
+        },
+        {
+          "year": 2010,
+          "value": 81.7
+        },
+        {
+          "year": 2015,
+          "value": 82.02
+        },
+        {
+          "year": 2016,
+          "value": 82.68
+        },
+        {
+          "year": 2017,
+          "value": 82.71
+        },
+        {
+          "year": 2018,
+          "value": 83.37
+        },
+        {
+          "year": 2019,
+          "value": 83.41
+        },
+        {
+          "year": 2020,
+          "value": 83.42
+        }
+      ]
+    },
+    {
+      "indicator": "Sexual and reproductive health laws and regulations",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 89
+        }
+      ]
+    },
+    {
+      "indicator": "Sexuality Education: Laws & Regulations",
+      "yearlyData": [
+        {
+          "year": 2022,
+          "value": 87
+        }
+      ]
+    },
+    {
+      "indicator": "Population, total",
+      "yearlyData": [
+        {
+          "year": 1980,
+          "value": 938092844
+        },
+        {
+          "year": 1981,
+          "value": 944304222
+        },
+        {
+          "year": 1982,
+          "value": 949715182
+        },
+        {
+          "year": 1983,
+          "value": 955154958
+        },
+        {
+          "year": 1984,
+          "value": 960601726
+        },
+        {
+          "year": 1985,
+          "value": 965960257
+        },
+        {
+          "year": 1986,
+          "value": 971282640
+        },
+        {
+          "year": 1987,
+          "value": 976977201
+        },
+        {
+          "year": 1988,
+          "value": 982767421
+        },
+        {
+          "year": 1989,
+          "value": 988562877
+        },
+        {
+          "year": 1990,
+          "value": 994287345
+        },
+        {
+          "year": 1991,
+          "value": 1000427876
+        },
+        {
+          "year": 1992,
+          "value": 1006169585
+        },
+        {
+          "year": 1993,
+          "value": 1011636127
+        },
+        {
+          "year": 1994,
+          "value": 1016385184
+        },
+        {
+          "year": 1995,
+          "value": 1020493134
+        },
+        {
+          "year": 1996,
+          "value": 1024250968
+        },
+        {
+          "year": 1997,
+          "value": 1028056979
+        },
+        {
+          "year": 1998,
+          "value": 1031877747
+        },
+        {
+          "year": 1999,
+          "value": 1035219262
+        },
+        {
+          "year": 2000,
+          "value": 1038390250
+        },
+        {
+          "year": 2001,
+          "value": 1041958086
+        },
+        {
+          "year": 2002,
+          "value": 1044993988
+        },
+        {
+          "year": 2003,
+          "value": 1048479918
+        },
+        {
+          "year": 2004,
+          "value": 1052079396
+        },
+        {
+          "year": 2005,
+          "value": 1056217731
+        },
+        {
+          "year": 2006,
+          "value": 1060052335
+        },
+        {
+          "year": 2007,
+          "value": 1064484948
+        },
+        {
+          "year": 2008,
+          "value": 1069764894
+        },
+        {
+          "year": 2009,
+          "value": 1074826158
+        },
+        {
+          "year": 2010,
+          "value": 1079443056
+        },
+        {
+          "year": 2011,
+          "value": 1083654784
+        },
+        {
+          "year": 2012,
+          "value": 1088176558
+        },
+        {
+          "year": 2013,
+          "value": 1092576601
+        },
+        {
+          "year": 2014,
+          "value": 1096579926
+        },
+        {
+          "year": 2015,
+          "value": 1100576104
+        },
+        {
+          "year": 2016,
+          "value": 1104568632
+        },
+        {
+          "year": 2017,
+          "value": 1108965890
+        },
+        {
+          "year": 2018,
+          "value": 1112874307
+        },
+        {
+          "year": 2019,
+          "value": 1116445428
+        },
+        {
+          "year": 2020,
+          "value": 1119869707
+        },
+        {
+          "year": 2021,
+          "value": 1120494348
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of youth (aged 15??4 years) not in education, employment or training",
+      "yearlyData": [
+        {
+          "year": 2005,
+          "value": 13.78
+        },
+        {
+          "year": 2006,
+          "value": 13.19
+        },
+        {
+          "year": 2007,
+          "value": 12.73
+        },
+        {
+          "year": 2008,
+          "value": 12.65
+        },
+        {
+          "year": 2009,
+          "value": 14.21
+        },
+        {
+          "year": 2010,
+          "value": 14.29
+        },
+        {
+          "year": 2011,
+          "value": 13.82
+        },
+        {
+          "year": 2012,
+          "value": 13.65
+        },
+        {
+          "year": 2013,
+          "value": 13.78
+        },
+        {
+          "year": 2014,
+          "value": 13.33
+        },
+        {
+          "year": 2015,
+          "value": 12.69
+        },
+        {
+          "year": 2016,
+          "value": 12.36
+        },
+        {
+          "year": 2017,
+          "value": 11.58
+        },
+        {
+          "year": 2018,
+          "value": 11.33
+        },
+        {
+          "year": 2019,
+          "value": 10.89
+        },
+        {
+          "year": 2020,
+          "value": 12.92
+        },
+        {
+          "year": 2021,
+          "value": 11.87
+        },
+        {
+          "year": 2022,
+          "value": 10.98
+        },
+        {
+          "year": 2023,
+          "value": 10.58
+        }
+      ]
     }
-   ]
-  },
-  {
-   "indicator":"Contraceptive Services: Laws & Regulations",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":83.0
-    }
-   ]
-  },
-  {
-   "indicator":"Coverage of protected areas in relation to marine areas",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":37.48
-    },
-    {
-     "year":2001,
-     "value":39.57
-    },
-    {
-     "year":2002,
-     "value":40.69
-    },
-    {
-     "year":2003,
-     "value":41.19
-    },
-    {
-     "year":2004,
-     "value":43.97
-    },
-    {
-     "year":2005,
-     "value":45.63
-    },
-    {
-     "year":2006,
-     "value":47.11
-    },
-    {
-     "year":2007,
-     "value":48.19
-    },
-    {
-     "year":2008,
-     "value":49.5
-    },
-    {
-     "year":2009,
-     "value":50.62
-    },
-    {
-     "year":2010,
-     "value":52.4
-    },
-    {
-     "year":2011,
-     "value":53.61
-    },
-    {
-     "year":2012,
-     "value":54.23
-    },
-    {
-     "year":2013,
-     "value":55.62
-    },
-    {
-     "year":2014,
-     "value":57.72
-    },
-    {
-     "year":2015,
-     "value":58.0
-    },
-    {
-     "year":2016,
-     "value":58.6
-    },
-    {
-     "year":2017,
-     "value":59.13
-    },
-    {
-     "year":2018,
-     "value":59.47
-    },
-    {
-     "year":2019,
-     "value":60.18
-    },
-    {
-     "year":2020,
-     "value":60.42
-    },
-    {
-     "year":2021,
-     "value":60.58
-    },
-    {
-     "year":2022,
-     "value":60.6
-    },
-    {
-     "year":2023,
-     "value":60.6
-    }
-   ]
-  },
-  {
-   "indicator":"Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":87.0
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of women in managerial positions, %",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":33.28
-    },
-    {
-     "year":2001,
-     "value":33.57
-    },
-    {
-     "year":2002,
-     "value":34.07
-    },
-    {
-     "year":2003,
-     "value":34.88
-    },
-    {
-     "year":2004,
-     "value":35.21
-    },
-    {
-     "year":2005,
-     "value":35.83
-    },
-    {
-     "year":2006,
-     "value":35.75
-    },
-    {
-     "year":2007,
-     "value":36.42
-    },
-    {
-     "year":2008,
-     "value":36.23
-    },
-    {
-     "year":2009,
-     "value":36.54
-    },
-    {
-     "year":2010,
-     "value":37.15
-    },
-    {
-     "year":2011,
-     "value":37.22
-    },
-    {
-     "year":2012,
-     "value":37.17
-    },
-    {
-     "year":2013,
-     "value":36.54
-    },
-    {
-     "year":2014,
-     "value":36.49
-    },
-    {
-     "year":2015,
-     "value":36.96
-    },
-    {
-     "year":2016,
-     "value":37.35
-    },
-    {
-     "year":2017,
-     "value":37.57
-    },
-    {
-     "year":2018,
-     "value":37.79
-    },
-    {
-     "year":2019,
-     "value":38.26
-    },
-    {
-     "year":2020,
-     "value":38.72
-    },
-    {
-     "year":2021,
-     "value":39.19
-    },
-    {
-     "year":2022,
-     "value":38.63
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of youth (aged 15?24 years) not in education, employment or training, Female",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":15.71
-    },
-    {
-     "year":2006,
-     "value":15.17
-    },
-    {
-     "year":2007,
-     "value":14.62
-    },
-    {
-     "year":2008,
-     "value":14.38
-    },
-    {
-     "year":2009,
-     "value":15.23
-    },
-    {
-     "year":2010,
-     "value":15.3
-    },
-    {
-     "year":2011,
-     "value":14.76
-    },
-    {
-     "year":2012,
-     "value":14.48
-    },
-    {
-     "year":2013,
-     "value":14.59
-    },
-    {
-     "year":2014,
-     "value":14.2
-    },
-    {
-     "year":2015,
-     "value":13.45
-    },
-    {
-     "year":2016,
-     "value":13.05
-    },
-    {
-     "year":2017,
-     "value":12.25
-    },
-    {
-     "year":2018,
-     "value":12.04
-    },
-    {
-     "year":2019,
-     "value":11.5
-    },
-    {
-     "year":2020,
-     "value":13.34
-    },
-    {
-     "year":2021,
-     "value":12.33
-    },
-    {
-     "year":2022,
-     "value":11.45
-    },
-    {
-     "year":2023,
-     "value":10.88
-    }
-   ]
-  },
-  {
-   "indicator":"Laws and Regulations that Guarantee Access to Sexual and Reproductive Health Care, Information and Education: Component 10: HIV counselling and test services",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":90.0
-    }
-   ]
-  },
-  {
-   "indicator":"HIV Confidentiality",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":94.0
-    }
-   ]
-  },
-  {
-   "indicator":"HIV Treatment and Care Services",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":94.0
-    }
-   ]
-  },
-  {
-   "indicator":"International migrant stock at mid-year (both sexes)",
-   "yearlyData":[
-    {
-     "year":1990,
-     "value":77218633.0
-    },
-    {
-     "year":1995,
-     "value":86830775.0
-    },
-    {
-     "year":2000,
-     "value":97210503.0
-    },
-    {
-     "year":2005,
-     "value":108948820.0
-    },
-    {
-     "year":2010,
-     "value":121597684.0
-    },
-    {
-     "year":2015,
-     "value":130392824.0
-    },
-    {
-     "year":2020,
-     "value":145414863.0
-    }
-   ]
-  },
-  {
-   "indicator":"Life Saving Commodities: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":88.0
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training, Male",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":11.93
-    },
-    {
-     "year":2006,
-     "value":11.28
-    },
-    {
-     "year":2007,
-     "value":10.92
-    },
-    {
-     "year":2008,
-     "value":10.99
-    },
-    {
-     "year":2009,
-     "value":13.23
-    },
-    {
-     "year":2010,
-     "value":13.33
-    },
-    {
-     "year":2011,
-     "value":12.92
-    },
-    {
-     "year":2012,
-     "value":12.86
-    },
-    {
-     "year":2013,
-     "value":13.01
-    },
-    {
-     "year":2014,
-     "value":12.5
-    },
-    {
-     "year":2015,
-     "value":11.96
-    },
-    {
-     "year":2016,
-     "value":11.7
-    },
-    {
-     "year":2017,
-     "value":10.94
-    },
-    {
-     "year":2018,
-     "value":10.66
-    },
-    {
-     "year":2019,
-     "value":10.32
-    },
-    {
-     "year":2020,
-     "value":12.53
-    },
-    {
-     "year":2021,
-     "value":11.43
-    },
-    {
-     "year":2022,
-     "value":10.53
-    },
-    {
-     "year":2023,
-     "value":10.29
-    }
-   ]
-  },
-  {
-   "indicator":"Maternity Care: Laws and regulations that guarantee access to sexual and reproductive health care, information and education",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":86.0
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of medium and high-tech industry value added in total value added",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":46.52
-    },
-    {
-     "year":2001,
-     "value":45.51
-    },
-    {
-     "year":2002,
-     "value":45.71
-    },
-    {
-     "year":2003,
-     "value":45.64
-    },
-    {
-     "year":2004,
-     "value":45.06
-    },
-    {
-     "year":2005,
-     "value":44.83
-    },
-    {
-     "year":2006,
-     "value":44.99
-    },
-    {
-     "year":2007,
-     "value":45.37
-    },
-    {
-     "year":2008,
-     "value":45.7
-    },
-    {
-     "year":2009,
-     "value":45.15
-    },
-    {
-     "year":2010,
-     "value":46.24
-    },
-    {
-     "year":2011,
-     "value":46.07
-    },
-    {
-     "year":2012,
-     "value":46.75
-    },
-    {
-     "year":2013,
-     "value":46.89
-    },
-    {
-     "year":2014,
-     "value":47.73
-    },
-    {
-     "year":2015,
-     "value":47.99
-    },
-    {
-     "year":2016,
-     "value":48.0
-    },
-    {
-     "year":2017,
-     "value":48.22
-    },
-    {
-     "year":2018,
-     "value":47.56
-    },
-    {
-     "year":2019,
-     "value":47.31
-    },
-    {
-     "year":2020,
-     "value":47.17
-    },
-    {
-     "year":2021,
-     "value":45.66
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of population covered by a mobile network, by technology",
-   "yearlyData":[
-    {
-     "year":2015,
-     "value":177.1
-    },
-    {
-     "year":2016,
-     "value":182.88
-    },
-    {
-     "year":2017,
-     "value":185.39
-    },
-    {
-     "year":2018,
-     "value":187.2
-    },
-    {
-     "year":2019,
-     "value":194.52
-    },
-    {
-     "year":2020,
-     "value":195.42
-    },
-    {
-     "year":2021,
-     "value":196.98
-    },
-    {
-     "year":2022,
-     "value":197.26
-    },
-    {
-     "year":2023,
-     "value":198.55
-    }
-   ]
-  },
-  {
-   "indicator":"Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average)",
-   "yearlyData":[
-    {
-     "year":2014,
-     "value":9.3
-    },
-    {
-     "year":2015,
-     "value":9.3
-    },
-    {
-     "year":2016,
-     "value":8.7
-    },
-    {
-     "year":2017,
-     "value":8.4
-    },
-    {
-     "year":2018,
-     "value":7.6
-    },
-    {
-     "year":2019,
-     "value":7.1
-    },
-    {
-     "year":2020,
-     "value":7.8
-    },
-    {
-     "year":2021,
-     "value":8.0
-    }
-   ]
-  },
-  {
-   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":21.9
-    },
-    {
-     "year":2005,
-     "value":20.3
-    },
-    {
-     "year":2010,
-     "value":17.3
-    },
-    {
-     "year":2015,
-     "value":15.9
-    },
-    {
-     "year":2019,
-     "value":15.0
-    }
-   ]
-  },
-  {
-   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Female",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":15.6
-    },
-    {
-     "year":2005,
-     "value":14.5
-    },
-    {
-     "year":2010,
-     "value":12.4
-    },
-    {
-     "year":2015,
-     "value":11.4
-    },
-    {
-     "year":2019,
-     "value":10.9
-    }
-   ]
-  },
-  {
-   "indicator":"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease (probability), Age 30-70::Male",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":28.5
-    },
-    {
-     "year":2005,
-     "value":26.6
-    },
-    {
-     "year":2010,
-     "value":22.6
-    },
-    {
-     "year":2015,
-     "value":20.6
-    },
-    {
-     "year":2019,
-     "value":19.4
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of forest area with a long-term management plan",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":80.68
-    },
-    {
-     "year":2010,
-     "value":81.7
-    },
-    {
-     "year":2015,
-     "value":82.02
-    },
-    {
-     "year":2016,
-     "value":82.68
-    },
-    {
-     "year":2017,
-     "value":82.71
-    },
-    {
-     "year":2018,
-     "value":83.37
-    },
-    {
-     "year":2019,
-     "value":83.41
-    },
-    {
-     "year":2020,
-     "value":83.42
-    }
-   ]
-  },
-  {
-   "indicator":"Sexual and reproductive health laws and regulations",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":89.0
-    }
-   ]
-  },
-  {
-   "indicator":"Sexuality Education: Laws & Regulations",
-   "yearlyData":[
-    {
-     "year":2022,
-     "value":87.0
-    }
-   ]
-  },
-  {
-   "indicator":"Population, total",
-   "yearlyData":[
-    {
-     "year":1980,
-     "value":938092844.0
-    },
-    {
-     "year":1981,
-     "value":944304222.0
-    },
-    {
-     "year":1982,
-     "value":949715182.0
-    },
-    {
-     "year":1983,
-     "value":955154958.0
-    },
-    {
-     "year":1984,
-     "value":960601726.0
-    },
-    {
-     "year":1985,
-     "value":965960257.0
-    },
-    {
-     "year":1986,
-     "value":971282640.0
-    },
-    {
-     "year":1987,
-     "value":976977201.0
-    },
-    {
-     "year":1988,
-     "value":982767421.0
-    },
-    {
-     "year":1989,
-     "value":988562877.0
-    },
-    {
-     "year":1990,
-     "value":994287345.0
-    },
-    {
-     "year":1991,
-     "value":1000427876.0
-    },
-    {
-     "year":1992,
-     "value":1006169585.0
-    },
-    {
-     "year":1993,
-     "value":1011636127.0
-    },
-    {
-     "year":1994,
-     "value":1016385184.0
-    },
-    {
-     "year":1995,
-     "value":1020493134.0
-    },
-    {
-     "year":1996,
-     "value":1024250968.0
-    },
-    {
-     "year":1997,
-     "value":1028056979.0
-    },
-    {
-     "year":1998,
-     "value":1031877747.0
-    },
-    {
-     "year":1999,
-     "value":1035219262.0
-    },
-    {
-     "year":2000,
-     "value":1038390250.0
-    },
-    {
-     "year":2001,
-     "value":1041958086.0
-    },
-    {
-     "year":2002,
-     "value":1044993988.0
-    },
-    {
-     "year":2003,
-     "value":1048479918.0
-    },
-    {
-     "year":2004,
-     "value":1052079396.0
-    },
-    {
-     "year":2005,
-     "value":1056217731.0
-    },
-    {
-     "year":2006,
-     "value":1060052335.0
-    },
-    {
-     "year":2007,
-     "value":1064484948.0
-    },
-    {
-     "year":2008,
-     "value":1069764894.0
-    },
-    {
-     "year":2009,
-     "value":1074826158.0
-    },
-    {
-     "year":2010,
-     "value":1079443056.0
-    },
-    {
-     "year":2011,
-     "value":1083654784.0
-    },
-    {
-     "year":2012,
-     "value":1088176558.0
-    },
-    {
-     "year":2013,
-     "value":1092576601.0
-    },
-    {
-     "year":2014,
-     "value":1096579926.0
-    },
-    {
-     "year":2015,
-     "value":1100576104.0
-    },
-    {
-     "year":2016,
-     "value":1104568632.0
-    },
-    {
-     "year":2017,
-     "value":1108965890.0
-    },
-    {
-     "year":2018,
-     "value":1112874307.0
-    },
-    {
-     "year":2019,
-     "value":1116445428.0
-    },
-    {
-     "year":2020,
-     "value":1119869707.0
-    },
-    {
-     "year":2021,
-     "value":1120494348.0
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of youth (aged 15??4 years) not in education, employment or training",
-   "yearlyData":[
-    {
-     "year":2005,
-     "value":13.78
-    },
-    {
-     "year":2006,
-     "value":13.19
-    },
-    {
-     "year":2007,
-     "value":12.73
-    },
-    {
-     "year":2008,
-     "value":12.65
-    },
-    {
-     "year":2009,
-     "value":14.21
-    },
-    {
-     "year":2010,
-     "value":14.29
-    },
-    {
-     "year":2011,
-     "value":13.82
-    },
-    {
-     "year":2012,
-     "value":13.65
-    },
-    {
-     "year":2013,
-     "value":13.78
-    },
-    {
-     "year":2014,
-     "value":13.33
-    },
-    {
-     "year":2015,
-     "value":12.69
-    },
-    {
-     "year":2016,
-     "value":12.36
-    },
-    {
-     "year":2017,
-     "value":11.58
-    },
-    {
-     "year":2018,
-     "value":11.33
-    },
-    {
-     "year":2019,
-     "value":10.89
-    },
-    {
-     "year":2020,
-     "value":12.92
-    },
-    {
-     "year":2021,
-     "value":11.87
-    },
-    {
-     "year":2022,
-     "value":10.98
-    },
-    {
-     "year":2023,
-     "value":10.58
-    }
-   ]
-  }
- ]
+  ]
 }

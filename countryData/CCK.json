@@ -1,150 +1,150 @@
 {
- "Alpha-3 code":"CCK",
- "Country or Area":"Cocos (Keeling) Islands",
- "Latitude (average)":-12.1708739,
- "Longitude (average)":96.8417392,
- "Group 1":"Oceania",
- "Group 2":"Australia and New Zealand",
- "LDC":false,
- "LLDC":false,
- "SIDS":false,
- "Income group":"",
- "UNDP_Region":"",
- "indicators":[
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
-   "yearlyData":[
+  "Alpha-3 code": "CCK",
+  "Country or Area": "Cocos (Keeling) Islands",
+  "Latitude (average)": -12.1708739,
+  "Longitude (average)": 96.8417392,
+  "Group 1": "Oceania",
+  "Group 2": "Australia and New Zealand",
+  "LDC": false,
+  "LLDC": false,
+  "SIDS": false,
+  "Income group": "",
+  "UNDP_Region": "",
+  "indicators": [
     {
-     "year":2030,
-     "value":-2.38
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": -2.38
+        },
+        {
+          "year": 2040,
+          "value": -5.79
+        },
+        {
+          "year": 2090,
+          "value": -5.14
+        }
+      ]
     },
     {
-     "year":2040,
-     "value":-5.79
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": -3.55
+        },
+        {
+          "year": 2040,
+          "value": -8.04
+        },
+        {
+          "year": 2090,
+          "value": -15.14
+        }
+      ]
     },
     {
-     "year":2090,
-     "value":-5.14
+      "indicator": "Coverage of protected areas in relation to marine areas",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 100
+        },
+        {
+          "year": 2001,
+          "value": 100
+        },
+        {
+          "year": 2002,
+          "value": 100
+        },
+        {
+          "year": 2003,
+          "value": 100
+        },
+        {
+          "year": 2004,
+          "value": 100
+        },
+        {
+          "year": 2005,
+          "value": 100
+        },
+        {
+          "year": 2006,
+          "value": 100
+        },
+        {
+          "year": 2007,
+          "value": 100
+        },
+        {
+          "year": 2008,
+          "value": 100
+        },
+        {
+          "year": 2009,
+          "value": 100
+        },
+        {
+          "year": 2010,
+          "value": 100
+        },
+        {
+          "year": 2011,
+          "value": 100
+        },
+        {
+          "year": 2012,
+          "value": 100
+        },
+        {
+          "year": 2013,
+          "value": 100
+        },
+        {
+          "year": 2014,
+          "value": 100
+        },
+        {
+          "year": 2015,
+          "value": 100
+        },
+        {
+          "year": 2016,
+          "value": 100
+        },
+        {
+          "year": 2017,
+          "value": 100
+        },
+        {
+          "year": 2018,
+          "value": 100
+        },
+        {
+          "year": 2019,
+          "value": 100
+        },
+        {
+          "year": 2020,
+          "value": 100
+        },
+        {
+          "year": 2021,
+          "value": 100
+        },
+        {
+          "year": 2022,
+          "value": 100
+        },
+        {
+          "year": 2023,
+          "value": 100
+        }
+      ]
     }
-   ]
-  },
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
-   "yearlyData":[
-    {
-     "year":2030,
-     "value":-3.55
-    },
-    {
-     "year":2040,
-     "value":-8.04
-    },
-    {
-     "year":2090,
-     "value":-15.14
-    }
-   ]
-  },
-  {
-   "indicator":"Coverage of protected areas in relation to marine areas",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":100.0
-    },
-    {
-     "year":2001,
-     "value":100.0
-    },
-    {
-     "year":2002,
-     "value":100.0
-    },
-    {
-     "year":2003,
-     "value":100.0
-    },
-    {
-     "year":2004,
-     "value":100.0
-    },
-    {
-     "year":2005,
-     "value":100.0
-    },
-    {
-     "year":2006,
-     "value":100.0
-    },
-    {
-     "year":2007,
-     "value":100.0
-    },
-    {
-     "year":2008,
-     "value":100.0
-    },
-    {
-     "year":2009,
-     "value":100.0
-    },
-    {
-     "year":2010,
-     "value":100.0
-    },
-    {
-     "year":2011,
-     "value":100.0
-    },
-    {
-     "year":2012,
-     "value":100.0
-    },
-    {
-     "year":2013,
-     "value":100.0
-    },
-    {
-     "year":2014,
-     "value":100.0
-    },
-    {
-     "year":2015,
-     "value":100.0
-    },
-    {
-     "year":2016,
-     "value":100.0
-    },
-    {
-     "year":2017,
-     "value":100.0
-    },
-    {
-     "year":2018,
-     "value":100.0
-    },
-    {
-     "year":2019,
-     "value":100.0
-    },
-    {
-     "year":2020,
-     "value":100.0
-    },
-    {
-     "year":2021,
-     "value":100.0
-    },
-    {
-     "year":2022,
-     "value":100.0
-    },
-    {
-     "year":2023,
-     "value":100.0
-    }
-   ]
-  }
- ]
+  ]
 }

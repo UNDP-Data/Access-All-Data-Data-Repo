@@ -1,649 +1,649 @@
 {
- "Alpha-3 code":"MYT",
- "Country or Area":"Mayotte",
- "Latitude (average)":-12.8333,
- "Longitude (average)":45.1667,
- "Group 1":"Africa",
- "Group 2":"Sub-Saharan Africa",
- "LDC":false,
- "LLDC":false,
- "SIDS":false,
- "Income group":"Upper middle income",
- "UNDP_Region":"",
- "indicators":[
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
-   "yearlyData":[
+  "Alpha-3 code": "MYT",
+  "Country or Area": "Mayotte",
+  "Latitude (average)": -12.8333,
+  "Longitude (average)": 45.1667,
+  "Group 1": "Africa",
+  "Group 2": "Sub-Saharan Africa",
+  "LDC": false,
+  "LLDC": false,
+  "SIDS": false,
+  "Income group": "Upper middle income",
+  "UNDP_Region": "",
+  "indicators": [
     {
-     "year":2030,
-     "value":0.42
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": 0.42
+        },
+        {
+          "year": 2040,
+          "value": 0.56
+        },
+        {
+          "year": 2090,
+          "value": 0.48
+        }
+      ]
     },
     {
-     "year":2040,
-     "value":0.56
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": -0.18
+        },
+        {
+          "year": 2040,
+          "value": -0.13
+        },
+        {
+          "year": 2090,
+          "value": 2.4
+        }
+      ]
     },
     {
-     "year":2090,
-     "value":0.48
+      "indicator": "Coverage of protected areas in relation to marine areas",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 9.07
+        },
+        {
+          "year": 2001,
+          "value": 27.24
+        },
+        {
+          "year": 2002,
+          "value": 36.33
+        },
+        {
+          "year": 2003,
+          "value": 36.33
+        },
+        {
+          "year": 2004,
+          "value": 36.33
+        },
+        {
+          "year": 2005,
+          "value": 45.42
+        },
+        {
+          "year": 2006,
+          "value": 45.42
+        },
+        {
+          "year": 2007,
+          "value": 72.58
+        },
+        {
+          "year": 2008,
+          "value": 72.58
+        },
+        {
+          "year": 2009,
+          "value": 80.79
+        },
+        {
+          "year": 2010,
+          "value": 90.76
+        },
+        {
+          "year": 2011,
+          "value": 90.76
+        },
+        {
+          "year": 2012,
+          "value": 90.76
+        },
+        {
+          "year": 2013,
+          "value": 90.76
+        },
+        {
+          "year": 2014,
+          "value": 90.76
+        },
+        {
+          "year": 2015,
+          "value": 90.76
+        },
+        {
+          "year": 2016,
+          "value": 91.56
+        },
+        {
+          "year": 2017,
+          "value": 91.56
+        },
+        {
+          "year": 2018,
+          "value": 91.56
+        },
+        {
+          "year": 2019,
+          "value": 91.56
+        },
+        {
+          "year": 2020,
+          "value": 91.56
+        },
+        {
+          "year": 2021,
+          "value": 91.56
+        },
+        {
+          "year": 2022,
+          "value": 91.56
+        },
+        {
+          "year": 2023,
+          "value": 91.56
+        }
+      ]
+    },
+    {
+      "indicator": "Cumulative Number of COVID-19 Cases",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 5767
+        },
+        {
+          "year": 2021,
+          "value": 21288
+        },
+        {
+          "year": 2022,
+          "value": 41969
+        },
+        {
+          "year": 2023,
+          "value": 42027
+        },
+        {
+          "year": 2024,
+          "value": 42027
+        }
+      ]
+    },
+    {
+      "indicator": "Cumulative Number of COVID-19 Deaths",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 54
+        },
+        {
+          "year": 2021,
+          "value": 185
+        },
+        {
+          "year": 2022,
+          "value": 187
+        },
+        {
+          "year": 2023,
+          "value": 187
+        },
+        {
+          "year": 2024,
+          "value": 187
+        }
+      ]
+    },
+    {
+      "indicator": "Installed renewable electricity-generating capacity (watts per capita)",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 0
+        },
+        {
+          "year": 2001,
+          "value": 0
+        },
+        {
+          "year": 2002,
+          "value": 0
+        },
+        {
+          "year": 2003,
+          "value": 0
+        },
+        {
+          "year": 2004,
+          "value": 0
+        },
+        {
+          "year": 2005,
+          "value": 0
+        },
+        {
+          "year": 2006,
+          "value": 0
+        },
+        {
+          "year": 2007,
+          "value": 0
+        },
+        {
+          "year": 2008,
+          "value": 2.61
+        },
+        {
+          "year": 2009,
+          "value": 8.93
+        },
+        {
+          "year": 2010,
+          "value": 39.98
+        },
+        {
+          "year": 2011,
+          "value": 57.89
+        },
+        {
+          "year": 2012,
+          "value": 59.09
+        },
+        {
+          "year": 2013,
+          "value": 57.78
+        },
+        {
+          "year": 2014,
+          "value": 56.64
+        },
+        {
+          "year": 2015,
+          "value": 55.14
+        },
+        {
+          "year": 2016,
+          "value": 54.07
+        },
+        {
+          "year": 2017,
+          "value": 59.88
+        },
+        {
+          "year": 2018,
+          "value": 58.36
+        },
+        {
+          "year": 2019,
+          "value": 56.91
+        },
+        {
+          "year": 2020,
+          "value": 55.52
+        }
+      ]
+    },
+    {
+      "indicator": "Installed electricity capacity (MW) by Country/area",
+      "yearlyData": [
+        {
+          "year": 2011,
+          "value": 168.44
+        },
+        {
+          "year": 2012,
+          "value": 169.07
+        },
+        {
+          "year": 2013,
+          "value": 169.34
+        },
+        {
+          "year": 2014,
+          "value": 169.23
+        },
+        {
+          "year": 2015,
+          "value": 173.23
+        },
+        {
+          "year": 2016,
+          "value": 211.33
+        },
+        {
+          "year": 2017,
+          "value": 213.15
+        },
+        {
+          "year": 2018,
+          "value": 213.15
+        },
+        {
+          "year": 2019,
+          "value": 213.15
+        },
+        {
+          "year": 2020,
+          "value": 213.15
+        }
+      ]
+    },
+    {
+      "indicator": "International migrant stock at mid-year (both sexes)",
+      "yearlyData": [
+        {
+          "year": 1990,
+          "value": 15229
+        },
+        {
+          "year": 1995,
+          "value": 26316
+        },
+        {
+          "year": 2000,
+          "value": 45474
+        },
+        {
+          "year": 2005,
+          "value": 63176
+        },
+        {
+          "year": 2010,
+          "value": 72757
+        },
+        {
+          "year": 2015,
+          "value": 81386
+        },
+        {
+          "year": 2020,
+          "value": 111540
+        }
+      ]
+    },
+    {
+      "indicator": "Internet users, total (% of population)",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 1.21
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of population covered by a mobile network, by technology",
+      "yearlyData": [
+        {
+          "year": 2012,
+          "value": 18.2
+        },
+        {
+          "year": 2013,
+          "value": 27.14
+        },
+        {
+          "year": 2014,
+          "value": 37.65
+        },
+        {
+          "year": 2015,
+          "value": 49.99
+        },
+        {
+          "year": 2016,
+          "value": 66.39
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 66.39
+        },
+        {
+          "year": 2020,
+          "value": 66.39
+        },
+        {
+          "year": 2021,
+          "value": 66.39
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of forest area within legally established protected areas (%)",
+      "yearlyData": [
+        {
+          "year": 2015,
+          "value": 7.43
+        }
+      ]
+    },
+    {
+      "indicator": "Proportion of forest area with a long-term management plan",
+      "yearlyData": [
+        {
+          "year": 2015,
+          "value": 34.65
+        }
+      ]
+    },
+    {
+      "indicator": "COVID-19 Fatality Rate",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 0.94
+        },
+        {
+          "year": 2021,
+          "value": 0.87
+        },
+        {
+          "year": 2022,
+          "value": 0.45
+        },
+        {
+          "year": 2023,
+          "value": 0.44
+        },
+        {
+          "year": 2024,
+          "value": 0.44
+        }
+      ]
+    },
+    {
+      "indicator": "Population, total",
+      "yearlyData": [
+        {
+          "year": 1980,
+          "value": 52233
+        },
+        {
+          "year": 1981,
+          "value": 55036
+        },
+        {
+          "year": 1982,
+          "value": 58033
+        },
+        {
+          "year": 1983,
+          "value": 61212
+        },
+        {
+          "year": 1984,
+          "value": 64587
+        },
+        {
+          "year": 1985,
+          "value": 68287
+        },
+        {
+          "year": 1986,
+          "value": 72446
+        },
+        {
+          "year": 1987,
+          "value": 77046
+        },
+        {
+          "year": 1988,
+          "value": 81983
+        },
+        {
+          "year": 1989,
+          "value": 87190
+        },
+        {
+          "year": 1990,
+          "value": 92658
+        },
+        {
+          "year": 1991,
+          "value": 98432
+        },
+        {
+          "year": 1992,
+          "value": 104554
+        },
+        {
+          "year": 1993,
+          "value": 111042
+        },
+        {
+          "year": 1994,
+          "value": 117855
+        },
+        {
+          "year": 1995,
+          "value": 124941
+        },
+        {
+          "year": 1996,
+          "value": 132191
+        },
+        {
+          "year": 1997,
+          "value": 139309
+        },
+        {
+          "year": 1998,
+          "value": 146081
+        },
+        {
+          "year": 1999,
+          "value": 152642
+        },
+        {
+          "year": 2000,
+          "value": 159215
+        },
+        {
+          "year": 2001,
+          "value": 165712
+        },
+        {
+          "year": 2002,
+          "value": 172172
+        },
+        {
+          "year": 2003,
+          "value": 178805
+        },
+        {
+          "year": 2004,
+          "value": 183750
+        },
+        {
+          "year": 2005,
+          "value": 187142
+        },
+        {
+          "year": 2006,
+          "value": 190911
+        },
+        {
+          "year": 2007,
+          "value": 195608
+        },
+        {
+          "year": 2008,
+          "value": 200986
+        },
+        {
+          "year": 2009,
+          "value": 206338
+        },
+        {
+          "year": 2010,
+          "value": 211786
+        },
+        {
+          "year": 2011,
+          "value": 217381
+        },
+        {
+          "year": 2012,
+          "value": 223573
+        },
+        {
+          "year": 2013,
+          "value": 230980
+        },
+        {
+          "year": 2014,
+          "value": 239714
+        },
+        {
+          "year": 2015,
+          "value": 249545
+        },
+        {
+          "year": 2016,
+          "value": 260283
+        },
+        {
+          "year": 2017,
+          "value": 271565
+        },
+        {
+          "year": 2018,
+          "value": 282954
+        },
+        {
+          "year": 2019,
+          "value": 294489
+        },
+        {
+          "year": 2020,
+          "value": 305586
+        },
+        {
+          "year": 2021,
+          "value": 316014
+        },
+        {
+          "year": 2022,
+          "value": 326100
+        },
+        {
+          "year": 2023,
+          "value": 335995
+        },
+        {
+          "year": 2024,
+          "value": 345996
+        }
+      ]
     }
-   ]
-  },
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
-   "yearlyData":[
-    {
-     "year":2030,
-     "value":-0.18
-    },
-    {
-     "year":2040,
-     "value":-0.13
-    },
-    {
-     "year":2090,
-     "value":2.4
-    }
-   ]
-  },
-  {
-   "indicator":"Coverage of protected areas in relation to marine areas",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":9.07
-    },
-    {
-     "year":2001,
-     "value":27.24
-    },
-    {
-     "year":2002,
-     "value":36.33
-    },
-    {
-     "year":2003,
-     "value":36.33
-    },
-    {
-     "year":2004,
-     "value":36.33
-    },
-    {
-     "year":2005,
-     "value":45.42
-    },
-    {
-     "year":2006,
-     "value":45.42
-    },
-    {
-     "year":2007,
-     "value":72.58
-    },
-    {
-     "year":2008,
-     "value":72.58
-    },
-    {
-     "year":2009,
-     "value":80.79
-    },
-    {
-     "year":2010,
-     "value":90.76
-    },
-    {
-     "year":2011,
-     "value":90.76
-    },
-    {
-     "year":2012,
-     "value":90.76
-    },
-    {
-     "year":2013,
-     "value":90.76
-    },
-    {
-     "year":2014,
-     "value":90.76
-    },
-    {
-     "year":2015,
-     "value":90.76
-    },
-    {
-     "year":2016,
-     "value":91.56
-    },
-    {
-     "year":2017,
-     "value":91.56
-    },
-    {
-     "year":2018,
-     "value":91.56
-    },
-    {
-     "year":2019,
-     "value":91.56
-    },
-    {
-     "year":2020,
-     "value":91.56
-    },
-    {
-     "year":2021,
-     "value":91.56
-    },
-    {
-     "year":2022,
-     "value":91.56
-    },
-    {
-     "year":2023,
-     "value":91.56
-    }
-   ]
-  },
-  {
-   "indicator":"Cumulative Number of COVID-19 Cases",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":5767.0
-    },
-    {
-     "year":2021,
-     "value":21288.0
-    },
-    {
-     "year":2022,
-     "value":41969.0
-    },
-    {
-     "year":2023,
-     "value":42027.0
-    },
-    {
-     "year":2024,
-     "value":42027.0
-    }
-   ]
-  },
-  {
-   "indicator":"Cumulative Number of COVID-19 Deaths",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":54.0
-    },
-    {
-     "year":2021,
-     "value":185.0
-    },
-    {
-     "year":2022,
-     "value":187.0
-    },
-    {
-     "year":2023,
-     "value":187.0
-    },
-    {
-     "year":2024,
-     "value":187.0
-    }
-   ]
-  },
-  {
-   "indicator":"Installed renewable electricity-generating capacity (watts per capita)",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":0.0
-    },
-    {
-     "year":2001,
-     "value":0.0
-    },
-    {
-     "year":2002,
-     "value":0.0
-    },
-    {
-     "year":2003,
-     "value":0.0
-    },
-    {
-     "year":2004,
-     "value":0.0
-    },
-    {
-     "year":2005,
-     "value":0.0
-    },
-    {
-     "year":2006,
-     "value":0.0
-    },
-    {
-     "year":2007,
-     "value":0.0
-    },
-    {
-     "year":2008,
-     "value":2.61
-    },
-    {
-     "year":2009,
-     "value":8.93
-    },
-    {
-     "year":2010,
-     "value":39.98
-    },
-    {
-     "year":2011,
-     "value":57.89
-    },
-    {
-     "year":2012,
-     "value":59.09
-    },
-    {
-     "year":2013,
-     "value":57.78
-    },
-    {
-     "year":2014,
-     "value":56.64
-    },
-    {
-     "year":2015,
-     "value":55.14
-    },
-    {
-     "year":2016,
-     "value":54.07
-    },
-    {
-     "year":2017,
-     "value":59.88
-    },
-    {
-     "year":2018,
-     "value":58.36
-    },
-    {
-     "year":2019,
-     "value":56.91
-    },
-    {
-     "year":2020,
-     "value":55.52
-    }
-   ]
-  },
-  {
-   "indicator":"Installed electricity capacity (MW) by Country\/area",
-   "yearlyData":[
-    {
-     "year":2011,
-     "value":168.44
-    },
-    {
-     "year":2012,
-     "value":169.07
-    },
-    {
-     "year":2013,
-     "value":169.34
-    },
-    {
-     "year":2014,
-     "value":169.23
-    },
-    {
-     "year":2015,
-     "value":173.23
-    },
-    {
-     "year":2016,
-     "value":211.33
-    },
-    {
-     "year":2017,
-     "value":213.15
-    },
-    {
-     "year":2018,
-     "value":213.15
-    },
-    {
-     "year":2019,
-     "value":213.15
-    },
-    {
-     "year":2020,
-     "value":213.15
-    }
-   ]
-  },
-  {
-   "indicator":"International migrant stock at mid-year (both sexes)",
-   "yearlyData":[
-    {
-     "year":1990,
-     "value":15229.0
-    },
-    {
-     "year":1995,
-     "value":26316.0
-    },
-    {
-     "year":2000,
-     "value":45474.0
-    },
-    {
-     "year":2005,
-     "value":63176.0
-    },
-    {
-     "year":2010,
-     "value":72757.0
-    },
-    {
-     "year":2015,
-     "value":81386.0
-    },
-    {
-     "year":2020,
-     "value":111540.0
-    }
-   ]
-  },
-  {
-   "indicator":"Internet users, total (% of population)",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":1.21
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of population covered by a mobile network, by technology",
-   "yearlyData":[
-    {
-     "year":2012,
-     "value":18.2
-    },
-    {
-     "year":2013,
-     "value":27.14
-    },
-    {
-     "year":2014,
-     "value":37.65
-    },
-    {
-     "year":2015,
-     "value":49.99
-    },
-    {
-     "year":2016,
-     "value":66.39
-    },
-    {
-     "year":2017,
-     "value":0.0
-    },
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":66.39
-    },
-    {
-     "year":2020,
-     "value":66.39
-    },
-    {
-     "year":2021,
-     "value":66.39
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of forest area within legally established protected areas (%)",
-   "yearlyData":[
-    {
-     "year":2015,
-     "value":7.43
-    }
-   ]
-  },
-  {
-   "indicator":"Proportion of forest area with a long-term management plan",
-   "yearlyData":[
-    {
-     "year":2015,
-     "value":34.65
-    }
-   ]
-  },
-  {
-   "indicator":"COVID-19 Fatality Rate",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":0.94
-    },
-    {
-     "year":2021,
-     "value":0.87
-    },
-    {
-     "year":2022,
-     "value":0.45
-    },
-    {
-     "year":2023,
-     "value":0.44
-    },
-    {
-     "year":2024,
-     "value":0.44
-    }
-   ]
-  },
-  {
-   "indicator":"Population, total",
-   "yearlyData":[
-    {
-     "year":1980,
-     "value":52233.0
-    },
-    {
-     "year":1981,
-     "value":55036.0
-    },
-    {
-     "year":1982,
-     "value":58033.0
-    },
-    {
-     "year":1983,
-     "value":61212.0
-    },
-    {
-     "year":1984,
-     "value":64587.0
-    },
-    {
-     "year":1985,
-     "value":68287.0
-    },
-    {
-     "year":1986,
-     "value":72446.0
-    },
-    {
-     "year":1987,
-     "value":77046.0
-    },
-    {
-     "year":1988,
-     "value":81983.0
-    },
-    {
-     "year":1989,
-     "value":87190.0
-    },
-    {
-     "year":1990,
-     "value":92658.0
-    },
-    {
-     "year":1991,
-     "value":98432.0
-    },
-    {
-     "year":1992,
-     "value":104554.0
-    },
-    {
-     "year":1993,
-     "value":111042.0
-    },
-    {
-     "year":1994,
-     "value":117855.0
-    },
-    {
-     "year":1995,
-     "value":124941.0
-    },
-    {
-     "year":1996,
-     "value":132191.0
-    },
-    {
-     "year":1997,
-     "value":139309.0
-    },
-    {
-     "year":1998,
-     "value":146081.0
-    },
-    {
-     "year":1999,
-     "value":152642.0
-    },
-    {
-     "year":2000,
-     "value":159215.0
-    },
-    {
-     "year":2001,
-     "value":165712.0
-    },
-    {
-     "year":2002,
-     "value":172172.0
-    },
-    {
-     "year":2003,
-     "value":178805.0
-    },
-    {
-     "year":2004,
-     "value":183750.0
-    },
-    {
-     "year":2005,
-     "value":187142.0
-    },
-    {
-     "year":2006,
-     "value":190911.0
-    },
-    {
-     "year":2007,
-     "value":195608.0
-    },
-    {
-     "year":2008,
-     "value":200986.0
-    },
-    {
-     "year":2009,
-     "value":206338.0
-    },
-    {
-     "year":2010,
-     "value":211786.0
-    },
-    {
-     "year":2011,
-     "value":217381.0
-    },
-    {
-     "year":2012,
-     "value":223573.0
-    },
-    {
-     "year":2013,
-     "value":230980.0
-    },
-    {
-     "year":2014,
-     "value":239714.0
-    },
-    {
-     "year":2015,
-     "value":249545.0
-    },
-    {
-     "year":2016,
-     "value":260283.0
-    },
-    {
-     "year":2017,
-     "value":271565.0
-    },
-    {
-     "year":2018,
-     "value":282954.0
-    },
-    {
-     "year":2019,
-     "value":294489.0
-    },
-    {
-     "year":2020,
-     "value":305586.0
-    },
-    {
-     "year":2021,
-     "value":316014.0
-    },
-    {
-     "year":2022,
-     "value":326100.0
-    },
-    {
-     "year":2023,
-     "value":335995.0
-    },
-    {
-     "year":2024,
-     "value":345996.0
-    }
-   ]
-  }
- ]
+  ]
 }
