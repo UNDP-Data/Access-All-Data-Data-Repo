@@ -1,448 +1,448 @@
 {
- "Alpha-3 code":"VAT",
- "Country or Area":"Holy See",
- "Latitude (average)":41.9,
- "Longitude (average)":12.45,
- "Group 1":"Europe",
- "Group 2":"Southern Europe",
- "LDC":false,
- "LLDC":false,
- "SIDS":false,
- "Income group":"",
- "UNDP_Region":"",
- "indicators":[
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
-   "yearlyData":[
+  "Alpha-3 code": "VAT",
+  "Country or Area": "Holy See",
+  "Latitude (average)": 41.9,
+  "Longitude (average)": 12.45,
+  "Group 1": "Europe",
+  "Group 2": "Southern Europe",
+  "LDC": false,
+  "LLDC": false,
+  "SIDS": false,
+  "Income group": "",
+  "UNDP_Region": "",
+  "indicators": [
     {
-     "year":2030,
-     "value":-1.85
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": -1.85
+        },
+        {
+          "year": 2040,
+          "value": -2.16
+        },
+        {
+          "year": 2090,
+          "value": 1.31
+        }
+      ]
     },
     {
-     "year":2040,
-     "value":-2.16
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": -1.43
+        },
+        {
+          "year": 2040,
+          "value": 0.44
+        },
+        {
+          "year": 2090,
+          "value": 27.57
+        }
+      ]
     },
     {
-     "year":2090,
-     "value":1.31
+      "indicator": "Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
+      "yearlyData": [
+        {
+          "year": 1989,
+          "value": 0.2
+        },
+        {
+          "year": 2008,
+          "value": 0.1
+        },
+        {
+          "year": 2009,
+          "value": 0
+        },
+        {
+          "year": 2010,
+          "value": 0
+        },
+        {
+          "year": 2011,
+          "value": 0
+        },
+        {
+          "year": 2012,
+          "value": 0
+        },
+        {
+          "year": 2013,
+          "value": 0
+        },
+        {
+          "year": 2014,
+          "value": 0
+        },
+        {
+          "year": 2015,
+          "value": 0
+        },
+        {
+          "year": 2016,
+          "value": 0
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "indicator": "Consumption of controlled substance (zero-filled) - Chemical: Total",
+      "yearlyData": [
+        {
+          "year": 1989,
+          "value": 0.2
+        },
+        {
+          "year": 2008,
+          "value": 0.1
+        },
+        {
+          "year": 2009,
+          "value": 0
+        },
+        {
+          "year": 2010,
+          "value": 0
+        },
+        {
+          "year": 2011,
+          "value": 0
+        },
+        {
+          "year": 2012,
+          "value": 0
+        },
+        {
+          "year": 2013,
+          "value": 0
+        },
+        {
+          "year": 2014,
+          "value": 0
+        },
+        {
+          "year": 2015,
+          "value": 0
+        },
+        {
+          "year": 2016,
+          "value": 0
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "indicator": "Cumulative Number of COVID-19 Cases",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 26
+        },
+        {
+          "year": 2021,
+          "value": 26
+        },
+        {
+          "year": 2022,
+          "value": 26
+        },
+        {
+          "year": 2023,
+          "value": 26
+        },
+        {
+          "year": 2024,
+          "value": 26
+        }
+      ]
+    },
+    {
+      "indicator": "Cumulative Number of COVID-19 Deaths",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "indicator": "Emission levels associated with GHG target set by (I)NDCs",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": 0.02
+        }
+      ]
+    },
+    {
+      "indicator": "COVID-19 Fatality Rate",
+      "yearlyData": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "indicator": "Population, total",
+      "yearlyData": [
+        {
+          "year": 1980,
+          "value": 733
+        },
+        {
+          "year": 1981,
+          "value": 733
+        },
+        {
+          "year": 1982,
+          "value": 730
+        },
+        {
+          "year": 1983,
+          "value": 727
+        },
+        {
+          "year": 1984,
+          "value": 724
+        },
+        {
+          "year": 1985,
+          "value": 719
+        },
+        {
+          "year": 1986,
+          "value": 713
+        },
+        {
+          "year": 1987,
+          "value": 709
+        },
+        {
+          "year": 1988,
+          "value": 707
+        },
+        {
+          "year": 1989,
+          "value": 705
+        },
+        {
+          "year": 1990,
+          "value": 700
+        },
+        {
+          "year": 1991,
+          "value": 691
+        },
+        {
+          "year": 1992,
+          "value": 685
+        },
+        {
+          "year": 1993,
+          "value": 682
+        },
+        {
+          "year": 1994,
+          "value": 679
+        },
+        {
+          "year": 1995,
+          "value": 675
+        },
+        {
+          "year": 1996,
+          "value": 672
+        },
+        {
+          "year": 1997,
+          "value": 667
+        },
+        {
+          "year": 1998,
+          "value": 660
+        },
+        {
+          "year": 1999,
+          "value": 653
+        },
+        {
+          "year": 2000,
+          "value": 650
+        },
+        {
+          "year": 2001,
+          "value": 648
+        },
+        {
+          "year": 2002,
+          "value": 644
+        },
+        {
+          "year": 2003,
+          "value": 638
+        },
+        {
+          "year": 2004,
+          "value": 632
+        },
+        {
+          "year": 2005,
+          "value": 627
+        },
+        {
+          "year": 2006,
+          "value": 622
+        },
+        {
+          "year": 2007,
+          "value": 617
+        },
+        {
+          "year": 2008,
+          "value": 613
+        },
+        {
+          "year": 2009,
+          "value": 604
+        },
+        {
+          "year": 2010,
+          "value": 596
+        },
+        {
+          "year": 2011,
+          "value": 590
+        },
+        {
+          "year": 2012,
+          "value": 581
+        },
+        {
+          "year": 2013,
+          "value": 574
+        },
+        {
+          "year": 2014,
+          "value": 569
+        },
+        {
+          "year": 2015,
+          "value": 564
+        },
+        {
+          "year": 2016,
+          "value": 555
+        },
+        {
+          "year": 2017,
+          "value": 546
+        },
+        {
+          "year": 2018,
+          "value": 537
+        },
+        {
+          "year": 2019,
+          "value": 528
+        },
+        {
+          "year": 2020,
+          "value": 520
+        },
+        {
+          "year": 2021,
+          "value": 511
+        },
+        {
+          "year": 2022,
+          "value": 510
+        },
+        {
+          "year": 2023,
+          "value": 517
+        },
+        {
+          "year": 2024,
+          "value": 525
+        }
+      ]
     }
-   ]
-  },
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
-   "yearlyData":[
-    {
-     "year":2030,
-     "value":-1.43
-    },
-    {
-     "year":2040,
-     "value":0.44
-    },
-    {
-     "year":2090,
-     "value":27.57
-    }
-   ]
-  },
-  {
-   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Hydrochlorofluorocarbons (HCFCs)",
-   "yearlyData":[
-    {
-     "year":1989,
-     "value":0.2
-    },
-    {
-     "year":2008,
-     "value":0.1
-    },
-    {
-     "year":2009,
-     "value":0.0
-    },
-    {
-     "year":2010,
-     "value":0.0
-    },
-    {
-     "year":2011,
-     "value":0.0
-    },
-    {
-     "year":2012,
-     "value":0.0
-    },
-    {
-     "year":2013,
-     "value":0.0
-    },
-    {
-     "year":2014,
-     "value":0.0
-    },
-    {
-     "year":2015,
-     "value":0.0
-    },
-    {
-     "year":2016,
-     "value":0.0
-    },
-    {
-     "year":2017,
-     "value":0.0
-    },
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
-    },
-    {
-     "year":2021,
-     "value":0.0
-    }
-   ]
-  },
-  {
-   "indicator":"Consumption of controlled substance (zero-filled) - Chemical: Total",
-   "yearlyData":[
-    {
-     "year":1989,
-     "value":0.2
-    },
-    {
-     "year":2008,
-     "value":0.1
-    },
-    {
-     "year":2009,
-     "value":0.0
-    },
-    {
-     "year":2010,
-     "value":0.0
-    },
-    {
-     "year":2011,
-     "value":0.0
-    },
-    {
-     "year":2012,
-     "value":0.0
-    },
-    {
-     "year":2013,
-     "value":0.0
-    },
-    {
-     "year":2014,
-     "value":0.0
-    },
-    {
-     "year":2015,
-     "value":0.0
-    },
-    {
-     "year":2016,
-     "value":0.0
-    },
-    {
-     "year":2017,
-     "value":0.0
-    },
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
-    },
-    {
-     "year":2021,
-     "value":0.0
-    }
-   ]
-  },
-  {
-   "indicator":"Cumulative Number of COVID-19 Cases",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":26.0
-    },
-    {
-     "year":2021,
-     "value":26.0
-    },
-    {
-     "year":2022,
-     "value":26.0
-    },
-    {
-     "year":2023,
-     "value":26.0
-    },
-    {
-     "year":2024,
-     "value":26.0
-    }
-   ]
-  },
-  {
-   "indicator":"Cumulative Number of COVID-19 Deaths",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":0.0
-    },
-    {
-     "year":2021,
-     "value":0.0
-    },
-    {
-     "year":2022,
-     "value":0.0
-    },
-    {
-     "year":2023,
-     "value":0.0
-    },
-    {
-     "year":2024,
-     "value":0.0
-    }
-   ]
-  },
-  {
-   "indicator":"Emission levels associated with GHG target set by (I)NDCs",
-   "yearlyData":[
-    {
-     "year":2030,
-     "value":0.02
-    }
-   ]
-  },
-  {
-   "indicator":"COVID-19 Fatality Rate",
-   "yearlyData":[
-    {
-     "year":2020,
-     "value":0.0
-    },
-    {
-     "year":2021,
-     "value":0.0
-    },
-    {
-     "year":2022,
-     "value":0.0
-    },
-    {
-     "year":2023,
-     "value":0.0
-    },
-    {
-     "year":2024,
-     "value":0.0
-    }
-   ]
-  },
-  {
-   "indicator":"Population, total",
-   "yearlyData":[
-    {
-     "year":1980,
-     "value":733.0
-    },
-    {
-     "year":1981,
-     "value":733.0
-    },
-    {
-     "year":1982,
-     "value":730.0
-    },
-    {
-     "year":1983,
-     "value":727.0
-    },
-    {
-     "year":1984,
-     "value":724.0
-    },
-    {
-     "year":1985,
-     "value":719.0
-    },
-    {
-     "year":1986,
-     "value":713.0
-    },
-    {
-     "year":1987,
-     "value":709.0
-    },
-    {
-     "year":1988,
-     "value":707.0
-    },
-    {
-     "year":1989,
-     "value":705.0
-    },
-    {
-     "year":1990,
-     "value":700.0
-    },
-    {
-     "year":1991,
-     "value":691.0
-    },
-    {
-     "year":1992,
-     "value":685.0
-    },
-    {
-     "year":1993,
-     "value":682.0
-    },
-    {
-     "year":1994,
-     "value":679.0
-    },
-    {
-     "year":1995,
-     "value":675.0
-    },
-    {
-     "year":1996,
-     "value":672.0
-    },
-    {
-     "year":1997,
-     "value":667.0
-    },
-    {
-     "year":1998,
-     "value":660.0
-    },
-    {
-     "year":1999,
-     "value":653.0
-    },
-    {
-     "year":2000,
-     "value":650.0
-    },
-    {
-     "year":2001,
-     "value":648.0
-    },
-    {
-     "year":2002,
-     "value":644.0
-    },
-    {
-     "year":2003,
-     "value":638.0
-    },
-    {
-     "year":2004,
-     "value":632.0
-    },
-    {
-     "year":2005,
-     "value":627.0
-    },
-    {
-     "year":2006,
-     "value":622.0
-    },
-    {
-     "year":2007,
-     "value":617.0
-    },
-    {
-     "year":2008,
-     "value":613.0
-    },
-    {
-     "year":2009,
-     "value":604.0
-    },
-    {
-     "year":2010,
-     "value":596.0
-    },
-    {
-     "year":2011,
-     "value":590.0
-    },
-    {
-     "year":2012,
-     "value":581.0
-    },
-    {
-     "year":2013,
-     "value":574.0
-    },
-    {
-     "year":2014,
-     "value":569.0
-    },
-    {
-     "year":2015,
-     "value":564.0
-    },
-    {
-     "year":2016,
-     "value":555.0
-    },
-    {
-     "year":2017,
-     "value":546.0
-    },
-    {
-     "year":2018,
-     "value":537.0
-    },
-    {
-     "year":2019,
-     "value":528.0
-    },
-    {
-     "year":2020,
-     "value":520.0
-    },
-    {
-     "year":2021,
-     "value":511.0
-    },
-    {
-     "year":2022,
-     "value":510.0
-    },
-    {
-     "year":2023,
-     "value":517.0
-    },
-    {
-     "year":2024,
-     "value":525.0
-    }
-   ]
-  }
- ]
+  ]
 }

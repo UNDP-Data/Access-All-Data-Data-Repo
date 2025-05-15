@@ -1,818 +1,818 @@
 {
- "Alpha-3 code":"ESH",
- "Country or Area":"Western Sahara",
- "Latitude (average)":24.5,
- "Longitude (average)":-13.0,
- "Group 1":"Africa",
- "Group 2":"Northern Africa",
- "LDC":false,
- "LLDC":false,
- "SIDS":false,
- "Income group":"",
- "UNDP_Region":"",
- "indicators":[
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
-   "yearlyData":[
+  "Alpha-3 code": "ESH",
+  "Country or Area": "Western Sahara",
+  "Latitude (average)": 24.5,
+  "Longitude (average)": -13.0,
+  "Group 1": "Africa",
+  "Group 2": "Northern Africa",
+  "LDC": false,
+  "LLDC": false,
+  "SIDS": false,
+  "Income group": "",
+  "UNDP_Region": "",
+  "indicators": [
     {
-     "year":2030,
-     "value":-0.02
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP4.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": -0.02
+        },
+        {
+          "year": 2040,
+          "value": 0.7
+        },
+        {
+          "year": 2090,
+          "value": 3.8
+        }
+      ]
     },
     {
-     "year":2040,
-     "value":0.7
+      "indicator": "Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
+      "yearlyData": [
+        {
+          "year": 2030,
+          "value": -0.65
+        },
+        {
+          "year": 2040,
+          "value": 1.98
+        },
+        {
+          "year": 2090,
+          "value": 13.08
+        }
+      ]
     },
     {
-     "year":2090,
-     "value":3.8
+      "indicator": "Electricity generation from coal, measured in terawatt-hours",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 0
+        },
+        {
+          "year": 2001,
+          "value": 0
+        },
+        {
+          "year": 2002,
+          "value": 0
+        },
+        {
+          "year": 2003,
+          "value": 0
+        },
+        {
+          "year": 2004,
+          "value": 0
+        },
+        {
+          "year": 2005,
+          "value": 0
+        },
+        {
+          "year": 2006,
+          "value": 0
+        },
+        {
+          "year": 2007,
+          "value": 0
+        },
+        {
+          "year": 2008,
+          "value": 0
+        },
+        {
+          "year": 2009,
+          "value": 0
+        },
+        {
+          "year": 2010,
+          "value": 0
+        },
+        {
+          "year": 2011,
+          "value": 0
+        },
+        {
+          "year": 2012,
+          "value": 0
+        },
+        {
+          "year": 2013,
+          "value": 0
+        },
+        {
+          "year": 2014,
+          "value": 0
+        },
+        {
+          "year": 2015,
+          "value": 0
+        },
+        {
+          "year": 2016,
+          "value": 0
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "indicator": "Primary energy consumption per capita, measured in kilowatt-hours",
+      "yearlyData": [
+        {
+          "year": 1980,
+          "value": 5935.99
+        },
+        {
+          "year": 1981,
+          "value": 5484.37
+        },
+        {
+          "year": 1982,
+          "value": 5654.56
+        },
+        {
+          "year": 1983,
+          "value": 5415.62
+        },
+        {
+          "year": 1984,
+          "value": 5227.25
+        },
+        {
+          "year": 1985,
+          "value": 5439.59
+        },
+        {
+          "year": 1986,
+          "value": 5065.96
+        },
+        {
+          "year": 1987,
+          "value": 4972.74
+        },
+        {
+          "year": 1988,
+          "value": 4815.21
+        },
+        {
+          "year": 1989,
+          "value": 4644.88
+        },
+        {
+          "year": 1990,
+          "value": 4843.43
+        },
+        {
+          "year": 1991,
+          "value": 4692.06
+        },
+        {
+          "year": 1992,
+          "value": 4567.23
+        },
+        {
+          "year": 1993,
+          "value": 4234.02
+        },
+        {
+          "year": 1994,
+          "value": 4121.36
+        },
+        {
+          "year": 1995,
+          "value": 4472.29
+        },
+        {
+          "year": 1996,
+          "value": 4250.85
+        },
+        {
+          "year": 1997,
+          "value": 4015.37
+        },
+        {
+          "year": 1998,
+          "value": 3810.28
+        },
+        {
+          "year": 1999,
+          "value": 3622.24
+        },
+        {
+          "year": 2000,
+          "value": 3953.3
+        },
+        {
+          "year": 2001,
+          "value": 3766.29
+        },
+        {
+          "year": 2002,
+          "value": 3594
+        },
+        {
+          "year": 2003,
+          "value": 3434.97
+        },
+        {
+          "year": 2004,
+          "value": 3287.75
+        },
+        {
+          "year": 2005,
+          "value": 3151.37
+        },
+        {
+          "year": 2006,
+          "value": 3022.42
+        },
+        {
+          "year": 2007,
+          "value": 2901.23
+        },
+        {
+          "year": 2008,
+          "value": 2790.34
+        },
+        {
+          "year": 2009,
+          "value": 2686.3
+        },
+        {
+          "year": 2010,
+          "value": 2586.28
+        },
+        {
+          "year": 2011,
+          "value": 2489.96
+        },
+        {
+          "year": 2012,
+          "value": 2403.53
+        },
+        {
+          "year": 2013,
+          "value": 2309.89
+        },
+        {
+          "year": 2014,
+          "value": 2236.14
+        },
+        {
+          "year": 2015,
+          "value": 2171.49
+        },
+        {
+          "year": 2016,
+          "value": 2108.2
+        },
+        {
+          "year": 2017,
+          "value": 2096.7
+        },
+        {
+          "year": 2018,
+          "value": 2044.9
+        },
+        {
+          "year": 2019,
+          "value": 1996.59
+        },
+        {
+          "year": 2020,
+          "value": 1868.09
+        },
+        {
+          "year": 2021,
+          "value": 1937.93
+        }
+      ]
+    },
+    {
+      "indicator": "Labour income share as a percent of GDP -- ILO modelled estimates, Nov. 2021 (%) ",
+      "yearlyData": [
+        {
+          "year": 2009,
+          "value": 42.29
+        },
+        {
+          "year": 2010,
+          "value": 41.15
+        },
+        {
+          "year": 2011,
+          "value": 41.49
+        },
+        {
+          "year": 2012,
+          "value": 41.56
+        },
+        {
+          "year": 2013,
+          "value": 41.79
+        },
+        {
+          "year": 2014,
+          "value": 41.73
+        },
+        {
+          "year": 2015,
+          "value": 42.36
+        },
+        {
+          "year": 2016,
+          "value": 42.17
+        },
+        {
+          "year": 2017,
+          "value": 42.15
+        },
+        {
+          "year": 2018,
+          "value": 42.16
+        },
+        {
+          "year": 2019,
+          "value": 42.24
+        },
+        {
+          "year": 2020,
+          "value": 43.63
+        }
+      ]
+    },
+    {
+      "indicator": "Labour income share as a percent of GDP (%)",
+      "yearlyData": [
+        {
+          "year": 2009,
+          "value": 42.29
+        },
+        {
+          "year": 2010,
+          "value": 41.15
+        },
+        {
+          "year": 2011,
+          "value": 41.49
+        },
+        {
+          "year": 2012,
+          "value": 41.56
+        },
+        {
+          "year": 2013,
+          "value": 41.79
+        },
+        {
+          "year": 2014,
+          "value": 41.73
+        },
+        {
+          "year": 2015,
+          "value": 42.36
+        },
+        {
+          "year": 2016,
+          "value": 42.17
+        },
+        {
+          "year": 2017,
+          "value": 42.15
+        },
+        {
+          "year": 2018,
+          "value": 42.16
+        },
+        {
+          "year": 2019,
+          "value": 42.24
+        },
+        {
+          "year": 2020,
+          "value": 43.63
+        }
+      ]
+    },
+    {
+      "indicator": "Political Terror Scale",
+      "yearlyData": [
+        {
+          "year": 2021,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "indicator": "Electricity generation from solar, measured in terawatt-hours",
+      "yearlyData": [
+        {
+          "year": 2000,
+          "value": 0
+        },
+        {
+          "year": 2001,
+          "value": 0
+        },
+        {
+          "year": 2002,
+          "value": 0
+        },
+        {
+          "year": 2003,
+          "value": 0
+        },
+        {
+          "year": 2004,
+          "value": 0
+        },
+        {
+          "year": 2005,
+          "value": 0
+        },
+        {
+          "year": 2006,
+          "value": 0
+        },
+        {
+          "year": 2007,
+          "value": 0
+        },
+        {
+          "year": 2008,
+          "value": 0
+        },
+        {
+          "year": 2009,
+          "value": 0
+        },
+        {
+          "year": 2010,
+          "value": 0
+        },
+        {
+          "year": 2011,
+          "value": 0
+        },
+        {
+          "year": 2012,
+          "value": 0
+        },
+        {
+          "year": 2013,
+          "value": 0
+        },
+        {
+          "year": 2014,
+          "value": 0
+        },
+        {
+          "year": 2015,
+          "value": 0
+        },
+        {
+          "year": 2016,
+          "value": 0
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "indicator": "Population, total",
+      "yearlyData": [
+        {
+          "year": 1980,
+          "value": 116775
+        },
+        {
+          "year": 1981,
+          "value": 126048
+        },
+        {
+          "year": 1982,
+          "value": 133368
+        },
+        {
+          "year": 1983,
+          "value": 139254
+        },
+        {
+          "year": 1984,
+          "value": 144663
+        },
+        {
+          "year": 1985,
+          "value": 150190
+        },
+        {
+          "year": 1986,
+          "value": 155777
+        },
+        {
+          "year": 1987,
+          "value": 161357
+        },
+        {
+          "year": 1988,
+          "value": 167030
+        },
+        {
+          "year": 1989,
+          "value": 172744
+        },
+        {
+          "year": 1990,
+          "value": 178529
+        },
+        {
+          "year": 1991,
+          "value": 184292
+        },
+        {
+          "year": 1992,
+          "value": 189776
+        },
+        {
+          "year": 1993,
+          "value": 195126
+        },
+        {
+          "year": 1994,
+          "value": 200455
+        },
+        {
+          "year": 1995,
+          "value": 208381
+        },
+        {
+          "year": 1996,
+          "value": 219770
+        },
+        {
+          "year": 1997,
+          "value": 232097
+        },
+        {
+          "year": 1998,
+          "value": 244592
+        },
+        {
+          "year": 1999,
+          "value": 257290
+        },
+        {
+          "year": 2000,
+          "value": 270374
+        },
+        {
+          "year": 2001,
+          "value": 283813
+        },
+        {
+          "year": 2002,
+          "value": 297408
+        },
+        {
+          "year": 2003,
+          "value": 311179
+        },
+        {
+          "year": 2004,
+          "value": 325118
+        },
+        {
+          "year": 2005,
+          "value": 339187
+        },
+        {
+          "year": 2006,
+          "value": 353658
+        },
+        {
+          "year": 2007,
+          "value": 368432
+        },
+        {
+          "year": 2008,
+          "value": 383072
+        },
+        {
+          "year": 2009,
+          "value": 397906
+        },
+        {
+          "year": 2010,
+          "value": 413296
+        },
+        {
+          "year": 2011,
+          "value": 429289
+        },
+        {
+          "year": 2012,
+          "value": 445948
+        },
+        {
+          "year": 2013,
+          "value": 462756
+        },
+        {
+          "year": 2014,
+          "value": 478009
+        },
+        {
+          "year": 2015,
+          "value": 491824
+        },
+        {
+          "year": 2016,
+          "value": 505455
+        },
+        {
+          "year": 2017,
+          "value": 518859
+        },
+        {
+          "year": 2018,
+          "value": 532004
+        },
+        {
+          "year": 2019,
+          "value": 544876
+        },
+        {
+          "year": 2020,
+          "value": 556048
+        },
+        {
+          "year": 2021,
+          "value": 565581
+        },
+        {
+          "year": 2022,
+          "value": 575986
+        },
+        {
+          "year": 2023,
+          "value": 587258
+        },
+        {
+          "year": 2024,
+          "value": 598385
+        }
+      ]
+    },
+    {
+      "indicator": "Annual growth rate of output per worker (GDP constant 2015 US $) (%) ",
+      "yearlyData": [
+        {
+          "year": 2011,
+          "value": 1.13
+        },
+        {
+          "year": 2012,
+          "value": 0.88
+        },
+        {
+          "year": 2013,
+          "value": 0.2
+        },
+        {
+          "year": 2014,
+          "value": 1.02
+        },
+        {
+          "year": 2015,
+          "value": -0.12
+        },
+        {
+          "year": 2016,
+          "value": 0.59
+        },
+        {
+          "year": 2017,
+          "value": 0.98
+        },
+        {
+          "year": 2018,
+          "value": 0.74
+        },
+        {
+          "year": 2019,
+          "value": 0.44
+        },
+        {
+          "year": 2020,
+          "value": 0.95
+        },
+        {
+          "year": 2021,
+          "value": -1.25
+        },
+        {
+          "year": 2022,
+          "value": -0.99
+        }
+      ]
+    },
+    {
+      "indicator": "Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",
+      "yearlyData": [
+        {
+          "year": 2010,
+          "value": -1.12
+        },
+        {
+          "year": 2011,
+          "value": -0.87
+        },
+        {
+          "year": 2012,
+          "value": -0.2
+        },
+        {
+          "year": 2013,
+          "value": -1.01
+        },
+        {
+          "year": 2014,
+          "value": 0.12
+        },
+        {
+          "year": 2015,
+          "value": -0.59
+        },
+        {
+          "year": 2016,
+          "value": -0.97
+        },
+        {
+          "year": 2017,
+          "value": -0.73
+        },
+        {
+          "year": 2018,
+          "value": -0.44
+        },
+        {
+          "year": 2019,
+          "value": -0.94
+        },
+        {
+          "year": 2020,
+          "value": 1.26
+        },
+        {
+          "year": 2021,
+          "value": 1
+        },
+        {
+          "year": 2022,
+          "value": -0.99
+        }
+      ]
     }
-   ]
-  },
-  {
-   "indicator":"Climate Change-related change in death rates per 100,000 population (RCP8.5 SSP3)",
-   "yearlyData":[
-    {
-     "year":2030,
-     "value":-0.65
-    },
-    {
-     "year":2040,
-     "value":1.98
-    },
-    {
-     "year":2090,
-     "value":13.08
-    }
-   ]
-  },
-  {
-   "indicator":"Electricity generation from coal, measured in terawatt-hours",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":0.0
-    },
-    {
-     "year":2001,
-     "value":0.0
-    },
-    {
-     "year":2002,
-     "value":0.0
-    },
-    {
-     "year":2003,
-     "value":0.0
-    },
-    {
-     "year":2004,
-     "value":0.0
-    },
-    {
-     "year":2005,
-     "value":0.0
-    },
-    {
-     "year":2006,
-     "value":0.0
-    },
-    {
-     "year":2007,
-     "value":0.0
-    },
-    {
-     "year":2008,
-     "value":0.0
-    },
-    {
-     "year":2009,
-     "value":0.0
-    },
-    {
-     "year":2010,
-     "value":0.0
-    },
-    {
-     "year":2011,
-     "value":0.0
-    },
-    {
-     "year":2012,
-     "value":0.0
-    },
-    {
-     "year":2013,
-     "value":0.0
-    },
-    {
-     "year":2014,
-     "value":0.0
-    },
-    {
-     "year":2015,
-     "value":0.0
-    },
-    {
-     "year":2016,
-     "value":0.0
-    },
-    {
-     "year":2017,
-     "value":0.0
-    },
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
-    },
-    {
-     "year":2021,
-     "value":0.0
-    }
-   ]
-  },
-  {
-   "indicator":"Primary energy consumption per capita, measured in kilowatt-hours",
-   "yearlyData":[
-    {
-     "year":1980,
-     "value":5935.99
-    },
-    {
-     "year":1981,
-     "value":5484.37
-    },
-    {
-     "year":1982,
-     "value":5654.56
-    },
-    {
-     "year":1983,
-     "value":5415.62
-    },
-    {
-     "year":1984,
-     "value":5227.25
-    },
-    {
-     "year":1985,
-     "value":5439.59
-    },
-    {
-     "year":1986,
-     "value":5065.96
-    },
-    {
-     "year":1987,
-     "value":4972.74
-    },
-    {
-     "year":1988,
-     "value":4815.21
-    },
-    {
-     "year":1989,
-     "value":4644.88
-    },
-    {
-     "year":1990,
-     "value":4843.43
-    },
-    {
-     "year":1991,
-     "value":4692.06
-    },
-    {
-     "year":1992,
-     "value":4567.23
-    },
-    {
-     "year":1993,
-     "value":4234.02
-    },
-    {
-     "year":1994,
-     "value":4121.36
-    },
-    {
-     "year":1995,
-     "value":4472.29
-    },
-    {
-     "year":1996,
-     "value":4250.85
-    },
-    {
-     "year":1997,
-     "value":4015.37
-    },
-    {
-     "year":1998,
-     "value":3810.28
-    },
-    {
-     "year":1999,
-     "value":3622.24
-    },
-    {
-     "year":2000,
-     "value":3953.3
-    },
-    {
-     "year":2001,
-     "value":3766.29
-    },
-    {
-     "year":2002,
-     "value":3594.0
-    },
-    {
-     "year":2003,
-     "value":3434.97
-    },
-    {
-     "year":2004,
-     "value":3287.75
-    },
-    {
-     "year":2005,
-     "value":3151.37
-    },
-    {
-     "year":2006,
-     "value":3022.42
-    },
-    {
-     "year":2007,
-     "value":2901.23
-    },
-    {
-     "year":2008,
-     "value":2790.34
-    },
-    {
-     "year":2009,
-     "value":2686.3
-    },
-    {
-     "year":2010,
-     "value":2586.28
-    },
-    {
-     "year":2011,
-     "value":2489.96
-    },
-    {
-     "year":2012,
-     "value":2403.53
-    },
-    {
-     "year":2013,
-     "value":2309.89
-    },
-    {
-     "year":2014,
-     "value":2236.14
-    },
-    {
-     "year":2015,
-     "value":2171.49
-    },
-    {
-     "year":2016,
-     "value":2108.2
-    },
-    {
-     "year":2017,
-     "value":2096.7
-    },
-    {
-     "year":2018,
-     "value":2044.9
-    },
-    {
-     "year":2019,
-     "value":1996.59
-    },
-    {
-     "year":2020,
-     "value":1868.09
-    },
-    {
-     "year":2021,
-     "value":1937.93
-    }
-   ]
-  },
-  {
-   "indicator":"Labour income share as a percent of GDP -- ILO modelled estimates, Nov. 2021 (%) ",
-   "yearlyData":[
-    {
-     "year":2009,
-     "value":42.29
-    },
-    {
-     "year":2010,
-     "value":41.15
-    },
-    {
-     "year":2011,
-     "value":41.49
-    },
-    {
-     "year":2012,
-     "value":41.56
-    },
-    {
-     "year":2013,
-     "value":41.79
-    },
-    {
-     "year":2014,
-     "value":41.73
-    },
-    {
-     "year":2015,
-     "value":42.36
-    },
-    {
-     "year":2016,
-     "value":42.17
-    },
-    {
-     "year":2017,
-     "value":42.15
-    },
-    {
-     "year":2018,
-     "value":42.16
-    },
-    {
-     "year":2019,
-     "value":42.24
-    },
-    {
-     "year":2020,
-     "value":43.63
-    }
-   ]
-  },
-  {
-   "indicator":"Labour income share as a percent of GDP (%)",
-   "yearlyData":[
-    {
-     "year":2009,
-     "value":42.29
-    },
-    {
-     "year":2010,
-     "value":41.15
-    },
-    {
-     "year":2011,
-     "value":41.49
-    },
-    {
-     "year":2012,
-     "value":41.56
-    },
-    {
-     "year":2013,
-     "value":41.79
-    },
-    {
-     "year":2014,
-     "value":41.73
-    },
-    {
-     "year":2015,
-     "value":42.36
-    },
-    {
-     "year":2016,
-     "value":42.17
-    },
-    {
-     "year":2017,
-     "value":42.15
-    },
-    {
-     "year":2018,
-     "value":42.16
-    },
-    {
-     "year":2019,
-     "value":42.24
-    },
-    {
-     "year":2020,
-     "value":43.63
-    }
-   ]
-  },
-  {
-   "indicator":"Political Terror Scale",
-   "yearlyData":[
-    {
-     "year":2021,
-     "value":2.0
-    }
-   ]
-  },
-  {
-   "indicator":"Electricity generation from solar, measured in terawatt-hours",
-   "yearlyData":[
-    {
-     "year":2000,
-     "value":0.0
-    },
-    {
-     "year":2001,
-     "value":0.0
-    },
-    {
-     "year":2002,
-     "value":0.0
-    },
-    {
-     "year":2003,
-     "value":0.0
-    },
-    {
-     "year":2004,
-     "value":0.0
-    },
-    {
-     "year":2005,
-     "value":0.0
-    },
-    {
-     "year":2006,
-     "value":0.0
-    },
-    {
-     "year":2007,
-     "value":0.0
-    },
-    {
-     "year":2008,
-     "value":0.0
-    },
-    {
-     "year":2009,
-     "value":0.0
-    },
-    {
-     "year":2010,
-     "value":0.0
-    },
-    {
-     "year":2011,
-     "value":0.0
-    },
-    {
-     "year":2012,
-     "value":0.0
-    },
-    {
-     "year":2013,
-     "value":0.0
-    },
-    {
-     "year":2014,
-     "value":0.0
-    },
-    {
-     "year":2015,
-     "value":0.0
-    },
-    {
-     "year":2016,
-     "value":0.0
-    },
-    {
-     "year":2017,
-     "value":0.0
-    },
-    {
-     "year":2018,
-     "value":0.0
-    },
-    {
-     "year":2019,
-     "value":0.0
-    },
-    {
-     "year":2020,
-     "value":0.0
-    },
-    {
-     "year":2021,
-     "value":0.0
-    }
-   ]
-  },
-  {
-   "indicator":"Population, total",
-   "yearlyData":[
-    {
-     "year":1980,
-     "value":116775.0
-    },
-    {
-     "year":1981,
-     "value":126048.0
-    },
-    {
-     "year":1982,
-     "value":133368.0
-    },
-    {
-     "year":1983,
-     "value":139254.0
-    },
-    {
-     "year":1984,
-     "value":144663.0
-    },
-    {
-     "year":1985,
-     "value":150190.0
-    },
-    {
-     "year":1986,
-     "value":155777.0
-    },
-    {
-     "year":1987,
-     "value":161357.0
-    },
-    {
-     "year":1988,
-     "value":167030.0
-    },
-    {
-     "year":1989,
-     "value":172744.0
-    },
-    {
-     "year":1990,
-     "value":178529.0
-    },
-    {
-     "year":1991,
-     "value":184292.0
-    },
-    {
-     "year":1992,
-     "value":189776.0
-    },
-    {
-     "year":1993,
-     "value":195126.0
-    },
-    {
-     "year":1994,
-     "value":200455.0
-    },
-    {
-     "year":1995,
-     "value":208381.0
-    },
-    {
-     "year":1996,
-     "value":219770.0
-    },
-    {
-     "year":1997,
-     "value":232097.0
-    },
-    {
-     "year":1998,
-     "value":244592.0
-    },
-    {
-     "year":1999,
-     "value":257290.0
-    },
-    {
-     "year":2000,
-     "value":270374.0
-    },
-    {
-     "year":2001,
-     "value":283813.0
-    },
-    {
-     "year":2002,
-     "value":297408.0
-    },
-    {
-     "year":2003,
-     "value":311179.0
-    },
-    {
-     "year":2004,
-     "value":325118.0
-    },
-    {
-     "year":2005,
-     "value":339187.0
-    },
-    {
-     "year":2006,
-     "value":353658.0
-    },
-    {
-     "year":2007,
-     "value":368432.0
-    },
-    {
-     "year":2008,
-     "value":383072.0
-    },
-    {
-     "year":2009,
-     "value":397906.0
-    },
-    {
-     "year":2010,
-     "value":413296.0
-    },
-    {
-     "year":2011,
-     "value":429289.0
-    },
-    {
-     "year":2012,
-     "value":445948.0
-    },
-    {
-     "year":2013,
-     "value":462756.0
-    },
-    {
-     "year":2014,
-     "value":478009.0
-    },
-    {
-     "year":2015,
-     "value":491824.0
-    },
-    {
-     "year":2016,
-     "value":505455.0
-    },
-    {
-     "year":2017,
-     "value":518859.0
-    },
-    {
-     "year":2018,
-     "value":532004.0
-    },
-    {
-     "year":2019,
-     "value":544876.0
-    },
-    {
-     "year":2020,
-     "value":556048.0
-    },
-    {
-     "year":2021,
-     "value":565581.0
-    },
-    {
-     "year":2022,
-     "value":575986.0
-    },
-    {
-     "year":2023,
-     "value":587258.0
-    },
-    {
-     "year":2024,
-     "value":598385.0
-    }
-   ]
-  },
-  {
-   "indicator":"Annual growth rate of output per worker (GDP constant 2015 US $) (%) ",
-   "yearlyData":[
-    {
-     "year":2011,
-     "value":1.13
-    },
-    {
-     "year":2012,
-     "value":0.88
-    },
-    {
-     "year":2013,
-     "value":0.2
-    },
-    {
-     "year":2014,
-     "value":1.02
-    },
-    {
-     "year":2015,
-     "value":-0.12
-    },
-    {
-     "year":2016,
-     "value":0.59
-    },
-    {
-     "year":2017,
-     "value":0.98
-    },
-    {
-     "year":2018,
-     "value":0.74
-    },
-    {
-     "year":2019,
-     "value":0.44
-    },
-    {
-     "year":2020,
-     "value":0.95
-    },
-    {
-     "year":2021,
-     "value":-1.25
-    },
-    {
-     "year":2022,
-     "value":-0.99
-    }
-   ]
-  },
-  {
-   "indicator":"Annual growth rate of output per worker (GDP constant 2017 international $ at PPP) (percent) ",
-   "yearlyData":[
-    {
-     "year":2010,
-     "value":-1.12
-    },
-    {
-     "year":2011,
-     "value":-0.87
-    },
-    {
-     "year":2012,
-     "value":-0.2
-    },
-    {
-     "year":2013,
-     "value":-1.01
-    },
-    {
-     "year":2014,
-     "value":0.12
-    },
-    {
-     "year":2015,
-     "value":-0.59
-    },
-    {
-     "year":2016,
-     "value":-0.97
-    },
-    {
-     "year":2017,
-     "value":-0.73
-    },
-    {
-     "year":2018,
-     "value":-0.44
-    },
-    {
-     "year":2019,
-     "value":-0.94
-    },
-    {
-     "year":2020,
-     "value":1.26
-    },
-    {
-     "year":2021,
-     "value":1.0
-    },
-    {
-     "year":2022,
-     "value":-0.99
-    }
-   ]
-  }
- ]
+  ]
 }
